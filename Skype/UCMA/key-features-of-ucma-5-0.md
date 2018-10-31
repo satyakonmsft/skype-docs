@@ -34,7 +34,7 @@ Developers can use the key features listed in this topic to create multimodal an
     
   Developers who implement a custom audio provider can provide support for escalation-to-conferencing for the custom media type.
 
-- Platform extensibility by means of the factory-based [Call](https://msdn.microsoft.com/en-us/library/hh384235\(v=office.16\)) and [MediaProvider](https://msdn.microsoft.com/en-us/library/hh383767\(v=office.16\)) classes.
+- Platform extensibility by means of the factory-based [Call](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.call?view=ucma-api) and [MediaProvider](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaprovider?view=ucma-api) classes.
     
   Developers can extend the platform to handle a new media type by creating custom **Call**, **MediaProvider**, and [MediaFlow](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaflow?view=ucma-api) subclasses that work with the new media type.
 

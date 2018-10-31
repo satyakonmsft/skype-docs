@@ -13,7 +13,7 @@ dev_langs:
 
 # Creating a generic bot
 
-You can create a generic bot in four steps.
+You can create a generic bot in four steps:
 
 1.  Create message handlers.
 
@@ -35,7 +35,7 @@ In some other cases, a message handler might not need to store any conversation 
 
 The following steps should be performed before you implement a single-state message handler.
 
-### To set up your message handler project and class
+#### To set up your message handler project and class
 
 1.  Create a new class library project in Visual Studio.
 
@@ -351,7 +351,7 @@ An interaction example follows. Notice that during the conversation, the state (
 
 - **User**: no network connectivity
 
-- **Bot**:  Will this work: https://www.letmebingthatforyou.com/?q=no network connectivity
+- **Bot**:  Will this work: `https://www.letmebingthatforyou.com/?q=no network connectivity`
 
 - **User**: no
 

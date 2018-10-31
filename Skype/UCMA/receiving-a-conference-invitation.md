@@ -15,7 +15,7 @@ dev_langs:
 
 **Applies to**: Skype for Business 2015
 
-At the SIP level, a [Call](https://msdn.microsoft.com/en-us/library/hh384235\(v=office.16\)) is represented as a SIP INVITE with Session Description Protocol (SDP) that contains information about the media types that are included in the call, together with other information that helps negotiate a connection between the sender and recipient of the INVITE.
+At the SIP level, a [Call](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.call?view=ucma-api) is represented as a SIP INVITE with Session Description Protocol (SDP) that contains information about the media types that are included in the call, together with other information that helps negotiate a connection between the sender and recipient of the INVITE.
 
 Similarly, a [ConferenceInvitation](https://msdn.microsoft.com/en-us/library/hh349823\(v=office.16\)) is also represented at the SIP level as a SIP INVITE, although the SDP contains XML data that describes the conference and the media types that are available in the conference.
 

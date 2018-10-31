@@ -15,7 +15,7 @@ mtps_version: v=office.16
 
 
 
-By default, UCMA 5.0 provides call controls for the audio and message media types. These call controls are, respectively, the [AudioVideoCall](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) and [InstantMessagingCall](https://msdn.microsoft.com/en-us/library/hh161841\(v=office.16\)) classes. A developer can extend the UCMA 5.0 platform by creating a custom call control for an additional media type. Adding a custom call control entails creating new classes that inherit from the [Call](https://msdn.microsoft.com/en-us/library/hh384235\(v=office.16\)), [MediaProvider](https://msdn.microsoft.com/en-us/library/hh383767\(v=office.16\)), and [MediaFlow](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaflow?view=ucma-api) abstract classes, as well as creating implementations of the factory classes that are used to generate instances of the new **Call** and **MediaProvider** subclasses. Much of the functionality of the abstract base classes is inherited by the new derived classes and can be reused and exposed publicly without further modifications. This topic describes the abstract properties and methods that must be defined in a **Call** subclass.
+By default, UCMA 5.0 provides call controls for the audio and message media types. These call controls are, respectively, the [AudioVideoCall](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) and [InstantMessagingCall](https://msdn.microsoft.com/en-us/library/hh161841\(v=office.16\)) classes. A developer can extend the UCMA 5.0 platform by creating a custom call control for an additional media type. Adding a custom call control entails creating new classes that inherit from the [Call](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.call?view=ucma-api), [MediaProvider](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaprovider?view=ucma-api), and [MediaFlow](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaflow?view=ucma-api) abstract classes, as well as creating implementations of the factory classes that are used to generate instances of the new **Call** and **MediaProvider** subclasses. Much of the functionality of the abstract base classes is inherited by the new derived classes and can be reused and exposed publicly without further modifications. This topic describes the abstract properties and methods that must be defined in a **Call** subclass.
 
 ## Call base class
 
@@ -74,12 +74,12 @@ A class derived from the **Call** class must also provide definitions for three 
 <p>protected abstract bool HandleFlowConfigurationRequested(MediaFlow mediaFlow)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://msdn.microsoft.com/en-us/library/hh366035(v=office.16)">HandleTransferNotificationReceived(TransferStateChangedEventArgs)</a></p></td>
+<td><p><a href="https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.call.handletransfernotificationreceived?view=ucma-api">HandleTransferNotificationReceived(TransferStateChangedEventArgs)</a></p></td>
 <td><p>Handles a transfer notification event in a class derived from the <strong>Call</strong> class.</p>
 <p>protected abstract void HandleTransferNotificationReceived(TransferStateChangedEventArgs e)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://msdn.microsoft.com/en-us/library/hh381395(v=office.16)">HandleTransferReceived(CallTransferReceivedEventArgs)</a></p></td>
+<td><p><a href="https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.call.handletransferreceived?view=ucma-api">HandleTransferReceived(CallTransferReceivedEventArgs)</a></p></td>
 <td><p>Handles a transfer event in a class derived from the <strong>Call</strong> class.</p>
 <p>protected abstract void HandleTransferReceived(CallTransferReceivedEventArgs e)</p></td>
 </tr>

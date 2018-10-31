@@ -110,7 +110,7 @@ The **AudioVideoFlow** state transitions are shown in the following illustration
    - The media session fails to establish a working transport connection between endpoints.
 
 > [!IMPORTANT]
-> A transition of the state of an **AudioVideoFlow** instance to **Active** does not imply that the associated [AudioVideoCall](https://msdn.microsoft.com/en-us/library/hh383901(v=office.16)) has been accepted or established. The **AudioVideoFlow** instance’s state can change to **Active** before the call is established. 
+> A transition of the state of an **AudioVideoFlow** instance to **Active** does not imply that the associated [AudioVideoCall](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) has been accepted or established. The **AudioVideoFlow** instance’s state can change to **Active** before the call is established. 
 > 
 > In this situation, any media exchanged on the **AudioVideoFlow** is called "early media." The application should avoid sending "important" media (such as a prompt that must be responded to) during this early media phase, because the remote endpoint might not render it. 
 > 

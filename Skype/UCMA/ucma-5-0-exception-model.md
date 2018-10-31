@@ -48,7 +48,7 @@ The following custom exception classes are implemented in UCMA 5.0:
 
 - **CallOperationFailureException**
 
-  Thrown when failure occurs on a class derived from the [Call](https://msdn.microsoft.com/en-us/library/hh384235\(v=office.16\)) class. The **FailureReason** property indicates the cause of failure. The following example shows the preferred way to catch this exception.
+  Thrown when failure occurs on a class derived from the [Call](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.call?view=ucma-api) class. The **FailureReason** property indicates the cause of failure. The following example shows the preferred way to catch this exception.
 
   ```powershell  
         try
