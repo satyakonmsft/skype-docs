@@ -147,11 +147,11 @@ You will need to run **Set-CsTrustedApplicationPool** with the needed values for
 
 ## Get OCSCore.MSI from the Office Communications Server 2007 R2 installer
 
-The most important thing about this scenario is that the UCMA 2.0 application is expected to be installed in a pure Lync Server 2010 environment using WMI tools, which require the version of OCSCore. The application also needs OCSCore.msi at run time if it uses WMI-based auto-provisioning. The OCSCore Components runtime package can be downloaded from [Office Communications Server 2007 R2, Core Components Runtime Package](https://go.microsoft.com/fwlink/?linkid=207171).
+The most important thing about this scenario is that the UCMA 2.0 application is expected to be installed in a pure Lync Server 2010 environment using WMI tools, which require the version of OCSCore. The application also needs OCSCore.msi at run time if it uses WMI-based auto-provisioning. The OCSCore Components runtime package can be downloaded from [Office Communications Server 2007 R2, Core Components Runtime Package](https://www.microsoft.com/download/details.aspx?id=2310).
 
 ## Install the UCMA 2.0 application
 
-Install the UCMA 2.0 application just as you would have installed it against . This includes but is not limited to installing UCMARedist(Runtime), SpeechRedist, and OCSCore, creating trusted service entries, and optionally creating Active Directory contact objects. For more information, see [Deploying a UCMA 2.0 Core Application](https://msdn.microsoft.com/en-us/library/dd280155\(v=office.13\).aspx).
+Install the UCMA 2.0 application just as you would have installed it against . This includes but is not limited to installing UCMARedist(Runtime), SpeechRedist, and OCSCore, creating trusted service entries, and optionally creating Active Directory contact objects. For more information, see [Deploying a UCMA 2.0 Core Application](https://docs.microsoft.com/previous-versions/office/developer/communication-server-2007-R2/dd280155(v=office.13)).
 
 ## Add AllowedDomains using WBemTest
 
