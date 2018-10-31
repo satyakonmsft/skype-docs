@@ -1,5 +1,5 @@
 ﻿---
-title: Privacy management
+title: Privacy management (Unified Communications Managed API 5.0)
 TOCTitle: Privacy management
 ms:assetid: 3eb4c8dd-8acb-487c-a92c-a6dd4098df0b
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466020(v=office.16)

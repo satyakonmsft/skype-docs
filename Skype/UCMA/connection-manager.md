@@ -1,5 +1,5 @@
 ﻿---
-title: Connection manager
+title: Connection manager (Unified Communications Managed API 5.0)
 TOCTitle: Connection manager
 ms:assetid: 7d926fff-8d44-49b6-b7da-418948d766e1
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466049(v=office.16)

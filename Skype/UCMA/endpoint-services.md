@@ -1,5 +1,5 @@
 ﻿---
-title: Endpoint services
+title: Endpoint services (Unified Communications Managed API 5.0)
 TOCTitle: Endpoint services
 ms:assetid: ede76548-3ff1-4c12-a4ca-08f62399be7c
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465953(v=office.16)

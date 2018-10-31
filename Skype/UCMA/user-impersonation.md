@@ -1,5 +1,5 @@
 ﻿---
-title: User impersonation
+title: User impersonation (Unified Communications Managed API 5.0)
 TOCTitle: User impersonation
 ms:assetid: 4d243ea7-4131-462f-a476-f41bba5dac51
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465968(v=office.16)

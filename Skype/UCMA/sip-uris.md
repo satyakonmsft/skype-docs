@@ -1,5 +1,5 @@
 ﻿---
-title: SIP URIs
+title: SIP URIs (Unified Communications Managed API 5.0)
 TOCTitle: SIP URIs
 ms:assetid: 44dc0702-5b75-4e67-a7ad-078d8e590903
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466057(v=office.16)

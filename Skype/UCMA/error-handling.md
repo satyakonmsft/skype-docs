@@ -1,5 +1,5 @@
 ﻿---
-title: Error handling
+title: Error handling (Unified Communications Managed API 5.0)
 TOCTitle: Error handling
 ms:assetid: 039427ca-d9f6-4b31-986c-23db1850446c
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466107(v=office.16)

@@ -10,10 +10,9 @@ mtps_version: v=office.16
 
 # Dialogs performance counters
 
-
 **Applies to**: Skype for Business 2015
 
-DefaultScale for all Dialogs performance counters is 0, which means that the scaling factor is 1. The Windows Performance tool lists this object as LC:SipEps - 00 - Sip Dialogs.
+DefaultScale for all Dialogs performance counters is 0, which means that the scaling factor is 1. The Windows Performance tool lists this object as `LC:SipEps - 00 - Sip Dialogs`.
 
 <table>
 <colgroup>
@@ -58,11 +57,6 @@ DefaultScale for all Dialogs performance counters is 0, which means that the sca
 <td><p>CoreManagerTotalWorkitemsExecuted</p></td>
 <td><p>Total number of work items executed by the core manager.</p></td>
 <td><p>PERF_COUNTER_LARGE_RAWCOUNT</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>

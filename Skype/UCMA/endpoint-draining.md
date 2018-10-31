@@ -1,5 +1,5 @@
 ---
-title: Endpoint draining
+title: Endpoint draining (Unified Communications Managed API 5.0)
 TOCTitle: Endpoint draining
 ms:assetid: 983c3c61-2ac0-4d07-9e38-4ffed06d2798
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465934(v=office.16)

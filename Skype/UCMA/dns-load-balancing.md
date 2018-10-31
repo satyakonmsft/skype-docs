@@ -1,5 +1,5 @@
 ﻿---
-title: DNS load balancing
+title: DNS load balancing (Unified Communications Managed API 5.0)
 TOCTitle: DNS load balancing
 ms:assetid: c9a63210-ada3-4a93-aa57-4fdbe0a95dc2
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465931(v=office.16)

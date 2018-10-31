@@ -1,5 +1,5 @@
 ---
-title: Audio devices
+title: Audio devices (Unified Communications Managed API 5.0)
 TOCTitle: Audio devices
 ms:assetid: e8820e34-eadb-42c5-bbc5-b8c8ccb7671f
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466031(v=office.16)
