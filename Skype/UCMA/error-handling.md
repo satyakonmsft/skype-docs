@@ -1,5 +1,5 @@
 ﻿---
-title: Error handling
+title: Error handling (Unified Communications Managed API 5.0)
 TOCTitle: Error handling
 ms:assetid: 039427ca-d9f6-4b31-986c-23db1850446c
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466107(v=office.16)
@@ -13,11 +13,11 @@ mtps_version: v=office.16
 
 **Applies to**: Skype for Business 2015
 
-A developer who implements a subclass of the [MediaProvider](https://msdn.microsoft.com/en-us/library/hh383767\(v=office.16\)) class must be aware of the exceptions that Microsoft Unified Communications Managed API (UCMA) expects.
+A developer who implements a subclass of the [MediaProvider](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaprovider?view=ucma-api) class must be aware of the exceptions that Microsoft Unified Communications Managed API (UCMA) expects.
 
 ## OfferAnswerException
 
-A [MediaProvider](https://msdn.microsoft.com/en-us/library/hh383767\(v=office.16\)) subclass implementation can throw [OfferAnswerException](https://msdn.microsoft.com/en-us/library/hh382722\(v=office.16\)) in [EndGetOffer](https://msdn.microsoft.com/en-us/library/hh382852\(v=office.16\)) and [EndGetAnswer(IAsyncResult)](https://msdn.microsoft.com/en-us/library/hh383856\(v=office.16\)). The [FailureReason](https://msdn.microsoft.com/en-us/library/hh384728\(v=office.16\)) property on this exception contains information about why the exception was thrown.
+A [MediaProvider](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaprovider?view=ucma-api) subclass implementation can throw [OfferAnswerException](https://msdn.microsoft.com/en-us/library/hh382722\(v=office.16\)) in [EndGetOffer](https://msdn.microsoft.com/en-us/library/hh382852\(v=office.16\)) and [EndGetAnswer(IAsyncResult)](https://msdn.microsoft.com/en-us/library/hh383856\(v=office.16\)). The [FailureReason](https://msdn.microsoft.com/en-us/library/hh384728\(v=office.16\)) property on this exception contains information about why the exception was thrown.
 
 ## Other exceptions
 

@@ -16,7 +16,7 @@ Like auto-provisioned applications, manually-provisioned applications also requi
 
 The following procedure shows the steps required to manually provision an application. This topic does not cover how to select a certificate for use with the application.
 
-### To provision an application using manual provisioning
+## Provision an application using manual provisioning
 
 1. Launch Skype for Business Server Management Shell.
     

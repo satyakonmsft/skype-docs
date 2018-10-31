@@ -1,5 +1,5 @@
 ﻿---
-title: Media guidelines
+title: Media guidelines (Unified Communications Managed API 5.0)
 TOCTitle: Media guidelines
 ms:assetid: 4c461569-1110-4cc4-aed1-f7f675b6bbc9
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466086(v=office.16)

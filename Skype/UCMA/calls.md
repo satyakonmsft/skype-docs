@@ -1,5 +1,5 @@
 ---
-title: Calls
+title: Calls (Unified Communications Managed API 5.0)
 TOCTitle: Calls
 ms:assetid: 010a8697-bd7a-47db-aeb5-183392f0cb1f
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465990(v=office.16)
@@ -12,7 +12,7 @@ mtps_version: v=office.16
 
 **Applies to**: Skype for Business 2015
 
-A call is a communication session between two endpoints: a local endpoint and a remote endpoint. UCMA 5.0 represents the call concept by the [Call](https://msdn.microsoft.com/en-us/library/hh384235\(v=office.16\)) abstract class, and provides non-abstract classes that implement three specific types of calls:
+A call is a communication session between two endpoints: a local endpoint and a remote endpoint. UCMA 5.0 represents the call concept by the [Call](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.call?view=ucma-api) abstract class, and provides non-abstract classes that implement three specific types of calls:
 
 - [InstantMessagingCall](https://msdn.microsoft.com/en-us/library/hh161841\(v=office.16\)) class.
     

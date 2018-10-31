@@ -1,5 +1,5 @@
 ﻿---
-title: Queue usage model
+title: Queue usage model (Unified Communications Managed API 5.0)
 TOCTitle: Queue usage model
 ms:assetid: 7179d835-5fe3-4703-8b40-0245fd6ccea0
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466081(v=office.16)

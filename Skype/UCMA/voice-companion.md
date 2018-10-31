@@ -1,5 +1,5 @@
 ---
-title: Voice companion
+title: Voice companion (Unified Communications Managed API 5.0)
 TOCTitle: Voice companion
 ms:assetid: 088fd5e6-bd3b-41d7-8675-07ba89833cea
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465940(v=office.16)

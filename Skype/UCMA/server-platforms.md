@@ -1,5 +1,5 @@
 ---
-title: Server platforms
+title: Server platforms (Unified Communications Managed API 5.0)
 TOCTitle: Server platforms
 ms:assetid: 078a6a3f-9610-4a70-8cf7-2fc7f14977ca
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466051(v=office.16)

@@ -1,5 +1,5 @@
 ﻿---
-title: LocalOwnerPresence
+title: LocalOwnerPresence (Unified Communications Managed API 5.0)
 TOCTitle: LocalOwnerPresence
 ms:assetid: d30af895-3675-4c7c-b3d5-136ff621683a
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466019(v=office.16)

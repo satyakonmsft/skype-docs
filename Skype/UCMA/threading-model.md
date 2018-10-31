@@ -1,5 +1,5 @@
 ﻿---
-title: Threading model
+title: Threading model (Unified Communications Managed API 5.0)
 TOCTitle: Threading model
 ms:assetid: abdf2e3d-c235-4ff9-b8b0-9b709e7b22f8
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466080(v=office.16)

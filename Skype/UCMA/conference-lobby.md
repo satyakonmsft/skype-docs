@@ -1,5 +1,5 @@
 ---
-title: Conference lobby
+title: Conference lobby (Unified Communications Managed API 5.0)
 TOCTitle: Conference lobby
 ms:assetid: a299808b-4228-4934-8fe7-7ec000382ee8
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465989(v=office.16)

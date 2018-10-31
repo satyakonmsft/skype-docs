@@ -78,6 +78,8 @@ Activation is needed not only for deploying a ready-to-ship application, but als
 > [!NOTE]
 > A *security group* is an entity that exists in the domain and is stored in Active Directory. Security groups can be managed using the Active Directory Users and Computers Microsoft Management Console (MMC). A *local group* is an entity that exists in the computer on which the trusted application is running. Local groups can be managed by using the Local Users and Groups MMC.
 
+## Tasks by role
+
 The following table summarizes the tasks that can be performed by the three different roles.
 
 <table>

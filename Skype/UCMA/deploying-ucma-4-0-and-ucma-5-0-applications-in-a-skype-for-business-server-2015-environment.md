@@ -1,5 +1,5 @@
 ﻿---
-title: Deploying UCMA 4.0 and UCMA 5.0 applications in a Skype for Business Server 2015 environment
+title: Deploying UCMA 4.0 and UCMA 5.0 applications
 TOCTitle: Deploying UCMA 4.0 and UCMA 5.0 applications in a Skype for Business Server 2015 environment
 ms:assetid: 798e1cf5-9ad5-4aaf-8d88-683052d86183
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn962207(v=office.16)

@@ -15,7 +15,7 @@ mtps_version: v=office.16
 
 ## Call transitions—outbound calls
 
-The [Call](https://msdn.microsoft.com/en-us/library/hh384235\(v=office.16\)) state transitions for an outbound call are shown in the following illustration.
+The [Call](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.call?view=ucma-api) state transitions for an outbound call are shown in the following illustration.
 
 ![Call state transitions for an outbound call](images/Dn465981.StateMach_Call_Out(Office.16).jpg "Call state transitions for an outbound call")
 

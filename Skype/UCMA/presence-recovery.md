@@ -1,5 +1,5 @@
 ﻿---
-title: Presence recovery
+title: Presence recovery (Unified Communications Managed API 5.0)
 TOCTitle: Presence recovery
 ms:assetid: a645388a-5da0-4798-a031-68721b2be91a
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466071(v=office.16)

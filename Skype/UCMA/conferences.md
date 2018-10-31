@@ -1,5 +1,5 @@
 ﻿---
-title: Conferences
+title: Conferences (Unified Communications Managed API 5.0)
 TOCTitle: Conferences
 ms:assetid: 29e5a8ed-3e14-4ed4-9b0a-a311725ee121
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466009(v=office.16)
