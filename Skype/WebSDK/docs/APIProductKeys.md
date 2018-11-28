@@ -54,7 +54,8 @@ The following table is a mapping of Features to the API version that they are su
 ## Supported Browsers
 
 - IE 11
-- Safari 8+
+- Safari 8-11.X
+- Safari 12+ (non Audio/Video functionality)
 - Firefox 40+ (non Audio/Video functionality)
 - Chrome 43+ (non Audio/Video functionality)
 - Microsoft Edge 
