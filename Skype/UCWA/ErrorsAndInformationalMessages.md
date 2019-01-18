@@ -1,7 +1,7 @@
 
 # Errors and informational messages
 
-**Applies to**" Skype for Business 2015
+**Applies to**: Skype for Business 2015
 
 Learn about the types of errors and informational messages that are used in UCWA 2.0.
 

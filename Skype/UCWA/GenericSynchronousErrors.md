@@ -1,11 +1,11 @@
 
 # Generic synchronous errors
 
-**Applies to** Skype for Business 2015
+**Applies to**: Skype for Business 2015
 
 Some HTTP requests on UCWA resources can produce a response that indicates an error. This topic lists the common errors that can appear synchronously (in the HTTP response).
 
-The errors listed in the following table apply to most resources.
+The errors listed in the following table apply to most resources. For more information, see [Errors and informational messages](errorsandinformationalmessages.md).
 
 |Error|Description|
 |:-----|:-----|
@@ -27,6 +27,3 @@ The errors listed in the following table apply to most resources.
 |UnsupportedMediaType|The content-type is not supported.|
 |VersionNotSupported|Requested Version is not supported.|
 
-## See also
-
-- [Errors and informational messages](errorsandinformationalmessages.md)
