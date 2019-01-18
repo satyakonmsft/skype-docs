@@ -1,40 +1,32 @@
 # myOnlineMeetings
 
- _**Applies to:** Skype for Business 2015_
-
+**Applies to**: Skype for Business 2015
 
 Represents the set of [myOnlineMeeting](myOnlineMeeting_ref.md)s currently on the user's calendar.
             
 
-## Web Link
-<a name = "sectionSection0"> </a>
+## Web link
 
-For more on web links, see [Web links](WebLinks.md).
+For more information about web links, see [Web links](WebLinks.md).
 
-
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
 
 ## Resource description
-<a name = "sectionSection1"> </a>
 
 This resource can be used to create new [myOnlineMeeting](myOnlineMeeting_ref.md)s as well as to modify and delete existing ones.
 
 ### Properties
 
-
-
 None
 
 ### Links
 
-
-
 This resource can have the following relationships.
 
-|**Link**|**Description**|
+|Link|Description|
 |:-----|:-----|
 |self|The link to the current resource.|
 |myAssignedOnlineMeeting|Represents a user's [onlineMeeting](onlineMeeting_ref.md) that is commonly used for scheduled meetings with other [contact](contact_ref.md)s.|
@@ -42,46 +34,31 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
+
+|Scope|Permission|Description|
 |:-----|:-----|:-----|
 |Meetings.ReadWrite|Create Skype Meetings|Allows the app to create Skype meetings on-behalf of the signed-in user|
 
-## Operations
+The following sections describe the **Operations**.
 
-
-
-<a name="sectionSection2"></a>
-
-### GET
-
-
-
+## GET
 
 Returns a representation of the set of [myOnlineMeeting](myOnlineMeeting_ref.md)s currently on the user's calendar.
 
-#### Request body
-
-
+### Request body
 
 None
 
-
-#### Response body
-
-
+### Response body
 
 The response from a GET request contains the properties and links shown in the Properties and Links sections at the top of this page.
 
-#### Synchronous errors
-
-
+### Synchronous errors
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |ServiceFailure|500|InvalidExchangeServerVersion|Invalid exchange server version.The exchange mailbox of the server might have moved to an unsupported version for the required feature.|
 |Conflict|409|AlreadyExists|The already exists error.|
@@ -89,17 +66,11 @@ The errors below (if any) are specific to this resource. Generic errors that can
 |Conflict|409|None|Un-supported Service/Resource/API error.|
 |Gone|410|CannotRedirect|Cannot redirect since there is no back up pool configured.|
 
-#### Examples
-
-
-
+### Examples
 
 #### JSON Request
 
-
-
-
-```
+```json
 Get https://fe1.contoso.com:443/ucwa/v1/applications/192/onlineMeetings/myOnlineMeetings HTTP/1.1
 Authorization: Bearer cwt=PHNhbWw6QXNzZXJ0aW9uIHhtbG5...uZm8
 Host: fe1.contoso.com
@@ -107,13 +78,11 @@ Accept: application/json
 
 ```
 
-
 #### JSON Response
 
-
-
 This sample is given only as an illustration of response syntax. The semantic content is not guaranteed to correspond to a valid scenario.
-```
+
+```json
 HTTP/1.1 200 OK
 Content-Type: application/json
 Content-Length: 3045
@@ -232,10 +201,7 @@ Content-Length: 3045
 
 #### XML Request
 
-
-
-
-```
+```xml
 Get https://fe1.contoso.com:443/ucwa/v1/applications/192/onlineMeetings/myOnlineMeetings HTTP/1.1
 Authorization: Bearer cwt=PHNhbWw6QXNzZXJ0aW9uIHhtbG5...uZm8
 Host: fe1.contoso.com
@@ -243,13 +209,11 @@ Accept: application/xml
 
 ```
 
-
 #### XML Response
 
-
-
 This sample is given only as an illustration of response syntax. The semantic content is not guaranteed to correspond to a valid scenario.
-```
+
+```xml
 HTTP/1.1 200 OK
 Content-Type: application/xml
 Content-Length: 4254
@@ -323,21 +287,13 @@ Content-Length: 4254
 </resource>
 ```
 
-
-
-### POST
-
-
-
+## POST
 
 Creates a new [myOnlineMeeting](myOnlineMeeting_ref.md).
 
-#### Request body
+### Request body
 
-
-
-
-|**Name**|**Description**|**Required?**|
+|Name|Description|Required?|
 |:-----|:-----|:-----|
 |accessLevel|The policy that indicates which users are permitted to join the onlinemeeting without being placed in the online meeting lobby.Set this property to control access to the online meeting.An application should query the organizer's eligible access levels before setting this property.Nullable (AccessLevel)None, SameEnterprise, Locked, Invited, or Everyone|No|
 |attendees|A list of the participants who have the attendee role. Attendees have to be part of the organization.Array of String|No|
@@ -350,21 +306,17 @@ Creates a new [myOnlineMeeting](myOnlineMeeting_ref.md).
 |phoneUserAdmission|Whether participants can join the online meeting over the phone.Setting this property to true means that online meeting participants can join itby phone through the Conferencing Auto Attendant (CAA) service.Nullable (PhoneUserAdmission)Disabled, or Enabled|No|
 |subject|The subject of the online meeting.String|No|
 
-#### Response body
+### Response body
 
-
-
-|**Item**|**Description**|
+|Item|Description|
 |:-----|:-----|
 |[myOnlineMeeting](OnlineMeeting_ref.md)|Represents a scheduled meeting on the user's calendar.|
 
-#### Synchronous errors
-
-
+### Synchronous errors
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |Conflict|409|TooManyOnlineMeetings|Returned when this user has too many online meetings.|
 |ServiceFailure|500|CallbackChannelError|The remote event channel is not reachable|
@@ -373,17 +325,11 @@ The errors below (if any) are specific to this resource. Generic errors that can
 |Conflict|409|None|Un-supported Service/Resource/API error.|
 |Gone|410|CannotRedirect|Cannot redirect since there is no back up pool configured.|
 
-#### Examples
-
-
-
+### Examples
 
 #### JSON Request
 
-
-
-
-```
+```json
 Post https://fe1.contoso.com:443/ucwa/v1/applications/192/onlineMeetings/myOnlineMeetings HTTP/1.1
 Authorization: Bearer cwt=PHNhbWw6QXNzZXJ0aW9uIHhtbG5...uZm8
 Host: fe1.contoso.com
@@ -413,10 +359,9 @@ Content-Length: 515
 
 #### JSON Response
 
-
-
 This sample is given only as an illustration of response syntax. The semantic content is not guaranteed to correspond to a valid scenario.
-```
+
+```json
 HTTP/1.1 201 Created
 Etag: 758b980a-7b4b-4702-8490-f84c6d0ca3e3
 Content-Type: application/json
@@ -474,10 +419,7 @@ Content-Length: 1434
 
 #### XML Request
 
-
-
-
-```
+```xml
 Post https://fe1.contoso.com:443/ucwa/v1/applications/192/onlineMeetings/myOnlineMeetings HTTP/1.1
 Authorization: Bearer cwt=PHNhbWw6QXNzZXJ0aW9uIHhtbG5...uZm8
 Host: fe1.contoso.com
@@ -508,10 +450,9 @@ Content-Length: 910
 
 #### XML Response
 
-
-
 This sample is given only as an illustration of response syntax. The semantic content is not guaranteed to correspond to a valid scenario.
-```
+
+```xml
 HTTP/1.1 201 Created
 Etag: f332107c-0713-4336-b066-416bd06be3fd
 Content-Type: application/xml
