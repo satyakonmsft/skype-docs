@@ -1,11 +1,12 @@
 
 # Errors and informational messages
+
+**Applies to**" Skype for Business 2015
+
 Learn about the types of errors and informational messages that are used in UCWA 2.0.
 
-
- _**Applies to:** Skype for Business 2015_
-
 To report failures, UCWA 2.0 uses the failure response classes (4xx &amp; 5xx) that are defined in Section 10 (Status Code Definitions) of the [HTTP RFC](http://tools.ietf.org/html/rfc2616). An HTTP request that is targeted to UCWA 2.0 can have multiple intermediate proxies on the path, meaning an intermediate component can return a failure response of 4xx or 5xx as well. 
+
 If UCWA 2.0 responds with a failure, it will provide supplementary information in the error response that can be used to aid in problem diagnosis or drive the user interface. Clients can determine whether the response comes from UCWA 2.0 by analyzing the Content-Type header. In this release, the supported content types are:
 
 - application/json
@@ -14,7 +15,6 @@ If UCWA 2.0 responds with a failure, it will provide supplementary information i
  
 
 ## Error types
-<a name="sectionSection0"> </a>
 
 UCWA 2.0 categorizes errors as either synchronous or asynchronous based on their presence in the command or event channels, respectively.
 
@@ -25,9 +25,7 @@ Synchronous errors are returned only in the command channel in response to GET, 
 
 The errors listed in the following table apply to most resources.
 
-
-
-|**Error**|**Description**|
+|Error|Description|
 |:-----|:-----|
 |ApplicationNotFound|The application resource does not exist.|
 |BadRequest|Something is wrong with the entire request (malformed XML/JSON, for example).|
@@ -51,20 +49,16 @@ The errors listed in the following table apply to most resources.
 Asynchronous errors are returned only in the event channel, and are used to indicate failure reasons. These errors are associated exclusively with operation resources such as the [onlineMeetingInvitation](onlineMeetingInvitation_ref.md) resource.
 
 
-## Asynchronous informational messages
-<a name="sectionSection1"> </a>
+### Asynchronous informational messages
 
 Asynchronous informational messages are also returned only in the event channel, but are used to provide additional information on why a dynamic resource was updated (that is, the reason for a state transition).
 
 
 ## Error response body
-<a name="sectionSection2"> </a>
 
 The following table lists the properties in an error response body.
 
-
-
-|**Property name**|**Type**|**Required in error response?**|**Description**|
+|Property name|Type|Required in error response?|Description|
 |:-----|:-----|:-----|:-----|
 |code|String|Yes|For synchronous failures, this maps one-to-one with HTTP responses. For asynchronous failures or messages, it is contextual.|
 |subcode|String|No|The subcode further classifies a failure. For example, if the response code is 409 Conflict, the subcode could be 'AlreadyExists'.|
@@ -74,8 +68,6 @@ The following table lists the properties in an error response body.
 |debugInfo|Property bag|No|A property bag that provides supplementary information that can be used for troubleshooting.|
 
 ## Client/server programming contract
-<a name="sectionSection3"> </a>
-
 
 - The only property that is required in the error body is "code". All other properties are optional.
  
@@ -83,16 +75,14 @@ The following table lists the properties in an error response body.
  
 - Both Code and Subcode should be consumed contextually. For example, if the [messaging](messaging_ref.md) modality sends an **updated** event, with a subcode of "Removed", this means that the **messaging** modality was removed. There are no modality-specific subcodes.
  
-Anything that resides under <debugInfo> is subject to change, so a client must not make assumptions about the contents of this property. However, clients are recommended to log this information along with the failed request. These items can provide substantial help when troubleshooting the problem.
+Anything that resides under `<debugInfo>` is subject to change, so a client must not make assumptions about the contents of this property. However, clients are recommended to log this information along with the failed request. These items can provide substantial help when troubleshooting the problem.
 
 
 ## Error sample - JSON
-<a name="sectionSection4"> </a>
 
 The following shows the form of a 400 BadRequest error body in JSON format.
 
-
-```
+```json
 {
  "code": "Conflict",
  "subcode": "AlreadyExists",
@@ -103,12 +93,11 @@ The following shows the form of a 400 BadRequest error body in JSON format.
 
 
 ## Error sample - XML
-<a name="sectionSection5"> </a>
 
 The following shows the general form of a 409 Conflict error body in XML format.
 
 
-```XML
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <reason xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/rtc/2012/03/ucwa">
  <code>Conflict</code>
@@ -122,13 +111,8 @@ The following shows the general form of a 409 Conflict error body in XML format.
 
 
 ## HTTP error codes returned by UCWA
-<a name="sectionSection6"> </a>
 
-
-
-
-
-|**HTTP status code**|**Error**|**Can appear in event channel?**|
+|HTTP status code|Error|Can appear in event channel?|
 |:-----|:-----|:-----|
 |400|BadRequest|Yes|
 |403|Forbidden|Yes|
@@ -145,3 +129,7 @@ The following shows the general form of a 409 Conflict error body in XML format.
 |500|ServiceFailure|Yes|
 |503|ServiceUnavailable|No|
 |504|Timeout|Yes|
+
+## See also
+
+- [Key programming concepts](keyprogrammingconcepts.md)

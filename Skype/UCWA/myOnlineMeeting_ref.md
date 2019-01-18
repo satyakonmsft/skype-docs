@@ -1,36 +1,29 @@
 # myOnlineMeeting
 
- _**Applies to:** Skype for Business 2015_
-
+**Applies to**: Skype for Business 2015
 
 Represents a scheduled meeting on the user's calendar.
             
-
-## Web Link
-<a name = "sectionSection0"> </a>
+## Web link
 
 For more on web links, see [Web links](WebLinks.md).
 
-
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
 
 ## Resource description
-<a name = "sectionSection1"> </a>
 
-These meetings can be created and managed via the API.The resource captures information about the meeting, including the join URL, the attendees list, and the description.
+These meetings can be created and managed via the API. The resource captures information about the meeting, including the join URL, the attendees list, and the description.
 
 ### Properties
 
-
-
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |accessLevel|The access level that controls admission to the online meeting.|
 |attendees|The list of online meeting attendees.|
-|automaticLeaderAssignment|The policy that determines which participants are automatically promoted to leaders.An online meeting organizer can schedule a meeting so that users are automatically promoted to theleader role when they join the meeting. For example, if the meeting is scheduled withautomatic promotion policy set to AutomaticLeaderAssignment.SameEnterprise, then any participants from the organizer's company are automaticallypromoted to leaders when they join the meeting. Conference leaders can still promote specific users to the leader role,including anonymous users.|
+|automaticLeaderAssignment|The policy that determines which participants are automatically promoted to leaders.An online meeting organizer can schedule a meeting so that users are automatically promoted to theleader role when they join the meeting.<br/><br/>For example, if the meeting is scheduled withautomatic promotion policy set to AutomaticLeaderAssignment.SameEnterprise, then any participants from the organizer's company are automaticallypromoted to leaders when they join the meeting. Conference leaders can still promote specific users to the leader role,including anonymous users.|
 |conferenceId|The conference ID for the online meeting.Attendees who dial into the online meeting by using a PSTN phone use the conference ID.|
 |description|The long description of the online meeting's purpose.|
 |entryExitAnnouncement|The attendance announcements status for the online meeting.When attendance announcements are enabled, the online meeting will announce the names of the participantswho join the meeting through audio.|
@@ -48,59 +41,42 @@ These meetings can be created and managed via the API.The resource captures info
 
 ### Links
 
-
-
 This resource can have the following relationships.
 
-|**Link**|**Description**|
+|Link|Description|
 |:-----|:-----|
 |self|The link to the current resource.|
 |onlineMeetingExtensions|Represents the set of [onlineMeetingExtension](onlineMeetingExtension_ref.md)s for the associated [onlineMeeting](onlineMeeting_ref.md).|
-|onlineMeetingExtensions|Represents the set of [onlineMeetingExtension](onlineMeetingExtension_ref.md)s for the associated [onlineMeeting](onlineMeeting_ref.md).|
+
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
+
+|Scope|Permission|Description|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
 |Conversations.Receive|Receive conversation invites|Allows the app to receive instant messages, audio, video, and desktop sharing invitations on-behalf of the signed-in user|
 
-## Operations
+The following sections describe the **Operations**.
 
-
-
-<a name="sectionSection2"></a>
-
-### GET
-
-
-
+## GET
 
 Returns a representation of a scheduled meeting on the user's calendar.
 
-#### Request body
-
-
+### Request body
 
 None
 
-
-#### Response body
-
-
+### Response body
 
 The response from a GET request contains the properties and links shown in the Properties and Links sections at the top of this page.
 
-#### Synchronous errors
-
-
+### Synchronous errors
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |ServiceFailure|500|InvalidExchangeServerVersion|Invalid exchange server version.The exchange mailbox of the server might have moved to an unsupported version for the required feature.|
 |Conflict|409|AlreadyExists|The already exists error.|
@@ -108,17 +84,11 @@ The errors below (if any) are specific to this resource. Generic errors that can
 |Conflict|409|None|Un-supported Service/Resource/API error.|
 |Gone|410|CannotRedirect|Cannot redirect since there is no back up pool configured.|
 
-#### Examples
-
-
-
+### Examples
 
 #### JSON Request
 
-
-
-
-```
+```json
 Get https://fe1.contoso.com:443/ucwa/v1/applications/192/onlineMeetings/myOnlineMeetings/943 HTTP/1.1
 Authorization: Bearer cwt=PHNhbWw6QXNzZXJ0aW9uIHhtbG5...uZm8
 Host: fe1.contoso.com
@@ -127,13 +97,11 @@ if-none-match: 386a2614-74c2-4b25-9f39-f277bca179d0
 
 ```
 
-
 #### JSON Response
 
-
-
 This sample is given only as an illustration of response syntax. The semantic content is not guaranteed to correspond to a valid scenario.
-```
+
+```json
 HTTP/1.1 200 OK
 Etag: f0eddaf5-7b28-47a7-844e-fce749b61954
 Content-Type: application/json
@@ -191,10 +159,7 @@ Content-Length: 1438
 
 #### XML Request
 
-
-
-
-```
+```xml
 Get https://fe1.contoso.com:443/ucwa/v1/applications/192/onlineMeetings/myOnlineMeetings/943 HTTP/1.1
 Authorization: Bearer cwt=PHNhbWw6QXNzZXJ0aW9uIHhtbG5...uZm8
 Host: fe1.contoso.com
@@ -206,10 +171,9 @@ if-none-match: 509a1bb3-a999-47b6-9fb5-42401155f270
 
 #### XML Response
 
-
-
 This sample is given only as an illustration of response syntax. The semantic content is not guaranteed to correspond to a valid scenario.
-```
+
+```xml
 HTTP/1.1 200 OK
 Etag: 97bc9da1-68ca-494e-a3c1-ddee838c3970
 Content-Type: application/xml
@@ -249,49 +213,31 @@ Content-Length: 2095
 </resource>
 ```
 
-
-
-### DELETE
-
-
-
+## DELETE
 
 Removes a scheduled meeting from the user's calendar.
 
-#### Request body
-
-
+### Request body
 
 None
 
-
-#### Response body
-
-
+### Response body
 
 None
 
-#### Synchronous errors
-
-
+### Synchronous errors
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |Gone|410|CannotRedirect|Cannot redirect since there is no back up pool configured.|
 
-#### Examples
-
-
-
+### Examples
 
 #### JSON Request
 
-
-
-
-```
+```json
 Delete https://fe1.contoso.com:443/ucwa/v1/applications/192/onlineMeetings/myOnlineMeetings/943 HTTP/1.1
 Authorization: Bearer cwt=PHNhbWw6QXNzZXJ0aW9uIHhtbG5...uZm8
 Host: fe1.contoso.com
@@ -301,21 +247,16 @@ Host: fe1.contoso.com
 
 #### JSON Response
 
-
-
 This sample is given only as an illustration of response syntax. The semantic content is not guaranteed to correspond to a valid scenario.
-```
+
+```json
 HTTP/1.1 204 No Content
 
 ```
 
-
 #### XML Request
 
-
-
-
-```
+```xml
 Delete https://fe1.contoso.com:443/ucwa/v1/applications/192/onlineMeetings/myOnlineMeetings/943 HTTP/1.1
 Authorization: Bearer cwt=PHNhbWw6QXNzZXJ0aW9uIHhtbG5...uZm8
 Host: fe1.contoso.com
@@ -325,29 +266,20 @@ Host: fe1.contoso.com
 
 #### XML Response
 
-
-
 This sample is given only as an illustration of response syntax. The semantic content is not guaranteed to correspond to a valid scenario.
-```
+
+```xml
 HTTP/1.1 204 No Content
 
 ```
 
-
-
-### PUT
-
-
-
+## PUT
 
 Updates a scheduled meeting on the user's calendar.
 
-#### Request body
+### Request body
 
-
-
-
-|**Name**|**Description**|**Required?**|
+|Name|Description|Required?|
 |:-----|:-----|:-----|
 |accessLevel|The policy that indicates which users are permitted to join the onlinemeeting without being placed in the online meeting lobby.Set this property to control access to the online meeting.An application should query the organizer's eligible access levels before setting this property.Nullable (AccessLevel)None, SameEnterprise, Locked, Invited, or Everyone|No|
 |attendees|A list of the participants who have the attendee role.Array of String|No|
@@ -360,36 +292,26 @@ Updates a scheduled meeting on the user's calendar.
 |phoneUserAdmission|Whether participants can join the online meeting over the phone.Setting this property to true means that online meeting participants can join itby phone through the Conferencing Auto Attendant (CAA) service.Nullable (PhoneUserAdmission)Disabled, or Enabled|No|
 |subject|The subject of the online meeting.String|No|
 
-#### Response body
+### Response body
 
-
-
-|**Item**|**Description**|
+|Item|Description|
 |:-----|:-----|
 |[myOnlineMeeting](OnlineMeeting_ref.md)|Represents a scheduled meeting on the user's calendar.|
 
-#### Synchronous errors
-
-
+### Synchronous errors
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |ServiceFailure|500|InvalidExchangeServerVersion|Invalid exchange server version.The exchange mailbox of the server might have moved to an unsupported version for the required feature.|
 |Gone|410|CannotRedirect|Cannot redirect since there is no back up pool configured.|
 
-#### Examples
-
-
-
+### Examples
 
 #### JSON Request
 
-
-
-
-```
+```json
 Put https://fe1.contoso.com:443/ucwa/v1/applications/192/onlineMeetings/myOnlineMeetings/943 HTTP/1.1
 Authorization: Bearer cwt=PHNhbWw6QXNzZXJ0aW9uIHhtbG5...uZm8
 Host: fe1.contoso.com
@@ -419,10 +341,9 @@ Content-Length: 521
 
 #### JSON Response
 
-
-
 This sample is given only as an illustration of response syntax. The semantic content is not guaranteed to correspond to a valid scenario.
-```
+
+```json
 HTTP/1.1 200 OK
 Etag: 9b04d3b7-0ec8-4ab5-82c7-4036a7d348ce
 Content-Type: application/json
@@ -480,10 +401,7 @@ Content-Length: 1434
 
 #### XML Request
 
-
-
-
-```
+```xml
 Put https://fe1.contoso.com:443/ucwa/v1/applications/192/onlineMeetings/myOnlineMeetings/943 HTTP/1.1
 Authorization: Bearer cwt=PHNhbWw6QXNzZXJ0aW9uIHhtbG5...uZm8
 Host: fe1.contoso.com
@@ -514,10 +432,9 @@ Content-Length: 917
 
 #### XML Response
 
-
-
 This sample is given only as an illustration of response syntax. The semantic content is not guaranteed to correspond to a valid scenario.
-```
+
+```xml
 HTTP/1.1 200 OK
 Etag: 21fa74b9-fb91-46f2-9d75-c46391b99260
 Content-Type: application/xml
