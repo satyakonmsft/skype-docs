@@ -1,4 +1,5 @@
 # Registering a Trusted Application in Skype for Business Online
+[!NOTE] The Trusted Application API is in Developer Preview and not licensed for production usage. As part of Microsoft’s intellgent communications vision, we’re building extensible communications capabilities into Teams. For more Teams Developer information, check out https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/calls-and-meetings/registering-calling-bot
 
 Each Trusted Application must be registered against the Skype for Business Online Platform Service.  There are two registration steps for a Trusted Application against Skype for Business Online:
 
