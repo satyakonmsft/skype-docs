@@ -46,6 +46,7 @@ This resource can have the following relationships.
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |User.ReadWrite|Read/write Skype user information|Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user|
@@ -59,9 +60,11 @@ The user must have at least one of these scopes for operations on the resource t
 
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
-|presence|Medium|me|Indicates that the application is no longer in lurker mode. The application will now receive the user's presence updates.</p><p></p>|
+|presence|Medium|me|Indicates that the application is no longer in lurker mode. The application will now receive the user's presence updates.|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+```json
 {
   "_links" : {
     "self" : {
@@ -87,7 +90,7 @@ This sample is given only as an illustration of event syntax. The semantic conte
     }
   ]
 }
-
+```
 
 ### Updated
 
@@ -95,9 +98,11 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
-|presence|Medium|me|Indicates the user's presence has changed.</p><p></p>|
+|presence|Medium|me|Indicates the user's presence has changed.|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+```json
 {
   "_links" : {
     "self" : {
@@ -123,7 +128,7 @@ This sample is given only as an illustration of event syntax. The semantic conte
     }
   ]
 }
-
+```
 
 ### Deleted
 
@@ -131,9 +136,11 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
-|presence|Medium|me|Indicates that the application will no longer receive the user's presence updates.</p><p></p>|
+|presence|Medium|me|Indicates that the application will no longer receive the user's presence updates.|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+```json
 {
   "_links" : {
     "self" : {
@@ -159,7 +166,7 @@ This sample is given only as an illustration of event syntax. The semantic conte
     }
   ]
 }
-
+```
 
 ## Operations
 

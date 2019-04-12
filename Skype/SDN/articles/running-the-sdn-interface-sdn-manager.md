@@ -32,7 +32,7 @@ In general, you run the SDN Manager as a Windows service. In some cases, especia
     Figure 1. SDN Manager properties dialog box
     
       
-    ![SDN Manager properties dialog](images/Dn785214.5565cc50-7e37-4ba1-84b4-a3aff0a8881a(Office.16).png "SDN Manager properties dialog")
+    ![SDN Manager properties dialog](../images/Dn785214.5565cc50-7e37-4ba1-84b4-a3aff0a8881a(Office.16).png "SDN Manager properties dialog")
     
 
     > [!NOTE]
