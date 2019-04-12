@@ -52,7 +52,7 @@ in on-demand scenarios (eg. opening contact card) rather than subscribing to eve
 ```js
 //get a person. In this case, the first person in the user's person list   
 var person = application.personsAndGroupsManager.all.persons(0);
-person.status.get.then(function (status) {
+person.status.get().then(function (status) {
     console.log('availability status is ', status);
 });
 ```
