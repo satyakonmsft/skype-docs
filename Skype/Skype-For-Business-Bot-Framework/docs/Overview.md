@@ -1,7 +1,7 @@
 # Skype for Business Bot Framework (Preview)
 
 > [!NOTE] 
-> The Skype for Business Bot Framework channel is in Developer Preview.
+> The Skype for Business Bot Framework channel is in Developer Preview and is not licensed for production usage. This channel will not be supported after 6/30/2019. As part of Microsoft’s intelligent communications vision, we’re building extensible communications capabilities into Teams. 
 
 In a few simple steps you can build and connect intelligent bots to interact with your Skype for Business users using text, cards, or speech.
 
