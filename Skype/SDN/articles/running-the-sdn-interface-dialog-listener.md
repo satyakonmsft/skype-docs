@@ -42,14 +42,14 @@ In general, the Dialog Listener executes as Windows service. In some case, parti
     Figure 1. The Windows services window
     
       
-    ![Windows services window](images/Dn785217.4a5a3320-7408-4ae6-886c-56b4b5dcb907(Office.16).png "Windows services window")
+    ![Windows services window](../images/Dn785217.4a5a3320-7408-4ae6-886c-56b4b5dcb907(Office.16).png "Windows services window")
 
 3.  If Dialog Listener is not already started, right-click the entry to select the **Properties** menu item. Click **Start** to restart the service, then click **OK** after the service is restarted.
     
     Figure 2. Dialog listener properties dialog box
     
       
-    ![Properties of the Dialog listener](images/Dn785217.5e5b4921-fe81-46f6-b996-f58033e80fe8(Office.16).png "Properties of the Dialog listener")
+    ![Properties of the Dialog listener](../images/Dn785217.5e5b4921-fe81-46f6-b996-f58033e80fe8(Office.16).png "Properties of the Dialog listener")
     
     If the service does not start, you may need different user credentials. The user must also be in the local *RTC Server Applications* security group. You can change the user credentials to run the service by using the Dialog Listener **Properties** dialog box as shown in Figure 2.
 
