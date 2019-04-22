@@ -1,17 +1,21 @@
 - name: Skype
-  href: index.md
   items:
+  - name: Overview
+    href: index.md
   - name: Skype Developer platform
-    href: SkypeDeveloperPlatform.md
     items:
+    - name: Overview
+      href: SkypeDeveloperPlatform.md
     - name: Skype URI Development
-      href: SkypeURIs/SkypeDevelopment.md
       items:
+      - name: Overview
+        href: SkypeURIs/SkypeDevelopment.md
       - name: Skype SDK for Android
         href: SkypeURIs/SkypeSDKforAndroid.md
       - name: Skype URIs
-        href: SkypeURIs/SkypeURIs.md
         items:
+        - name: Overview
+          href: SkypeURIs/SkypeURIs.md      
         - name: Skype URI API reference
           href: SkypeURIs/SkypeURIAPIReference.md
         - name: Branding
@@ -29,13 +33,15 @@
         - name: iOS apps tutorial
           href: SkypeURIs/SkypeURITutorial_iOSApps.md
     - name: Skype Web SDK
-      href: WebSDK/docs/SkypeWebSDK.md
       items:
+      - name: Overview
+        href: WebSDK/docs/SkypeWebSDK.md
       - name: Skype Web SDK general reference
         href: WebSDK/docs/GeneralReference.md
       - name: Core Capabilities
-        href: WebSDK/docs/CoreCapabilities.md
         items:
+        - name: Overview
+          href: WebSDK/docs/CoreCapabilities.md      
         - name: Presence
           href: WebSDK/docs/Presence.md
         - name: Local User
@@ -53,15 +59,17 @@
         - name: Devices
           href: WebSDK/docs/Devices.md
       - name: Getting Started
-        href: WebSDK/docs/GettingStarted.md
         items:
+        - name: Overview
+          href: WebSDK/docs/GettingStarted.md      
         - name: Downloading and running samples
           href: WebSDK/docs/DownloadRunSamples.md
         - name: Skype Web SDK API product keys
           href: WebSDK/docs/APIProductKeys.md
       - name: Developing Applications
-        href: WebSDK/docs/DevelopApplications.md
         items:
+        - name: Overview
+          href: WebSDK/docs/DevelopApplications.md      
         - name: Architecture
           href: WebSDK/docs/Architecture.md
         - name: Object Model
@@ -73,8 +81,9 @@
         - name: Developing Web SDK applications for Skype for Business Online
           href: WebSDK/docs/DevelopWebSDKappsForSfBOnline.md
         - name: Troubleshooting Skype for Business Web SDK applications
-          href: WebSDK/docs/troubleshooting/troubleShooting.md
           items:
+          - name: Overview
+            href: WebSDK/docs/troubleshooting/troubleShooting.md        
           - name: Troubleshooting Azure AD Authentication Failures for Skype Web SDK
             href: WebSDK/docs/troubleshooting/auth/AADAuthFailures.md
           - name: AAD Auth Failures - Providing incorrect client ID
@@ -92,8 +101,9 @@
           - name: AAD Auth Failures - Invalid CORS redirect URI in Internet Explorer
             href: WebSDK/docs/troubleshooting/auth/AAdAuth-IECORSRedirectURI.md
         - name: Gathering logs to troubleshoot issues and submit error reports
-          href: WebSDK/docs/troubleshooting/gatheringLogs/GatherLogs.md
           items:
+          - name: Overview
+            href: WebSDK/docs/troubleshooting/gatheringLogs/GatherLogs.md        
           - name: Gathering console logs from the Skype Web SDK or Conversation Control
             href: WebSDK/docs/troubleshooting/gatheringLogs/Logs-Console.md
           - name: Gathering web traffic logs from the Skype Web SDK or Conversation Control
@@ -105,11 +115,13 @@
         - name: Checking for and handling application errors
           href: WebSDK/docs/troubleshooting/handlingapplicationerrors.md
       - name: Programming Tasks
-        href: WebSDK/docs/ProgrammingTasks.md
         items:
+        - name: Overview
+          href: WebSDK/docs/ProgrammingTasks.md      
         - name: Authentication
-          href: WebSDK/docs/PTAuth.md
           items:
+          - name: Overview
+            href: WebSDK/docs/PTAuth.md        
           - name: Azure AD
             href: WebSDK/docs/PTAuthAzureAD.md
           - name: Password
@@ -121,8 +133,9 @@
           - name: Sign Out
             href: WebSDK/docs/PTAuthSignOut.md
         - name: Local User
-          href: WebSDK/docs/PTLocalUser.md
           items:
+          - name: Overview
+            href: WebSDK/docs/PTLocalUser.md        
           - name: Dashboard
             href: WebSDK/docs/PTLocalUserDashboard.md
           - name: Location
@@ -132,8 +145,9 @@
           - name: Status
             href: WebSDK/docs/PTLocalUserStatus.md
         - name: Contacts
-          href: WebSDK/docs/PTContacts.md
           items:
+          - name: Overview
+            href: WebSDK/docs/PTContacts.md        
           - name: Search
             href: WebSDK/docs/PTContactsSearch.md
           - name: Contact Card
@@ -141,8 +155,9 @@
           - name: All
             href: WebSDK/docs/PTContactsAll.md
         - name: Groups
-          href: WebSDK/docs/PTGroups.md
           items:
+          - name: Overview
+            href: WebSDK/docs/PTGroups.md        
           - name: Groups Overview
             href: WebSDK/docs/PTGroupsOverview.md
           - name: Search
@@ -160,8 +175,9 @@
           - name: Rename Group
             href: WebSDK/docs/PTGroupsRenameGroup.md
         - name: Chat
-          href: WebSDK/docs/PTChat.md
           items:
+          - name: Overview
+            href: WebSDK/docs/PTChat.md        
           - name: Outgoing P2P
             href: WebSDK/docs/PTChatOutgoingP2P.md
           - name: Incoming P2P
@@ -171,8 +187,9 @@
           - name: Group
             href: WebSDK/docs/PTChatGroup.md
         - name: Audio
-          href: WebSDK/docs/PTAudio.md
           items:
+          - name: Overview
+            href: WebSDK/docs/PTAudio.md        
           - name: Outgoing P2P And PSTN
             href: WebSDK/docs/PTAudioOutgoing.md
           - name: Incoming P2P And PSTN
@@ -190,8 +207,9 @@
           - name: Call Transfer
             href: WebSDK/docs/PTAudioCallTransfer.md
         - name: Video
-          href: WebSDK/docs/PTVideo.md
           items:
+          - name: Overview
+            href: WebSDK/docs/PTVideo.md        
           - name: Add Video
             href: WebSDK/docs/PTVideoAddVideo.md
           - name: Outgoing P2P
@@ -205,28 +223,33 @@
           - name: Group in Google Chrome
             href: WebSDK/docs/PTVideoGroupGoogleChrome.md
         - name: Meetings
-          href: WebSDK/docs/PTMeetings.md
           items:
+          - name: Overview
+            href: WebSDK/docs/PTMeetings.md        
           - name: Schedule Meeting
             href: WebSDK/docs/ScheduleMeeting.md
         - name: History
-          href: WebSDK/docs/PTHistory.md
           items:
+          - name: Overview
+            href: WebSDK/docs/PTHistory.md        
           - name: Conversation History
             href: WebSDK/docs/PTHistoryConversation.md
         - name: UI Controls
-          href: WebSDK/docs/PTUIControls.md
           items:
+          - name: Overview
+            href: WebSDK/docs/PTUIControls.md        
           - name: Conversation Control(s)
             href: WebSDK/docs/PTUIControlsConversationControl.md
         - name: Devices Manager
-          href: WebSDK/docs/PTDevicesManager.md
           items:
+          - name: Overview
+            href: WebSDK/docs/PTDevicesManager.md        
           - name: Manage Devices
             href: WebSDK/docs/PTDevicesManagerManageDevices.md
       - name: Release Notes
-        href: WebSDK/docs/ReleaseNotes.md
         items:
+        - name: Overview
+          href: WebSDK/docs/ReleaseNotes.md      
         - name: Skype Web SDK Version Update Notifications
           href: WebSDK/docs/SkypeWebSDKVersionUpdateNotifications.md
       - name: CONTRIBUTING
@@ -234,13 +257,15 @@
       - name: Terms Of Service
         href: WebSDK/docs/TermsOfService.md
     - name: Skype for Business App SDK
-      href: AppSDK/SkypeAppSDK.md
       items:
+      - name: Overview
+        href: AppSDK/SkypeAppSDK.md     
       - name: 'Overview: Embed B2C communications'
         href: AppSDK/EmbedSkypeB2Ccomms.md
       - name: Getting started
-        href: AppSDK/GettingStarted.md
         items:
+        - name: Overview
+          href: AppSDK/GettingStarted.md      
         - name: Get an on-premise meeting URL
           href: AppSDK/GetMeetingURL.md
         - name: Get meeting join resources for Skype for Business Online meetings
@@ -254,8 +279,9 @@
         - name: Use the App SDK and the Trusted Application API to join an Online meeting - iOS
           href: AppSDK/HowToJoinOnlineMeeting_iOS.md
       - name: Orientation
-        href: AppSDK/Orientation.md
         items:
+        - name: Overview
+          href: AppSDK/Orientation.md      
         - name: API Overview
           href: AppSDK/APIoverview.md
         - name: Platform considerations
@@ -267,39 +293,45 @@
       - name: Download
         href: AppSDK/Download.md
       - name: Samples
-        href: AppSDK/Samples.md
         items:
+        - name: Overview
+          href: AppSDK/Samples.md      
         - name: The ConversationHelper class
           href: AppSDK/ConversationHelperCodeList.md
       - name: Submit your questions, bugs, feature requests, and contributions
         href: AppSDK/Feedback.md
     - name: Skype for Business Bot Framework (Preview)
-      href: Skype-For-Business-Bot-Framework/docs/Overview.md
       items:
-      - name: Skype for Business Bot - Hybrid environment support
+      - name: Overview
+        href: Skype-For-Business-Bot-Framework/docs/Overview.md    
+      - name: Hybrid environment support
         href: Skype-For-Business-Bot-Framework/docs/Bot-Hybrid-Support.md
-      - name: Skype for Business Bot - Common Errors
+      - name: Common errors
         href: Skype-For-Business-Bot-Framework/docs/Bot-Common-Errors.md
     - name: Trusted Application API
-      href: Trusted-Application-API/docs/Overview.md
       items:
+      - name: Overview
+        href: Trusted-Application-API/docs/Overview.md    
       - name: Enabling communications services for the cloud
-        href: Trusted-Application-API/docs/Trusted_Application_API_GeneralReference.md
         items:
-        - name: Key Scenarios
+        - name: Overview
+          href: Trusted-Application-API/docs/Trusted_Application_API_GeneralReference.md      
+        - name: Key scenarios
           href: Trusted-Application-API/docs/keyscenarios.md
         - name: Key programming concepts
-          href: Trusted-Application-API/docs/NewConcepts.md
           items:
-          - name: Webhooks (Events)
+          - name: Overview
+            href: Trusted-Application-API/docs/NewConcepts.md        
+          - name: Webhooks (events)
             href: Trusted-Application-API/docs/Webhooks.md
         - name: Key terms
           href: Trusted-Application-API/docs/KeyTerms.md
         - name: Trusted Application API permissions
           href: Trusted-Application-API/docs/Application_Permissions.md
       - name: Developing Trusted Application API applications for Skype for Business Online
-        href: Trusted-Application-API/docs/DevelopingApplicationsforSFBOnline.md
         items:
+        - name: Overview
+          href: Trusted-Application-API/docs/DevelopingApplicationsforSFBOnline.md      
         - name: Registration in Azure Active Directory
           href: Trusted-Application-API/docs/RegistrationInAzureActiveDirectory.md
         - name: Azure Active Directory - Service to Service calls using Client Credentials
@@ -313,11 +345,13 @@
         - name: Discovery for Service Applications
           href: Trusted-Application-API/docs/DiscoveryForServiceApplications.md
         - name: Authentication and Authorization
-          href: Trusted-Application-API/docs/AuthenticationAndAuthorization.md
           items:
+          - name: Overview
+            href: Trusted-Application-API/docs/AuthenticationAndAuthorization.md        
           - name: Anonymous Meeting Join
-            href: Trusted-Application-API/docs/AnonymousMeetingJoin.md
             items:
+            - name: Overview
+              href: Trusted-Application-API/docs/AnonymousMeetingJoin.md          
             - name: Anonymous Meeting Scheduling
               href: Trusted-Application-API/docs/AnonymousMeetingSchedule.md
             - name: Implementing an Anonymous Client with the Skype Web SDK
@@ -333,18 +367,21 @@
       - name: Trusted Application API reference
         href: Trusted-Application-API/docs/ReferenceLibrary.md
     - name: Unified Communications Web API (UCWA)
-      href: UCWA/UnifiedCommunicationsWebAPI2_0.md
       items:
+      - name: Overview
+        href: UCWA/UnifiedCommunicationsWebAPI2_0.md    
       - name: UCWA 2.0 general reference
-        href: UCWA/UCWA2_0GeneralReference.md
         items:
+        - name: Overview
+          href: UCWA/UCWA2_0GeneralReference.md      
         - name: What's New in UCWA 2.0
           href: UCWA/WhatsNewInUCWA2_0.md
         - name: Core capabilities
           href: UCWA/CoreCapabilities.md
         - name: Key programming concepts
-          href: UCWA/KeyProgrammingConcepts.md
           items:
+          - name: Overview
+            href: UCWA/KeyProgrammingConcepts.md        
           - name: HTTP
             href: UCWA/HTTP.md
           - name: Hypermedia
@@ -370,8 +407,9 @@
           - name: Versioning
             href: UCWA/Versioning.md
         - name: Dashboard concepts
-          href: UCWA/DashboardConcepts.md
           items:
+          - name: Overview
+            href: UCWA/DashboardConcepts.md        
           - name: Application dashboard
             href: UCWA/ApplicationDashboard.md
           - name: Me dashboard
@@ -383,11 +421,13 @@
           - name: Online meetings dashboard
             href: UCWA/OnlineMeetingsDashboard.md
         - name: Developing applications with UCWA
-          href: UCWA/DevelopingApplicationsWithUCWA.md
           items:
+          - name: Overview
+            href: UCWA/DevelopingApplicationsWithUCWA.md        
           - name: Developing UCWA applications for Skype for Business Server
-            href: UCWA/DevelopingUCWAApplicationsForSkypeForBusinessServer.md
             items:
+            - name: Overview
+              href: UCWA/DevelopingUCWAApplicationsForSkypeForBusinessServer.md          
             - name: Cross-domain IFRAME
               href: UCWA/Cross_domainIFRAME.md
             - name: Root URL
@@ -395,8 +435,9 @@
             - name: Authentication in UCWA
               href: UCWA/AuthenticationInUCWA.md
             - name: UCWA IT Administration
-              href: UCWA/UCWA_IT_Administration.md
               items:
+              - name: Overview
+                href: UCWA/UCWA_IT_Administration.md            
               - name: Architecture
                 href: UCWA/Architecture.md
               - name: Supported topologies
@@ -404,8 +445,9 @@
               - name: Configuring a topology
                 href: UCWA/ConfiguringATopology.md
           - name: Developing UCWA applications for Skype for Business Online
-            href: UCWA/DevelopingUCWAApplicationsForSfBOnline.md
             items:
+            - name: Overview
+              href: UCWA/DevelopingUCWAApplicationsForSfBOnline.md          
             - name: Registering your application in Azure AD
               href: UCWA/RegisteringYourApplicationInAzureAD.md
             - name: Authentication using Azure AD
@@ -419,13 +461,15 @@
           - name: Web links
             href: UCWA/WebLinks.md
         - name: Key tasks
-          href: UCWA/KeyTasks.md
           items:
+          - name: Overview
+            href: UCWA/KeyTasks.md        
           - name: Create an application
             href: UCWA/CreateAnApplication.md
           - name: Me tasks
-            href: UCWA/MeTasks.md
             items:
+            - name: Overview
+              href: UCWA/MeTasks.md          
             - name: Get my presence information
               href: UCWA/GetMyPresenceInformation.md
             - name: Set my presence information
@@ -441,8 +485,9 @@
             - name: Get my photo
               href: UCWA/GetMyPhoto.md
           - name: People tasks (UCWA)
-            href: UCWA/PeopleTasks.md
             items:
+            - name: Overview
+              href: UCWA/PeopleTasks.md          
             - name: Get the user's contact list
               href: UCWA/GetUsersContactList.md
             - name: Get a contact's data
@@ -460,30 +505,35 @@
             - name: Delete a presence subscription
               href: UCWA/DeleteAPresenceSubscription.md
           - name: Communication tasks
-            href: UCWA/CommunicationTasks.md
             items:
+            - name: Overview
+              href: UCWA/CommunicationTasks.md          
             - name: Send an IM
               href: UCWA/SendAnIM.md
             - name: Receive an IM
               href: UCWA/ReceiveAnIM.md
           - name: Online meeting tasks
-            href: UCWA/OnlineMeetingTasks.md
             items:
+            - name: Overview
+              href: UCWA/OnlineMeetingTasks.md          
             - name: Schedule an online meeting
               href: UCWA/ScheduleAnOnlineMeeting.md
             - name: Update an online meeting
               href: UCWA/UpdateAnOnlineMeeting.md
         - name: Advanced topics
-          href: UCWA/AdvancedTopics.md
           items:
+          - name: Overview
+            href: UCWA/AdvancedTopics.md        
           - name: Trace and debug tools
             href: UCWA/TraceAndDebugTools.md
       - name: UCWA 2.0 API reference
-        href: UCWA/UCWA2_0APIReference.md
         items:
+        - name: Overview
+          href: UCWA/UCWA2_0APIReference.md      
         - name: UCWA resources
-          href: UCWA/UCWAResources.md
           items:
+          - name: Overview
+            href: UCWA/UCWAResources.md        
           - name: accept
             href: UCWA/accept_ref.md
           - name: acceptedByContact
@@ -839,8 +889,9 @@
           - name: xframe
             href: UCWA/xframe_ref.md
         - name: UCWA enumerations
-          href: UCWA/UCWAenumerations.md
           items:
+          - name: Overview
+            href: UCWA/UCWAenumerations.md        
           - name: AccessLevel
             href: UCWA/AccessLevel_ref.md
           - name: ActivePeriod
@@ -930,8 +981,9 @@
           - name: ErrorTranscriptReason
             href: UCWA/ErrorTranscriptReason_ref.md
         - name: UCWA helper library
-          href: UCWA/UCWAHelperLibrary.md
           items:
+          - name: Overview
+            href: UCWA/UCWAHelperLibrary.md        
           - name: Authentication library
             href: UCWA/AuthenticationLibrary.md
           - name: AutoDiscovery library
@@ -955,16 +1007,19 @@
     - name: Skype for Business Uris
       href: Skype-For-Business-Uris/SfBMobileURI.md
     - name: Unified Communications Managed API (UCMA)
-      href: UCMA/unified-communications-managed-api-ucma-5-0-sdk-documentation.md
       items:
+      - name: Overview
+        href: UCMA/unified-communications-managed-api-ucma-5-0-sdk-documentation.md    
       - name: UCMA 5.0 general reference
-        href: UCMA/ucma-5-0-general-reference.md
         items:
+        - name: Overview
+          href: UCMA/ucma-5-0-general-reference.md      
         - name: Glossary
           href: UCMA/glossary-ucma-5-0-sdk.md
         - name: UCMA 5.0 business scenarios
-          href: UCMA/ucma-5-0-business-scenarios.md
           items:
+          - name: Overview
+            href: UCMA/ucma-5-0-business-scenarios.md        
           - name: Contact center
             href: UCMA/contact-center.md
           - name: Standalone IVR application
@@ -976,8 +1031,9 @@
           - name: Additional scenarios
             href: UCMA/additional-scenarios.md
         - name: Get started with development
-          href: UCMA/get-started-with-ucma-5-0-development.md
           items:
+          - name: Overview
+            href: UCMA/get-started-with-ucma-5-0-development.md        
           - name: Software and hardware requirements
             href: UCMA/ucma-5-0-sdk-software-and-hardware-requirements.md
           - name: Installing UCMA 5.0 SDK
@@ -985,15 +1041,17 @@
           - name: Uninstalling UCMA 5.0 SDK
             href: UCMA/uninstalling-ucma-5-0-sdk.md
         - name: UCMA 5.0 overview
-          href: UCMA/ucma-5-0-overview.md
           items:
+          - name: Overview
+            href: UCMA/ucma-5-0-overview.md        
           - name: What is UCMA 5.0
             href: UCMA/what-is-ucma-5-0.md
           - name: Support for IPv6
             href: UCMA/support-for-ipv6.md
           - name: UCMA 5.0 features
-            href: UCMA/ucma-5-0-features.md
             items:
+            - name: Overview
+              href: UCMA/ucma-5-0-features.md          
             - name: Key features of UCMA 5.0
               href: UCMA/key-features-of-ucma-5-0.md
             - name: Audio devices
@@ -1001,8 +1059,9 @@
             - name: Back-to-back user agent
               href: UCMA/back-to-back-user-agent-feature.md
             - name: Conference features
-              href: UCMA/conference-features.md
               items:
+              - name: Overview
+                href: UCMA/conference-features.md            
               - name: 'Pre-meeting: conference scheduling'
                 href: UCMA/pre-meeting-conference-scheduling.md
               - name: 'In-meeting: during the conference'
@@ -1014,8 +1073,9 @@
             - name: Escalation to conferencing
               href: UCMA/escalation-to-conferencing.md
             - name: Infrastructure enhancements
-              href: UCMA/infrastructure-enhancements.md
               items:
+              - name: Overview
+                href: UCMA/infrastructure-enhancements.md            
               - name: Auto-provisioning and PowerShell activation
                 href: UCMA/auto-provisioning-and-powershell-activation.md
               - name: Bandwidth management
@@ -1045,8 +1105,9 @@
             - name: VoiceXML 2.0 support
               href: UCMA/voicexml-2-0-support.md
           - name: UCMA 5.0 building blocks
-            href: UCMA/ucma-5-0-building-blocks.md
             items:
+            - name: Overview
+              href: UCMA/ucma-5-0-building-blocks.md          
             - name: Personas
               href: UCMA/personas.md
             - name: Collaboration platform
@@ -1062,8 +1123,9 @@
             - name: Contacts and groups
               href: UCMA/contacts-and-groups.md
           - name: Reference topologies
-            href: UCMA/reference-topologies.md
             items:
+            - name: Overview
+              href: UCMA/reference-topologies.md          
             - name: Reference topology with limited high availability
               href: UCMA/reference-topology-with-limited-high-availability.md
             - name: Reference topology with high availability and a single data center
@@ -1073,17 +1135,21 @@
           - name: UCMA 5.0 object model
             href: UCMA/ucma-5-0-object-model.md
         - name: UCMA 5.0 details
-          href: UCMA/ucma-5-0-details.md
           items:
+          - name: Overview
+            href: UCMA/ucma-5-0-details.md        
           - name: Collaboration layer
-            href: UCMA/collaboration-layer.md
             items:
+            - name: Overview
+              href: UCMA/collaboration-layer.md          
             - name: Communications - conversations, calls, conferences, and back-to-back user agents
-              href: UCMA/communications-conversations-calls-conferences-and-back-to-back-user-agents.md
               items:
+              - name: Overview
+                href: UCMA/communications-conversations-calls-conferences-and-back-to-back-user-agents.md            
               - name: Conversations
-                href: UCMA/conversations.md
                 items:
+                - name: Overview
+                  href: UCMA/conversations.md              
                 - name: Conversation state transitions - outbound
                   href: UCMA/conversation-state-transitions-outbound.md
                 - name: Conversation state transitions - inbound
@@ -1101,8 +1167,9 @@
                 - name: Terminating a conversation
                   href: UCMA/terminating-a-conversation.md
               - name: Calls
-                href: UCMA/calls.md
                 items:
+                - name: Overview
+                  href: UCMA/calls.md              
                 - name: Call state transitions
                   href: UCMA/call-state-transitions.md
                 - name: Registering for call events
@@ -1118,15 +1185,17 @@
                 - name: Call park
                   href: UCMA/call-park.md
                 - name: Back-to-back user agent
-                  href: UCMA/back-to-back-user-agent.md
                   items:
+                  - name: Overview
+                    href: UCMA/back-to-back-user-agent.md                
                   - name: Call leg scenarios
                     href: UCMA/call-leg-scenarios.md
                   - name: Back-to-back user agent architecture
                     href: UCMA/back-to-back-user-agent-architecture.md
               - name: Conferences
-                href: UCMA/conferences.md
                 items:
+                - name: Overview
+                  href: UCMA/conferences.md              
                 - name: ConferenceSession state transitions
                   href: UCMA/conferencesession-state-transitions.md
                 - name: Conference lobby
@@ -1144,8 +1213,9 @@
               - name: Conversation context channel
                 href: UCMA/conversation-context-channel.md
             - name: Trusted conferencing user
-              href: UCMA/trusted-conferencing-user.md
               items:
+              - name: Overview
+                href: UCMA/trusted-conferencing-user.md            
               - name: Trusted conferencing user conversation model
                 href: UCMA/trusted-conferencing-user-conversation-model.md
               - name: Trusted conferencing user conversation model API
@@ -1157,8 +1227,9 @@
               - name: MCU call establishment and handling
                 href: UCMA/mcu-call-establishment-and-handling.md
             - name: Presence, contacts, and groups
-              href: UCMA/presence-contacts-and-groups.md
               items:
+              - name: Overview
+                href: UCMA/presence-contacts-and-groups.md            
               - name: Simplified presence publication for endpoints
                 href: UCMA/simplified-presence-publication-for-endpoints.md
               - name: RemotePresenceView
@@ -1170,8 +1241,9 @@
               - name: Privacy management
                 href: UCMA/privacy-management.md
             - name: Media handling - InstantMessage
-              href: UCMA/media-handling-instantmessage.md
               items:
+              - name: Overview
+                href: UCMA/media-handling-instantmessage.md            
               - name: InstantMessagingCall
                 href: UCMA/instantmessagingcall.md
               - name: InstantMessagingMcuSession
@@ -1185,8 +1257,9 @@
               - name: Handle an InstantMessagingFlow
                 href: UCMA/handle-an-instantmessagingflow.md
             - name: Media handling - AudioVideo
-              href: UCMA/media-handling-audiovideo.md
               items:
+              - name: Overview
+                href: UCMA/media-handling-audiovideo.md             
               - name: AudioVideoCall
                 href: UCMA/audiovideocall.md
               - name: AudioVideoMcuSession
@@ -1200,8 +1273,9 @@
               - name: Starting a media flow
                 href: UCMA/starting-a-media-flow.md
             - name: Audio devices
-              href: UCMA/audio-devices.md
               items:
+              - name: Overview
+                href: UCMA/audio-devices.md            
               - name: Player
                 href: UCMA/player.md
               - name: Recorder
@@ -1213,8 +1287,9 @@
               - name: SpeechSynthesisConnector
                 href: UCMA/speechsynthesisconnector.md
           - name: Platform and endpoints
-            href: UCMA/platform-and-endpoints.md
             items:
+            - name: Overview
+              href: UCMA/platform-and-endpoints.md          
             - name: Client platforms
               href: UCMA/client-platforms.md
             - name: Server platforms
@@ -1228,8 +1303,9 @@
             - name: Trusted domains and SIP gateways
               href: UCMA/trusted-domains-and-sip-gateways.md
           - name: Signaling layer
-            href: UCMA/signaling-layer.md
             items:
+            - name: Overview
+              href: UCMA/signaling-layer.md          
             - name: Connection manager
               href: UCMA/connection-manager.md
             - name: RealTimeEndpoint, SipEndpoint, SipPeerToPeerEndpoint
@@ -1243,8 +1319,9 @@
             - name: Page-mode messaging
               href: UCMA/page-mode-messaging.md
             - name: Sending and receiving page-mode messages
-              href: UCMA/sending-and-receiving-page-mode-messages.md
               items:
+              - name: Overview
+                href: UCMA/sending-and-receiving-page-mode-messages.md            
               - name: Sending page-mode messages synchronously
                 href: UCMA/sending-page-mode-messages-synchronously.md
               - name: Sending page-mode messages asynchronously
@@ -1254,8 +1331,9 @@
             - name: Parsing and constructing SDP documents
               href: UCMA/parsing-and-constructing-sdp-documents.md
           - name: Error handling and diagnostics
-            href: UCMA/error-handling-and-diagnostics.md
             items:
+            - name: Overview
+              href: UCMA/error-handling-and-diagnostics.md          
             - name: UCMA 5.0 exception model
               href: UCMA/ucma-5-0-exception-model.md
             - name: Diagnostics and error reporting
@@ -1263,15 +1341,17 @@
             - name: Troubleshooting media connectivity issues
               href: UCMA/troubleshooting-media-connectivity-issues.md
           - name: High availability and recovery
-            href: UCMA/high-availability-and-recovery.md
             items:
+            - name: Overview
+              href: UCMA/high-availability-and-recovery.md          
             - name: High availability and failover in UCMA 5.0
               href: UCMA/high-availability-and-failover-in-ucma-5-0.md
             - name: Failover concepts
               href: UCMA/failover-concepts.md
             - name: Call recovery
-              href: UCMA/call-recovery.md
               items:
+              - name: Overview
+                href: UCMA/call-recovery.md            
               - name: Call recovery concepts
                 href: UCMA/call-recovery-concepts.md
               - name: Call recovery usage
@@ -1281,8 +1361,9 @@
             - name: Conference recovery
               href: UCMA/conference-recovery.md
           - name: UCMA 5.0 implementation architecture and application behavior
-            href: UCMA/ucma-5-0-implementation-architecture-and-application-behavior.md
             items:
+            - name: Overview
+              href: UCMA/ucma-5-0-implementation-architecture-and-application-behavior.md          
             - name: Asynchronous pattern
               href: UCMA/asynchronous-pattern.md
             - name: Threading model
@@ -1296,18 +1377,21 @@
             - name: Application behavior
               href: UCMA/application-behavior.md
         - name: Advanced concepts and best practices
-          href: UCMA/advanced-concepts-and-best-practices.md
           items:
+          - name: Overview
+            href: UCMA/advanced-concepts-and-best-practices.md        
           - name: Extending the UCMA platform
-            href: UCMA/extending-the-ucma-platform.md
             items:
+            - name: Overview
+              href: UCMA/extending-the-ucma-platform.md          
             - name: Extending the Call class
               href: UCMA/extending-the-call-class.md
             - name: Extending the MediaProvider class
               href: UCMA/extending-the-mediaprovider-class.md
             - name: MediaProvider and Call architecture
-              href: UCMA/mediaprovider-and-call-architecture.md
               items:
+              - name: Overview
+                href: UCMA/mediaprovider-and-call-architecture.md            
               - name: Negotiating declined offers
                 href: UCMA/negotiating-declined-offers.md
               - name: Triggering SDP renegotiations
@@ -1321,23 +1405,27 @@
             - name: Extending the CallFactory and MediaProviderFactory classes
               href: UCMA/extending-the-callfactory-and-mediaproviderfactory-classes.md
           - name: Best practices
-            href: UCMA/best-practices.md
             items:
+            - name: Overview
+              href: UCMA/best-practices.md          
             - name: General guidelines
               href: UCMA/ucma-5-0-general-guidelines.md
             - name: Media guidelines
               href: UCMA/media-guidelines.md
         - name: Managing UCMA 5.0 applications
-          href: UCMA/managing-ucma-5-0-applications.md
           items:
+          - name: Overview
+            href: UCMA/managing-ucma-5-0-applications.md        
           - name: UCMA 5.0 Runtime
             href: UCMA/ucma-5-0-runtime.md
           - name: Administering a UCMA 5.0 application
-            href: UCMA/administering-a-ucma-5-0-application.md
             items:
+            - name: Overview
+              href: UCMA/administering-a-ucma-5-0-application.md          
             - name: Managed SIP stack performance counters
-              href: UCMA/managed-sip-stack-performance-counters.md
               items:
+              - name: Overview
+                href: UCMA/managed-sip-stack-performance-counters.md            
               - name: Dialogs performance counters
                 href: UCMA/dialogs-performance-counters.md
               - name: Transactions performance counters
@@ -1349,8 +1437,9 @@
               - name: Outgoing messages performance counters
                 href: UCMA/outgoing-messages-performance-counters.md
             - name: Media stack performance counters
-              href: UCMA/media-stack-performance-counters.md
               items:
+              - name: Overview
+                href: UCMA/media-stack-performance-counters.md            
               - name: Operations performance counters
                 href: UCMA/operations-performance-counters.md
               - name: Planning performance counters
@@ -1362,15 +1451,17 @@
             - name: Security considerations in UCMA 5.0
               href: UCMA/security-considerations-in-ucma-5-0.md
             - name: Call admission control
-              href: UCMA/call-admission-control.md
               items:
+              - name: Overview
+                href: UCMA/call-admission-control.md            
               - name: Call admission control usage scenarios
                 href: UCMA/call-admission-control-usage-scenarios.md
               - name: MediaProvider recommendations
                 href: UCMA/mediaprovider-recommendations.md
           - name: Activating a UCMA 5.0 trusted application
-            href: UCMA/activating-a-ucma-5-0-trusted-application.md
             items:
+            - name: Overview
+              href: UCMA/activating-a-ucma-5-0-trusted-application.md          
             - name: General application activation
               href: UCMA/general-application-activation.md
             - name: Activating an auto-provisioned application
@@ -1384,8 +1475,9 @@
           - name: Using Skype for Business Server 2015 Logging Tool
             href: UCMA/using-skype-for-business-server-2015-logging-tool.md
           - name: Migration, coexistence, and upgrade of UCMA applications
-            href: UCMA/migration-coexistence-and-upgrade-of-ucma-applications.md
             items:
+            - name: Overview
+              href: UCMA/migration-coexistence-and-upgrade-of-ucma-applications.md          
             - name: 'UCMA applications: Coexistence, migration, and upgrade scenarios'
               href: UCMA/ucma-applications-coexistence-migration-and-upgrade-scenarios.md
             - name: 'UCMA 3.0 Core applications: Coexistence and deployment scenarios'
@@ -1399,8 +1491,9 @@
           - name: Deploying UCMA 4.0 and UCMA 5.0 Applications in a Skype for Business Server 2015 Environment
             href: UCMA/deploying-ucma-4-0-and-ucma-5-0-applications-in-a-skype-for-business-server-2015-environment.md
         - name: VoiceXML support in UCMA 5.0
-          href: UCMA/voicexml-support-in-ucma-5-0.md
           items:
+          - name: Overview
+            href: UCMA/voicexml-support-in-ucma-5-0.md        
           - name: Overview of VoiceXML support in UCMA 5.0
             href: UCMA/overview-of-voicexml-support-in-ucma-5-0.md
           - name: Diagram of a VoiceXML call
@@ -1412,14 +1505,17 @@
           - name: Tasks of the host .NET application
             href: UCMA/tasks-of-the-host-net-application.md
         - name: UCMA 5.0 sample applications
-          href: UCMA/ucma-5-0-sample-applications.md
           items:
+          - name: Overview
+            href: UCMA/ucma-5-0-sample-applications.md        
           - name: QuickStart sample applications
-            href: UCMA/quickstart-sample-applications.md
             items:
+            - name: Overview
+              href: UCMA/quickstart-sample-applications.md          
             - name: AudioVideoCall samples
-              href: UCMA/audiovideocall-samples.md
               items:
+              - name: Overview
+                href: UCMA/audiovideocall-samples.md            
               - name: AVFlow-ApplyChanges (QuickStart)
                 href: UCMA/avflow-applychanges-quickstart.md
               - name: AVFlow-Hold (QuickStart)
@@ -1483,15 +1579,17 @@
             - name: VoiceXMLSample (QuickStart)
               href: UCMA/voicexmlsample-quickstart.md
           - name: Reference applications
-            href: UCMA/reference-applications.md
             items:
+            - name: Overview
+              href: UCMA/reference-applications.md          
             - name: Contact Center (sample)
               href: UCMA/contact-center-sample.md
             - name: Voice Companion (sample)
               href: UCMA/voice-companion-sample.md
             - name: Build a Bot (sample)
-              href: UCMA/build-a-bot-sample.md
               items:
+              - name: Overview
+                href: UCMA/build-a-bot-sample.md            
               - name: Setting up the development environment
                 href: UCMA/setting-up-the-development-environment.md
               - name: Creating a generic bot
@@ -1505,25 +1603,29 @@
       - name: UCMA 5.0 API reference
         href: https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration?view=ucma-api-5.0              
     - name: Skype for Business SDN Interface
-      href: SDN/articles/skype-for-business-sdn-interface.md
       items:
       - name: Overview
-        href: SDN/articles/overview.md
+        href: SDN/articles/skype-for-business-sdn-interface.md    
+      - name: Section overview
         items:
-        - name: Release Notes
+        - name: Overview
+          href: SDN/articles/overview.md      
+        - name: Release notes
           href: SDN/articles/release-notes.md
         - name: Understanding SDN Interface
-          href: SDN/articles/understanding-sdn-interface.md
           items:
+          - name: Overview
+            href: SDN/articles/understanding-sdn-interface.md        
           - name: Using the SDN Interface
             href: SDN/articles/using-the-sdn-interface.md
           - name: Interface Architecture
             href: SDN/articles/interface-architecture.md
           - name: Deploying the SDN Interface
             href: SDN/articles/deploying-the-sdn-interface.md
-          - name: New Features
-            href: SDN/articles/new-features.md
+          - name: New features
             items:
+            - name: Overview
+              href: SDN/articles/new-features.md          
             - name: PowerShell Provisioning
               href: SDN/articles/powershell-provisioning.md
             - name: Subscriber Obfuscation
@@ -1533,11 +1635,13 @@
             - name: In-call QoE algorithm and throttling
               href: SDN/articles/in-call-qoe-algorithm-and-throttling.md
         - name: Installing SDN Interface
-          href: SDN/articles/installing-sdn-interface.md
           items:
+          - name: Overview
+            href: SDN/articles/installing-sdn-interface.md        
           - name: Getting ready to install SDN Interface
-            href: SDN/articles/getting-ready-to-install-sdn-interface.md
             items:
+            - name: Overview
+              href: SDN/articles/getting-ready-to-install-sdn-interface.md          
             - name: Activating QoE recording
               href: SDN/articles/activating-qoe-recording.md
             - name: Setting up a DNS service location record
@@ -1557,8 +1661,9 @@
         - name: Upgrading from previous versions
           href: SDN/articles/upgrading-from-previous-versions.md
         - name: Configuring SDN Interface
-          href: SDN/articles/configuring-sdn-interface.md
           items:
+          - name: Overview
+            href: SDN/articles/configuring-sdn-interface.md        
           - name: Configuring  logging options
             href: SDN/articles/configuring-logging-options.md
           - name: Configuring Dialog Listener
@@ -1570,8 +1675,9 @@
           - name: Configuring SDN Interface using the command prompt
             href: SDN/articles/configuring-sdn-interface-using-the-command-prompt.md
         - name: Running and debugging SDN Interface
-          href: SDN/articles/running-and-debugging-sdn-interface.md
           items:
+          - name: Overview
+            href: SDN/articles/running-and-debugging-sdn-interface.md        
           - name: Running the Dialog Listene
             href: SDN/articles/running-the-dialog-listene.md
           - name: Running the SDN Manager
@@ -1591,8 +1697,9 @@
           - name: Using SIP Obfuscator for the SDN Interface
             href: SDN/articles/using-sip-obfuscator-for-the-sdn-interface.md
         - name: Appendix
-          href: SDN/articles/appendix.md
           items:
+          - name: Overview
+            href: SDN/articles/appendix.md        
           - name: Installing the trusted root certificate
             href: SDN/articles/installing-the-trusted-root-certificate.md
           - name: Dialog Listener configuration file example
@@ -1606,16 +1713,19 @@
           - name: SDN Interface Performance Overview
             href: SDN/articles/sdn-interface-performance-overview.md
       - name: Skype for Business SDN Interface Schema Reference
-        href: SDN/articles/skype-for-business-sdn-interface-schema-reference.md
         items:
+          - name: Overview
+            href: SDN/articles/skype-for-business-sdn-interface-schema-reference.md      
           - name: Skype for Business SDN Interface 2.2, Schema C
-            href: SDN/articles/skype-for-business-sdn-interface-2-2-schema-c.md
             items:
+            - name: Overview
+              href: SDN/articles/skype-for-business-sdn-interface-2-2-schema-c.md          
             - name: Schema map (Skype for Business SDN Interface 2.2, Schema C)
               href: SDN/articles/schema-map-skype-for-business-sdn-interface-2-2-schema-c.md
             - name: Elements (Skype for Business SDN Interface 2.2, Schema C)
-              href: SDN/articles/elements-skype-for-business-sdn-interface-2-2-schema-c.md
               items:
+              - name: Overview
+                href: SDN/articles/elements-skype-for-business-sdn-interface-2-2-schema-c.md            
               - name: AppliedBandwidthLimit element
                 href: SDN/articles/appliedbandwidthlimit-element-qualitypropertiestype-complextype-skype-sdn-2-2-c.md
               - name: AudioTimestampErrorMicMs element
@@ -1963,8 +2073,9 @@
               - name: WifiDriverVersion element
                 href: SDN/articles/wifidriverversion-element-qualityendpointtype-complextype-skype-sdn-2-2-c.md
             - name: Types (Skype for Business SDN Interface 2.2, Schema C)
-              href: SDN/articles/types-skype-for-business-sdn-interface-2-2-schema-c.md
               items:
+              - name: Overview
+                href: SDN/articles/types-skype-for-business-sdn-interface-2-2-schema-c.md            
               - name: BandwidthType complexType
                 href: SDN/articles/bandwidthtype-complextype-skype-for-business-sdn-interface-2-2-schema-c.md
               - name: ByeType complexType
@@ -2004,13 +2115,15 @@
               - name: StartPropertiesType complexType
                 href: SDN/articles/startpropertiestype-complextype-skype-for-business-sdn-interface-2-2-schema-c.md
           - name: Skype for Business SDN Interface 2.2, Schema D
-            href: SDN/articles/skype-for-business-sdn-interface-2-2-schema-d.md
             items:
+            - name: Overview
+              href: SDN/articles/skype-for-business-sdn-interface-2-2-schema-d.md          
             - name: Schema map (Skype for Business SDN Interface 2.2, Schema D)
               href: SDN/articles/schema-map-skype-for-business-sdn-interface-2-2-schema-d.md
             - name: Elements (Skype for Business SDN Interface 2.2, Schema D)
-              href: SDN/articles/elements-skype-for-business-sdn-interface-2-2-schema-d.md
               items:
+              - name: Overview
+                href: SDN/articles/elements-skype-for-business-sdn-interface-2-2-schema-d.md            
               - name: AppliedBandwidthLimit element
                 href: SDN/articles/appliedbandwidthlimit-element-qualitypropertiestype-complextype-skype-sdn-2-2-d.md
               - name: AudioTimestampErrorMicMs element
@@ -2494,8 +2607,9 @@
               - name: Wireless element (ErrorEndPointType complexType)
                 href: SDN/articles/wireless-element-errorendpointtype-complextype-skype-for-business-sdn-interface-2-2-schema-d.md
             - name: Types (Skype for Business SDN Interface 2.2, Schema D)
-              href: SDN/articles/types-skype-for-business-sdn-interface-2-2-schema-d.md
               items:
+              - name: Overview
+                href: SDN/articles/types-skype-for-business-sdn-interface-2-2-schema-d.md            
               - name: BandwidthDataType simpleType
                 href: SDN/articles/bandwidthdatatype-simpletype-skype-for-business-sdn-interface-2-2-schema-d.md
               - name: BSSIDPattern simpleType
