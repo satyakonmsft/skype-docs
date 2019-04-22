@@ -6,7 +6,7 @@
     items:
     - name: Overview
       href: SkypeDeveloperPlatform.md
-    - name: Skype URI Development
+    - name: Skype URI development
       items:
       - name: Overview
         href: SkypeURIs/SkypeDevelopment.md
@@ -38,7 +38,7 @@
         href: WebSDK/docs/SkypeWebSDK.md
       - name: Skype Web SDK general reference
         href: WebSDK/docs/GeneralReference.md
-      - name: Core Capabilities
+      - name: Core capabilities
         items:
         - name: Overview
           href: WebSDK/docs/CoreCapabilities.md      
@@ -58,7 +58,7 @@
           href: WebSDK/docs/Persons.md
         - name: Devices
           href: WebSDK/docs/Devices.md
-      - name: Getting Started
+      - name: Getting started
         items:
         - name: Overview
           href: WebSDK/docs/GettingStarted.md      
@@ -66,7 +66,7 @@
           href: WebSDK/docs/DownloadRunSamples.md
         - name: Skype Web SDK API product keys
           href: WebSDK/docs/APIProductKeys.md
-      - name: Developing Applications
+      - name: Developing applications
         items:
         - name: Overview
           href: WebSDK/docs/DevelopApplications.md      
@@ -84,21 +84,21 @@
           items:
           - name: Overview
             href: WebSDK/docs/troubleshooting/troubleShooting.md        
-          - name: Troubleshooting Azure AD Authentication Failures for Skype Web SDK
+          - name: Troubleshooting Azure AD Authentication failures for Skype Web SDK
             href: WebSDK/docs/troubleshooting/auth/AADAuthFailures.md
-          - name: AAD Auth Failures - Providing incorrect client ID
+          - name: Providing incorrect client ID
             href: WebSDK/docs/troubleshooting/auth/AADAuth-ClientID.md
-          - name: 'AAD Auth Failures - Client requesting resource not in requiredResourceAccess list '
+          - name: Client requesting resource not in requiredResourceAccess list
             href: WebSDK/docs/troubleshooting/auth/AADAuth-DelegatePermissions.md
-          - name: AAD Auth Failures - Incorrectly configured reply URLs for application
+          - name: Incorrectly configured reply URLs for application
             href: WebSDK/docs/troubleshooting/auth/AADAuth-ReplyURLs.md
-          - name: AAD Auth Failures - Administrator has not provided consent to use SfB Web APIs
+          - name: Administrator has not provided consent to use SfB Web APIs
             href: WebSDK/docs/troubleshooting/auth/AADAuth-AdminConsent.md
-          - name: AAD Auth Failures - Implicit OAuth is not enabled for the application
+          - name: Implicit OAuth is not enabled for the application
             href: WebSDK/docs/troubleshooting/auth/AADAuth-EnableImplicitOAuth.md
-          - name: AAD Auth Failures - Crossing security zones in Internet Explorer
+          - name: Crossing security zones in Internet Explorer
             href: WebSDK/docs/troubleshooting/auth/AADAuth-IESecurityZones.md
-          - name: AAD Auth Failures - Invalid CORS redirect URI in Internet Explorer
+          - name: Invalid CORS redirect URI in Internet Explorer
             href: WebSDK/docs/troubleshooting/auth/AAdAuth-IECORSRedirectURI.md
         - name: Gathering logs to troubleshoot issues and submit error reports
           items:
@@ -114,7 +114,7 @@
             href: WebSDK/docs/troubleshooting/gatheringLogs/Logs-DesktopClient.md
         - name: Checking for and handling application errors
           href: WebSDK/docs/troubleshooting/handlingapplicationerrors.md
-      - name: Programming Tasks
+      - name: Programming tasks
         items:
         - name: Overview
           href: WebSDK/docs/ProgrammingTasks.md      
@@ -158,21 +158,21 @@
           items:
           - name: Overview
             href: WebSDK/docs/PTGroups.md        
-          - name: Groups Overview
+          - name: Groups overview
             href: WebSDK/docs/PTGroupsOverview.md
           - name: Search
             href: WebSDK/docs/PTContactsSearch.md
-          - name: Add Contact
+          - name: Add contact
             href: WebSDK/docs/PTGroupsAddContact.md
-          - name: Add Group
+          - name: Add group
             href: WebSDK/docs/PTGroupsAddGroup.md
           - name: All
             href: WebSDK/docs/PTGroupsAll.md
-          - name: Remove Contact
+          - name: Remove contact
             href: WebSDK/docs/PTGroupsRemoveContact.md
-          - name: Remove Group
+          - name: Remove group
             href: WebSDK/docs/PTGroupsRemoveGroup.md
-          - name: Rename Group
+          - name: Rename group
             href: WebSDK/docs/PTGroupsRenameGroup.md
         - name: Chat
           items:
@@ -182,7 +182,7 @@
             href: WebSDK/docs/PTChatOutgoingP2P.md
           - name: Incoming P2P
             href: WebSDK/docs/PTChatIncomingP2P.md
-          - name: P2P Escalation
+          - name: P2P escalation
             href: WebSDK/docs/PTChatP2PEscalation.md
           - name: Group
             href: WebSDK/docs/PTChatGroup.md
@@ -190,33 +190,33 @@
           items:
           - name: Overview
             href: WebSDK/docs/PTAudio.md        
-          - name: Outgoing P2P And PSTN
+          - name: Outgoing P2P and PSTN
             href: WebSDK/docs/PTAudioOutgoing.md
-          - name: Incoming P2P And PSTN
+          - name: Incoming P2P and PSTN
             href: WebSDK/docs/PTAudioIncoming.md
-          - name: P2P Escalation
+          - name: P2P escalation
             href: WebSDK/docs/PTAudioP2PEscalation.md
           - name: Group
             href: WebSDK/docs/PTAudioGroup.md
           - name: Mute
             href: WebSDK/docs/PTAudioMute.md
-          - name: Hold Resume
+          - name: Hold resume
             href: WebSDK/docs/PTAudioHoldResume.md
-          - name: Phone Audio
+          - name: Phone audio
             href: WebSDK/docs/PTAudioPhoneAudio.md
-          - name: Call Transfer
+          - name: Call transfer
             href: WebSDK/docs/PTAudioCallTransfer.md
         - name: Video
           items:
           - name: Overview
             href: WebSDK/docs/PTVideo.md        
-          - name: Add Video
+          - name: Add video
             href: WebSDK/docs/PTVideoAddVideo.md
           - name: Outgoing P2P
             href: WebSDK/docs/PTVideoOutgoingP2P.md
           - name: Incoming P2P
             href: WebSDK/docs/PTVideoIncomingP2P.md
-          - name: P2P Escalation
+          - name: P2P escalation
             href: WebSDK/docs/PTVideoP2PEscalation.md
           - name: Group
             href: WebSDK/docs/PTVideoGroup.md
@@ -226,15 +226,15 @@
           items:
           - name: Overview
             href: WebSDK/docs/PTMeetings.md        
-          - name: Schedule Meeting
+          - name: Schedule meeting
             href: WebSDK/docs/ScheduleMeeting.md
         - name: History
           items:
           - name: Overview
             href: WebSDK/docs/PTHistory.md        
-          - name: Conversation History
+          - name: Conversation history
             href: WebSDK/docs/PTHistoryConversation.md
-        - name: UI Controls
+        - name: UI controls
           items:
           - name: Overview
             href: WebSDK/docs/PTUIControls.md        
@@ -244,13 +244,13 @@
           items:
           - name: Overview
             href: WebSDK/docs/PTDevicesManager.md        
-          - name: Manage Devices
+          - name: Manage devices
             href: WebSDK/docs/PTDevicesManagerManageDevices.md
-      - name: Release Notes
+      - name: Release notes
         items:
         - name: Overview
           href: WebSDK/docs/ReleaseNotes.md      
-        - name: Skype Web SDK Version Update Notifications
+        - name: Skype Web SDK version update notifications
           href: WebSDK/docs/SkypeWebSDKVersionUpdateNotifications.md
       - name: CONTRIBUTING
         href: https://github.com/OfficeDev/skype-docs/blob/master/CONTRIBUTING.md
@@ -260,35 +260,35 @@
       items:
       - name: Overview
         href: AppSDK/SkypeAppSDK.md     
-      - name: 'Overview: Embed B2C communications'
+      - name: Embed B2C communications
         href: AppSDK/EmbedSkypeB2Ccomms.md
       - name: Getting started
         items:
         - name: Overview
           href: AppSDK/GettingStarted.md      
-        - name: Get an on-premise meeting URL
+        - name: Get an on-premises meeting URL
           href: AppSDK/GetMeetingURL.md
         - name: Get meeting join resources for Skype for Business Online meetings
           href: AppSDK/GetOnlineMeetingJoinResources.md
         - name: Use the SDK to join a meeting with an Android device
           href: AppSDK/HowToJoinMeeting_Android.md
-        - name: Use the App SDK and the Trusted Application API to join an Online meeting - Android
+        - name: Use the App SDK and the Trusted Application API to join an online meeting - Android
           href: AppSDK/HowToJoinOnlineMeeting_Android.md
         - name: Use the SDK to join a meeting with an iOS device
           href: AppSDK/HowToJoinMeeting_iOS.md
-        - name: Use the App SDK and the Trusted Application API to join an Online meeting - iOS
+        - name: Use the App SDK and the Trusted Application API to join an online meeting - iOS
           href: AppSDK/HowToJoinOnlineMeeting_iOS.md
       - name: Orientation
         items:
         - name: Overview
           href: AppSDK/Orientation.md      
-        - name: API Overview
+        - name: API overview
           href: AppSDK/APIoverview.md
         - name: Platform considerations
           href: AppSDK/PlatformConsiderations.md
         - name: Versioning
           href: AppSDK/Versioning.md
-      - name: Release Notes
+      - name: Release notes
         href: AppSDK/ReleaseNotes.md
       - name: Download
         href: AppSDK/Download.md
@@ -334,17 +334,17 @@
           href: Trusted-Application-API/docs/DevelopingApplicationsforSFBOnline.md      
         - name: Registration in Azure Active Directory
           href: Trusted-Application-API/docs/RegistrationInAzureActiveDirectory.md
-        - name: Azure Active Directory - Service to Service calls using Client Credentials
+        - name: Azure Active Directory - Service to Service calls using client credentials
           href: Trusted-Application-API/docs/AADS2S.md
-        - name: Tenant Admin Consent
+        - name: Tenant Admin consent
           href: Trusted-Application-API/docs/TenantAdminConsent.md
-        - name: Set up a Trusted Application Endpoint
+        - name: Set up a Trusted Application endpoint
           href: Trusted-Application-API/docs/TrustedApplicationEndpoint.md
         - name: Registering a Trusted Application in Skype for Business Online
           href: Trusted-Application-API/docs/SfBRegistration.md
-        - name: Discovery for Service Applications
+        - name: Discovery for service applications
           href: Trusted-Application-API/docs/DiscoveryForServiceApplications.md
-        - name: Authentication and Authorization
+        - name: Authentication and authorization
           items:
           - name: Overview
             href: Trusted-Application-API/docs/AuthenticationAndAuthorization.md        
@@ -352,15 +352,15 @@
             items:
             - name: Overview
               href: Trusted-Application-API/docs/AnonymousMeetingJoin.md          
-            - name: Anonymous Meeting Scheduling
+            - name: Anonymous meeting scheduling
               href: Trusted-Application-API/docs/AnonymousMeetingSchedule.md
-            - name: Implementing an Anonymous Client with the Skype Web SDK
+            - name: Implementing an anonymous client with the Skype Web SDK
               href: Trusted-Application-API/docs/ImplementingAnonymousClientWithSkypeWebSDK.md
-            - name: Implementing an Anonymous Client with the Skype App SDK - Android
+            - name: Implementing an anonymous client with the Skype App SDK - Android
               href: Trusted-Application-API/docs/ImplementingAnonymousClientWithSkypeAppSDK.md
-            - name: Implementing an Anonymous Client with the Skype App SDK - iOS
+            - name: Implementing an anonymous client with the Skype App SDK - iOS
               href: Trusted-Application-API/docs/ImplementingAnonymousClientWithSkypeAppSDK_iOS.md
-            - name: Anonymous Meeting Join Common Errors
+            - name: Anonymous Meeting Join common errors
               href: Trusted-Application-API/docs/AnonymousMeetingCommonErrors.md
       - name: Trusted Application API samples
         href: Trusted-Application-API/docs/Samples.md
@@ -374,7 +374,7 @@
         items:
         - name: Overview
           href: UCWA/UCWA2_0GeneralReference.md      
-        - name: What's New in UCWA 2.0
+        - name: What's new in UCWA 2.0
           href: UCWA/WhatsNewInUCWA2_0.md
         - name: Core capabilities
           href: UCWA/CoreCapabilities.md
@@ -388,9 +388,9 @@
             href: UCWA/Hypermedia.md
           - name: Resources in UCWA
             href: UCWA/ResourcesInUCWA.md
-          - name: Payload Format
+          - name: Payload format
             href: UCWA/PayloadFormat.md
-          - name: Query Parameters
+          - name: Query parameters
             href: UCWA/QueryParameters.md
           - name: Events in UCWA
             href: UCWA/EventsInUCWA.md
@@ -434,7 +434,7 @@
               href: UCWA/RootURL.md
             - name: Authentication in UCWA
               href: UCWA/AuthenticationInUCWA.md
-            - name: UCWA IT Administration
+            - name: UCWA IT administration
               items:
               - name: Overview
                 href: UCWA/UCWA_IT_Administration.md            
@@ -1130,7 +1130,7 @@
               href: UCMA/reference-topology-with-limited-high-availability.md
             - name: Reference topology with high availability and a single data center
               href: UCMA/reference-topology-with-high-availability-and-a-single-data-center.md
-            - name: Reference topology with high availability and multiple data center
+            - name: Reference topology with high availability and multiple data centers
               href: UCMA/reference-topology-with-high-availability-and-multiple-data-center.md
           - name: UCMA 5.0 object model
             href: UCMA/ucma-5-0-object-model.md
@@ -1618,7 +1618,7 @@
             href: SDN/articles/understanding-sdn-interface.md        
           - name: Using the SDN Interface
             href: SDN/articles/using-the-sdn-interface.md
-          - name: Interface Architecture
+          - name: Interface architecture
             href: SDN/articles/interface-architecture.md
           - name: Deploying the SDN Interface
             href: SDN/articles/deploying-the-sdn-interface.md
@@ -1626,11 +1626,11 @@
             items:
             - name: Overview
               href: SDN/articles/new-features.md          
-            - name: PowerShell Provisioning
+            - name: PowerShell provisioning
               href: SDN/articles/powershell-provisioning.md
-            - name: Subscriber Obfuscation
+            - name: Subscriber obfuscation
               href: SDN/articles/subscriber-obfuscation.md
-            - name: Schema Extensions
+            - name: Schema extensions
               href: SDN/articles/schema-extensions.md
             - name: In-call QoE algorithm and throttling
               href: SDN/articles/in-call-qoe-algorithm-and-throttling.md
@@ -1646,7 +1646,7 @@
               href: SDN/articles/activating-qoe-recording.md
             - name: Setting up a DNS service location record
               href: SDN/articles/setting-up-a-dns-service-location-record.md
-            - name: Setting up SQL Server for a SDN manager db
+            - name: Setting up SQL Server for an SDN manager db
               href: SDN/articles/setting-up-sql-server-for-a-sdn-manager-db.md
             - name: Setting up a Redis cache system
               href: SDN/articles/setting-up-a-redis-cache-system.md
@@ -1664,7 +1664,7 @@
           items:
           - name: Overview
             href: SDN/articles/configuring-sdn-interface.md        
-          - name: Configuring  logging options
+          - name: Configuring logging options
             href: SDN/articles/configuring-logging-options.md
           - name: Configuring Dialog Listener
             href: SDN/articles/configuring-dialog-listener.md
@@ -1678,7 +1678,7 @@
           items:
           - name: Overview
             href: SDN/articles/running-and-debugging-sdn-interface.md        
-          - name: Running the Dialog Listene
+          - name: Running the Dialog Listener
             href: SDN/articles/running-the-dialog-listene.md
           - name: Running the SDN Manager
             href: SDN/articles/running-the-sdn-manager.md
@@ -1692,7 +1692,7 @@
             href: SDN/articles/sdn-manager-and-dialog-listener-performance-counters.md
           - name: Uninstalling the SDN Interface components
             href: SDN/articles/uninstalling-the-sdn-interface-components.md
-          - name: Configuring InCallQoE Messages
+          - name: Configuring InCallQoE messages
             href: SDN/articles/configuring-incallqoe-messages.md
           - name: Using SIP Obfuscator for the SDN Interface
             href: SDN/articles/using-sip-obfuscator-for-the-sdn-interface.md
@@ -1708,9 +1708,9 @@
             href: SDN/articles/sdn-manager-configuration-file-example.md
           - name: SDN Manager command-line example
             href: SDN/articles/sdn-manager-command-line-example.md
-          - name: SDN Interface Bandwidth Estimates
+          - name: SDN Interface bandwidth estimates
             href: SDN/articles/sdn-interface-bandwidth-estimates.md
-          - name: SDN Interface Performance Overview
+          - name: SDN Interface performance overview
             href: SDN/articles/sdn-interface-performance-overview.md
       - name: Skype for Business SDN Interface Schema Reference
         items:
