@@ -7,7 +7,7 @@ Thank you for your interest in Skype for Business developer documentation!
 The markdown documents in this repository project are the source of the **Trusted Application API** documentation available to the public preview release, the Microsoft developer site at msdn.microsoft.com/skype.
 
 > [!NOTE] 
-> The Trusted Application API is in Developer Preview and not licensed for production usage.  As part of Microsoft’s [intellgent communications vision](https://aka.ms/intelligentcommunicationsblog), we’re building extensible communications capabilities into Teams.  For more Teams Developer information, check out [https://aka.ms/TeamsDeveloper](https://aka.ms/TeamsDeveloper)
+> The Trusted Application API is in Developer Preview and not licensed for production usage.  As part of Microsoft’s [intelligent communications vision](https://aka.ms/intelligentcommunicationsblog), we’re building extensible communications capabilities into Teams.  For more Teams Developer information, see [https://aka.ms/TeamsDeveloper](https://aka.ms/TeamsDeveloper).
 
 ## Contribute to the documentation
 
