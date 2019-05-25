@@ -1,7 +1,7 @@
 # **Trusted Application API** reference
 
 > [!NOTE] 
-> The Trusted Application API is in Developer Preview and not licensed for production usage.  As part of Microsoft’s [intellgent communications vision](https://aka.ms/intelligentcommunicationsblog), we’re building extensible communications capabilities into Teams.  For more Teams Developer information, check out [https://aka.ms/TeamsDeveloper](https://aka.ms/TeamsDeveloper)
+> The Trusted Application API is in Developer Preview and not licensed for production usage.  As part of Microsoft’s [intelligent communications vision](https://aka.ms/intelligentcommunicationsblog), we’re building extensible communications capabilities into Teams.  For more Teams Developer information, see [https://aka.ms/TeamsDeveloper](https://aka.ms/TeamsDeveloper).
 
 Reference materials for **Trusted Application API** programmers.
 
