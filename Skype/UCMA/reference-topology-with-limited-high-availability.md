@@ -38,10 +38,7 @@ The reference topology with limited high availability is for an organization tha
     
   - If you have a partner, vendor or customer organization that also uses Skype for Business Server 2015, you can form a federated relationship with that organization. Your Skype for Business Server 2015 deployment would then recognize users from that federated organization, leading to better collaboration.
     
-  - Your users can exchange instant messages with users of public IM services, including any or all of the following: Windows Live, AOL, and Yahoo\!, as well as XMPP-based providers and servers, such as Google Talk and Jabber. A separate license might be required for public IM connectivity with Windows Live, AOL, and Yahoo\!
-
-
-> [!NOTE]
+ > [!NOTE]
 > In Skype for Business Server 2015, UCMA applications should never be homed on the branch office appliance. Instead, they should be connected directly to the Skype for Business Server 2015 Front End computer or Front End pool.
 
 
