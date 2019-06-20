@@ -1,10 +1,10 @@
-﻿---
+---
 title: Reference topology with limited high availability
 TOCTitle: Reference topology with limited high availability
 ms:assetid: a75b53a5-4951-4a2e-b261-55b1a4bf891b
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465969(v=office.16)
 ms:contentKeyID: 65239886
-ms.date: 07/27/2015
+ms.date: 06/21/2019
 mtps_version: v=office.16
 ---
 
@@ -38,7 +38,7 @@ The reference topology with limited high availability is for an organization tha
     
   - If you have a partner, vendor or customer organization that also uses Skype for Business Server 2015, you can form a federated relationship with that organization. Your Skype for Business Server 2015 deployment would then recognize users from that federated organization, leading to better collaboration.
     
- > [!NOTE]
+> [!NOTE]
 > In Skype for Business Server 2015, UCMA applications should never be homed on the branch office appliance. Instead, they should be connected directly to the Skype for Business Server 2015 Front End computer or Front End pool.
 
 
