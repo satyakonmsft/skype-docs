@@ -12,7 +12,7 @@ ms.assetid: c5b5083a-a25e-4409-a496-2616bb2b15a2
     
     
 
- **Applies to**: Lync Server 2013 | Skype for Business 2015 
+ **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 
 To ensure that the Software Defined Network (SDN) Interface components are successfully installed and started, do the following before you run the installation packages: 
   
