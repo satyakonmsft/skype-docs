@@ -12,7 +12,7 @@ ms.assetid: 6266c208-25a0-4f59-a66d-990cfda79052
     
     
 
- **Applies to**: Lync Server 2013 | Skype for Business 2015
+ **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
  
 Redis ( [http://redis.io/](http://redis.io/)) is a fast, light weight, scalable in-memory key-value cache system that you can use for a data store for your Skype for Business SDN Interface implementation 
   
