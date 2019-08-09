@@ -12,7 +12,7 @@ ms.assetid: 41743ca0-f297-4e11-8bd3-27bab2f4baee
     
     
 
- **Applies to**: Lync Server 2013 | Skype for Business 2015
+ **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 
 This section describes how to run Skype for Business SDN Manager as a Windows service and as a console application. 
   
