@@ -12,7 +12,7 @@ ms.assetid: 840474e7-94ee-4ea1-8bf4-64a168adfeea
     
     
 
- **Applies to**: Lync Server 2013 | Skype for Business 2015
+ **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 
 To ensure secure message transport and client authentication, the Skype for Business SDN Interface components support mutual transport layer security (TLS). But for this to work, you must request certificates from an appropriate certification authority. These certificates are needed for the SDN Manager, the Dialog Listener, and for subscribers. You might also have to install a root certificate of the certification authority (CA), if it is not trusted. 
   
