@@ -11,7 +11,7 @@ Learn how to configure in-call quality reporting for Skype for Business Server.
     
     
 
- **Applies to**: Lync Server 2013 | Skype for Business 2015
+ **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 
 InCallQoE updates contain quality metrics and are sent during the call. The metrics within the quality update reports are trailing weighted averages since the beginning of the call. They are supported by Windows desktop W16 Skype for Business client (as of the writing on this note). These are different from midcall quality updates that are supported by certain web based clients. 
   
