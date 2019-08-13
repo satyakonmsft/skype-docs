@@ -12,7 +12,7 @@ ms.assetid: e66f9787-ab6b-4a77-8895-0ae39a3a5ee1
     
     
 
- **Applies to**: Lync Server 2013 | Skype for Business 2015
+ **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
  
 In general, the Skype for Business Dialog Listener component obtains its configuration settings using two mechanisms: 
   
