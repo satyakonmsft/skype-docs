@@ -8,7 +8,7 @@ ms.assetid: c84231e4-5d96-4f1c-8747-a9a56d4794d9
 # Skype for Business SDN Interface architecture
 
 
- **Applies to**: Lync Server 2013 | Skype for Business 2015
+ **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
  
 Conceptually, the Skype for Business SDN Interface consists of the following components:
   
