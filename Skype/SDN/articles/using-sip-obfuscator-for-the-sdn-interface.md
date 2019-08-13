@@ -12,7 +12,7 @@ ms.assetid: d71f5c20-627e-43ed-8127-53e0d1c193ad
     
     
 
- **Applies to**: Lync Server 2013 | Skype for Business 2015
+ **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 
 The Skype for Business SDN Interface includes a utility named SIPObfuscator.exe for use by authorized partners that you can use to obtain the obfuscated value of a user name. The resultant obfuscated name can be used to query for dialog data involving the specified user when privacy protection is turned on. SipObfuscator.exe requires that .NET Framework 4.5 be installed. 
   
