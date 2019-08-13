@@ -8,7 +8,7 @@ ms.date: 11/25/2016
 
 # Skype for Business SDN Interface Schema Reference
 
-**Applies to**: Skype for Business 2015 
+**Applies to**: Skype for Business 2015  | Skype for Business 2019
 
 Reference documentation for the Software Defined Network (SDN) Interface XML schemas, both Schema "C" and Schema "D".
 
