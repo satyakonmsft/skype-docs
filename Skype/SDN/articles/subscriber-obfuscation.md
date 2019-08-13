@@ -12,7 +12,7 @@ Learn how to set an individual obfuscation seed for a subscriber.
     
     
 
- **Applies to**: Lync Server 2013 | Skype for Business 2015
+ **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 
 ## Per Subscriber Obfuscation
 

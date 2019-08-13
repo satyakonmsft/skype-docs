@@ -12,7 +12,7 @@ ms.assetid: 1dee6627-bd71-46e9-adb8-f2166fd8a97e
     
     
 
- **Applies to**: Lync Server 2013 | Skype for Business 2015
+ **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 
 You can configure the Skype for BusinessDialog Listener to query DNS for the location of the single host or pool of SDN Manager service, if the DNS service location record was created properly. This article explains how to create the service location records. You must have domain administrator privileges to do this. 
   
