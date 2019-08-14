@@ -12,7 +12,7 @@ ms.assetid: b411b6d6-4597-416f-8a68-292527d3f226
     
     
 
- **Applies to**: Lync Server 2013 | Skype for Business 2015
+ **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 
 Most settings used by the Dialog Listener and SDN Manager are kept in the central data store (local cache, SQL Server database, or Redis cache) that is managed by the configuration service. These settings can be accessed and modified through a command line tool (SDNManager.exe). SDNManager.exe can also get and set limits for quality metrics of call streams from the QoEMetrics database. 
   

@@ -12,7 +12,7 @@ ms.assetid: 4c97bce1-4b8b-4c13-8ec6-99eed59d88fc
     
     
 
- **Applies to**: Lync Server 2013 | Skype for Business 2015
+ **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
  
 In any given Skype for Business Server deployment, poor network performance can adversely affect the end user experience. Many factors can cause low performance or media quality. Exposing these is often difficult, as well as time and resource intensive. 
   

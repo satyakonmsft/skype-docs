@@ -12,7 +12,7 @@ ms.assetid: 94f85cd3-3ac4-4b61-96cf-5dccb93a4a02
     
     
 
- **Applies to**: Lync Server 2013 | Skype for Business 2015
+ **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 
 To install Skype for Business SDN Manager, do the following: 
   
