@@ -12,7 +12,7 @@ ms.assetid: 5567fd7c-4567-47c4-8aa2-456564fcd087
     
     
 
- **Applies to**: Lync Server 2013 | Skype for Business 2015
+ **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 
 The Skype for Business SDN Interface provides several advanced features to improve security and to help you debug configuration issues. 
   

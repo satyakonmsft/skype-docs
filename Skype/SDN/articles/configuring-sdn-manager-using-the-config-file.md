@@ -12,7 +12,7 @@ ms.assetid: 717466aa-c6b2-42ab-8492-8d2f4bed7765
     
     
 
- **Applies to**: Lync Server 2013 | Skype for Business 2015
+ **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 
 You can edit the SDNManager.exe.config file to change configuration settings for the SDN Manager. The SDNManager.exe.config file is located in the default installation directory, where you will also find SDNManager.exe. 
   
