@@ -8,7 +8,7 @@ ms.assetid: f2eba9a3-9888-4a1b-b689-567a83ebcb90
 
 # Unattended installation of SDN Manager and Dialog Listener
 
-**Applies to**: Lync Server 2010 | Lync Server 2013 | Skype for Business 2015
+**Applies to**: Lync Server 2010 | Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 
 In production, you often have to install the SDN Manager and Dialog Listener using installation scripts, and therefore in an unattended mode. This article describes the parameters that are used for an unattended installation. 
   
