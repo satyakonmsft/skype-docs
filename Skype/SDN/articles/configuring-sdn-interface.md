@@ -12,7 +12,7 @@ ms.assetid: cf0ca8f3-bcaf-4dba-814f-4b8a5163fa7d
     
     
 
- **Applies to**: Lync Server 2013 | Skype for Business 2015
+ **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
  
 Skype for Business SDN Interface 2.2 and later supports three methods for configuring its components:
   
