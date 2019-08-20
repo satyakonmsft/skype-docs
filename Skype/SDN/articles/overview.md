@@ -7,7 +7,7 @@ ms.assetid: 5cd64da2-e0bb-4558-9ccb-6e8fa01663fd
 
 # Overview of Skype for Business SDN Interface
 
-**Applies to**: Lync Server 2013 | Skype for Business 2015
+**Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 
 The Microsoft Skype for Business SDN Interface provides a subscription-based interface for network controllers or network management systems to receive call and quality data to monitor and analyze network traffic in order to optimize the Skype for Business media stream quality.
 
