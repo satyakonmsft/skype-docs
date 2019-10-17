@@ -17,7 +17,7 @@ how to use a meeting Url, read [Use the App SDK to join a meeting with an iOS de
 ### Create and deploy a Trusted Application API-based service Application
 
 The service application you create will give your mobile app access to the needed anonymous meeting join resources - discovery Url and anonymous meeting token. You'll use the RESTful Trusted Application API endpoint to schedule a meeting, get 
-the discovery Url and token. The rest of this article describes how to enable your iOS app to call into such a service application. You can read more about the [Trusted Appplication API](../Trusted-Application-API/docs/Trusted_Application_API_GeneralReference.md) to learn
+the discovery Url and token. The rest of this article describes how to enable your iOS app to call into such a service application. You can read more about the [Trusted Application API](../Trusted-Application-API/docs/Trusted_Application_API_GeneralReference.md) to learn
 about all of the features of this Skype for Business service application api.
 
 We've published two service application [examples](https://github.com/OfficeDev/skype-docs/tree/johnau/ucapdocs/Skype/Trusted-Application-API/samples) in GitHub to get you started.
