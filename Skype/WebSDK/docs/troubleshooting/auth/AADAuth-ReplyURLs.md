@@ -40,7 +40,7 @@ window.location.href = href;
 Note in the code above that we are using **window.location.href** as the value of the **redirect_uri** query parameter in forming the URL of the AAD endpoint where the user will sign in. This parameter tells AAD to redirect the client browser and the access token obtained by signing into AAD back to the page we're currently on - the main app page. However, AAD will only redirect the access token to URLs that are specified as Reply URLs in the app registration in AAD. Follow these steps to check your configured Reply URLs and add additional ones:
 
 1. Sign into **portal.azure.com** with an account that's an administrator on your tenant.
-2. Navigate to **Azure Active Directory** in the left side bar > **App registrations** > **Your app** > **All settings** > **Reply URLS**.
+2. Navigate to **Azure Active Directory** in the left side bar > **App registrations** > **Your app** > **Authentication** > **Redirect URIs**.
 3. Type the domain name where you're hosting your app (eg. **http://localhost** or **http://app.myapp.com**) and click **Save**.
 
 ![Adding a Reply URL for your app in Azure AD](../../../images/troubleshooting/auth/ConfiguringReplyURLInAzure.PNG)
