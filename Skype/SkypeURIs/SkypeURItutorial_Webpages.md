@@ -74,7 +74,7 @@ m
  Version 2.0, which you can view at [http://www.apache.org/licenses/](http://www.apache.org/licenses/).
 
 
-.#### Image assets
+#### Image assets
 
 Embedded Skype URIs use buttons for shifting focus to the Skype client, starting a call, and starting or rejoining a 
 chat. The button's associated link includes an **img** tag who's **src** attribute specifies the appropriate image asset.
