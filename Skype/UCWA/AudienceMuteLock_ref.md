@@ -2,7 +2,7 @@
 # AudienceMuteLock
 
 
-_** Applies to: **Skype for Business 2015_
+_**Applies to:** Skype for Business 2015_
 
 Represents the mute lock status for both audio and video.
             
