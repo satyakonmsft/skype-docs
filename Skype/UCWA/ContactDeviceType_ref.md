@@ -2,7 +2,7 @@
 # ContactDeviceType
 
 
-_** Applies to: **Skype for Business 2015_
+_**Applies to:** Skype for Business 2015_
 
 Represents the type of device that the contact is currently using.
             
