@@ -21,11 +21,12 @@ The table lists the supported SDKs and APIs for Skype for Business Server and Sk
 |[Unified Communications Managed API 4.0 (UCMA)](https://docs.microsoft.com/skype-sdk/ucma/unified-communications-managed-api-ucma-5-0-sdk-documentation)|Yes|No|No|
 |[Unified Communications Web API](ucwa/UnifiedCommunicationsWebAPI2_0.md)|Yes|Yes|Yes|
 |[Lync Server 2013 SDK](https://msdn.microsoft.com/en-us/library/office/dn454964.aspx)|Yes|Yes|No|
-|[Lync Client 2013 SDK (Desktop Apps)](https://msdn.microsoft.com/en-us/library/office/jj933180.aspx)|Yes|Yes|Yes|
-|[Lync Server 2013 Persistent Chat SDK](https://msdn.microsoft.com/en-us/library/office/dn454982.aspx)|Yes|Yes|No|
+|[Lync Client 2013 SDK (Desktop Apps)](https://docs.microsoft.com/lync/desktop/lync-2013-sdk-documentation)|Yes|Yes|Yes|
+|[Lync Server 2013 Persistent Chat SDK](https://docs.microsoft.com/lync/persistent-chat-sdk/lync-server-2013-persistent-chat-sdk-documentation)|Yes|Yes|No|
 |[Skype for Business Software Defined Networking (SDN) Interface 3.0](SDN/articles/skype-for-business-sdn-interface.md)|Yes|Yes|No|
 
 ## Related sites 
 
-- [Skype Developer Platform](https://developer.microsoft.com/skype)
+- [Skype developer documentation](https://docs.microsoft.com/skype-sdk/skypedeveloperplatform)
+- [Skype Developer portal](https://developer.microsoft.com/skype)
 - [Skype for Business Server 2015](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-server-2015)

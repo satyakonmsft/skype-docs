@@ -2,7 +2,7 @@
 # AccessLevel
 
 
-_** Applies to: **Skype for Business 2015_
+_**Applies to:** Skype for Business 2015_
 
 Represents the access levels used to control access to an online meeting.
             
