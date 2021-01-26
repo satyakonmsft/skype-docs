@@ -2,7 +2,7 @@
 # ActivePeriod
 
 
-_** Applies to: **Skype for Business 2015_
+_**Applies to:** Skype for Business 2015_
 
 Represents when call forwarding settings are active.
             
