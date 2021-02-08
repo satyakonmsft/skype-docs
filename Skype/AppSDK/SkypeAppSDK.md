@@ -38,20 +38,20 @@ Azure Communication Services has multiple SDKs that can join Teams meetings list
 |SDK| Implementation Complexity|	Customization Ability|	Calling| Chat| [Join Teams Meetings](https://docs.microsoft.com/azure/communication-services/concepts/voice-video-calling/teams-interop)
 |---|---|---|---|---|---|
 |[Core SDKs](https://docs.microsoft.com/azure/communication-services/concepts/sdk-options)|High|High|✔|✔ |✔|❌
-|[Base Components](https://docs.microsoft.com/en-us/azure/communication-services/concepts/ui-framework/ui-sdk-overview)|Medium|Medium|✔|✔|Coming|❌
-|[Open-Source Composite](https://docs.microsoft.com/en-us/azure/communication-services/concepts/ui-framework/ui-sdk-overview)|Low|Low|✔|✔|Coming|❌
-|[Meeting Composite](https://review.docs.microsoft.com/en-us/azure/communication-services/concepts/ui-framework/meetings?branch=pr-en-us-144662)|Low|Low|❌|❌|✔|✔
+|[Base Components](https://docs.microsoft.com/azure/communication-services/concepts/ui-framework/ui-sdk-overview)|Medium|Medium|✔|✔|Coming|❌
+|[Open-Source Composite](https://docs.microsoft.com/azure/communication-services/concepts/ui-framework/ui-sdk-overview)|Low|Low|✔|✔|Coming|❌
+|[Meeting Composite](https://review.docs.microsoft.com/azure/communication-services/concepts/ui-framework/meetings?branch=pr-en-us-144662)|Low|Low|❌|❌|✔|✔
 
 More specific guidance for transitioning a SfB Mobile SDK implementation to ACS Meetings:
 
 1. Join the Azure Communication Services TAP program [[on-boarding form](https://aka.ms/ACS-EarlyAdopter)]. 
 2. Explore key ACS concepts: 
- - [Overview](https://docs.microsoft.com/en-us/azure/communication-services/overview),
- - [Identity](https://docs.microsoft.com/en-us/azure/communication-services/concepts/identity-model),
- - [Client/server architecture](https://docs.microsoft.com/en-us/azure/communication-services/concepts/client-and-server-architecture),
- - [Authentication](https://docs.microsoft.com/en-us/azure/communication-services/concepts/authentication?tabs=csharp)
-3. Create an Azure Communication Services resource in the Azure portal[[quickstart](https://docs.microsoft.com/en-us/azure/communication-services/quickstarts/create-communication-resource?tabs=windows&pivots=platform-azp)]
-4.  Allocate user access tokens [[quickstart](https://docs.microsoft.com/en-us/azure/communication-services/quickstarts/access-tokens?pivots=programming-language-csharp)]
+ - [Overview](https://docs.microsoft.com/azure/communication-services/overview)
+ - [Identity](https://docs.microsoft.com/azure/communication-services/concepts/identity-model)
+ - [Client/server architecture](https://docs.microsoft.com/azure/communication-services/concepts/client-and-server-architecture)
+ - [Authentication](https://docs.microsoft.com/azure/communication-services/concepts/authentication?tabs=csharp)
+3. Create an Azure Communication Services resource in the Azure portal[[quickstart](https://docs.microsoft.com/azure/communication-services/quickstarts/create-communication-resource?tabs=windows&pivots=platform-azp)]
+4.  Allocate user access tokens [[quickstart](https://docs.microsoft.com/azure/communication-services/quickstarts/access-tokens?pivots=programming-language-csharp)]
 
 5.   Use the Meeting UI SDK. Embeding the Meeting UI SDK is very similar to SfB Mobile. You will authenticate the client with the user access tokens allocated earlier. [[concept](https://review.docs.microsoft.com/en-us/azure/communication-services/concepts/ui-framework/meetings?branch=pr-en-us-144662)][quickstarts:[iOS](https://review.docs.microsoft.com/en-us/azure/communication-services/quickstarts/meeting/getting-started-with-meeting-composite?branch=pr-en-us-144662&pivots=platform-ios),[Android](https://review.docs.microsoft.com/en-us/azure/communication-services/quickstarts/meeting/getting-started-with-meeting-composite?branch=pr-en-us-144662&pivots=platform-android)]
 
