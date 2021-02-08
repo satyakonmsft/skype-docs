@@ -38,8 +38,8 @@ Azure Communication Services has multiple SDKs that can join Teams meetings list
 |SDK| Implementation Complexity|	Customization Ability|	Calling| Chat| [Join Teams Meetings](https://docs.microsoft.com/azure/communication-services/concepts/voice-video-calling/teams-interop)
 |---|---|---|---|---|---|
 |[Core SDKs](https://docs.microsoft.com/azure/communication-services/concepts/sdk-options)|High|High|✔|✔ |✔|❌
-|[Base Components](https://docs.microsoft.com/azure/communication-services/concepts/ui-framework/ui-sdk-overview)|Medium|Medium|✔|✔|Coming|❌
-|[Open-Source Composite](https://docs.microsoft.com/azure/communication-services/concepts/ui-framework/ui-sdk-overview)|Low|Low|✔|✔|Coming|❌
+|[Base Components](https://docs.microsoft.com/azure/communication-services/concepts/ui-framework/ui-sdk-overview)|Medium|Medium|✔|✔|In Development|❌
+|[Open-Source Composite](https://docs.microsoft.com/azure/communication-services/concepts/ui-framework/ui-sdk-overview)|Low|Low|✔|✔|In Development|❌
 |[Meeting Composite](https://review.docs.microsoft.com/azure/communication-services/concepts/ui-framework/meetings?branch=pr-en-us-144662)|Low|Low|❌|❌|✔|✔
 
 More specific guidance for transitioning a SfB Mobile SDK implementation to ACS Meetings:
