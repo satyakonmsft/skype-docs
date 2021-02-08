@@ -1,4 +1,7 @@
-
+---
+title: Skype for Business App SDK
+description: Introduction to the Skype for Business App SDK
+---
 # Skype for Business App SDK
 
  **Last modified:** Feburary 10, 2021
@@ -24,13 +27,13 @@ Please carefully read the license terms that are included in the SDK download.  
 ## Migrating to Azure Communication Services
 [Skype for Business (SfB) Online will be retired in July 2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/skype-for-business-online-to-be-retired-in-2021/ba-p/777833).
 
-The retirement of SfB Online is reducing the market of addressable meetings for the SfB Mobile SDK, and many SfB organizations are migrating to Teams. Teams Meetings cannot be joined by the SfB Mobile SDK.
+The retirement of SfB Online is reducing the market of addressable meetings for the SfB App SDK, and many SfB organizations are migrating to Teams. Teams Meetings cannot be joined by the SfB Mobile SDK.
 
-Azure Communication Services is a cloud-based communications service that lets you add voice, video, chat, and telephony to your apps. ACS applications have the ability to join Teams meetings (as a guest), and we encourage implementers of the SfB Mobile SDK to transition to Azure Communication Services. The ability to join Teams meetings is in active development and restricted to a private preview at this time. 
+Azure Communication Services is a cloud-based communications service that lets you add voice, video, chat, and telephony to your apps. ACS applications have the ability to join Teams meetings (as a guest), and we encourage implementers of the SfB App SDK to transition to Azure Communication Services. The ability to join Teams meetings is in active development and restricted to a private preview at this time. 
 
 ### Azure SDKs that join Teams meetings
 
-Azure Communication Services has multiple SDKs that can join Teams meetings listed below. The Meeting UI SDK is available for iOS and Android and is the closest equivalent to SfB Mobile, requiring the least amount of code and providing an all-in-one Teams styled interface. For most SfB mobile customers, this is the best option. 
+Azure Communication Services has multiple SDKs that can join Teams meetings listed below. The Meeting UI SDK is available for iOS and Android and is the closest equivalent to SfB Mobile, requiring the least amount of code and providing an all-in-one Teams styled interface. For most SfB App SDK customers, this is the best option. 
 
 |SDK| Implementation Complexity|	Customization Ability|	Calling| Chat| [Join Teams Meetings](https://docs.microsoft.com/azure/communication-services/concepts/voice-video-calling/teams-interop)
 |---|---|---|---|---|---|
