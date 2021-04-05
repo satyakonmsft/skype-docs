@@ -3,10 +3,11 @@ ms.date: 04/05/2021
 description: 'Learn how to incorporate Skype communication functionality into your web pages.'
 title: Skype URI tutorial: Web pages
 ---
+
 # Skype URI tutorial: Web pages
 Learn how to incorporate Skype communication functionality into your web pages. 
 
- _**Applies to:** Skype_
+**Applies to:** Skype
 
 ## Use Skype URIs in web pages
 
