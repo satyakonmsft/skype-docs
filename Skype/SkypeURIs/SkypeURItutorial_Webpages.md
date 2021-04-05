@@ -1,8 +1,13 @@
+---
+ms.date: 04/05/2021
+description: 'Learn how to incorporate Skype communication functionality into your web pages.'
+title: Skype URI tutorial: Web pages
+---
 
 # Skype URI tutorial: Web pages
 Learn how to incorporate Skype communication functionality into your web pages. 
 
- _**Applies to:** Skype_
+**Applies to:** Skype
 
 ## Use Skype URIs in web pages
 
@@ -35,14 +40,9 @@ appropriate action as required.
 If you're adding multiple Skype Buttons to your web page:
 
 
-1. Remove the following line from all but the first instance:
-
-     `<script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>`
+1. Remove the following line from all but the first instance: `<script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>`
 1. Modify the  **div** element's **id** attribute and the **element** property so that each instance has matching unique values on your web page.
-
-For example:
-
-     `SkypeButton_Call_#echo123_01, SkypeButton_Call_#echo123_02`
+For example: `SkypeButton_Call_#echo123_01, SkypeButton_Call_#echo123_02`
 
 <a name="skype.ui"></a>
 
@@ -53,26 +53,22 @@ similar to Skype buttons, but provides additional formatting options and functio
 video, conference calls, and multi chats. **Skype.ui** will attempt to determine if a Skype client is installed, and 
 take appropriate action as required.
 
-dThe basic design pattern for adding Skype URIs to your web pages involves:
-
+The basic design pattern for adding Skype URIs to your web pages involves:
 
 * Importing the [skype-uri.js](http://www.skypeassets.com/i/scom/js/skype-uri.js) file from **http://www.skypeassets.com/i/scom/js/** into your web page.
-* Using a  **div** tag to mark where you want place the Skype URI on your web page.
+* Using a **div** tag to mark where you want place the Skype URI on your web page.
 * Invoking the generator function, Skype.ui, to create and append an anchor element, based on a JSON representation of the Skype object, and append it to your web page.
 
 For example, the following figure shows a code fragment that adds a Skype URI that initiates an audio call to the Skype 
 Echo/Sound Test Service:
 
-m
 **Figure 1. JavaScript code example**
 
 ![Code adding Skype URI to initiate audio call](images/SkypeUriJavaScriptCallouts.png)
 
-
 > [!NOTE] 
 > The JavaScript objects and functions contained in  `skype-uri.js` are covered by the Apache License, 
  Version 2.0, which you can view at [http://www.apache.org/licenses/](http://www.apache.org/licenses/).
-
 
 #### Image assets
 
@@ -81,11 +77,9 @@ chat. The button's associated link includes an **img** tag who's **src** attribu
 
 The current button/image asset relationships are:
 
-
 * Shift Focus
 * Audio or video call
 * Chat
-
 
 Supported sizes (in pixels) are 10, 12, 14, 16, 24, and 32. Supported colors are Skype Blue and white, both on 
 transparent backgrounds.
@@ -93,9 +87,6 @@ transparent backgrounds.
 The Skype object defaults to using 16 pixel, Skype Blue images. You can change the size, color, or both by including 
 the imageSize and/or imageColor properties. For example, the following code embeds a "call" Skype URI that uses 
 the 32 pixel, white image asset:
-
-
-
 
 ```html
 <div id="call_32" style="width:20%;background-color:#0094ff">
@@ -112,14 +103,12 @@ the 32 pixel, white image asset:
 
 ```
 
-
 #### Embedding the Skype URI
+The **Skype.ui** function generates and embeds a Skype URI link on your web page. The function accepts a single
+argument—an instance of a Skype object, which you specify using JSON. On success, the function returns **true**. 
+On failure, the function returns **false**.
 
- The **Skype.ui** function generates and embeds a Skype URI link on your web page. The function accepts a single 
- argument—an instance of a Skype object, which you specify using JSON. On success, the function returns **true**. 
- On failure, the function returns  **false**.
-
-The Skype object recognizes the properties listed in Table 1. Unless otherwise stated, the values  **null** and the 
+The Skype object recognizes the properties listed in Table 1. Unless otherwise stated, the values **null** and the 
 empty string are equivalent to omitting the property. For a handy table detailing the property value combinations 
 associated with the various types of Skype URIs, see the Skype.ui quick reference.
 
@@ -139,16 +128,13 @@ associated with the various types of Skype URIs, see the Skype.ui quick referenc
 |imageSize|Which size of the image asset to use. Values are:<br/>* **Omitted**, **null**, an empty string, or a non-supported size - Use the default size.<br/>* **999** - Use the specified size, which must be one of the supported sizes: 10, 12, 14, 16, 24, and 32.<br/>The default size is 16 pixels.
 |imageColor|Which text color variant of the image asset to use, depending on your web page's background. Values are:<br/>* **omitted**, **null**, an empty string, or a non-supported color - Use the default color.<br/>* **skype** - Use the Skype Blue variant.<br/>* **white** - Use the white variant.<br/>The default color is Skype Blue. |
 
-
-
 #### Skype.ui quick reference
 
- This quick reference details the Skype object property values you need to pass to `Skype.ui` in order to generate the 
- various types of Skype URIs.
+This quick reference details the Skype object property values you need to pass to `Skype.ui` in order to generate the 
+various types of Skype URIs.
 
 Because  **element** is always required (and **listParticipants**,  **listTopic**,  **imageSize** and **imageColor** 
 are always optional), they are not included in the table.
-
 
 **Table 2. Skype object property values**
 
@@ -172,7 +158,6 @@ impossible, for your code to recover from the perceived error.
 For versions starting with Internet Explorer 10 running on Windows 8, the browser detects that there is no application 
 associated with the **skype:** scheme, and alerts the user.
 
-
 **Figure 2. Windows Store dialog box**
 
 ![Windows 8 notification that no app is installed](images/skypeUri_Win8Store.png)
@@ -187,18 +172,15 @@ is installed when it is not, or simply fail silently.
 
 Currently, the following browser/platform combinations fail to properly detect whether the Skype client is installed:
 
-
 * Any browser running on Windows Phone 8
 * Google Chrome running on Android (Gingerbread, Honeycomb, Ice Cream Sandwich, and Jelly Bean)
 * Native Android browser ("globe" icon) running on Android (Gingerbread, Honeycomb, Ice Cream Sandwich, and Jelly Bean)
-
 
 ## What to do if a Skype client is not installed
 
 Browser versions starting with Internet Explorer 10 running on Windows 8 include a link to the Store as part of its 
 alert whenever it detects that no application is associated with the  *skype:* scheme. Simply click the Store icon to 
 navigate to the Skype client's entry.
-
 
 **Figure 3. Windows Store dialog box**
 
