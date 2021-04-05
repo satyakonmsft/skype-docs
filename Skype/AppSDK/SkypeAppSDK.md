@@ -1,6 +1,7 @@
 ---
 title: Skype for Business App SDK
 description: Introduction to the Skype for Business App SDK
+ms.date: 02/10/2021
 ---
 # Skype for Business App SDK
 
@@ -53,4 +54,3 @@ More specific guidance for transitioning a SfB Mobile SDK implementation to ACS 
 4.  Allocate user access tokens [[quickstart](https://docs.microsoft.com/azure/communication-services/quickstarts/access-tokens?pivots=programming-language-csharp)]
 
 5.   Use the Meeting UI SDK. Embeding the Meeting UI SDK is very similar to SfB Mobile. You will authenticate the client with the user access tokens allocated earlier. [[concept](https://review.docs.microsoft.com/en-us/azure/communication-services/concepts/ui-framework/meetings?branch=pr-en-us-144662)][quickstarts:[iOS](https://review.docs.microsoft.com/en-us/azure/communication-services/quickstarts/meeting/getting-started-with-meeting-composite?branch=pr-en-us-144662&pivots=platform-ios),[Android](https://review.docs.microsoft.com/en-us/azure/communication-services/quickstarts/meeting/getting-started-with-meeting-composite?branch=pr-en-us-144662&pivots=platform-android)]
-
