@@ -37,4 +37,4 @@ The Skype for Business scope permissions are shown in the following table:
 |User.ReadWrite|Read/write Skype user information|Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user|No|
 
 > [!NOTE] 
-> The adminstrator of a tenant where your application is registered can accept permission requests on behalf of all users, so users do not see the permissions screen. To learn about the tenant admin consent flow, read [Tenant Administrator Consent Flow](https://msdn.microsoft.com/en-us/skype/websdk/docs/developwebsdkappsforsfbonline#tenant-administrator-consent-flow)
+> The administrator of a tenant where your application is registered can accept permission requests on behalf of all users, so users do not see the permissions screen. To learn about the tenant admin consent flow, read [Tenant Administrator Consent Flow](https://msdn.microsoft.com/en-us/skype/websdk/docs/developwebsdkappsforsfbonline#tenant-administrator-consent-flow)
