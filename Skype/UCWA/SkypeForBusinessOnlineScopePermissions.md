@@ -1,7 +1,11 @@
+---
+ms.date: 04/05/2021
+description: 'Provides a reference of permission scopes that a user can grant in UCWA 2.0.'
+title: Skype for Business Online scope permissions
+---
+
 # Skype for Business Online scope permissions
 Provides a reference of permission scopes that a user can grant in UCWA 2.0.
-
-
 
 ## Use scopes to specify access to Skype for Business data
 
@@ -20,12 +24,9 @@ You can specify scopes for your application in the Azure Management Portal, or d
  
 To learn more about configuring applications, see [Integrating Applications with Azure Active Directory](https://azure.microsoft.com/documentation/articles/active-directory-integrating-applications/).
 
-
 ## Skype for Business scope permissions
 
 The Skype for Business scope permissions are shown in the following table:
-
-
 
 |**Scope**|**Permission**|**Description**|**Requires admin consent**|
 |:-----|:-----|:-----|:-----|
