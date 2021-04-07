@@ -1,8 +1,11 @@
+---
+ms.date: 04/05/2021
+description: 'Provides a reference of permission scopes that a user can grant in UCWA 2.0.'
+title: Skype for Business Online scope permissions
+---
 
 # Skype for Business Online scope permissions
 Provides a reference of permission scopes that a user can grant in UCWA 2.0.
-
-
 
 ## Use scopes to specify access to Skype for Business data
 
@@ -19,14 +22,11 @@ You can specify scopes for your application in the Azure Management Portal, or d
  
 - Open the manifest and modify it according to the needs of the application.
  
-To learn more about configuring applications, see [Integrating Applications with Azure Active Directory](https://azure.microsoft.com/en-us/documentation/articles/active-directory-integrating-applications/).
-
+To learn more about configuring applications, see [Integrating Applications with Azure Active Directory](https://azure.microsoft.com/documentation/articles/active-directory-integrating-applications/).
 
 ## Skype for Business scope permissions
 
 The Skype for Business scope permissions are shown in the following table:
-
-
 
 |**Scope**|**Permission**|**Description**|**Requires admin consent**|
 |:-----|:-----|:-----|:-----|
@@ -37,4 +37,4 @@ The Skype for Business scope permissions are shown in the following table:
 |User.ReadWrite|Read/write Skype user information|Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user|No|
 
 > [!NOTE] 
-> The administrator of a tenant where your application is registered can accept permission requests on behalf of all users, so users do not see the permissions screen. To learn about the tenant admin consent flow, read [Tenant Administrator Consent Flow](https://msdn.microsoft.com/en-us/skype/websdk/docs/developwebsdkappsforsfbonline#tenant-administrator-consent-flow)
+> The administrator of a tenant where your application is registered can accept permission requests on behalf of all users, so users do not see the permissions screen. To learn about the tenant admin consent flow, read [Tenant Administrator Consent Flow](https://msdn.microsoft.com/skype/websdk/docs/developwebsdkappsforsfbonline#tenant-administrator-consent-flow)

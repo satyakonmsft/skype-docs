@@ -25,7 +25,7 @@ you have constructed the appropriate Skype URI, simply use  **openURL** to initi
   }
   else
   {
-    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://itunes.com/apps/skype/skype"]];
+    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://itunes.apple.com/in/app/skype/id304878510"]];
   }
 }
 
