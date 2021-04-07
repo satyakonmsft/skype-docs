@@ -33,14 +33,13 @@ Azure Communication Services is a cloud-based communications service that lets y
 
 ### Azure SDKs that join Teams meetings
 
-Azure Communication Services has multiple SDKs that can join Teams meetings listed below. The Meeting UI SDK is available for iOS and Android and is the closest equivalent to SfB Mobile, requiring the least amount of code and providing an all-in-one Teams styled interface. For most SfB App SDK customers, this is the best option. 
+Azure Communication Services has multiple SDKs that can join Teams meetings listed below. 
 
 |SDK| Implementation Complexity|	Customization Ability|	Calling| Chat| [Join Teams Meetings](https://docs.microsoft.com/azure/communication-services/concepts/voice-video-calling/teams-interop)
 |---|---|---|---|---|---|
 |[Core SDKs](https://docs.microsoft.com/azure/communication-services/concepts/sdk-options)|High|High|✔|✔ |✔|❌
 |[Base Components](https://docs.microsoft.com/azure/communication-services/concepts/ui-framework/ui-sdk-overview)|Medium|Medium|✔|✔|In Development|❌
 |[Open-Source Composite](https://docs.microsoft.com/azure/communication-services/concepts/ui-framework/ui-sdk-overview)|Low|Low|✔|✔|In Development|❌
-|[Meeting Composite](https://review.docs.microsoft.com/azure/communication-services/concepts/ui-framework/meetings?branch=pr-en-us-144662)|Low|Low|❌|❌|✔|✔
 
 More specific guidance for transitioning a SfB Mobile SDK implementation to ACS Meetings:
 
@@ -53,4 +52,4 @@ More specific guidance for transitioning a SfB Mobile SDK implementation to ACS 
 3. Create an Azure Communication Services resource in the Azure portal[[quickstart](https://docs.microsoft.com/azure/communication-services/quickstarts/create-communication-resource?tabs=windows&pivots=platform-azp)]
 4.  Allocate user access tokens [[quickstart](https://docs.microsoft.com/azure/communication-services/quickstarts/access-tokens?pivots=programming-language-csharp)]
 
-5.   Use the Meeting UI SDK. Embeding the Meeting UI SDK is very similar to SfB Mobile. You will authenticate the client with the user access tokens allocated earlier. [[concept](https://review.docs.microsoft.com/en-us/azure/communication-services/concepts/ui-framework/meetings?branch=pr-en-us-144662)][quickstarts:[iOS](https://review.docs.microsoft.com/en-us/azure/communication-services/quickstarts/meeting/getting-started-with-meeting-composite?branch=pr-en-us-144662&pivots=platform-ios),[Android](https://review.docs.microsoft.com/en-us/azure/communication-services/quickstarts/meeting/getting-started-with-meeting-composite?branch=pr-en-us-144662&pivots=platform-android)]
+5.   Use the Calling SDK to implement your app. [Samples](https://docs.microsoft.com/azure/communication-services/samples/calling-hero-sample?pivots=platform-ios) are available to help get started.
