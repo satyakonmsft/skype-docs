@@ -1,14 +1,19 @@
-# README
+---
+title: Skype for Business Bot Framework README file
+description: 'Contributor guidelines for the Skype for Business Bot Frameword documentation.'
+ms.date: 05/11/2021
+---
+# README Skype-For-Business-Bot-Framework
 
 Thank you for your interest in **Skype for Business Bot Framework** documentation!
 
-This documentation is hosted on the [Skype Developer platform documentation on Microsoft Docs](https://docs.microsoft.com/skype-sdk/skype-for-business-bot-framework/docs/overview). Please read it there.
+This documentation is hosted on the [Skype Developer platform documentation on Microsoft Docs](./docs/overview.md). Please read it there.
 
 If you're interested in contributing to this documentation, then please read on.
 
 ## Contribute to the documentation
 
-You may want to contribute new content or improve existing **Skype for Business Bot Framework** content. If you do, then clone this repoistory, 
+You may want to contribute new content or improve existing **Skype for Business Bot Framework** content. If you do, then clone this repository, 
 create a new branch from the master branch, add your content, and then create a pull request to contribute your changes back into master branch.
 Pull requests are the way to move changes from a topic branch back into the master branch.
 
