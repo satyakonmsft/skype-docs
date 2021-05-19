@@ -1,6 +1,6 @@
 # Skype Developer Platform
 
-**Last modified:** January 14, 2021
+**Last modified:** May 19, 2021
 
 **Applies to:** Skype for Business 2015
 
@@ -27,6 +27,5 @@ The table lists the supported SDKs and APIs for Skype for Business Server and Sk
 
 ## Related sites 
 
-- [Skype developer documentation](https://docs.microsoft.com/skype-sdk/skypedeveloperplatform)
 - [Skype Developer portal](https://developer.microsoft.com/skype)
 - [Skype for Business Server 2015](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-server-2015)
