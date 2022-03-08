@@ -16,7 +16,7 @@ To ensure secure message transport and client authentication, the Skype for Busi
 1. Request a certificate from a certificate server of the correct type
 2. Install the server certificate on a server for each SDN Manager and subscriber.
 3. Install client certificates on all clients which are Dialog Listeners so they can talk with the SDN Manager, as well as on all SDN Manager instances so they can talk with subscribers acting as a server (if that subscriber requires authentication via client certificate).
-4. Install a trusted root certificate on computers where the certificate authority reports it as not trusted. For instructions, see  [Installing the trusted root certificate](installing-the-trusted-root-certificate.md).
+4. Install a trusted root certificate on computers where the certificate authority reports it as not trusted. For instructions, see [Installing the trusted root certificate](installing-the-trusted-root-certificate.md).
 
 > [!NOTE]
 > You can verify that the SSL and client authentication works independently of Skype for Business SDN Interface by using a general purpose test tool, such as wfetch.exe.
@@ -37,7 +37,7 @@ The following example demonstrates how to request a certificate from a Windows C
 6. When creating the server certificate, specify the fully qualified domain name as the certificate **Name**, as well as its **Friendly Name**. Other fields can remain blank or retain their default values.
 7. Choose **Submit**.
 8. Choose the Install this Certificate link. The certificate will be installed to the **Certificates-Current User\\Personal\\Certificates** folder.
-9. Start MMC and add the certificate snap-ins shown in step 8 of the  [Installing the trusted root certificate](installing-the-trusted-root-certificate.md) section in the [Appendix](appendix.md).
+9. Start MMC and add the certificate snap-ins shown in step 8 of the [Installing the trusted root certificate](installing-the-trusted-root-certificate.md) section in the [Appendix](appendix.md).
 10. Move the certificate from the **Certificates-Current User\\Personal\\Certificates** folder to the **Certificates Local computer\\Personal\\Certificates** folder.
 11. Ensure that the processes have access to the entire certificate, including its private key. This might require adding the network service (or other credential that runs the service) to the certificate as shown in figures 1 and 2.
 

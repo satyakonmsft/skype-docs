@@ -31,7 +31,7 @@ Set-CsQoEConfiguration -Identity site:W15Topology -EnableQoE $True
 
 ```
 
-For detailed information about the Windows PowerShell commands, see  [Skype for Business Server 2015 Management Shell](https://technet.microsoft.com/en-us/library/gg398474.aspx).
+For detailed information about the Windows PowerShell commands, see [Skype for Business Server 2015 Management Shell](https://technet.microsoft.com/en-us/library/gg398474.aspx).
   
 ## Verify and activate QoE recording using the Skype for Business Server Control Panel
 
