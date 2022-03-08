@@ -36,9 +36,9 @@ Azure Communication Services has multiple SDKs that can join Teams meetings list
 
 |SDK| Implementation Complexity|	Customization Ability|	Calling| Chat| [Join Teams Meetings](https://docs.microsoft.com/azure/communication-services/concepts/voice-video-calling/teams-interop)
 |---|---|---|---|---|---|
-|[Core SDKs](https://docs.microsoft.com/azure/communication-services/concepts/sdk-options)|High|High|✔|✔ |✔|❌
-|[Base Components](https://docs.microsoft.com/azure/communication-services/concepts/ui-framework/ui-sdk-overview)|Medium|Medium|✔|✔|In Development|❌
-|[Open-Source Composite](https://docs.microsoft.com/azure/communication-services/concepts/ui-framework/ui-sdk-overview)|Low|Low|✔|✔|In Development|❌
+|[Core SDKs](https://docs.microsoft.com/azure/communication-services/concepts/sdk-options)|High|High|✔|✔ |✔|
+|[Base Components](https://docs.microsoft.com/azure/communication-services/concepts/ui-framework/ui-sdk-overview)|Medium|Medium|✔|✔|✔|
+|[Open-Source Composite](https://docs.microsoft.com/azure/communication-services/concepts/ui-framework/ui-sdk-overview)|Low|Low|✔|✔|✔|
 
 More specific guidance for transitioning a SfB Mobile SDK implementation to ACS Meetings:
 
@@ -48,6 +48,7 @@ More specific guidance for transitioning a SfB Mobile SDK implementation to ACS 
  - [Identity](https://docs.microsoft.com/azure/communication-services/concepts/identity-model)
  - [Client/server architecture](https://docs.microsoft.com/azure/communication-services/concepts/client-and-server-architecture)
  - [Authentication](https://docs.microsoft.com/azure/communication-services/concepts/authentication?tabs=csharp)
+ - [UI Library](https://azure.github.io/communication-ui-library/)
 3. Create an Azure Communication Services resource in the Azure portal[[quickstart](https://docs.microsoft.com/azure/communication-services/quickstarts/create-communication-resource?tabs=windows&pivots=platform-azp)]
 4.  Allocate user access tokens [[quickstart](https://docs.microsoft.com/azure/communication-services/quickstarts/access-tokens?pivots=programming-language-csharp)]
 
