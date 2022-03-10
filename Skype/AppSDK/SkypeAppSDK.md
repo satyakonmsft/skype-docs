@@ -28,8 +28,7 @@ Please carefully read the license terms that are included in the SDK download.  
 ## Migrating to Azure Communication Services
 [Skype for Business (SfB) Online will be retired in July 2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/skype-for-business-online-to-be-retired-in-2021/ba-p/777833). The Skype for Business App SDK will continue to function for on-premise Skype for Business Server 2019 deployments, but the retirement of SfB Online is reducing the market of addressable communication deployments for the SfB App SDK, and many SfB organizations are migrating to Teams. Teams Meetings cannot be joined by the SfB Mobile SDK. 
 
-Azure Communication Services is a cloud-based communications service that lets you add voice, video, chat, and telephony to your apps. ACS applications have the ability to join Teams meetings (as a guest), and we encourage implementers of the SfB App SDK to transition to Azure Communication Services. The ability to join Teams meetings is in active development and restricted to a private preview at this time. 
-
+Azure Communication Services is a cloud-based communications service that lets you add voice, video, chat, and telephony to your apps. ACS applications have the ability to join Teams meetings (as a guest), and we encourage implementers of the SfB App SDK to transition to Azure Communication Services. The ability to [join Teams meetings using ACS](/azure/communication-services/concepts/join-teams-meeting) is now generally available.
 
 ### Azure SDKs that join Teams meetings
 
