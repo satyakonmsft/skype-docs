@@ -42,14 +42,12 @@ Azure Communication Services has multiple SDKs that can join Teams meetings list
 
 More specific guidance for transitioning a SfB Mobile SDK implementation to ACS Meetings:
 
-1. Join the Azure Communication Services TAP program [[on-boarding form](https://aka.ms/ACS-EarlyAdopter)]. 
-2. Explore key ACS concepts: 
+1. Explore key ACS concepts: 
  - [Overview](https://docs.microsoft.com/azure/communication-services/overview)
  - [Identity](https://docs.microsoft.com/azure/communication-services/concepts/identity-model)
  - [Client/server architecture](https://docs.microsoft.com/azure/communication-services/concepts/client-and-server-architecture)
  - [Authentication](https://docs.microsoft.com/azure/communication-services/concepts/authentication?tabs=csharp)
  - [UI Library](https://azure.github.io/communication-ui-library/)
-3. Create an Azure Communication Services resource in the Azure portal[[quickstart](https://docs.microsoft.com/azure/communication-services/quickstarts/create-communication-resource?tabs=windows&pivots=platform-azp)]
-4.  Allocate user access tokens [[quickstart](https://docs.microsoft.com/azure/communication-services/quickstarts/access-tokens?pivots=programming-language-csharp)]
-
-5.   Use the Calling SDK to implement your app. [Samples](https://docs.microsoft.com/azure/communication-services/samples/calling-hero-sample?pivots=platform-ios) are available to help get started.
+2. Create an Azure Communication Services resource in the Azure portal[[quickstart](https://docs.microsoft.com/azure/communication-services/quickstarts/create-communication-resource?tabs=windows&pivots=platform-azp)]
+3.  Allocate user access tokens [[quickstart](https://docs.microsoft.com/azure/communication-services/quickstarts/access-tokens?pivots=programming-language-csharp)]
+4.   Use the Calling SDK to implement your app. [Samples](https://docs.microsoft.com/azure/communication-services/samples/calling-hero-sample?pivots=platform-ios) are available to help get started.
