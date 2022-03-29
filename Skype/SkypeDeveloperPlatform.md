@@ -1,3 +1,9 @@
+---
+title: Skype Developer Platform
+description: 'Find in-depth developer resources, how-to documentation, SDKs and references, and code samples for Skype developer platform verticals.'
+ms.date: 03/29/2022
+---
+
 # Skype Developer Platform
 
 **Last modified:** May 19, 2021
@@ -16,14 +22,13 @@ The table lists the supported SDKs and APIs for Skype for Business Server and Sk
 |:-----|:-----|:-----|:-----|
 |[Skype Web SDK](WebSDK/docs/SkypeWebSDK.md)|Basic|Yes|Yes|
 |[Skype for Business App SDK Preview](AppSDK/SkypeAppSDK.md)|Basic|Yes|Yes|
-|[Skype for Business - Mobile URIs](Skype-For-Business-Uris/SfBMobileURI)|Basic|Yes|Yes|
-|[Unified Communications Managed API 5.0 (UCMA)](../ucma/unified-communications-managed-api-ucma-5-0-sdk-documentation.md)|No|Yes|No|
-|[Unified Communications Managed API 4.0 (UCMA)](../ucma/unified-communications-managed-api-ucma-5-0-sdk-documentation.md)|Yes|No|No|
+|[Skype for Business - Mobile URIs](/skype-sdk/skype-for-business-uris/sfbmobileuri.md)|Basic|Yes|Yes|
+|[Unified Communications Managed API 5.0 (UCMA)](/skype-sdk/ucma/ucma-5-0-overview.md)|No|Yes|No|
 |[Unified Communications Web API](ucwa/UnifiedCommunicationsWebAPI2_0.md)|Yes|Yes|Yes|
 |[Lync Server 2013 SDK](/lync/server-sdk/lync-server-2013-sdk-documentation)|Yes|Yes|No|
 |[Lync Client 2013 SDK (Desktop Apps)](/lync/desktop/lync-2013-sdk-documentation)|Yes|Yes|Yes|
 |[Lync Server 2013 Persistent Chat SDK](/lync/persistent-chat-sdk/lync-server-2013-persistent-chat-sdk-documentation)|Yes|Yes|No|
-|[Skype for Business Software Defined Networking (SDN) Interface 3.0](SDN/articles/skype-for-business-sdn-interface)|Yes|Yes|No|
+|[Skype for Business Software Defined Networking (SDN) Interface 3.0](/skype-sdk/sdn/articles/skype-for-business-sdn-interface.md)|Yes|Yes|No|
 
 ## Related sites 
 
