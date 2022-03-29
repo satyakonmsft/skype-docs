@@ -4,7 +4,7 @@
 
 **Applies to:** Skype for Business 2015
 
-The new Skype Developer Platform provides opportunities to customize and extend the capabilities not only with Skype for Business but also through Skype. Developers no longer have to think about apps only as business solutions and allows for more consumer customization opportunities. Find in-depth developer resources, how-to documentation, SDKs and references, and code samples for Skype developer platform verticals.
+The Skype Developer Platform provides opportunities to customize and extend the capabilities not only with Skype for Business but also through Skype. Developers no longer have to think about apps only as business solutions and allows for more consumer customization opportunities. Find in-depth developer resources, how-to documentation, SDKs and references, and code samples for Skype developer platform verticals.
 
 ![Skype developer platform](images/SkypeDevPlatform.png)
 
