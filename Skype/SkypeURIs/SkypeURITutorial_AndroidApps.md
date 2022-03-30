@@ -1,3 +1,8 @@
+---
+title: Skype URI tutorial - Android apps
+description: Learn how to incorporate Skype communication functionality into your Android apps.
+ms.date: 03/30/2022
+---
 
 # Skype URI tutorial: Android apps
 
@@ -7,11 +12,10 @@ Learn how to incorporate Skype communication functionality into your Android app
 
 ## Use Skype URIs in my Android apps
 
-You can use Skype URIs in your Android apps, for example, tapping a contact's picture might start a Skype audio call. 
+You can use Skype URIs in your Android apps, for example, tapping a contact's picture might start a Skype audio call.
 After you have constructed the appropriate Skype URI, use an Android **Intent** to initiate its actions.
 
 Keep in mind these two important points regarding the Skype for Android client:
-
 
 * Component package name— **com.skype.raider**
 * Component class name— **com.skype.raider.Main**
@@ -46,11 +50,9 @@ public void initiateSkypeUri(Context myContext, String mySkypeUri) {
 
 ```
 
-
 ## Determine if a Skype client is installed
 
-Your Android app can use the  **PackageManager.getPackageInfo** method to determine whether a Skype client is installed 
-on the device.
+Your Android app can use the **PackageManager.getPackageInfo** method to determine whether a Skype client is installed on the device.
 
 ```java
 /**
@@ -68,13 +70,9 @@ public boolean isSkypeClientInstalled(Context myContext) {
 }
 ```
 
-
 ## What to do if a Skype client is not installed
 
-If the Skype client is not installed, your app should alert the user, and direct them to the Android Market or 
-Google PlayStore. Ideally, your app should use a **market:** scheme **Intent** to navigate directly to the Skype 
-for Android install page.
-
+If the Skype client is not installed, your app should alert the user, and direct them to the Android Market or Google PlayStore. Ideally, your app should use a **market:** scheme **Intent** to navigate directly to the Skype for Android install page.
 
 ```java
 /**
@@ -91,9 +89,7 @@ public void goToMarket(Context myContext) {
 
 ```
 
-
 ## See also
-
 
 * [Skype URIs](SkypeURIs.md)
 * [Skype URI API reference](SkypeURIAPIReference.md)
