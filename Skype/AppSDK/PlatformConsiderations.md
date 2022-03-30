@@ -37,7 +37,7 @@ Some collections are “lazy”. They don’t hold fully initialized contents al
 
 #### Conditional methods
 
-Some methods may be unavailable at certain times and their availability is changed dynamically. Those methods have a BOOL property named like can <DoSomething> logically attached to them. This property is KVO-enabled. You can observe it to monitor a method’s availability. You can always call a method directly without looking at corresponding property, but if so, you should be prepared to receive an error if the method is disabled.
+Some methods may be unavailable at certain times and their availability is changed dynamically. Those methods have a BOOL property named like can&lt;DoSomething&gt; logically attached to them. This property is KVO-enabled. You can observe it to monitor a method’s availability. You can always call a method directly without looking at corresponding property, but if so, you should be prepared to receive an error if the method is disabled.
 
 ### Audio configuration
 
@@ -106,7 +106,7 @@ For example, the collection of participants provided by the **Conversation** is 
 
 #### Conditional methods
 
-Some of the operations or actions provided by the interfaces may not be available at all times. For these operations, we expose corresponding can<doSomeThing> methods.   For example, the ChatService exposes a **canSendMessage(**) method that should be called before calling the **sendMessage()** method.
+Some of the operations or actions provided by the interfaces may not be available at all times. For these operations, we expose corresponding can&lt;doSomeThing&gt; methods.   For example, the ChatService exposes a **canSendMessage(**) method that should be called before calling the **sendMessage()** method.
 
 These methods are Observable properties so that clients can listen for state changes, using the technique described previously.  For example, the property ID for **canSendMessage()** is **ChatService.CAN_SEND_MESSAGE_PROPERTY_ID**.
 
