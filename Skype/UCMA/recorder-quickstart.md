@@ -2,7 +2,7 @@
 title: Recorder (QuickStart)
 TOCTitle: Recorder (QuickStart)
 ms:assetid: e76144e2-b8f4-47bf-8d39-4f079a376a88
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn454822(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn454822(v=office.16)
 ms:contentKeyID: 65240079
 ms.date: 07/27/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: Best practices (Unified Communications Managed API 5.0)
 TOCTitle: Best practices
 ms:assetid: db8473a3-12b9-4887-bb75-d0c03f96799d
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466110(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466110(v=office.16)
 ms:contentKeyID: 65240027
 ms.date: 07/27/2015
 mtps_version: v=office.16

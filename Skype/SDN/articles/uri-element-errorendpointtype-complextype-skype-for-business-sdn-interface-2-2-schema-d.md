@@ -2,7 +2,7 @@
 title: URI element (ErrorEndPointType complexType) 
 TOCTitle: URI element (ErrorEndPointType complexType)
 ms:assetid: ed71518a-4d26-48d7-67eb-fb8905f9fd8d
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171022(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171022(v=office.16)
 ms:contentKeyID: 65855594
 ms.date: 08/24/2015
 mtps_version: v=office.16

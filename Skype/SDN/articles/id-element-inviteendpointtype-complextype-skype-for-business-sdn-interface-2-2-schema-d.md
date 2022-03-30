@@ -2,7 +2,7 @@
 title: Id element (InviteEndPointType complexType) 
 TOCTitle: Id element (InviteEndPointType complexType)
 ms:assetid: 9669892f-0678-cac1-0170-0b28e7c9de3d
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170892(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170892(v=office.16)
 ms:contentKeyID: 65855467
 ms.date: 08/24/2015
 mtps_version: v=office.16

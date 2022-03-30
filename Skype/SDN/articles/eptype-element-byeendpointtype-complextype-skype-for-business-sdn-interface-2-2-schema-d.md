@@ -2,7 +2,7 @@
 title: EPType element (ByeEndPointType complexType) 
 TOCTitle: EPType element (ByeEndPointType complexType)
 ms:assetid: 8d598236-48ed-358d-b7b2-02e1a9cd390a
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170864(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170864(v=office.16)
 ms:contentKeyID: 65855440
 ms.date: 08/24/2015
 mtps_version: v=office.16

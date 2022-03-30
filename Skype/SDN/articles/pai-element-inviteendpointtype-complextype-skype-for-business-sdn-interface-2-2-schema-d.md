@@ -2,7 +2,7 @@
 title: PAI element (InviteEndPointType complexType) 
 TOCTitle: PAI element (InviteEndPointType complexType)
 ms:assetid: b18ee860-6823-d704-cd38-d2d4de7fbd01
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170940(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170940(v=office.16)
 ms:contentKeyID: 65855515
 ms.date: 08/24/2015
 mtps_version: v=office.16

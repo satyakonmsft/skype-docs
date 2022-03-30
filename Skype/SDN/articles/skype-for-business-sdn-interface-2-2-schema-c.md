@@ -11,8 +11,8 @@ Schema "C" documents the schema file SDNInterface.Schema.C.xsd and is referred t
 ## In this section
 
 - [Schema map (Skype for Business SDN Interface 2.2, Schema C)](schema-map-skype-for-business-sdn-interface-2-2-schema-c.md) 
-- [Elements (Skype for Business SDN Interface 2.2, Schema C)](https://msdn.microsoft.com/en-us/library/mt404702(v=office.16).aspx) 
-- [Types (Skype for Business SDN Interface 2.2, Schema C)](https://msdn.microsoft.com/en-us/library/mt429346(v=office.16).aspx)
+- [Elements (Skype for Business SDN Interface 2.2, Schema C)](https://msdn.microsoft.com/library/mt404702(v=office.16).aspx) 
+- [Types (Skype for Business SDN Interface 2.2, Schema C)](https://msdn.microsoft.com/library/mt429346(v=office.16).aspx)
     
 
 ## Related sections

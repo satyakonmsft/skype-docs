@@ -2,7 +2,7 @@
 title: Informational performance counters
 TOCTitle: Informational performance counters
 ms:assetid: 400065fd-045a-4438-8558-ed02ee6c68e5
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466091(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466091(v=office.16)
 ms:contentKeyID: 65240043
 ms.date: 07/27/2015
 mtps_version: v=office.16

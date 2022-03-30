@@ -2,7 +2,7 @@
 title: EPId element (InviteEndPointType complexType) 
 TOCTitle: EPId element (InviteEndPointType complexType)
 ms:assetid: 27e86971-495f-ea42-672a-bd7345c8f254
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170861(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170861(v=office.16)
 ms:contentKeyID: 65855437
 ms.date: 08/24/2015
 mtps_version: v=office.16

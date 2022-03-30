@@ -2,7 +2,7 @@
 title: QualityUpdate element (MessageType complexType) 
 TOCTitle: QualityUpdate element
 ms:assetid: 853d90f7-9f35-f2c7-7aa3-64f0121ef4f5
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404819(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404819(v=office.16)
 ms:contentKeyID: 68250731
 ms.date: 08/24/2015
 mtps_version: v=office.16

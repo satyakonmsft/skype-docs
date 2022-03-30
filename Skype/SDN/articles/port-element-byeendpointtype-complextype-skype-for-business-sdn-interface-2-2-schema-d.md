@@ -2,7 +2,7 @@
 title: Port element (ByeEndPointType complexType) 
 TOCTitle: Port element (ByeEndPointType complexType)
 ms:assetid: 179b2afc-9ddb-4212-5583-774538c301b4
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170943(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170943(v=office.16)
 ms:contentKeyID: 65855518
 ms.date: 08/24/2015
 mtps_version: v=office.16

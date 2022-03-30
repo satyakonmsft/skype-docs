@@ -2,7 +2,7 @@
 title: To element (ErrorType complexType) 
 TOCTitle: To element (ErrorType complexType)
 ms:assetid: 26928398-f66c-4064-ad1b-af0d8853b0e0
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171012(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171012(v=office.16)
 ms:contentKeyID: 65855585
 ms.date: 08/24/2015
 mtps_version: v=office.16

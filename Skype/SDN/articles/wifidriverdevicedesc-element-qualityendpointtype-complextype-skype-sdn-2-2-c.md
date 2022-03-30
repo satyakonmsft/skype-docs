@@ -2,7 +2,7 @@
 title: WifiDriverDeviceDesc element (QualityEndPointType complexType) 
 TOCTitle: WifiDriverDeviceDesc element
 ms:assetid: 7ab1a899-5d67-a1d2-faee-77f8a01f04d8
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt429344(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt429344(v=office.16)
 ms:contentKeyID: 68250786
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: ResponseCodeType complexType 
 TOCTitle: ResponseCodeType complexType
 ms:assetid: 02ab835d-40cd-1b62-f3bf-c588f6ea714b
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt429360(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt429360(v=office.16)
 ms:contentKeyID: 68250802
 ms.date: 08/24/2015
 mtps_version: v=office.16

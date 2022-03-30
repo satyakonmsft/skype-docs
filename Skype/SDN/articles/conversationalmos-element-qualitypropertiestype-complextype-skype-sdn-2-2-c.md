@@ -2,7 +2,7 @@
 title: ConversationalMOS element (QualityPropertiesType complexType) 
 TOCTitle: ConversationalMOS element
 ms:assetid: 256a91f0-d0e7-fe61-5d3e-de8e7d8ec75f
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404729(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404729(v=office.16)
 ms:contentKeyID: 68250642
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: MediaProvider recommendations
 TOCTitle: MediaProvider recommendations
 ms:assetid: 11d654ce-5c01-4255-be80-1df7db15f9d4
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466113(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466113(v=office.16)
 ms:contentKeyID: 65240048
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -17,9 +17,9 @@ To implement bandwidth management in a class derived from the [MediaProvider](ht
 
 - Honor the bandwidth policy-check flag provided by the base media provider to determine whether a bandwidth check should be performed.
 
-- On the answerer side, if the bandwidth check returns with a call-redirect message, throw [OfferAnswerException](https://msdn.microsoft.com/en-us/library/hh382722\(v=office.16\)) with an [OfferAnswerFailureReason](https://msdn.microsoft.com/en-us/library/hh348371\(v=office.16\)) value of **RedirectDueToBandwidthPolicy**.
+- On the answerer side, if the bandwidth check returns with a call-redirect message, throw [OfferAnswerException](https://msdn.microsoft.com/library/hh382722\(v=office.16\)) with an [OfferAnswerFailureReason](https://msdn.microsoft.com/library/hh348371\(v=office.16\)) value of **RedirectDueToBandwidthPolicy**.
     
-  If the bandwidth check returns with a call-fail message, throw [OfferAnswerException](https://msdn.microsoft.com/en-us/library/hh382722\(v=office.16\)) with an [OfferAnswerFailureReason](https://msdn.microsoft.com/en-us/library/hh348371\(v=office.16\)) value of **FailDueToBandwidthPolicy**.
+  If the bandwidth check returns with a call-fail message, throw [OfferAnswerException](https://msdn.microsoft.com/library/hh382722\(v=office.16\)) with an [OfferAnswerFailureReason](https://msdn.microsoft.com/library/hh348371\(v=office.16\)) value of **FailDueToBandwidthPolicy**.
     
   > [!NOTE]
   > Even though a media provider returns **RedirectDueToBandwidthPolicy**, the signaling layer can override this value and terminate the call with a failure response code based on application preferences.
@@ -30,7 +30,7 @@ To implement bandwidth management in a class derived from the [MediaProvider](ht
 
 - Provide a way to inform the application of RE-INVITE bandwidth failures through MediaFlow.
 
-- On the offerer side, be prepared to handle a null answer with an [SdpAnswerStatus](https://msdn.microsoft.com/en-us/library/hh383245\(v=office.16\)) value of **NotAcceptableDueToBandwidthPolicy** when the answerer rejects the call with a 488 status code.
+- On the offerer side, be prepared to handle a null answer with an [SdpAnswerStatus](https://msdn.microsoft.com/library/hh383245\(v=office.16\)) value of **NotAcceptableDueToBandwidthPolicy** when the answerer rejects the call with a 488 status code.
 
 - (Optional) In **FlowConfigurationRequested** event, expose a way to get application preferences on enabling and disabling bandwidth policy.
 

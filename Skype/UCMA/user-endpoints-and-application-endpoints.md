@@ -2,7 +2,7 @@
 title: User endpoints and application endpoints
 TOCTitle: User endpoints and application endpoints
 ms:assetid: f032f3b0-9dd1-4472-b615-75b83fd6c40f
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466053(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466053(v=office.16)
 ms:contentKeyID: 65239981
 ms.date: 07/27/2015
 mtps_version: v=office.16

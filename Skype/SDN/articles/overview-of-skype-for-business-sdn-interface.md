@@ -2,7 +2,7 @@
 title: Overview of Skype for Business SDN Interface
 TOCTitle: Overview of Skype for Business SDN Interface
 ms:assetid: 5cd64da2-e0bb-4558-9ccb-6e8fa01663fd
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn785191(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn785191(v=office.16)
 ms:contentKeyID: 65258651
 ms.date: 02/27/2017
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: UCMA 5.0 implementation architecture and application behavior
 TOCTitle: UCMA 5.0 implementation architecture and application behavior
 ms:assetid: 583aba66-4638-4158-b8fd-e22619d89dad
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466075(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466075(v=office.16)
 ms:contentKeyID: 65240009
 ms.date: 07/27/2015
 mtps_version: v=office.16

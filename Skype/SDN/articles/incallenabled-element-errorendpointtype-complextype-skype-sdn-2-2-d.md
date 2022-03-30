@@ -2,7 +2,7 @@
 title: IncallEnabled element (ErrorEndPointType complexType) 
 TOCTitle: IncallEnabled element (ErrorEndPointType complexType)
 ms:assetid: 814ee50f-a076-cf5f-926a-42bf6323999f
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170897(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170897(v=office.16)
 ms:contentKeyID: 65855472
 ms.date: 08/24/2015
 mtps_version: v=office.16

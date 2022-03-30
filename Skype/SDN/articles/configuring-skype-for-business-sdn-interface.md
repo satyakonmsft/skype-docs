@@ -2,7 +2,7 @@
 title: Configuring Skype for Business SDN Interface
 TOCTitle: Configuring Skype for Business SDN Interface
 ms:assetid: cf0ca8f3-bcaf-4dba-814f-4b8a5163fa7d
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn785204(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn785204(v=office.16)
 ms:contentKeyID: 65258671
 ms.date: 02/27/2017
 mtps_version: v=office.16

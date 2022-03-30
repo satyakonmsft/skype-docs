@@ -2,7 +2,7 @@
 title: Call recovery usage
 TOCTitle: Call recovery usage
 ms:assetid: 6891b977-0949-411a-8525-52414753d7d5
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466066(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466066(v=office.16)
 ms:contentKeyID: 65240006
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -15,7 +15,7 @@ dev_langs:
 
 **Applies to**: Skype for Business 2015
 
-For an application that intends to wait for dialog healing, an event handler for the [RouteSetStatusChanged](https://msdn.microsoft.com/en-us/library/hh382697\(v=office.16\)) event should be patterned as shown in the following code example.
+For an application that intends to wait for dialog healing, an event handler for the [RouteSetStatusChanged](https://msdn.microsoft.com/library/hh382697\(v=office.16\)) event should be patterned as shown in the following code example.
 
 ```csharp
 private void RouteSetStatusChangedHandler(object sender, RouteSetStatusChangedEventArgs e)

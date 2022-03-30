@@ -2,7 +2,7 @@
 title: UCMA 5.0 business scenarios
 TOCTitle: UCMA 5.0 business scenarios
 ms:assetid: 31d51c95-b05e-4b90-ade4-7036af4d8241
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465936(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465936(v=office.16)
 ms:contentKeyID: 65239778
 ms.date: 07/27/2015
 mtps_version: v=office.16

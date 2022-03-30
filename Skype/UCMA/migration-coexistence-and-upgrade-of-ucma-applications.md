@@ -2,7 +2,7 @@
 title: Migration, coexistence, and upgrade of UCMA applications
 TOCTitle: Migration, coexistence, and upgrade of UCMA applications
 ms:assetid: 07b8c6c2-7cc7-4449-a6c2-3da177b34389
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466137(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466137(v=office.16)
 ms:contentKeyID: 65240055
 ms.date: 07/27/2015
 mtps_version: v=office.16

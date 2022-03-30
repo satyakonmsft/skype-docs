@@ -2,7 +2,7 @@
 title: RoundTripMax element (QualityPropertiesType complexType) 
 TOCTitle: RoundTripMax element
 ms:assetid: a66cc5d2-950b-cc8f-8fdf-5bb1d16482f3
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170990(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170990(v=office.16)
 ms:contentKeyID: 65855564
 ms.date: 08/24/2015
 mtps_version: v=office.16

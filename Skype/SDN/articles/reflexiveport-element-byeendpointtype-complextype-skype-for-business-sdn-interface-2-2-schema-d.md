@@ -2,7 +2,7 @@
 title: ReflexivePort element (ByeEndPointType complexType) 
 TOCTitle: ReflexivePort element (ByeEndPointType complexType)
 ms:assetid: 161e66a6-96fb-69b5-8d70-5a9667bb000d
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170970(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170970(v=office.16)
 ms:contentKeyID: 65855545
 ms.date: 08/24/2015
 mtps_version: v=office.16

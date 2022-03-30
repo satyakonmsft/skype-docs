@@ -2,7 +2,7 @@
 title: BurstDensity element (QualityPropertiesType complexType) 
 TOCTitle: BurstDensity element
 ms:assetid: 2724a5e5-0a34-07e9-9dc1-bfb99af0e4b5
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404710(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404710(v=office.16)
 ms:contentKeyID: 68250622
 ms.date: 08/24/2015
 mtps_version: v=office.16

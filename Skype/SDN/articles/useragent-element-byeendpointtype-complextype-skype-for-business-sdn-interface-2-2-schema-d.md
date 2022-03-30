@@ -2,7 +2,7 @@
 title: UserAgent element (ByeEndPointType complexType) 
 TOCTitle: UserAgent element (ByeEndPointType complexType)
 ms:assetid: 4de7467b-94e4-0733-fb24-9feb907b570f
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171024(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171024(v=office.16)
 ms:contentKeyID: 65855598
 ms.date: 08/24/2015
 mtps_version: v=office.16

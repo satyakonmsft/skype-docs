@@ -2,7 +2,7 @@
 title: Adding a modality to an existing conversation
 TOCTitle: Adding a modality to an existing conversation
 ms:assetid: 3e3ba497-c663-461e-9a57-a9ad5cc0521c
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465986(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465986(v=office.16)
 ms:contentKeyID: 65239923
 ms.date: 07/27/2015
 mtps_version: v=office.16

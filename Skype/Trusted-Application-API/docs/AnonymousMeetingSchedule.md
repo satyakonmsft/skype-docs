@@ -2,11 +2,11 @@
 
 Here we will discuss a few ways to schedule an Anonymous meeting and get meeting url.
 
-1.  [Schedule meeting via Skype for Business client](https://msdn.microsoft.com/en-us/skype/appsdk/getmeetingurl)
+1.  [Schedule meeting via Skype for Business client](https://msdn.microsoft.com/skype/appsdk/getmeetingurl)
 
 2.  Schedule meeting with UCWA
      
-    Please read [Authentication using Azure AD](https://msdn.microsoft.com/en-us/skype/ucwa/authenticationusingazuread) for detailed Autodiscovery flow. Thereafter [myOnlineMeetings](https://msdn.microsoft.com/en-us/skype/ucwa/myonlinemeetings_ref) resource can be used to create a new online meeting as well as to modify and delete existing ones. 
+    Please read [Authentication using Azure AD](https://msdn.microsoft.com/skype/ucwa/authenticationusingazuread) for detailed Autodiscovery flow. Thereafter [myOnlineMeetings](https://msdn.microsoft.com/skype/ucwa/myonlinemeetings_ref) resource can be used to create a new online meeting as well as to modify and delete existing ones. 
 
     ![alt text](./images/CallFlowsUcwaMeetingSchedule.png "image")
 

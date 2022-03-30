@@ -2,7 +2,7 @@
 title: StreamQuality element (QualityPropertiesType complexType) 
 TOCTitle: StreamQuality element
 ms:assetid: dc0ff96d-4d78-caed-44a0-3849b2ffa941
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171001(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171001(v=office.16)
 ms:contentKeyID: 65855573
 ms.date: 08/24/2015
 mtps_version: v=office.16

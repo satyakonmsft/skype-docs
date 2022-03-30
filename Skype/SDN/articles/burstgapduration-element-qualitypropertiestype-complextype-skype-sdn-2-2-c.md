@@ -2,7 +2,7 @@
 title: BurstGapDuration element (QualityPropertiesType complexType) 
 TOCTitle: BurstGapDuration element
 ms:assetid: a9a78900-88ce-d1b8-49ee-92c19270be0e
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404712(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404712(v=office.16)
 ms:contentKeyID: 68250625
 ms.date: 08/24/2015
 mtps_version: v=office.16

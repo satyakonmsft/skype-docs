@@ -29,19 +29,19 @@ The "C" schema was released with previous versions of the Skype for Business SDN
 The "D" schema was released with Skype for Business SDN Interface, version 2.2. The "C_3.0" and "D_3.0" schemas support version 3.0.
 
 > [!NOTE]
-> The 3.0 schemas have not been documented yet. You can download the schema, release notes, and updated utilities from [Skype for Business Software Defined Networking (SDN) Interface 3.0](https://www.microsoft.com/en-us/download/details.aspx?id=54685).
+> The 3.0 schemas have not been documented yet. You can download the schema, release notes, and updated utilities from [Skype for Business Software Defined Networking (SDN) Interface 3.0](https://www.microsoft.com/download/details.aspx?id=54685).
 
 ## In this section
 
--  [Skype for Business SDN Interface 2.2, Schema C](https://msdn.microsoft.com/en-us/library/office/mt404709(v=office.16).aspx) 
--  [Skype for Business SDN Interface 2.2, Schema D](https://msdn.microsoft.com/en-us/library/office/mt429384(v=office.16).aspx)
+-  [Skype for Business SDN Interface 2.2, Schema C](https://msdn.microsoft.com/library/office/mt404709(v=office.16).aspx) 
+-  [Skype for Business SDN Interface 2.2, Schema D](https://msdn.microsoft.com/library/office/mt429384(v=office.16).aspx)
     
 
 ## See also
 
 -  [Overview of Skype for Business SDN Interface](overview.md) 
 -  [Skype for Business Software Defined Networking (SDN) Interface](skype-for-business-sdn-interface.md) 
--  [Skype for Business Software Defined Networking (SDN) Interface 3.0](https://www.microsoft.com/en-us/download/details.aspx?id=54685)
+-  [Skype for Business Software Defined Networking (SDN) Interface 3.0](https://www.microsoft.com/download/details.aspx?id=54685)
     
   
 

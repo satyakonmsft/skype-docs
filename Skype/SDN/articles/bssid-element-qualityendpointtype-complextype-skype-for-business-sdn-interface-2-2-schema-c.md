@@ -2,7 +2,7 @@
 title: BSSID element (QualityEndPointType complexType) 
 TOCTitle: BSSID element
 ms:assetid: b95e0903-780f-601a-cd33-07d113693da8
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404707(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404707(v=office.16)
 ms:contentKeyID: 68250623
 ms.date: 08/24/2015
 mtps_version: v=office.16

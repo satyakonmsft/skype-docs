@@ -2,7 +2,7 @@
 title: BurstGapDensity element (QualityPropertiesType complexType) 
 TOCTitle: BurstGapDensity element
 ms:assetid: 9e5ddec0-966a-5eda-fc7b-a3dfb2f8548e
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404713(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404713(v=office.16)
 ms:contentKeyID: 68250626
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: ConferenceManagement (QuickStart)
 TOCTitle: ConferenceManagement (QuickStart)
 ms:assetid: 0e7252c6-1677-4b10-8713-1326830ab9e1
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn454817(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn454817(v=office.16)
 ms:contentKeyID: 65240092
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -46,7 +46,7 @@ The sample application logic proceeds as follows:
 
 7.  Organizer admits participant B from the lobby and denies access to participant C.
 
-8.  Organizer modifies the conference access level to [SourceNetwork](https://msdn.microsoft.com/en-us/library/hh385294\(v=office.16\)).**SameEnterprise** (opens the conference), and then participant C joins the conference successfully.
+8.  Organizer modifies the conference access level to [SourceNetwork](https://msdn.microsoft.com/library/hh385294\(v=office.16\)).**SameEnterprise** (opens the conference), and then participant C joins the conference successfully.
 
 For information about provisioning trusted applications and endpoints in Microsoft Lync Server, see [Activating a UCMA 5.0 trusted application](activating-a-ucma-5-0-trusted-application.md).
 

@@ -2,7 +2,7 @@
 title: Trusted conferencing user conversation model
 TOCTitle: Trusted conferencing user conversation model
 ms:assetid: 49a76bad-e38e-4e1b-9660-490748041d32
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466016(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466016(v=office.16)
 ms:contentKeyID: 65239947
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -12,7 +12,7 @@ mtps_version: v=office.16
 
 **Applies to**: Skype for Business 2015
 
-Using the Trusted Conferencing User model, an application can create multiple [AudioVideoCall](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) instances in the context of a single [Conversation](https://msdn.microsoft.com/en-us/library/hh349224\(v=office.16\)) instance. This call structure allows for a closer alignment with the problem domain. An application not using this model must manage one conversation for each user, all of whom communicate with the same conference. The TCU model reduces management overhead for the application by having it manage only one conversation for each conference, resulting in fewer objects to manage.
+Using the Trusted Conferencing User model, an application can create multiple [AudioVideoCall](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) instances in the context of a single [Conversation](https://msdn.microsoft.com/library/hh349224\(v=office.16\)) instance. This call structure allows for a closer alignment with the problem domain. An application not using this model must manage one conversation for each user, all of whom communicate with the same conference. The TCU model reduces management overhead for the application by having it manage only one conversation for each conference, resulting in fewer objects to manage.
 
 The following illustration shows the architecture of the TCU model.
 

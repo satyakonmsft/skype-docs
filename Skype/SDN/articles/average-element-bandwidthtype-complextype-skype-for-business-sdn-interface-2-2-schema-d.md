@@ -2,7 +2,7 @@
 title: Average element (BandwidthType complexType) 
 TOCTitle: Average element
 ms:assetid: 15daf053-67d8-973e-1410-27b4fb765405
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt149428(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt149428(v=office.16)
 ms:contentKeyID: 65855708
 ms.date: 08/24/2015
 mtps_version: v=office.16

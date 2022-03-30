@@ -2,7 +2,7 @@
 title: UCMA 5.0 general reference
 TOCTitle: UCMA 5.0 general reference
 ms:assetid: c78acf92-105c-4e08-8ec1-578f3f21b823
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465922(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465922(v=office.16)
 ms:contentKeyID: 65239772
 ms.date: 07/27/2015
 mtps_version: v=office.16

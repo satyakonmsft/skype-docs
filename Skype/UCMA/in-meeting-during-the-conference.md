@@ -2,7 +2,7 @@
 title: 'In-meeting: during the conference'
 TOCTitle: 'In-meeting: during the conference'
 ms:assetid: 73aa07e8-0188-4b32-bc08-e28d028a5f59
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465925(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465925(v=office.16)
 ms:contentKeyID: 65239794
 ms.date: 07/27/2015
 mtps_version: v=office.16

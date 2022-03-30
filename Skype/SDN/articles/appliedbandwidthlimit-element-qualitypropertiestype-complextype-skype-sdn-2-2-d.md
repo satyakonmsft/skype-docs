@@ -2,7 +2,7 @@
 title: AppliedBandwidthLimit element (QualityPropertiesType complexType) 
 TOCTitle: AppliedBandwidthLimit element
 ms:assetid: 2fc1ead2-c75f-0572-ee7a-2599a189a5ae
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt149424(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt149424(v=office.16)
 ms:contentKeyID: 65855372
 ms.date: 08/24/2015
 mtps_version: v=office.16

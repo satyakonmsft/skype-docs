@@ -2,7 +2,7 @@
 title: UserAgent element (InviteEndPointType complexType) 
 TOCTitle: UserAgent element (InviteEndPointType complexType)
 ms:assetid: 7d15d5b9-2565-f68f-aaef-380e442b7aed
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171026(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171026(v=office.16)
 ms:contentKeyID: 65855599
 ms.date: 08/24/2015
 mtps_version: v=office.16

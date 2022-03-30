@@ -2,7 +2,7 @@
 title: ConferenceId element (ConnectionInfoType complexType) 
 TOCTitle: ConferenceId element
 ms:assetid: ae7f4c66-3475-fd6a-6c90-484687dad420
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt149447(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt149447(v=office.16)
 ms:contentKeyID: 65855394
 ms.date: 08/24/2015
 mtps_version: v=office.16

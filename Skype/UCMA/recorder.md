@@ -2,7 +2,7 @@
 title: Recorder (Unified Communications Managed API 5.0)
 TOCTitle: Recorder
 ms:assetid: f1d1be77-652c-4781-b8de-9ab797231774
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466038(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466038(v=office.16)
 ms:contentKeyID: 65239974
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -16,9 +16,9 @@ dev_langs:
 
 A [Recorder](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.recorder?view=ucma-api) is an entity that can receive audio media that comes from an [AudioVideoFlow](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow?view=ucma-api) instance and record it to a file. Depending on the state of the attached **AudioVideoFlow** instance, a **Recorder** can automatically start or stop.
 
-Unlike the [Player](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.player?view=ucma-api) class, which has two modes of operation, the **Recorder** class can be thought of as having only one mode of operation, which is similar to **Automatic** mode in the **Player** class. If an application calls the [Start](https://msdn.microsoft.com/en-us/library/hh383534\(v=office.16\)) method on a **Recorder** instance, nothing will be recorded until an active **AudioVideoFlow** instance is attached to it. In addition, if there is no active **AudioVideoFlow** instance attached to a **Recorder** instance, or if the **AudioVideoFlow** instance is detached or terminated, the **Recorder** instance stops automatically.
+Unlike the [Player](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.player?view=ucma-api) class, which has two modes of operation, the **Recorder** class can be thought of as having only one mode of operation, which is similar to **Automatic** mode in the **Player** class. If an application calls the [Start](https://msdn.microsoft.com/library/hh383534\(v=office.16\)) method on a **Recorder** instance, nothing will be recorded until an active **AudioVideoFlow** instance is attached to it. In addition, if there is no active **AudioVideoFlow** instance attached to a **Recorder** instance, or if the **AudioVideoFlow** instance is detached or terminated, the **Recorder** instance stops automatically.
 
-If a **Recorder** instance has started recording a file, an application can cause recording to stop by calling the [Stop](https://msdn.microsoft.com/en-us/library/hh381306\(v=office.16\)) method. In addition, state changes in the attached **AudioVideoFlow** instance can also cause the **Recorder** instance to stop. For example, if the **State** property on the **AudioVideoFlow** instance changes from **Active** to **Terminated**, the **Recorder** instance stops. Non-state configuration changes in the **AudioVideoFlow** instance, such as Hold, Retrieve, Mute, and changing the media channel direction, do not stop the **Recorder** instance. For example, if a call that is being recorded remains on hold for five minutes, the **Recorder** instance records five minutes of silence.
+If a **Recorder** instance has started recording a file, an application can cause recording to stop by calling the [Stop](https://msdn.microsoft.com/library/hh381306\(v=office.16\)) method. In addition, state changes in the attached **AudioVideoFlow** instance can also cause the **Recorder** instance to stop. For example, if the **State** property on the **AudioVideoFlow** instance changes from **Active** to **Terminated**, the **Recorder** instance stops. Non-state configuration changes in the **AudioVideoFlow** instance, such as Hold, Retrieve, Mute, and changing the media channel direction, do not stop the **Recorder** instance. For example, if a call that is being recorded remains on hold for five minutes, the **Recorder** instance records five minutes of silence.
 
 A **Recorder** will not record to a file with the hidden attribute.
 
@@ -36,21 +36,21 @@ The essential points of creating and using a **Recorder** instance appear in the
 
 1.  Create a **Recorder** instance, using the constructor for this class.
 
-2.  Attach the flow to the recorder, using the [AttachFlow](https://msdn.microsoft.com/en-us/library/hh381868\(v=office.16\)) method on the **Recorder** class.
+2.  Attach the flow to the recorder, using the [AttachFlow](https://msdn.microsoft.com/library/hh381868\(v=office.16\)) method on the **Recorder** class.
 
-3.  Create the object that receives the recording, using the [WmaFileSink](https://msdn.microsoft.com/en-us/library/hh382490\(v=office.16\)) constructor. The parameter to this constructor is a string that contains the name of the WMA file that will be created. As previously mentioned, the file should not be a hidden file.
+3.  Create the object that receives the recording, using the [WmaFileSink](https://msdn.microsoft.com/library/hh382490\(v=office.16\)) constructor. The parameter to this constructor is a string that contains the name of the WMA file that will be created. As previously mentioned, the file should not be a hidden file.
 
 4.  Register for the **StateChanged** event.
 
-5.  Call the recorder’s [SetSink](https://msdn.microsoft.com/en-us/library/hh348664\(v=office.16\)) method, which informs the recorder of where the recorded data should go.
+5.  Call the recorder’s [SetSink](https://msdn.microsoft.com/library/hh348664\(v=office.16\)) method, which informs the recorder of where the recorded data should go.
 
-6.  Start the recorder, using the [Start](https://msdn.microsoft.com/en-us/library/hh383534\(v=office.16\)) method on the **Recorder** instance.
+6.  Start the recorder, using the [Start](https://msdn.microsoft.com/library/hh383534\(v=office.16\)) method on the **Recorder** instance.
 
-7.  Pause the recorder, using the [Pause](https://msdn.microsoft.com/en-us/library/hh349541\(v=office.16\)) method on the **Recorder** instance.
+7.  Pause the recorder, using the [Pause](https://msdn.microsoft.com/library/hh349541\(v=office.16\)) method on the **Recorder** instance.
 
-8.  Stop the recorder, using the [Stop](https://msdn.microsoft.com/en-us/library/hh381306\(v=office.16\)) method on the **Recorder** instance.
+8.  Stop the recorder, using the [Stop](https://msdn.microsoft.com/library/hh381306\(v=office.16\)) method on the **Recorder** instance.
 
-9.  Detach the flow from the **Recorder** instance, using the [DetachFlow](https://msdn.microsoft.com/en-us/library/hh385116\(v=office.16\)) method.
+9.  Detach the flow from the **Recorder** instance, using the [DetachFlow](https://msdn.microsoft.com/library/hh385116\(v=office.16\)) method.
 
 <!-- end list -->
 

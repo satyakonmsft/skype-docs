@@ -2,7 +2,7 @@
 title: BasicAudioVideoCall (QuickStart)
 TOCTitle: BasicAudioVideoCall (QuickStart)
 ms:assetid: 062e5bc2-0f8b-4584-8335-f5a88beaf43e
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466147(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466147(v=office.16)
 ms:contentKeyID: 65240076
 ms.date: 07/27/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: IP element (InviteEndPointType complexType) 
 TOCTitle: IP element (InviteEndPointType complexType)
 ms:assetid: cbc13469-acb6-35d1-acb5-39470ab339e2
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170902(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170902(v=office.16)
 ms:contentKeyID: 65855476
 ms.date: 08/24/2015
 mtps_version: v=office.16

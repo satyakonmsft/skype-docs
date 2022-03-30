@@ -2,7 +2,7 @@
 title: Wireless element (EndPointType complexType) 
 TOCTitle: Wireless element (EndPointType complexType)
 ms:assetid: 8d18a07c-681b-2443-9aee-16c87a425d8e
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171037(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171037(v=office.16)
 ms:contentKeyID: 65855610
 ms.date: 08/24/2015
 mtps_version: v=office.16

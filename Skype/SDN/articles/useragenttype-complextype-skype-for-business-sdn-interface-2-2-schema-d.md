@@ -2,7 +2,7 @@
 title: UserAgentType complexType 
 TOCTitle: UserAgentType complexType
 ms:assetid: a863d70e-aa89-a82b-7d77-7a2e1df35a92
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171077(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171077(v=office.16)
 ms:contentKeyID: 65855650
 ms.date: 08/24/2015
 mtps_version: v=office.16

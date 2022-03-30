@@ -2,7 +2,7 @@
 title: Wireless element (InviteEndPointType complexType) 
 TOCTitle: Wireless element (InviteEndPointType complexType)
 ms:assetid: 11430716-f9db-4376-c51e-518e21cca8e8
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171039(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171039(v=office.16)
 ms:contentKeyID: 65855611
 ms.date: 08/24/2015
 mtps_version: v=office.16

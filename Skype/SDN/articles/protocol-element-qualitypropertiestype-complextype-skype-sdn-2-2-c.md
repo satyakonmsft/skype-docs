@@ -2,7 +2,7 @@
 title: Protocol element (QualityPropertiesType complexType) 
 TOCTitle: Protocol element (QualityPropertiesType complexType)
 ms:assetid: 7c2b8c7a-b2f3-8c4e-22bb-cecd6fe1e92d
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404817(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404817(v=office.16)
 ms:contentKeyID: 68250729
 ms.date: 08/24/2015
 mtps_version: v=office.16

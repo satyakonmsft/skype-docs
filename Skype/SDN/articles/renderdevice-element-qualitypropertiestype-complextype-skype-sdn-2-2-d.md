@@ -2,7 +2,7 @@
 title: RenderDevice element (QualityPropertiesType complexType) 
 TOCTitle: RenderDevice element
 ms:assetid: 34614e3c-e11f-adf2-4aa4-655eadf963dc
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170980(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170980(v=office.16)
 ms:contentKeyID: 65855555
 ms.date: 08/24/2015
 mtps_version: v=office.16

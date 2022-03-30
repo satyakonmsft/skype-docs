@@ -2,7 +2,7 @@
 title: StartPropertiesType complexType 
 TOCTitle: StartPropertiesType complexType
 ms:assetid: 963421e3-524b-0997-ce67-04875aafa72c
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171074(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171074(v=office.16)
 ms:contentKeyID: 65855647
 ms.date: 08/24/2015
 mtps_version: v=office.16

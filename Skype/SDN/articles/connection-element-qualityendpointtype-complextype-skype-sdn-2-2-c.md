@@ -2,7 +2,7 @@
 title: Connection element (QualityEndPointType complexType) 
 TOCTitle: Connection element
 ms:assetid: 468436d2-f6ec-74b5-04d1-ddc7b54cee3a
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404723(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404723(v=office.16)
 ms:contentKeyID: 68250636
 ms.date: 08/24/2015
 mtps_version: v=office.16

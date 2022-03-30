@@ -2,7 +2,7 @@
 title: PAI element (QualityEndPointType complexType) 
 TOCTitle: PAI element (QualityEndPointType complexType)
 ms:assetid: 75ec0091-721f-55d2-2cff-70308ccb40a6
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170937(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170937(v=office.16)
 ms:contentKeyID: 65855512
 ms.date: 08/24/2015
 mtps_version: v=office.16

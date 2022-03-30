@@ -2,7 +2,7 @@
 title: Additional scenarios
 TOCTitle: Additional scenarios
 ms:assetid: a688141b-fdaa-41cd-9362-9f5afd854ed8
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465957(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465957(v=office.16)
 ms:contentKeyID: 65239775
 ms.date: 07/27/2015
 mtps_version: v=office.16

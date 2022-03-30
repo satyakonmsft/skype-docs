@@ -15,7 +15,7 @@ After completing the steps in this article, your app can join a **Skype for Busi
 
 ## Prerequisites
 
-1. Please read [Getting started with Skype App SDK development](https://msdn.microsoft.com/en-us/skype/appsdk/gettingstarted) to learn how to configure your Android project for the **Skype for Business** App SDK.  In particular, the following steps assume that you have added the _ConversationHelper_ class to your source to let you complete the scenario with a minimum of code. 
+1. Please read [Getting started with Skype App SDK development](https://msdn.microsoft.com/skype/appsdk/gettingstarted) to learn how to configure your Android project for the **Skype for Business** App SDK.  In particular, the following steps assume that you have added the _ConversationHelper_ class to your source to let you complete the scenario with a minimum of code. 
 
 2. Create and deploy a **Trusted Application API Service Application** for Skype for Business Online. Please refer [Developing Trusted Application API applications for Skype for Business Online](./DevelopingApplicationsforSFBOnline.md) for more details.
 This service application will provide RESTful Trusted Application API endpoint to creates ad-hoc meetings, provides meeting join Urls, discovery Uris, and anonymous meeting tokens to your android app.

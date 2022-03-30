@@ -2,7 +2,7 @@
 title: Creating a Skype for Business bot
 TOCTitle: Creating a Skype for Business bot
 ms:assetid: bede739a-ec48-4e6d-b52c-acbf04b245bb
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn454840(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn454840(v=office.16)
 ms:contentKeyID: 65240111
 ms.date: 07/27/2015
 mtps_version: v=office.16

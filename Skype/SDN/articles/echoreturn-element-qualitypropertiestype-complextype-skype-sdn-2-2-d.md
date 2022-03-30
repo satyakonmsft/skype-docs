@@ -2,7 +2,7 @@
 title: EchoReturn element (QualityPropertiesType complexType) 
 TOCTitle: EchoReturn element
 ms:assetid: 90c85b41-fbf7-ee4c-8864-a62d7cbc3d53
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170849(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170849(v=office.16)
 ms:contentKeyID: 65855427
 ms.date: 08/24/2015
 mtps_version: v=office.16

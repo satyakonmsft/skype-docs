@@ -2,7 +2,7 @@
 title: New features in Skype for Business SDN Interface
 TOCTitle: New features in Skype for Business SDN Interface
 ms:assetid: a0ef6ad8-c0a2-425f-b236-dc4907efa22b
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn785195(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn785195(v=office.16)
 ms:contentKeyID: 65258660
 ms.date: 02/28/2017
 mtps_version: v=office.16

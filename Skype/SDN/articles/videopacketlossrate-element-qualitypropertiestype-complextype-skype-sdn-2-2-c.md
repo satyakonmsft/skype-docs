@@ -2,7 +2,7 @@
 title: VideoPacketLossRate element (QualityPropertiesType complexType) 
 TOCTitle: VideoPacketLossRate element
 ms:assetid: 493f8d16-c335-cc90-355b-16c03e86a7fa
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt429340(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt429340(v=office.16)
 ms:contentKeyID: 68250782
 ms.date: 08/24/2015
 mtps_version: v=office.16

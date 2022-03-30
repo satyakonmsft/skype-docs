@@ -2,7 +2,7 @@
 title: Properties element (MessageType complexType) 
 TOCTitle: Properties element (MessageType complexType)
 ms:assetid: 229119f1-87da-8ce4-ad6c-67404aad32fc
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170949(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170949(v=office.16)
 ms:contentKeyID: 65855524
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: EchoPercentSend element (QualityPropertiesType complexType) 
 TOCTitle: EchoPercentSend element
 ms:assetid: b1b24796-6e50-aed0-e45a-2e3dfbf98478
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170847(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170847(v=office.16)
 ms:contentKeyID: 65855421
 ms.date: 08/24/2015
 mtps_version: v=office.16

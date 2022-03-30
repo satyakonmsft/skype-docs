@@ -2,7 +2,7 @@
 title: Call admission control
 TOCTitle: Call admission control
 ms:assetid: 5536dd5c-1e64-4145-8691-94cc2b7be69e
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466095(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466095(v=office.16)
 ms:contentKeyID: 65240046
 ms.date: 07/27/2015
 mtps_version: v=office.16

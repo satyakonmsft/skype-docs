@@ -2,7 +2,7 @@
 title: Conference features
 TOCTitle: Conference features
 ms:assetid: 73465dfc-ab21-4659-bb4f-f806079e3309
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465958(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465958(v=office.16)
 ms:contentKeyID: 65239792
 ms.date: 07/27/2015
 mtps_version: v=office.16

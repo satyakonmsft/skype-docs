@@ -2,7 +2,7 @@
 title: Activating a UCMA 5.0 trusted application
 TOCTitle: Activating a UCMA 5.0 trusted application
 ms:assetid: f75a02e0-6bc2-4e18-81fd-17907b06fb7d
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466114(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466114(v=office.16)
 ms:contentKeyID: 65240049
 ms.date: 07/27/2015
 mtps_version: v=office.16

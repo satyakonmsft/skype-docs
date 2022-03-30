@@ -57,5 +57,5 @@ Learning how to use the **Trusted Application API** is simpler if you are famili
 
 - [The Unified Communications Web API (UCWA)](https://ucwa.skype.com)
 - [Key programming concepts - UCWA](https://ucwa.skype.com/documentation/key-programming-concepts)
-- [UCWA API Reference](https://msdn.microsoft.com/en-us/skype/ucwa/ucwa2_0apireference)
-- [The Unified Communications Managed API (UCMA)](https://msdn.microsoft.com/en-us/library/office/dn454984.aspx)
+- [UCWA API Reference](https://msdn.microsoft.com/skype/ucwa/ucwa2_0apireference)
+- [The Unified Communications Managed API (UCMA)](https://msdn.microsoft.com/library/office/dn454984.aspx)

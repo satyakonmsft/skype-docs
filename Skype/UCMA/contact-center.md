@@ -2,7 +2,7 @@
 title: Contact center (Unified Communications Managed API 5.0)
 TOCTitle: Contact center
 ms:assetid: 68d51b20-9fd5-4b24-b3f7-23b81168536e
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465935(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465935(v=office.16)
 ms:contentKeyID: 65239779
 ms.date: 07/27/2015
 mtps_version: v=office.16

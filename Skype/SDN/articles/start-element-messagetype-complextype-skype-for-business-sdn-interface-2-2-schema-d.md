@@ -2,7 +2,7 @@
 title: Start element (MessageType complexType) 
 TOCTitle: Start element
 ms:assetid: 4b095bc8-9443-27a4-7581-35af289d5c8c
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170998(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170998(v=office.16)
 ms:contentKeyID: 65855574
 ms.date: 08/24/2015
 mtps_version: v=office.16

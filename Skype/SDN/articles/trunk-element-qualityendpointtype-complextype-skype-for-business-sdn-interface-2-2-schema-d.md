@@ -2,7 +2,7 @@
 title: Trunk element (QualityEndPointType complexType) 
 TOCTitle: Trunk element (QualityEndPointType complexType)
 ms:assetid: 748b3e24-cbaf-18d6-ad8e-5ece4e69caea
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171010(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171010(v=office.16)
 ms:contentKeyID: 65855583
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: Extending the MediaFlow class
 TOCTitle: Extending the MediaFlow class
 ms:assetid: e6f88071-233c-43b2-b718-59a323bd039c
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466106(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466106(v=office.16)
 ms:contentKeyID: 65240025
 ms.date: 07/27/2015
 mtps_version: v=office.16

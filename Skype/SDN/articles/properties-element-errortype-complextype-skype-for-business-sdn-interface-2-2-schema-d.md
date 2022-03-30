@@ -2,7 +2,7 @@
 title: Properties element (ErrorType complexType) 
 TOCTitle: Properties element (ErrorType complexType)
 ms:assetid: ad88f456-903f-ef5d-e802-c35efd1c826b
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170947(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170947(v=office.16)
 ms:contentKeyID: 65855522
 ms.date: 08/24/2015
 mtps_version: v=office.16

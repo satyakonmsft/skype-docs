@@ -2,7 +2,7 @@
 title: Activating QoE recording in Skype for Business Server
 TOCTitle: Activating QoE recording in Skype for Business Server
 ms:assetid: 32254d29-c4be-4d1d-80c1-3ec766f2b6f4
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn806347(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn806347(v=office.16)
 ms:contentKeyID: 65258663
 ms.date: 02/27/2017
 mtps_version: v=office.16
@@ -29,7 +29,7 @@ In our example, "W15Toplogy" is the site name assigned to the Skype for Business
 
     Set-CsQoEConfiguration -Identity site:W15Topology -EnableQoE $True
 
-For detailed information about the Windows PowerShell commands, see [Skype for Business Server 2015 Management Shell](https://technet.microsoft.com/en-us/library/gg398474.aspx).
+For detailed information about the Windows PowerShell commands, see [Skype for Business Server 2015 Management Shell](https://technet.microsoft.com/library/gg398474.aspx).
 
 ## Verify and activate QoE recording using the Skype for Business Server Control Panel
 

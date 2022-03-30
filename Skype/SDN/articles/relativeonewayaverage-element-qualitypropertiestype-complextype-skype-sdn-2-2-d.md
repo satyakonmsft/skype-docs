@@ -2,7 +2,7 @@
 title: RelativeOneWayAverage element (QualityPropertiesType complexType) 
 TOCTitle: RelativeOneWayAverage element
 ms:assetid: c2169339-f0d9-8b20-426d-0fabc1b0463c
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170974(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170974(v=office.16)
 ms:contentKeyID: 65855549
 ms.date: 08/24/2015
 mtps_version: v=office.16

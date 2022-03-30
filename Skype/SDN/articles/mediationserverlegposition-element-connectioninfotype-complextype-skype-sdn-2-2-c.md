@@ -2,7 +2,7 @@
 title: MediationServerLegPosition element (ConnectionInfoType complexType) 
 TOCTitle: MediationServerLegPosition element
 ms:assetid: 060f8b38-14cc-40df-5beb-b8d32f788d72
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404792(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404792(v=office.16)
 ms:contentKeyID: 68250702
 ms.date: 08/24/2015
 mtps_version: v=office.16

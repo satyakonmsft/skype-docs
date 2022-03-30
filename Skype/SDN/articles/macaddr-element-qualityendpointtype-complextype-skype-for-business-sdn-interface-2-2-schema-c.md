@@ -2,7 +2,7 @@
 title: MACAddr element (QualityEndPointType complexType) 
 TOCTitle: MACAddr element
 ms:assetid: 9c3736b4-8284-14bb-eb64-06c385190d3b
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404788(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404788(v=office.16)
 ms:contentKeyID: 68250698
 ms.date: 08/24/2015
 mtps_version: v=office.16

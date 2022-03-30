@@ -2,7 +2,7 @@
 title: VoiceXML 2.0 support
 TOCTitle: VoiceXML 2.0 support
 ms:assetid: 7d7be90b-51f1-41fb-bb25-0184302302e0
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465938(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465938(v=office.16)
 ms:contentKeyID: 65239857
 ms.date: 07/27/2015
 mtps_version: v=office.16

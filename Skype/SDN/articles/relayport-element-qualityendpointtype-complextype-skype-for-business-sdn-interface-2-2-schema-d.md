@@ -2,7 +2,7 @@
 title: RelayPort element (QualityEndPointType complexType) 
 TOCTitle: RelayPort element (QualityEndPointType complexType)
 ms:assetid: 7167e863-3ad6-9630-24d9-93f487884555
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170978(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170978(v=office.16)
 ms:contentKeyID: 65855553
 ms.date: 08/24/2015
 mtps_version: v=office.16

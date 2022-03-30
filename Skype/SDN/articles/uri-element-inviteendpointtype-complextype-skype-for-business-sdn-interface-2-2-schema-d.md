@@ -2,7 +2,7 @@
 title: URI element (InviteEndPointType complexType) 
 TOCTitle: URI element (InviteEndPointType complexType)
 ms:assetid: a991ef73-fda5-90c5-3959-1ab6d1567797
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171020(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171020(v=office.16)
 ms:contentKeyID: 65855593
 ms.date: 08/24/2015
 mtps_version: v=office.16

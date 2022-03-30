@@ -2,7 +2,7 @@
 title: ConnectionPlatforms simpleType 
 TOCTitle: ConnectionPlatforms simpleType
 ms:assetid: 3ce2b946-41fb-8db7-c4c9-1b4b72799319
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171045(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171045(v=office.16)
 ms:contentKeyID: 65855620
 ms.date: 08/24/2015
 mtps_version: v=office.16

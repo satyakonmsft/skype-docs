@@ -2,7 +2,7 @@
 title: URI element (ByeEndPointType complexType) 
 TOCTitle: URI element (ByeEndPointType complexType)
 ms:assetid: 53afb829-203a-12fa-bde2-6cd6041c1064
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171019(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171019(v=office.16)
 ms:contentKeyID: 65855592
 ms.date: 08/24/2015
 mtps_version: v=office.16

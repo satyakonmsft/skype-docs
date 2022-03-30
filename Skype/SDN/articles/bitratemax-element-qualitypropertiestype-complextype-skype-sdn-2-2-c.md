@@ -2,7 +2,7 @@
 title: BitRateMax element (QualityPropertiesType complexType) 
 TOCTitle: BitRateMax element
 ms:assetid: 5295682e-f606-eacb-b3db-bab7bfb176d1
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404708(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404708(v=office.16)
 ms:contentKeyID: 68250621
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: Trunk element (ErrorEndPointType complexType) 
 TOCTitle: Trunk element (ErrorEndPointType complexType)
 ms:assetid: 21d9fb9f-0f0e-3dd6-7c4a-b620d3d769ae
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171016(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171016(v=office.16)
 ms:contentKeyID: 65855589
 ms.date: 08/24/2015
 mtps_version: v=office.16

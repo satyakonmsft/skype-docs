@@ -2,7 +2,7 @@
 title: Support for IPv6 (Unified Communications Managed API 5.0)
 TOCTitle: Support for IPv6
 ms:assetid: 8bfa4980-a839-4cab-8a45-739d86d53bef
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465946(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465946(v=office.16)
 ms:contentKeyID: 65239787
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -37,9 +37,9 @@ There are a number of things to check for in your code when you update it to sup
 
 Check your code for the following:
 
-- Any uses of the [Dns](https://msdn.microsoft.com/en-us/library/b8hth2dy) class. It is very possible that there might be built-in assumptions about the number of addresses that this class will return, that the first address is an IPv4 address, or there is some logic that filters out IPv6 addresses. In addition, some code might assume that the results from a DNS query are separate physical machines and thus some form of resiliency or load balancing can be accomplished across the addresses being returned. This is no longer a safe assumption.
+- Any uses of the [Dns](https://msdn.microsoft.com/library/b8hth2dy) class. It is very possible that there might be built-in assumptions about the number of addresses that this class will return, that the first address is an IPv4 address, or there is some logic that filters out IPv6 addresses. In addition, some code might assume that the results from a DNS query are separate physical machines and thus some form of resiliency or load balancing can be accomplished across the addresses being returned. This is no longer a safe assumption.
 
-- Hard-coded IP addresses. This might be [Any](https://msdn.microsoft.com/en-us/library/hdk35zc9) or [Loopback](https://msdn.microsoft.com/en-us/library/8e4b4zeh). Supporting IPv6 means that there are now two **Any** addresses and two **Loopback** addresses that must be considered—the two fields already listed, as well as the [IPv6Any](https://msdn.microsoft.com/en-us/library/h2ca14s4) and [IPv6Loopback](https://msdn.microsoft.com/en-us/library/052fbtx7) fields in your code. For best results, hosts should be specified by their FQDN and not by address.
+- Hard-coded IP addresses. This might be [Any](https://msdn.microsoft.com/library/hdk35zc9) or [Loopback](https://msdn.microsoft.com/library/8e4b4zeh). Supporting IPv6 means that there are now two **Any** addresses and two **Loopback** addresses that must be considered—the two fields already listed, as well as the [IPv6Any](https://msdn.microsoft.com/library/h2ca14s4) and [IPv6Loopback](https://msdn.microsoft.com/library/052fbtx7) fields in your code. For best results, hosts should be specified by their FQDN and not by address.
 
 - Dual stack mode requires configuring at least two listening addresses (**IPAddress.Any** and **IPAddress.IPv6Any**). Check that your code can support configuring two addresses.
 
@@ -59,7 +59,7 @@ In addition to the points already discussed, there are two more items to conside
 
 #### Configuring the CollaborationPlatform
 
-If you are using [ServerPlatformSettings](https://msdn.microsoft.com/en-us/library/hh382156\(v=office.16\)) to configure your application, consider provisioning your application provisioning by the use of [ProvisionedApplicationPlatformSettings](https://msdn.microsoft.com/en-us/library/hh385058\(v=office.16\)). Provisioning in this manner makes it possible for the platform to automatically configure the IPv4/IPv6/dual listening addresses at start up.
+If you are using [ServerPlatformSettings](https://msdn.microsoft.com/library/hh382156\(v=office.16\)) to configure your application, consider provisioning your application provisioning by the use of [ProvisionedApplicationPlatformSettings](https://msdn.microsoft.com/library/hh385058\(v=office.16\)). Provisioning in this manner makes it possible for the platform to automatically configure the IPv4/IPv6/dual listening addresses at start up.
 
 > [!NOTE]
 > Note that Skype for Business Server components currently check the pool setting once at start up. A change to the pool stack mode requires restarting all the services. Although it is good to plan ahead to support this pool setting being changed dynamically during runtime, it is not strictly necessary to immediately implement this capability. Provisioned applications require a restart to pick up a new configuration of stack mode.
@@ -84,17 +84,17 @@ To give the best experience possible, follow these recommendations.
 
 - Configure your application to use dual stack mode (if you are using **ServerPlatformSettings**) and so that it is consistently configured with the Skype for Business Server pool it is running in.
 
-- Use the new APIs and hints as appropriate to specify exceptions to the default configuration. The [AddressFamilyHint](https://msdn.microsoft.com/en-us/library/jj728964\(v=office.16\)) enumeration, which is new in UCMA 5.0, can be used to configure [ConnectionContext](https://msdn.microsoft.com/en-us/library/hh366132\(v=office.16\)) instances that are passed in various places in the API to give more detailed information on how to connect to differently configured hosts.
+- Use the new APIs and hints as appropriate to specify exceptions to the default configuration. The [AddressFamilyHint](https://msdn.microsoft.com/library/jj728964\(v=office.16\)) enumeration, which is new in UCMA 5.0, can be used to configure [ConnectionContext](https://msdn.microsoft.com/library/hh366132\(v=office.16\)) instances that are passed in various places in the API to give more detailed information on how to connect to differently configured hosts.
 
 - If you have tried everything else and you need compatibility with the previous version of the UCMA stack, there are two alternatives. Note that either alternative should be used as a last resort as your application will not function properly with an IPv6-only Skype for Business Server 2015 pool.
     
-  1.  If you are working with [RealTimeEndpoint](https://msdn.microsoft.com/en-us/library/hh366081\(v=office.16\)) objects in your application, you can use the **\[M:Microsoft.Rtc.Signaling.RealTimeConnectionManager.DisableIpV6Support()\]** method.
+  1.  If you are working with [RealTimeEndpoint](https://msdn.microsoft.com/library/hh366081\(v=office.16\)) objects in your application, you can use the **\[M:Microsoft.Rtc.Signaling.RealTimeConnectionManager.DisableIpV6Support()\]** method.
     
-  2.  If you are using a [CollaborationPlatform](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.collaborationplatform?view=ucma-api) object in your application, you can disable IPv6 support by setting the [IpV6SupportDisabled](https://msdn.microsoft.com/en-us/library/jj728958\(v=office.16\)) property on a [ServerPlatformSettings](https://msdn.microsoft.com/en-us/library/hh382156\(v=office.16\)) instance to true.
+  2.  If you are using a [CollaborationPlatform](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.collaborationplatform?view=ucma-api) object in your application, you can disable IPv6 support by setting the [IpV6SupportDisabled](https://msdn.microsoft.com/library/jj728958\(v=office.16\)) property on a [ServerPlatformSettings](https://msdn.microsoft.com/library/hh382156\(v=office.16\)) instance to true.
 
 ### Using IP Addresses instead of FQDNs; Configuring application instances consistently
 
-Configuring UCMA applications with IP addresses and connecting to Skype for Business Server 2015 can be the source of many problems, and is therefore strongly discouraged. Creating an application with IP addresses might be necessary at times, though, such as when you create an application that connects to other SIP-enabled components such as gateways. If this is the case, it is important that you take advantage of the [AddressFamilyHint](https://msdn.microsoft.com/en-us/library/jj728964\(v=office.16\)) mechanisms and carefully configure DNS so that connections can be made, and connection retries are avoided when possible.
+Configuring UCMA applications with IP addresses and connecting to Skype for Business Server 2015 can be the source of many problems, and is therefore strongly discouraged. Creating an application with IP addresses might be necessary at times, though, such as when you create an application that connects to other SIP-enabled components such as gateways. If this is the case, it is important that you take advantage of the [AddressFamilyHint](https://msdn.microsoft.com/library/jj728964\(v=office.16\)) mechanisms and carefully configure DNS so that connections can be made, and connection retries are avoided when possible.
 
 If you have multiple application instances that are configured differently, it is usually beneficial to store that configuration data in a central location so that connections for each application instance can be configured properly with a minimum of effort.
 

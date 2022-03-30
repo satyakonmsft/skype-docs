@@ -2,7 +2,7 @@
 title: EndPoint element (EndedType complexType) 
 TOCTitle: EndPoint element (EndedType complexType)
 ms:assetid: 8d0c793d-8ff0-7ff5-b521-a911e53a7157
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404758(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404758(v=office.16)
 ms:contentKeyID: 68250671
 ms.date: 08/24/2015
 mtps_version: v=office.16

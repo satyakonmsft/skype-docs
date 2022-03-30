@@ -2,7 +2,7 @@
 title: RDPTileProcessingLatencyBurstDensity element (QualityPropertiesType complexType) 
 TOCTitle: RDPTileProcessingLatencyBurstDensity element
 ms:assetid: f9b089bb-0197-e654-3292-6fc2e83fcbbf
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170956(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170956(v=office.16)
 ms:contentKeyID: 65855530
 ms.date: 08/24/2015
 mtps_version: v=office.16

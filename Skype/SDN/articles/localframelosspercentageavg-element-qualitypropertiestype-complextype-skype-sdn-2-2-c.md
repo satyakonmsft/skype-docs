@@ -2,7 +2,7 @@
 title: LocalFrameLossPercentageAvg element (QualityPropertiesType complexType) 
 TOCTitle: LocalFrameLossPercentageAvg element
 ms:assetid: 1af349ff-e324-8424-1460-7a08ab9b2418
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404784(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404784(v=office.16)
 ms:contentKeyID: 68250694
 ms.date: 08/24/2015
 mtps_version: v=office.16

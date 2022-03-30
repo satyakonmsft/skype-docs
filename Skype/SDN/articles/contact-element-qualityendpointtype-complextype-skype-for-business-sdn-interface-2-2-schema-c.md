@@ -2,7 +2,7 @@
 title: Contact element (QualityEndPointType complexType) 
 TOCTitle: Contact element (QualityEndPointType complexType)
 ms:assetid: 686ca518-a697-0cb2-9c3e-4263a2a72e1b
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404727(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404727(v=office.16)
 ms:contentKeyID: 68250638
 ms.date: 08/24/2015
 mtps_version: v=office.16

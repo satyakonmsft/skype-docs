@@ -2,7 +2,7 @@
 title: Call recovery (Unified Communications Managed API 5.0)
 TOCTitle: Call recovery
 ms:assetid: d489a8b4-0dda-41b4-9d45-da89d4af86f7
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466067(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466067(v=office.16)
 ms:contentKeyID: 65240004
 ms.date: 07/27/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: Understanding Skype for Business SDN Interface
 TOCTitle: Understanding Skype for Business SDN Interface
 ms:assetid: 4c97bce1-4b8b-4c13-8ec6-99eed59d88fc
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn785193(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn785193(v=office.16)
 ms:contentKeyID: 65258654
 ms.date: 02/27/2017
 mtps_version: v=office.16
@@ -29,7 +29,7 @@ The Skype for Business SDN Interface is distributed as a downloadable installati
 
 ## The Microsoft Skype for Business SDN Interface schema
 
-In Skype for Business SDN Interface, the call and quality data is defined by the new Skype for Business SDN Interface schema (**SDNInterface.Schema.D.xsd**). This schema expands on the schema file that was supported in Lync SDN API version 2.0 (**SDNInterface.Schema.C.xsd**). In **Schema D**, more data types are added and some improvements have been introduced. However, the schema structure is very similar and most message parsers written for **Schema C** should also accept a **Schema D** implementation without changes. Documentation of both schemas can be found in [Skype for Business SDN Interface schema reference](https://msdn.microsoft.com/en-us/library/dn912673\(v=office.16\)).
+In Skype for Business SDN Interface, the call and quality data is defined by the new Skype for Business SDN Interface schema (**SDNInterface.Schema.D.xsd**). This schema expands on the schema file that was supported in Lync SDN API version 2.0 (**SDNInterface.Schema.C.xsd**). In **Schema D**, more data types are added and some improvements have been introduced. However, the schema structure is very similar and most message parsers written for **Schema C** should also accept a **Schema D** implementation without changes. Documentation of both schemas can be found in [Skype for Business SDN Interface schema reference](https://msdn.microsoft.com/library/dn912673\(v=office.16\)).
 
 
 > [!NOTE]

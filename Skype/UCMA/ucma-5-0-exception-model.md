@@ -2,7 +2,7 @@
 title: UCMA 5.0 exception model
 TOCTitle: UCMA 5.0 exception model
 ms:assetid: 4978a9ab-3ef3-456c-b3ac-d12ad06c03d9
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466072(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466072(v=office.16)
 ms:contentKeyID: 65239999
 ms.date: 07/27/2015
 mtps_version: v=office.16

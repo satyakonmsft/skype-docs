@@ -2,7 +2,7 @@
 title: TenantId element (ErrorEndPointType complexType) 
 TOCTitle: TenantId element (ErrorEndPointType complexType)
 ms:assetid: 3e2e6d6d-7854-9828-209a-545bbc8707f2
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171005(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171005(v=office.16)
 ms:contentKeyID: 65855578
 ms.date: 08/24/2015
 mtps_version: v=office.16

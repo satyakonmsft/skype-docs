@@ -2,7 +2,7 @@
 title: ProtocolTypes simpleType 
 TOCTitle: ProtocolTypes simpleType
 ms:assetid: 45c7a603-1559-14bb-32f5-17a93e5e9b49
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171053(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171053(v=office.16)
 ms:contentKeyID: 65855626
 ms.date: 08/24/2015
 mtps_version: v=office.16

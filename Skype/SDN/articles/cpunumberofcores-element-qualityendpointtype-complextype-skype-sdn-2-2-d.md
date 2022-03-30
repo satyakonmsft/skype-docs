@@ -2,7 +2,7 @@
 title: CPUNumberOfCores element (QualityEndPointType complexType) 
 TOCTitle: CPUNumberOfCores element
 ms:assetid: 8930bef5-423b-f217-51e5-3b8d86f21e63
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt149463(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt149463(v=office.16)
 ms:contentKeyID: 65855410
 ms.date: 08/24/2015
 mtps_version: v=office.16

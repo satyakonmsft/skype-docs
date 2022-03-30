@@ -2,7 +2,7 @@
 title: Properties element (StartOrUpdateType complexType) 
 TOCTitle: Properties element (StartOrUpdateType complexType)
 ms:assetid: 02bbebb5-4c55-7fe0-59b7-013bd0697c49
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404810(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404810(v=office.16)
 ms:contentKeyID: 68250722
 ms.date: 08/24/2015
 mtps_version: v=office.16

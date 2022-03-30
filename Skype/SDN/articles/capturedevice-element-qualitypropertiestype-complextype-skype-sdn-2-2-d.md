@@ -2,7 +2,7 @@
 title: CaptureDevice element (QualityPropertiesType complexType) 
 TOCTitle: CaptureDevice element
 ms:assetid: 8cd9db98-fec4-f564-7e30-68c8db2605af
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt149442(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt149442(v=office.16)
 ms:contentKeyID: 65855391
 ms.date: 08/24/2015
 mtps_version: v=office.16

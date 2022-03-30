@@ -2,7 +2,7 @@
 title: Tasks of the host .NET application
 TOCTitle: Tasks of the host .NET application
 ms:assetid: 0dee2b50-283a-45de-ac00-bd2aca78c8a6
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466127(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466127(v=office.16)
 ms:contentKeyID: 65240068
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -72,7 +72,7 @@ The following sequence includes sample code that illustrates the typical tasks t
     endpoint.RegisterForIncomingCall<AudioVideoCall>(AvCallReceived);
    ```
 
-4. Accept the call and subscribe to the **StateChanged** event in the [AudioVideoCall](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) class. After the value of the [StateChanged](https://msdn.microsoft.com/en-us/library/hh365997\(v=office.16\)) event switches to **Active**, the .NET application can call the Browser’s **SetAudioVideoCall()** method. Then the .NET application can call either the **Run(Uri, CookieContainer)** or the **RunAsync(Uri, CookieContainer)** method.
+4. Accept the call and subscribe to the **StateChanged** event in the [AudioVideoCall](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) class. After the value of the [StateChanged](https://msdn.microsoft.com/library/hh365997\(v=office.16\)) event switches to **Active**, the .NET application can call the Browser’s **SetAudioVideoCall()** method. Then the .NET application can call either the **Run(Uri, CookieContainer)** or the **RunAsync(Uri, CookieContainer)** method.
     
    ```csharp
     // Declare an instance of AudioVideoCall that will be passed to SetAudioVideoCall.

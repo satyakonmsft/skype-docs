@@ -2,7 +2,7 @@
 title: DegradationJitterAvg element (QualityPropertiesType complexType) 
 TOCTitle: DegradationJitterAvg element
 ms:assetid: 2e23efe4-6bb6-737f-ec21-ab2dffdff04f
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt149469(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt149469(v=office.16)
 ms:contentKeyID: 65855416
 ms.date: 08/24/2015
 mtps_version: v=office.16

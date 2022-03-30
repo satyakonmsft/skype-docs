@@ -2,7 +2,7 @@
 title: MSDiagnosticsPublic element (MessageProperties complexType) 
 TOCTitle: MSDiagnosticsPublic element (MessageProperties complexType)
 ms:assetid: 807f4528-0481-ff44-770c-d227b08939e0
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170929(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170929(v=office.16)
 ms:contentKeyID: 65855503
 ms.date: 08/24/2015
 mtps_version: v=office.16

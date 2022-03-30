@@ -2,7 +2,7 @@
 title: ReferredBy element (StartPropertiesType complexType) 
 TOCTitle: ReferredBy element
 ms:assetid: fc760704-b9fd-7fb8-df94-ae9699585359
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170965(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170965(v=office.16)
 ms:contentKeyID: 65855539
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -17,7 +17,7 @@ UCWA or the **Trusted Application API**. Please read [Anonymous Meeting Scheduli
 
 2. Develop **Trusted Application API** Service Applications for Skype for Business Online. Please read [ Developing **Trusted Application API** applications for Skype for Business Online](./AADS2S.md) for details.
 
-3. Bootstrap your web application to work with Skype Web SDK. Please read [Bootstrapping the application Section](https://msdn.microsoft.com/en-us/skype/websdk/docs/gettingstarted#sectionSection2) for details.
+3. Bootstrap your web application to work with Skype Web SDK. Please read [Bootstrapping the application Section](https://msdn.microsoft.com/skype/websdk/docs/gettingstarted#sectionSection2) for details.
 
 ## Code Walkthrough
 

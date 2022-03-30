@@ -2,7 +2,7 @@
 title: ConnectionModalities simpleType 
 TOCTitle: ConnectionModalities simpleType
 ms:assetid: ae0503ec-337a-b6d0-795f-274d4ddb8dc0
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171044(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171044(v=office.16)
 ms:contentKeyID: 65855614
 ms.date: 08/24/2015
 mtps_version: v=office.16

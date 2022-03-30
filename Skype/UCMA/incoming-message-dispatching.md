@@ -2,7 +2,7 @@
 title: Incoming message dispatching
 TOCTitle: Incoming message dispatching
 ms:assetid: e0f99fce-57b2-4ff5-8ed4-f4c1e6e99968
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466043(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466043(v=office.16)
 ms:contentKeyID: 65239982
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -16,11 +16,11 @@ This topic describes two endpoint properties, **OwnerUri** and **EndpointUri**, 
 
 ## Owner URI
 
-The [LocalEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.localendpoint?view=ucma-api) class has a property that contains the URI of the endpoint’s owner-[OwnerUri](https://msdn.microsoft.com/en-us/library/hh385287\(v=office.16\)). This property is inherited by the [UserEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.userendpoint?view=ucma-api) and [ApplicationEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.applicationendpoint?view=ucma-api) classes. Because users can sign on using a variety of devices (desktop and laptop computers, phones, or other devices), it is not unusual for two or more endpoints to have the same owner. In addition, because a single application can be deployed on several computers for better scalability, multiple endpoints can have the same owner URI. The owner URI can be used to target a message to a specific user. Skype for Business Server 2015 forks such messages to all **UserEndpoint** instances associated with that owner URI. The owner URI for a user endpoint matches a user record with that URI in the active directory. The owner URI for an application matches a contact record with that URI in the active directory.
+The [LocalEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.localendpoint?view=ucma-api) class has a property that contains the URI of the endpoint’s owner-[OwnerUri](https://msdn.microsoft.com/library/hh385287\(v=office.16\)). This property is inherited by the [UserEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.userendpoint?view=ucma-api) and [ApplicationEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.applicationendpoint?view=ucma-api) classes. Because users can sign on using a variety of devices (desktop and laptop computers, phones, or other devices), it is not unusual for two or more endpoints to have the same owner. In addition, because a single application can be deployed on several computers for better scalability, multiple endpoints can have the same owner URI. The owner URI can be used to target a message to a specific user. Skype for Business Server 2015 forks such messages to all **UserEndpoint** instances associated with that owner URI. The owner URI for a user endpoint matches a user record with that URI in the active directory. The owner URI for an application matches a contact record with that URI in the active directory.
 
 ## Endpoint URI for a user endpoint
 
-Every endpoint also has a property that contains the URI of the endpoint itself-[EndpointUri](https://msdn.microsoft.com/en-us/library/hh381014\(v=office.16\)). This property is likewise inherited by the [UserEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.userendpoint?view=ucma-api) and [ApplicationEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.applicationendpoint?view=ucma-api) classes. During **UserEndpoint** registration, each user endpoint is dynamically assigned a Globally Routable Unique URI (GRUU) that uniquely identifies the endpoint. A message that targets this GRUU is routed to the specific user endpoint instance.
+Every endpoint also has a property that contains the URI of the endpoint itself-[EndpointUri](https://msdn.microsoft.com/library/hh381014\(v=office.16\)). This property is likewise inherited by the [UserEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.userendpoint?view=ucma-api) and [ApplicationEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.applicationendpoint?view=ucma-api) classes. During **UserEndpoint** registration, each user endpoint is dynamically assigned a Globally Routable Unique URI (GRUU) that uniquely identifies the endpoint. A message that targets this GRUU is routed to the specific user endpoint instance.
 
 ## Endpoint URI for an application endpoint
 

@@ -2,7 +2,7 @@
 title: EndPoint element (ErrorType complexType) 
 TOCTitle: EndPoint element (ErrorType complexType)
 ms:assetid: 3f961c3c-ed3a-0a4f-f216-6b9f6ba34ebd
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404755(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404755(v=office.16)
 ms:contentKeyID: 68250668
 ms.date: 08/24/2015
 mtps_version: v=office.16

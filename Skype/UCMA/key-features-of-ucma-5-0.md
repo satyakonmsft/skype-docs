@@ -2,7 +2,7 @@
 title: Key features of UCMA 5.0
 TOCTitle: Key features of UCMA 5.0
 ms:assetid: 7d496be2-794a-4989-82a6-51cb840b964d
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465947(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465947(v=office.16)
 ms:contentKeyID: 65239788
 ms.date: 07/27/2015
 mtps_version: v=office.16

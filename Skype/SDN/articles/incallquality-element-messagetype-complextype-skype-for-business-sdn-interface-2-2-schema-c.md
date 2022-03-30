@@ -2,7 +2,7 @@
 title: InCallQuality element (MessageType complexType) 
 TOCTitle: InCallQuality element
 ms:assetid: a993878c-bd86-461e-4f91-7a326b45d250
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404775(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404775(v=office.16)
 ms:contentKeyID: 68250686
 ms.date: 08/24/2015
 mtps_version: v=office.16

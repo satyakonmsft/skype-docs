@@ -2,7 +2,7 @@
 title: Overview of VoiceXML support in UCMA 5.0
 TOCTitle: Overview of VoiceXML support in UCMA 5.0
 ms:assetid: 309069f8-2e0b-4afb-99b8-bae39aa1d53b
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466120(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466120(v=office.16)
 ms:contentKeyID: 65240063
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -17,11 +17,11 @@ VoiceXML support in the Microsoft Unified Communications Managed API 5.0 consist
 The namespace consists of the [Browser](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml.browser?view=ucma-voice) class, which provides access to the VoiceXML runtime and to the telephony and audio functionality in UCMA 5.0. This functionality facilitates automated communication with callers.
 
 > [!NOTE]
-> [Browser](https://msdn.microsoft.com/en-us/library/gg452712(v=office.16)) derives from the **Browser** class in the **Microsoft.Speech.VoiceXml** namespace.
+> [Browser](https://msdn.microsoft.com/library/gg452712(v=office.16)) derives from the **Browser** class in the **Microsoft.Speech.VoiceXml** namespace.
 
 To run a VoiceXML application in UCMA 5.0, you must create a .NET application. Your .NET application answers calls, launches a **Browser** for the VoiceXML session, and responds to **Browser** events. See [Tasks of the host .NET application](tasks-of-the-host-net-application.md) for more information.
 
-Also, your .NET application can track how the VoiceXML interpreter executes elements in VoiceXML documents. You can use the event-driven feedback from VoiceXML processing to identify problem areas or inefficiencies in VoiceXML documents, and to tune the performance of VoiceXML applications. See [Browser Class (Microsoft.Speech)](https://msdn.microsoft.com/en-us/library/hh378332\(v=office.16\)) for more information about the events that a **Browser** instance generates during a VoiceXML session.
+Also, your .NET application can track how the VoiceXML interpreter executes elements in VoiceXML documents. You can use the event-driven feedback from VoiceXML processing to identify problem areas or inefficiencies in VoiceXML documents, and to tune the performance of VoiceXML applications. See [Browser Class (Microsoft.Speech)](https://msdn.microsoft.com/library/hh378332\(v=office.16\)) for more information about the events that a **Browser** instance generates during a VoiceXML session.
 
 ### VoiceXML runtime
 

@@ -2,7 +2,7 @@
 title: PacketUtilization element (QualityPropertiesType complexType) 
 TOCTitle: PacketUtilization element
 ms:assetid: e13be3e1-1e9d-8014-494e-047b4730e72e
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170932(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170932(v=office.16)
 ms:contentKeyID: 65855506
 ms.date: 08/24/2015
 mtps_version: v=office.16
