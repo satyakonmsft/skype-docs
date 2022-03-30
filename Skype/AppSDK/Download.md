@@ -1,3 +1,9 @@
+---
+title: 'Download the Skype for Business App SDK'
+description: 'The SDK libraries for the iOS and Android SDKs can be downloaded from the Microsoft Download Center.'
+ms.date: 03/30/2022
+---
+
 # Download the Skype for Business App SDK
 
 The SDK libraries for the iOS and Android SDKs can be downloaded from the **Microsoft Download Center**:
