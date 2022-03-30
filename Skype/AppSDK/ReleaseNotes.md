@@ -1,6 +1,6 @@
 ---
 title: 'Release Notes'
-description: 'Skype for Business App SDK General Availability - Release Notes
+description: 'Skype for Business App SDK General Availability - Release Notes'
 ms.date: 03/30/2022
 ---
 
