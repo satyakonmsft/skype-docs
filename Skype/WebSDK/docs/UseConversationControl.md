@@ -1,10 +1,10 @@
 ---
-title: Use the Skype Web Conversation Control in a webpage
+title: Use the Skype Web Conversation Control object in a webpage
 description: The Skype Web SDK Conversation Control object contains the logic and presentation layer that encapsulates IM and A/V conversations in one object.
 ms.date: 03/30/2022
 ---
 
-# Use the Skype Web Conversation Control in a webpage
+# Use the Skype Web Conversation Control object in a webpage
 
  _**Applies to:** Skype for Business 2015_
 
