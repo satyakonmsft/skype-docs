@@ -1,13 +1,16 @@
+---
+title: Skype Development
+description: Learn about Skype development and your options to start calls and chats in the Skype clients.
+ms.date: 03/30/2022
+---
 
 # Skype Development
 
 Learn about Skype development and your options to start calls and chats in the Skype clients.
 
-
  _**Applies to:** Skype_
 
-Skype calls and chats can be initiated directly from websites, desktop, and mobile apps by using Skype URIs. If you are an Android developer, you can initiate Skype calls using Skype URIs and the  **Intent** pattern. A better alternative is to use the **Skype for Android SDK** to simplify the code you will write.
-
+Skype calls and chats can be initiated directly from websites, desktop, and mobile apps by using Skype URIs. If you are an Android developer, you can initiate Skype calls using Skype URIs and the **Intent** pattern. A better alternative is to use the **Skype for Android SDK** to simplify the code you will write.
 
 ## Skype Platform SDKs
 
@@ -28,4 +31,3 @@ The **Skype for Android SDK** lets you start a chat, audio, or video call with a
 ## See also
 
 * [Office development](https://msdn.microsoft.com/library/7f24db34-c1ad-4a83-a9bd-3c85a39c0bd8%28Office.15%29.aspx)
-
