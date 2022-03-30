@@ -1,6 +1,7 @@
 ---
 title: Configure SDN Interface logging options
 description: This article explains how to configure the logging options in the DialogListener.exe.config and SDNManager.exe.config files directly.
+ms.date: 03/29/2022
 ms.assetid: 0f604c7d-87a3-4526-b67c-25648c8427e7
 ---
 
