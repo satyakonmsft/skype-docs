@@ -6,7 +6,7 @@ ms.date: 03/30/2022
 
 # Use the SDK to join a meeting with an iOS device
 
-This article shows an iOS developer how to join the **Skype for Business meeting** using a [**meeting URL**](https://msdn.microsoft.com/en-us/skype/appsdk/getmeetingurl) and enable core **Skype for Business App SDK** features like Text chat, Audio/Video chat in your app.
+This article shows an iOS developer how to join the **Skype for Business meeting** using a [**meeting URL**](https://msdn.microsoft.com/skype/appsdk/getmeetingurl) and enable core **Skype for Business App SDK** features like Text chat, Audio/Video chat in your app.
 
 Android developers should read [Use the SDK to join a meeting with an Android device](HowToJoinMeeting_Android.md).
 
@@ -21,12 +21,12 @@ No **Skype for Business** credentials are used to join the meeting.
 
 - **Import the SDK header file**: import the required header files.
 
-      ```objective-c
-             #import <SkypeForBusiness/SkypeForBusiness.h>
+ ```objective-c
+        #import <SkypeForBusiness/SkypeForBusiness.h>
             
-            //Import SfBConversationHelper classes for Audio/Video Chat
-             #import "SfBConversationHelper.h"
-      ```
+       //Import SfBConversationHelper classes for Audio/Video Chat
+        #import "SfBConversationHelper.h"
+ ```
 
 **Swift**
 
@@ -46,9 +46,10 @@ No **Skype for Business** credentials are used to join the meeting.
 
   **Objective C**
 
-    ```Objectivec 
+    ```objectivec 
      SfBApplication *sfb = SfBApplication.sharedApplication;
     ```
+    
   **Swift**
 
    ```swift
@@ -59,7 +60,7 @@ No **Skype for Business** credentials are used to join the meeting.
 
   **Objective C**
 
-   ```Objectivec
+   ```objectivec
     sfb.configurationManager.requireWifiForVideo = NO;
    ```
 
@@ -76,7 +77,7 @@ No **Skype for Business** credentials are used to join the meeting.
 
  **Objective C**
 
-  ```Objectivec
+  ```objectivec
    SfBConversation *conversation = [sfb joinMeetingAnonymousWithUri:[NSURL URLWithString:meetingURLString]
                                         displayName:meetingDisplayName 
                                         error:&error];
@@ -84,7 +85,7 @@ No **Skype for Business** credentials are used to join the meeting.
 
  **Swift**
 
-  ```Swift
+  ```swift
    let conversation: SfBConversation  = try sfb.joinMeetingAnonymousWithUri(NSURL(string:meetingURLString)!, displayName:  meetingDisplayName)
   ```
 
@@ -95,7 +96,7 @@ No **Skype for Business** credentials are used to join the meeting.
   
   **Objective C**
 
-  ```Objectivec
+  ```objectivec
        if (conversation) {
        _conversationHelper = [[SfBConversationHelper alloc] initWithConversation:conversation
                                                      delegate:self
@@ -109,7 +110,7 @@ No **Skype for Business** credentials are used to join the meeting.
   
   **Swift**
 
-  ```Swift
+  ```swift
    self.conversationHelper = SfBConversationHelper(conversation: conversation,
                                                             delegate: self,
                                                             devicesManager: sfb.devicesManager,
@@ -132,7 +133,7 @@ No **Skype for Business** credentials are used to join the meeting.
 
   **Objective C**
 
-   ```Objectivec
+   ```objectivec
       #pragma mark - Skype Delegates
     
     // At incoming video, unhide the participant video view
@@ -216,7 +217,7 @@ No **Skype for Business** credentials are used to join the meeting.
 
    **Objective C**
 
-   ```Objectivec
+   ```objectivec
         //Add observer to _canLeave_ property
     if (conversation) {
             [conversation addObserver:self forKeyPath:@"canLeave" options:NSKeyValueObservingOptionInitial | NSKeyValueObservingOptionNew context:nil];
