@@ -5,7 +5,6 @@ ms.date: 03/29/2022
 ms.assetid: bf193e5f-86cd-4080-8a94-3a47c9d81f08
 ---
 
-
 # Configure SDN Interface SDN Manager
 
  **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
