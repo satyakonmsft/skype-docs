@@ -1,6 +1,12 @@
+---
+title: Use the SDK to join a meeting with an iOS device
+description: Learn how to join the Skype for Business meeting using a meeting URL and enable core Skype for Business App SDK features like Text chat, Audio/Video chat in your app. 
+ms.date: 3/29/2022
+---
+
 # Use the SDK to join a meeting with an iOS device
 
-This article shows an iOS developer how to join the **Skype for Business meeting** using a [**meeting URL**](https://msdn.microsoft.com/en-us/skype/appsdk/getmeetingurl) and enable core **Skype for Business App SDK** features like Text chat, Audio/Video chat in your app. 
+This article shows an iOS developer how to join the **Skype for Business meeting** using a [**meeting URL**](/skype-sdk/appsdk/getmeetingurl.md) and enable core **Skype for Business App SDK** features like Text chat, Audio/Video chat in your app. 
 
 Android developers should read [Use the SDK to join a meeting with an Android device](HowToJoinMeeting_Android.md). 
 
@@ -16,20 +22,20 @@ No **Skype for Business** credentials are used to join the meeting.
 
  - **Import the SDK header file**: import the required header files.
 
-      ```objective-c
-             #import <SkypeForBusiness/SkypeForBusiness.h>
+ ```objective-c
+        #import <SkypeForBusiness/SkypeForBusiness.h>
             
-            //Import SfBConversationHelper classes for Audio/Video Chat
-             #import "SfBConversationHelper.h"
-      ```
+       //Import SfBConversationHelper classes for Audio/Video Chat
+        #import "SfBConversationHelper.h"
+ ```
 
 **Swift**
 
 - **Create Swift Bridging - Header file**: Create the bridging-header file and add the following import statement.
 
 ```swift
-        //Add SfBConversationHelper classes for Audio/Video Chat
-            #import "SfBConversationHelper.h"
+   //Add SfBConversationHelper classes for Audio/Video Chat
+       #import "SfBConversationHelper.h"
 ```
  
 > [!NOTE] 
@@ -41,19 +47,19 @@ No **Skype for Business** credentials are used to join the meeting.
 
   **Objective C**
 
-    ```Objectivec 
-     SfBApplication *sfb = SfBApplication.sharedApplication;
-    ```
+```objectivec 
+ SfBApplication *sfb = SfBApplication.sharedApplication;
+```
   **Swift**
 
-   ```swift 
-    let sfb:SfBApplication? = SfBApplication.sharedApplication()
-   ```
+```swift 
+ let sfb:SfBApplication? = SfBApplication.sharedApplication()
+```
 2. You can handle application level Skype configurations like requireWifiForAudio, maxVideoChannels, requireWifiForVideo, setActiveCamera, get available cameras list  and other types of information that can impact the Skype session, for example, by default, video service will be disabled while not on Wi-Fi network. To allow video call on any network connection, we can configure requireWifiForVideo as follow:
 
   **Objective C**
 
-   ```Objectivec 
+   ```objectivec 
     sfb.configurationManager.requireWifiForVideo = NO;
    ```
   **Swift**
@@ -69,14 +75,14 @@ No **Skype for Business** credentials are used to join the meeting.
 
  **Objective C**
 
-  ```Objectivec 
+  ```objectivec 
    SfBConversation *conversation = [sfb joinMeetingAnonymousWithUri:[NSURL URLWithString:meetingURLString]
                                         displayName:meetingDisplayName 
                                         error:&error];
   ```
  **Swift**
 
-  ```Swift
+  ```swift
    let conversation: SfBConversation  = try sfb.joinMeetingAnonymousWithUri(NSURL(string:meetingURLString)!, displayName:  meetingDisplayName)
   ```
 
@@ -87,7 +93,7 @@ No **Skype for Business** credentials are used to join the meeting.
   
   **Objective C**
 
-  ```Objectivec 
+  ```objectivec 
        if (conversation) {
        _conversationHelper = [[SfBConversationHelper alloc] initWithConversation:conversation
                                                      delegate:self
@@ -101,7 +107,7 @@ No **Skype for Business** credentials are used to join the meeting.
   
   **Swift**
 
-  ```Swift
+  ```swift
    self.conversationHelper = SfBConversationHelper(conversation: conversation,
                                                             delegate: self,
                                                             devicesManager: sfb.devicesManager,
@@ -125,7 +131,7 @@ No **Skype for Business** credentials are used to join the meeting.
 
   **Objective C**
    
-   ```Objectivec 
+   ```objectivec 
       #pragma mark - Skype Delegates
     
     // At incoming video, unhide the participant video view
@@ -209,7 +215,7 @@ No **Skype for Business** credentials are used to join the meeting.
 
    **Objective C**
 
-   ```Objectivec 
+   ```objectivec 
         //Add observer to _canLeave_ property
     if (conversation) {
             [conversation addObserver:self forKeyPath:@"canLeave" options:NSKeyValueObservingOptionInitial | NSKeyValueObservingOptionNew context:nil];
@@ -262,7 +268,6 @@ No **Skype for Business** credentials are used to join the meeting.
 [SkypeForBusiness](https://ucwa.skype.com/reference/appSDK/IOS/) SDK API has both [_SfBApplication_](https://ucwa.skype.com/reference/appSDK/IOS/Classes/SfBApplication.html) and [_SfBConversation_](https://ucwa.skype.com/reference/appSDK/IOS/Classes/SfBConversation.html) level delegate method for handling possible errors or exceptions. The _SfBApplication_ alertDelegate handles global level concerns, while the _SfBConversation_ alertDelegate handles alerts specific to the conversation instance.
 
 The delegate method _didReceiveAlert_ is called when new alert appears in the context where alertDelegate is attached.
-
 
 ## Text chat 
 
