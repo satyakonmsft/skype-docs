@@ -1,6 +1,12 @@
+---
+title: Use the SDK to join a meeting with an Android device
+description: Learn how to enable the core Skype for Business anonymous meeting join scenario in your Android app. 
+ms.date: 03/302022
+---
+
 # Use the SDK to join a meeting with an Android device
 
-This article shows you how to enable the core  **Skype for Business** anonymous meeting join scenario in your Android app. iOS developers should read
+This article shows you how to enable the core **Skype for Business** anonymous meeting join scenario in your Android app. iOS developers should read
 [Use the SDK to join a meeting with an iOS device](HowToJoinMeeting_iOS.md).
 
 If the anonymous meeting your app joins is hosted in a **Skype for Business Online** service and
@@ -139,8 +145,7 @@ Be sure to read [Getting started with Skype App SDK development](GettingStarted.
    ```
 
    > [!NOTE]
-   > The [ConversationHelper class](ConversationHelperCodeList.md) makes it possible to start a video conversation and
-   handle related events on the conversation, participants, and video streams with fewer lines of application code. You may not want to use the **ConversationHelper** if your application scenario has requirements that are not covered in this how to article. In that case, take the **ConversationHelper** as a starting point and modify or extend it to suite your requirements.
+   > The [ConversationHelper class](ConversationHelperCodeList.md) makes it possible to start a video conversation and handle related events on the conversation, participants, and video streams with fewer lines of application code. You may not want to use the **ConversationHelper** if your application scenario has requirements that are not covered in this how to article. In that case, take the **ConversationHelper** as a starting point and modify or extend it to suite your requirements.
 
 1. Start the incoming and outgoing meeting video.
 
