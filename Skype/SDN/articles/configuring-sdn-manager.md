@@ -1,3 +1,9 @@
+---
+title: Activate QoE recording in Skype for Business Server
+description: Learn how to verify and activate the QoE recording.
+ms.date: 03/29/2022
+---
+
 # Configure SDN Interface SDN Manager
 
 **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
