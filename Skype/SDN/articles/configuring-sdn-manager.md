@@ -1,7 +1,7 @@
 ---
-title: Activate QoE recording in Skype for Business Server
-description: Learn how to verify and activate the QoE recording.
-ms.date: 03/29/2022
+title: Configure SDN Interface SDN Manager
+description: SDN Manager can run in three different operational modes: cache, database, and Redis. Which of these three the SDN Manager uses depends on how it stores and shares the state of call streams, as well as its configurations settings.
+ms.date: 03/30/2022
 ---
 
 # Configure SDN Interface SDN Manager
