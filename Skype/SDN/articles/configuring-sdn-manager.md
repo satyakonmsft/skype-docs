@@ -1,8 +1,8 @@
 ---
-title: Configure SDN Interface SDN Manager
+title: Configure Skype for Business SDN Interface
 description: SDN Manager can run in three different operational modes: cache, database, and Redis. Which of these three the SDN Manager uses depends on how it stores and shares the state of call streams, as well as its configurations settings.
-ms.date: 03/29/2022
-ms.assetid: bf193e5f-86cd-4080-8a94-3a47c9d81f08
+ms.date: 03/29/2022 
+ms.assetid: cf0ca8f3-bcaf-4dba-814f-4b8a5163fa7d
 ---
 
 # Configure SDN Interface SDN Manager
