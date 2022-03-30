@@ -1,11 +1,11 @@
 ---
-title: Configuring SDN Interface Dialog Listener
- 
+title: Configure SDN Interface Dialog Listener
+description: This article explains how to configure Skype for Business Dialog Listener by editing the DialogListener.exe.config file.
+ms.date: 03/29/2022
 ms.assetid: e66f9787-ab6b-4a77-8895-0ae39a3a5ee1
 ---
 
-
-# Configuring SDN Interface Dialog Listener
+# Configure SDN Interface Dialog Listener
 
  **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 
@@ -17,7 +17,7 @@ In general, the Skype for Business Dialog Listener component obtains its configu
 
 This article explains how to configure Skype for Business Dialog Listener by editing the DialogListener.exe.config file. The configuration file is located in the Dialog Listener installation directory, whose default directory location is `C:\\Program Files\\Microsoft Skype for Business Server\\Microsoft Skype for Business DialogListener\\`.
 
-## Editing the DialogListener.exe.config file
+## Edit the DialogListener.exe.config file
 
 You can modify some of the configuration options for the Dialog Listener by directly editing the DialogListener.exe.config file. These options allow the Dialog Listener to locate the appropriate configuration service so it can retrieve additional configuration settings. The configurations service is part of the SDN Manager.
   

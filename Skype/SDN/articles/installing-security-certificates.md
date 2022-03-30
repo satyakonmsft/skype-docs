@@ -1,9 +1,9 @@
 ---
-title: Installing security certificates
- 
+title: Install security certificates
+description: Learn to request and install certificates from an appropriate certification authority.
+ms.date: 03/29/2022
 ms.assetid: 840474e7-94ee-4ea1-8bf4-64a168adfeea
 ---
-
 
 # Install security certificates
 
@@ -11,7 +11,7 @@ ms.assetid: 840474e7-94ee-4ea1-8bf4-64a168adfeea
 
 To ensure secure message transport and client authentication, the Skype for Business SDN Interface components support mutual transport layer security (TLS). But for this to work, you must request certificates from an appropriate certification authority. These certificates are needed for the SDN Manager, the Dialog Listener, and for subscribers. You might also have to install a root certificate of the certification authority (CA), if it is not trusted.
   
- You will need to use a client certificate on each front-end server in the Dialog Listener and a server certificate on each SDN Manager for the SDN Manager pool fully qualified domain name. In addition, you must install a server certificate on the subscribers, and also an appropriate client certificate on the SDN Manager host computers so you can authenticate it to the subscribers. Finally, you need to ensure that the Windows communication foundation (WCF) configuration of the SDN Manager validates the client certificates set on the Dialog Listeners.To install certificates, you will follow this general approach:
+You will need to use a client certificate on each front-end server in the Dialog Listener and a server certificate on each SDN Manager for the SDN Manager pool fully qualified domain name. In addition, you must install a server certificate on the subscribers, and also an appropriate client certificate on the SDN Manager host computers so you can authenticate it to the subscribers. Finally, you need to ensure that the Windows communication foundation (WCF) configuration of the SDN Manager validates the client certificates set on the Dialog Listeners.To install certificates, you will follow this general approach:
 
 1. Request a certificate from a certificate server of the correct type
 2. Install the server certificate on a server for each SDN Manager and subscriber.
@@ -21,7 +21,7 @@ To ensure secure message transport and client authentication, the Skype for Busi
 > [!NOTE]
 > You can verify that the SSL and client authentication works independently of Skype for Business SDN Interface by using a general purpose test tool, such as wfetch.exe.
   
- Detailed instructions for the specific certificate installations are found in the following procedures. In each, assume that a Microsoft Certification Authority is being used. For detailed explanation and instructions on how to create a certificate request for Microsoft Certificate Services, see [Managing Certificate Services and SSL](https://technet.microsoft.com/en-us/library/bb727098.aspx).
+ Detailed instructions for the specific certificate installations are found in the following procedures. In each, assume that a Microsoft Certification Authority is being used. For detailed explanation and instructions on how to create a certificate request for Microsoft Certificate Services, see [Managing Certificate Services and SSL](https://technet.microsoft.com/library/bb727098.aspx).
 
 ## Request and install a certificate
 

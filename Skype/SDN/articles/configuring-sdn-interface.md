@@ -1,11 +1,12 @@
 ---
-title: Configuring Skype for Business SDN Interface
- 
+title: Configure Skype for Business SDN Interface
+description:
+ms.date: 03/29/2022 
 ms.assetid: cf0ca8f3-bcaf-4dba-814f-4b8a5163fa7d
 ---
 
 
-# Configuring Skype for Business SDN Interface
+# Configure Skype for Business SDN Interface
 
  **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 
@@ -17,7 +18,7 @@ Skype for Business SDN Interface 2.2 and later supports three methods for config
 
 - By using the SDNManager.exe command line interface.
 
- Most configuration settings provided during the setup are stored in each component's respective configuration file. In addition, the configuration files allow you to set more configuration settings, as well as to configure logging behavior. The remaining configuration settings can be edited using the command line interface.
+Most configuration settings provided during the setup are stored in each component's respective configuration file. In addition, the configuration files allow you to set more configuration settings, as well as to configure logging behavior. The remaining configuration settings can be edited using the command line interface.
 
 ## In this section
 
