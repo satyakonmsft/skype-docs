@@ -1,5 +1,5 @@
 ---
-title: # Get a Skype for Business on-premise meeting URL
+title: Get a Skype for Business on-premise meeting URL
 description: Learn how to get a meeting URL and develop against a live meeting. Users of your production app will rely on server logic to return a new meeting whenever they use the join meeting feature of the App SDK.
 ms.date: 03/30/2022
 ---
