@@ -35,17 +35,17 @@ Skype for Business Online uses Azure Active Directory (Azure AD) to provide auth
 
 Sign in to the Azure Management Portal, then do the following:
 
-1. Click the  **Active Directory** node in the left column and select the directory linked to your Skype for Business subscription.
+1. Click the **Active Directory** node in the left column and select the directory linked to your Skype for Business subscription.
 
-2. Select the  **Applications** tab and then **Add** at the bottom of the screen.
+2. Select the **Applications** tab and then **Add** at the bottom of the screen.
 
-3. Select  **Add an application my organization is developing**.
+3. Select **Add an application my organization is developing**.
 
-4. Choose a name for your application, such as `skypewebsample`, and select  **Web application and/or web API** as its **Type**. Click the arrow to continue.
+4. Choose a name for your application, such as `skypewebsample`, and select **Web application and/or web API** as its **Type**. Click the arrow to continue.
 
-5. The value of  **Sign-on URL** is the URL at which your application is hosted.
+5. The value of **Sign-on URL** is the URL at which your application is hosted.
 
-6. The value of  **App ID URI** is a unique identifier for Azure AD to identify your application. You can use `http://{your_subdomain}/skypewebsample`, where `{your_subdomain}` is the subdomain of the tenant you specified while signing up for your Skype for Business Web App (website) on Azure. Click the check mark to provision your application. For example, a tenant with name skypesample.onmicrosoft.com could use an App ID URI of `http://app.skypesample.onmicrosoft.com`.
+6. The value of **App ID URI** is a unique identifier for Azure AD to identify your application. You can use `http://{your_subdomain}/skypewebsample`, where `{your_subdomain}` is the subdomain of the tenant you specified while signing up for your Skype for Business Web App (website) on Azure. Click the check mark to provision your application. For example, a tenant with name skypesample.onmicrosoft.com could use an App ID URI of `http://app.skypesample.onmicrosoft.com`.
 
 7. Select the **Configure** tab and set **Application is Multi-Tenant** to true if you would like to allow users from other tenants to sign in to the application hosted on your tenant. For a single tenant application leave this at false.
 
@@ -57,13 +57,13 @@ Sign in to the Azure Management Portal, then do the following:
    > [!NOTE]
    > During development it is a common practice to host your application on `http://localhost` and provide `http://localhost/*` as a reply url. Apart from this being a security issue (anyone can host a website on `http://localhost` and authenticate against your application if they know your client_id) this approach does not work for Internet Explorer because of how security zones work on Internet Explorer. `http://localhost` is in your local computer's trusted zone while Azure AD (login.microsoftonline.com) is in the Internet zone, and there is no cookie sharing between these zones. Hence, even if a user signs in on the Azure AD login page, the browser does not carry forward the necessary cookies on subsequent authentication requests to Azure AD from the SDK.
 
-9. Select the  **Configure** tab, scroll down to the **Permissions** to other applications section, and click the **Add application** button.
+9. Select the **Configure** tab, scroll down to the **Permissions** to other applications section, and click the **Add application** button.
 
-10. In order to show how to create online meetings, add the  **Skype for Business Online** application. Click the plus sign in the application's row and then click the check mark at the top right to add it. Then click the check mark at the bottom right to continue.
+10. In order to show how to create online meetings, add the **Skype for Business Online** application. Click the plus sign in the application's row and then click the check mark at the top right to add it. Then click the check mark at the bottom right to continue.
 
-11. In the  **Skype for Business Online** row, select **Delegated Permissions**, and choose the permissions you wish to use.
+11. In the **Skype for Business Online** row, select **Delegated Permissions**, and choose the permissions you wish to use.
 
-12. Click  **Save** to save the application's configuration.
+12. Click **Save** to save the application's configuration.
 
 These steps register your application with Azure AD, but you still need to configure your app's manifest to use OAuth implicit grant flow, as explained below.
 
@@ -71,13 +71,13 @@ These steps register your application with Azure AD, but you still need to confi
 
 In order to get an access token for Skype for Business API requests, your application should use the OAuth implicit grant flow. You need to update the application's manifest to allow the OAuth implicit grant flow because it is not turned on by default.
 
-1. Select the  **Configure** tab of your application's entry in the Azure Management Portal.
+1. Select the **Configure** tab of your application's entry in the Azure Management Portal.
 
-2. Using the  **Manage Manifest** button in the drawer, download the manifest file for the application and save it to your computer.
+2. Using the **Manage Manifest** button in the drawer, download the manifest file for the application and save it to your computer.
 
 3. Open the manifest file with a text editor. Search for the `oauth2AllowImplicitFlow` property. By default it is set to false; change it to **true** and save the file.
 
-4. Using the  **Manage Manifest** button, upload the updated manifest file.
+4. Using the **Manage Manifest** button, upload the updated manifest file.
 
 This will register your application with Azure AD. In order for your Skype Web application to access Skype for Business Server resources (such as messaging or presence), it needs to obtain an access token using implicit grant flow. This token gives the application permission to access the resource.
 
@@ -200,7 +200,7 @@ The tenant administrator consent flow is important in two scenarios:
 2. Some properties of the multi-tenant application have changed requiring the tenant administrator to consent once again.
 
 > [!NOTE]
-> Update the  **client Id** and **redirect Uri** for your app.
+> Update the **client Id** and **redirect Uri** for your app.
 
 ```js
 https://login.microsoftonline.com/common/oauth2/authorize?response_type=id_token

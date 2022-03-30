@@ -53,7 +53,7 @@ event handler for starting a new IM conversation.
 
     ```
 
-- Initialize the API endpoint and get the  **UIApplicationInstance** that provides the <a href="//msdn.microsoft.com/skype/websdk/docs/conversationcontrol" target="">Conversation Control</a>.
+- Initialize the API endpoint and get the **UIApplicationInstance** that provides the <a href="//msdn.microsoft.com/skype/websdk/docs/conversationcontrol" target="">Conversation Control</a>.
 
     ``` js
     Skype.initialize({ apiKey: config.apiKeyCC }, function (api) {
@@ -67,7 +67,7 @@ event handler for starting a new IM conversation.
 
 ## Render Conversation Control on incoming call
 
-Inside of the callback function passed into the  **initialize** method, add a callback to be invoked when a conversation is added to the collection on the <a href="http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.conversationsmanager.html" target="">ConversationsManager</a>.
+Inside of the callback function passed into the **initialize** method, add a callback to be invoked when a conversation is added to the collection on the <a href="http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.conversationsmanager.html" target="">ConversationsManager</a>.
 
 
 ``` js
@@ -79,7 +79,7 @@ app.conversationsManager.conversations.added(function (conversation) {
 Inside of the previous callback method, add a callback to detect when one of the modalities in the conversation becomes `'Notified'`.
 
 When the state of the channel is changed to `'Notified'`, an invitation has been received. To show the <a href="//msdn.microsoft.com/skype/websdk/docs/conversationcontrol" target="">Conversation Control</a>, 
-call the  **renderConversation** method of the `api` object passed as a parameter to the callback of the **initialize** function.
+call the **renderConversation** method of the `api` object passed as a parameter to the callback of the **initialize** function.
 
 > [!NOTE] 
 > Adding 'Chat' modality to the 'modalities' array in the second argument of **renderConversation** causes the Conversation Control to be rendered

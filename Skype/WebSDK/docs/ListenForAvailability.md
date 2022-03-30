@@ -9,7 +9,7 @@ The SDK gives you access to a user's person list. A user can start a conversatio
 
 ## Requesting presence notifications
 
-To request continued presence notifications from Skype for Business Server when a person's presence changes, get the person you are interested in and add a listener for changes in the  **Person.status** property.
+To request continued presence notifications from Skype for Business Server when a person's presence changes, get the person you are interested in and add a listener for changes in the **Person.status** property.
 
 
 ### To request presence notifications
@@ -21,7 +21,7 @@ To request continued presence notifications from Skype for Business Server when 
     
 3. In the listener method, show the new availability on your UI.
     
-4. Call  **status.subscribe** method to subscribe for update of the person's status. In this case, the code is getting a reference to the **status** [Property](http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.property.html) and the **subscribe** function is called on the property reference.
+4. Call **status.subscribe** method to subscribe for update of the person's status. In this case, the code is getting a reference to the **status** [Property](http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.property.html) and the **subscribe** function is called on the property reference.
     
 
 ```js
@@ -43,7 +43,7 @@ person.activity.subscribe();
 
 1. Get a person from the user's person list or from search results.
     
-2. Call  **status.get** method to trigger a call to UCWA to fetch the person's presence. In this case, the code is getting a reference to the **status** [Property](http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.property.html) and the **get** function is called on the property reference.
+2. Call **status.get** method to trigger a call to UCWA to fetch the person's presence. In this case, the code is getting a reference to the **status** [Property](http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.property.html) and the **get** function is called on the property reference.
 
 > [!NOTE] 
 > Doing a get on the **status** forces a server call. However, this is the preferred method of fetching presence

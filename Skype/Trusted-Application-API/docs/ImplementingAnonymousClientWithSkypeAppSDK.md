@@ -1,6 +1,6 @@
 # Implementing a Anonymous Client with the Skype App SDK - Android
 
-This article will walk you through the sample code to enable the core  **Skype for Business Online** anonymous meeting join scenario in your Android app involving the client-side functionality
+This article will walk you through the sample code to enable the core **Skype for Business Online** anonymous meeting join scenario in your Android app involving the client-side functionality
 of the Skype App SDK. 
 
 iOS developers should read [Implementing a Anonymous Client with the Skype App SDK - iOS.](ImplementingAnonymousClientWithSkypeAppSDK_iOS.md)

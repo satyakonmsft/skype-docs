@@ -90,11 +90,11 @@ Skype client options, and user actions, as follows:
 
 * The user might be prompted to authorize the Skype client if it is not already running (browser options), as in the following figures.
 
-    **Figure 1. Internet Explorer dialog box**
+   **Figure 1. Internet Explorer dialog box**
 
     ![IE dialog box prompting user to allow Skype to open](images/skypeUri_AllowProgramOpen_IE.png)
 
-    **Figure 2. Firefox dialog box**
+   **Figure 2. Firefox dialog box**
 
     ![Firefox dialog box prompting user to allow Skype to open](images/skypeUri_AllowProgramOpen_Android.png)
 
@@ -104,7 +104,7 @@ Skype client options, and user actions, as follows:
   * Running with no currently logged on user.
 * The user might be prompted to authorize the client action; for example, a "confirm call" dialog might appear (Skype client options).
 
-    **Figure 3. Confirm call dialog box**
+   **Figure 3. Confirm call dialog box**
 
     ![Dialog box prompting user to allow a Skype call](images/skypeUri_AllowCall.png)
 

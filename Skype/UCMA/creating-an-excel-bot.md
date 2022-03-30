@@ -21,19 +21,19 @@ Build a Bot can be used to create bots that require no programming at all. To ac
 
 3. Open the BotConfig.xlsx spreadsheet. In the first tab of the spreadsheet, called botInfo, enter the information related to the application account under which your bot will run, as shown in the following illustration.
     
-   **Account information for the BuildABot application**
+  **Account information for the BuildABot application**
       
    ![BuildABot application account information](images/Dn454841.BuildABotExcel1(Office.16).png "BuildABot application account information")
 
 4. In the static spreadsheet tab, enter in the first column the questions the bot will be able to answer. Their respective answers should come in the second column. The bot will match any user question (ignoring the case) to the first column, and then use the answer in the second column. **Do not enter question marks for the questions** (first column), as question marks are automatically handled by the ExcelBot engine.
     
-   **BuildABot static data**
+  **BuildABot static data**
     
    ![BuildABot static data](images/Dn454841.BuildABotExcel2(Office.16).png "BuildABot static data")
 
 5. You can add more tabs to your spreadsheet, parameterizing their name with the literal text \<term\> (for example: what is \<term\>). The bot will then match the term passed by the user to the first column of the tab, and will use the corresponding text in the second column to answer. The answer to the "default" question cell (as illustrated below) will be used by the bot if none of the other questions matches the user input.
     
-   **BuildABot term glossary**
+  **BuildABot term glossary**
     
    ![BuildABot term glossary](images/Dn454841.BuildABotExcel3(Office.16).png "BuildABot term glossary")
 
