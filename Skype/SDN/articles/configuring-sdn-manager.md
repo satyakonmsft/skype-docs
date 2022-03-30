@@ -1,12 +1,6 @@
----
-title: Configure Skype for Business SDN Interface
-description: SDN Manager can run in three different operational modes: cache, database, and Redis. 
-ms.date: 03/30/2022
----
-
 # Configure SDN Interface SDN Manager
 
- **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
+**Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 
 SDN Manager can run in three different operational modes: cache, database, and Redis. Which of these three the SDN Manager uses depends on how it stores and shares the state of call streams, as well as its configurations settings.
   
@@ -28,7 +22,6 @@ You can also configure SDN Manager to maintain logging information to assist wit
   
 ## See also
 
-<a name="bk_addresources"> </a>
 
 - [Configuring Skype for Business SDN Interface](configuring-sdn-interface.md)
 - [Skype for Business SDN Interface Schema Reference](skype-for-business-sdn-interface-schema-reference.md)
