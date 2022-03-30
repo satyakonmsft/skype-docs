@@ -1,3 +1,9 @@
+---
+title: Configure Interface SDN Manager
+description: SDN Manager can run in three different operational modes: cache, database, and Redis. Which of these three the SDN Manager uses depends on how it stores and shares the state of call streams, as well as its configurations settings.
+ms.date: 03/30/2022
+---
+
 # Configure Interface SDN Manager
 
 **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
