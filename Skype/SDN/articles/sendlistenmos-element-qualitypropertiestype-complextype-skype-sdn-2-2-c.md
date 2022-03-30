@@ -2,7 +2,7 @@
 title: SendListenMOS element (QualityPropertiesType complexType) 
 TOCTitle: SendListenMOS element
 ms:assetid: f705f60b-efa3-3367-2e83-2e01b80aebc4
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404848(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404848(v=office.16)
 ms:contentKeyID: 68250760
 ms.date: 08/24/2015
 mtps_version: v=office.16

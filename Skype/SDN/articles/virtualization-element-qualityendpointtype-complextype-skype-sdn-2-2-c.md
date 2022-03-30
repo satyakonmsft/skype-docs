@@ -2,7 +2,7 @@
 title: Virtualization element (QualityEndPointType complexType) 
 TOCTitle: Virtualization element
 ms:assetid: d2a1a9f5-97c2-c85a-d172-74ed7a9ebf0f
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt429341(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt429341(v=office.16)
 ms:contentKeyID: 68250783
 ms.date: 08/24/2015
 mtps_version: v=office.16

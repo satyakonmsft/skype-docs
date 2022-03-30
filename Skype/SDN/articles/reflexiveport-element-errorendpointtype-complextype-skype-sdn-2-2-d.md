@@ -2,7 +2,7 @@
 title: ReflexivePort element (ErrorEndPointType complexType) 
 TOCTitle: ReflexivePort element (ErrorEndPointType complexType)
 ms:assetid: d02466d3-5c80-99a6-19c2-551066cd9dbf
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170971(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170971(v=office.16)
 ms:contentKeyID: 65855546
 ms.date: 08/24/2015
 mtps_version: v=office.16

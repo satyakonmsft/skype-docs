@@ -2,7 +2,7 @@
 title: Elements (Skype for Business SDN Interface 2.2, Schema C)
 TOCTitle: Elements (Skype for Business SDN Interface 2.2, Schema C)
 ms:assetid: 3249c4f2-7522-9cc2-8aa4-cbce4a4ad16e
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404702(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404702(v=office.16)
 ms:contentKeyID: 68250615
 ms.date: 08/24/2015
 mtps_version: v=office.16

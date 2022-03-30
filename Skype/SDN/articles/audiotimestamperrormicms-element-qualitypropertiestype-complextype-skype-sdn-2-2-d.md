@@ -2,7 +2,7 @@
 title: AudioTimestampErrorMicMs element (QualityPropertiesType complexType) 
 TOCTitle: AudioTimestampErrorMicMs element
 ms:assetid: 7a2c150d-342d-333b-8898-772018dbc1fe
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt149427(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt149427(v=office.16)
 ms:contentKeyID: 65855376
 ms.date: 08/24/2015
 mtps_version: v=office.16

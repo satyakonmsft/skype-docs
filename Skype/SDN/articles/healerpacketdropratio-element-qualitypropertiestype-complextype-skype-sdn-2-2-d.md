@@ -2,7 +2,7 @@
 title: HealerPacketDropRatio element (QualityPropertiesType complexType) 
 TOCTitle: HealerPacketDropRatio element
 ms:assetid: 8664eb21-7ec7-a6af-a64c-90a048d9b679
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170875(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170875(v=office.16)
 ms:contentKeyID: 65855456
 ms.date: 08/24/2015
 mtps_version: v=office.16

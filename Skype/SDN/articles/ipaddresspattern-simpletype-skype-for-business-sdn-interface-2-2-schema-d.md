@@ -2,7 +2,7 @@
 title: ipAddressPattern simpleType 
 TOCTitle: ipAddressPattern simpleType
 ms:assetid: 29c537a2-c6b0-fb6b-c32c-f77b61138a8d
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171050(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171050(v=office.16)
 ms:contentKeyID: 65855624
 ms.date: 08/24/2015
 mtps_version: v=office.16

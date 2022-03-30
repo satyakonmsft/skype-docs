@@ -7,7 +7,7 @@ In order for your UCWA 2.0 application to access Skype for Business resources (s
 
 
 > [!NOTE] 
-> If your application authenticates against an online server, you must follow the Azure AD authorization flow as described in this article. If the application authenticates against an on-premises server, this step is not necessary, and you should follow the steps in [Authentication in UCWA](https://msdn.microsoft.com/EN-US/library/dn356686%28v=office.16%29.aspx).
+> If your application authenticates against an online server, you must follow the Azure AD authorization flow as described in this article. If the application authenticates against an on-premises server, this step is not necessary, and you should follow the steps in [Authentication in UCWA](https://msdn.microsoft.com/library/dn356686%28v=office.16%29.aspx).
 
 The authentication and authorization flow comprises the following steps:
 
@@ -25,7 +25,7 @@ The authentication and authorization flow comprises the following steps:
  
 - Use the access token to access the UCWA resource.
  
-For more information on the Office 365 authentication flow, see [Understanding authentication with Office 365 APIs](https://msdn.microsoft.com/en-us/office/office365/howto/common-app-authentication-tasks).
+For more information on the Office 365 authentication flow, see [Understanding authentication with Office 365 APIs](https://msdn.microsoft.com/office/office365/howto/common-app-authentication-tasks).
 
 ## Registering an application in Azure AD
 <a name="sectionSection0"> </a>
@@ -40,7 +40,7 @@ If your application is a browser-based web app, you need to configure your app's
 
 Finally, you need to specify exactly what permissions your app requires of the Skype for Business Online APIs. To do so, you add access to the Skype for Business Online service containing the API you require to your app, and then specify the permissions you need from the APIs in that service.
 
-You can do all of these steps in the Azure Management Portal. The registration procedure is described in detail in [Manually register your app with Azure AD so it can access Office 365 APIs](https://msdn.microsoft.com/en-us/office/office365/howto/add-common-consent-manually).
+You can do all of these steps in the Azure Management Portal. The registration procedure is described in detail in [Manually register your app with Azure AD so it can access Office 365 APIs](https://msdn.microsoft.com/office/office365/howto/add-common-consent-manually).
 
 
 ## Sign-in
@@ -179,7 +179,7 @@ The access token response contains the following parameters:
 |refresh_token|An OAuth 2.0 refresh token. Your application can use this token to acquire additional access tokens after the current one expires.|
 |scope|Impersonation permissions granted to the client application. The default permission is user_impersonation. The owner of the secured resource can register additional values in Azure AD.|
 |id_token|An unsigned JSON Web Token (JWT). Your application can use this token to request information about the user who consented. The application can cache the values and display them. For more information about JSON web tokens, see the [JWT IETF draft specification](https://go.microsoft.com/fwlink/?LinkId=392344).|
-For more information on access token contents, see [Authorization Code Grant Flow](https://msdn.microsoft.com/en-us/library/azure/dn645542.aspx).
+For more information on access token contents, see [Authorization Code Grant Flow](https://msdn.microsoft.com/library/azure/dn645542.aspx).
 
 User login is not requested again after this point because the user is already signed in and your application has a set of cookies for the authenticated user. If authentication is successful, Azure AD creates an ID token and returns it as a URL fragment to the application's Reply URI ( `redirect_uri`). For a production application, this Reply URL should be HTTPS. The returned token includes claims about the user and Azure AD that the application requires to validate the token. The JavaScript client code running in the browser extracts the token from the response to use in securing calls.
 

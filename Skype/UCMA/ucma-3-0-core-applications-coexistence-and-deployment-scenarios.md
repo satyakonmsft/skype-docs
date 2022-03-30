@@ -2,7 +2,7 @@
 title: 'UCMA 3.0 Core applications: Coexistence and deployment scenarios'
 TOCTitle: 'UCMA 3.0 Core applications: Coexistence and deployment scenarios'
 ms:assetid: 90b3c204-a67e-4604-aea2-b2c0c8be51d2
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466145(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466145(v=office.16)
 ms:contentKeyID: 65240056
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -43,5 +43,5 @@ In general, a user object or contact object for a UCMA 3.0 application that is n
 
 UCMA 3.0 features that depend on Lync Server 2010 are not supported if the application is deployed against .
 
-Because the UCMA 3.0 application is deployed against , it should be deployed as if it were a UCMA 2.0 application. For more information, see [Deploying a UCMA 2.0 Core Application](https://msdn.microsoft.com/en-us/library/dd280155\(v=office.13\).aspx).
+Because the UCMA 3.0 application is deployed against , it should be deployed as if it were a UCMA 2.0 application. For more information, see [Deploying a UCMA 2.0 Core Application](https://msdn.microsoft.com/library/dd280155\(v=office.13\).aspx).
 

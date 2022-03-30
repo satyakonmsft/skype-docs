@@ -2,7 +2,7 @@
 title: Bandwidth element (CodecType complexType) 
 TOCTitle: Bandwidth element (CodecType complexType)
 ms:assetid: 2a15bb8d-65ae-90aa-7153-f46d763a81ce
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404701(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404701(v=office.16)
 ms:contentKeyID: 68250617
 ms.date: 08/24/2015
 mtps_version: v=office.16

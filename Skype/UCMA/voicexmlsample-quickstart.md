@@ -2,7 +2,7 @@
 title: VoiceXMLSample (QuickStart)
 TOCTitle: VoiceXMLSample (QuickStart)
 ms:assetid: e4b31dcb-3049-47b7-bdbe-a3cdc365b2b5
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn454832(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn454832(v=office.16)
 ms:contentKeyID: 65240104
 ms.date: 07/27/2015
 mtps_version: v=office.16

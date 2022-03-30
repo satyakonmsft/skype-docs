@@ -2,7 +2,7 @@
 title: LyncDiagnostics element 
 TOCTitle: LyncDiagnostics element
 ms:assetid: 2b7bc3eb-cb1d-d725-4432-6fe913ecf3cf
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404787(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404787(v=office.16)
 ms:contentKeyID: 68250697
 ms.date: 08/24/2015
 mtps_version: v=office.16

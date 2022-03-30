@@ -2,7 +2,7 @@
 title: Sending page-mode messages asynchronously
 TOCTitle: Sending page-mode messages asynchronously
 ms:assetid: cfbc3cd0-f357-40e7-b6c3-8bc0d78493e1
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466050(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466050(v=office.16)
 ms:contentKeyID: 65239994
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -15,7 +15,7 @@ dev_langs:
 
 **Applies to**: Skype for Business 2015
 
-The asynchronous call to send a page-mode message uses the **BeginSendMessage** … **EndSendMessage** pattern adopted in the .NET Framework, and recommended in this documentation. The pattern requires an application to supply a callback method that is invoked before the asynchronous operation finishes. This sample calls the [BeginSendMessage(MessageType, RealTimeAddress, ContentType, \[\], AsyncCallback, Object)](https://msdn.microsoft.com/en-us/library/hh161734\(v=office.16\)) overloaded method. The [EndSendMessage(IAsyncResult)](https://msdn.microsoft.com/en-us/library/hh382471\(v=office.16\)) method is called in the callback method, *CompleteSendMessage*.
+The asynchronous call to send a page-mode message uses the **BeginSendMessage** … **EndSendMessage** pattern adopted in the .NET Framework, and recommended in this documentation. The pattern requires an application to supply a callback method that is invoked before the asynchronous operation finishes. This sample calls the [BeginSendMessage(MessageType, RealTimeAddress, ContentType, \[\], AsyncCallback, Object)](https://msdn.microsoft.com/library/hh161734\(v=office.16\)) overloaded method. The [EndSendMessage(IAsyncResult)](https://msdn.microsoft.com/library/hh382471\(v=office.16\)) method is called in the callback method, *CompleteSendMessage*.
 
 ```csharp
 RealTimeEndpoint endpoint = ...; // Assumed to be created elsewhere

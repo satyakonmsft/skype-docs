@@ -11,8 +11,8 @@ Schema "D" documents the schema file SDNInterface.Schema.D.xsd and is referred t
 ## In this section
 
 - [Schema map (Skype for Business SDN Interface 2.2, Schema D)](schema-map-skype-for-business-sdn-interface-2-2-schema-d.md) 
-- [Elements (Skype for Business SDN Interface 2.2, Schema D)](https://msdn.microsoft.com/en-us/library/mt149426(v=office.16).aspx)
-- [Types (Skype for Business SDN Interface 2.2, Schema D)](https://msdn.microsoft.com/en-us/library/mt171041(v=office.16).aspx)
+- [Elements (Skype for Business SDN Interface 2.2, Schema D)](https://msdn.microsoft.com/library/mt149426(v=office.16).aspx)
+- [Types (Skype for Business SDN Interface 2.2, Schema D)](https://msdn.microsoft.com/library/mt171041(v=office.16).aspx)
     
   
 ## Related sections

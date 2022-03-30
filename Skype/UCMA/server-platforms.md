@@ -2,7 +2,7 @@
 title: Server platforms (Unified Communications Managed API 5.0)
 TOCTitle: Server platforms
 ms:assetid: 078a6a3f-9610-4a70-8cf7-2fc7f14977ca
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466051(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466051(v=office.16)
 ms:contentKeyID: 65239980
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -50,7 +50,7 @@ In UCMA 5.0 the [CollaborationPlatform](https://docs.microsoft.com/dotnet/api/mi
 
 ## Manual provisioning
 
-To manually provision a trusted application, one should first create a **CollaborationPlatform** instance using an initialized [ServerPlatformSettings](https://msdn.microsoft.com/en-us/library/hh382156\(v=office.16\)) instance. The **ServerPlatformSettings** instance must be supplied with all of the trusted application configuration data-local FQDN, listening port, application GRUU, and certificate. Each **ApplicationEndpoint** instance must also be provisioned with a manually populated [ApplicationEndpointSettings](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.applicationendpointsettings?view=ucma-api) instance for which the [OwnerUri](https://msdn.microsoft.com/en-us/library/hh161899\(v=office.16\)) and [OwnerPhoneUri](https://msdn.microsoft.com/en-us/library/hh385129\(v=office.16\)) properties are appropriately initialized. 
+To manually provision a trusted application, one should first create a **CollaborationPlatform** instance using an initialized [ServerPlatformSettings](https://msdn.microsoft.com/library/hh382156\(v=office.16\)) instance. The **ServerPlatformSettings** instance must be supplied with all of the trusted application configuration data-local FQDN, listening port, application GRUU, and certificate. Each **ApplicationEndpoint** instance must also be provisioned with a manually populated [ApplicationEndpointSettings](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.applicationendpointsettings?view=ucma-api) instance for which the [OwnerUri](https://msdn.microsoft.com/library/hh161899\(v=office.16\)) and [OwnerPhoneUri](https://msdn.microsoft.com/library/hh385129\(v=office.16\)) properties are appropriately initialized. 
 
 If any of the settings changes (such as the certificate), it is the responsibility of the application to discover such changes by offline means and to apply the new values to the **CollaborationPlatform** instance or **ApplicationEndpoint** instances, depending on which setting changed.
 
@@ -72,7 +72,7 @@ The following list shows the steps that are required to use auto-provisioning in
     
    The following example creates an auto-provisioned **CollaborationPlatform** instance.
     
-   To create an auto-provisioned application, a **CollaborationPlatform** instance must be created by using the constructor that takes a [ProvisionedApplicationPlatformSettings](https://msdn.microsoft.com/en-us/library/hh385058\(v=office.16\)) argument. Platform startup will succeed if provisioning data for the application is successfully fetched.
+   To create an auto-provisioned application, a **CollaborationPlatform** instance must be created by using the constructor that takes a [ProvisionedApplicationPlatformSettings](https://msdn.microsoft.com/library/hh385058\(v=office.16\)) argument. Platform startup will succeed if provisioning data for the application is successfully fetched.
     
    ```csharp
     ProvisionedApplicationPlatformSettings platformSettings = new ProvisionedApplicationPlatformSettings (″myUserAgent″, ″myApplicationId″);
@@ -129,15 +129,15 @@ The following list shows the steps that are required to use auto-provisioning in
 
 3. Check for changes to endpoints.
     
-   The latest provisioning data for an endpoint can be retrieved by a call to the [BeginGetProvisioningData(AsyncCallback, Object)](https://msdn.microsoft.com/en-us/library/hh384928\(v=office.16\)) method on the **ApplicationEndpoint** instance. This method passes the refreshed [ProvisioningData](https://msdn.microsoft.com/en-us/library/hh385025\(v=office.16\)) object into the callback delegate. The **ProvisioningData** class exposes other data as well as the configuration data in the contact object. Endpoint configuration from the contact object can be accessed through the [EndpointConfiguration](https://msdn.microsoft.com/en-us/library/hh382149\(v=office.16\)) property on the **ProvisioningData** instance. If the endpoint configuration changes, this property is automatically updated. If the application is intended to keep abreast of the changes to configuration data, it should register for notification of the [OwnerPropertiesChanged](https://msdn.microsoft.com/en-us/library/hh382763\(v=office.16\)) event.
+   The latest provisioning data for an endpoint can be retrieved by a call to the [BeginGetProvisioningData(AsyncCallback, Object)](https://msdn.microsoft.com/library/hh384928\(v=office.16\)) method on the **ApplicationEndpoint** instance. This method passes the refreshed [ProvisioningData](https://msdn.microsoft.com/library/hh385025\(v=office.16\)) object into the callback delegate. The **ProvisioningData** class exposes other data as well as the configuration data in the contact object. Endpoint configuration from the contact object can be accessed through the [EndpointConfiguration](https://msdn.microsoft.com/library/hh382149\(v=office.16\)) property on the **ProvisioningData** instance. If the endpoint configuration changes, this property is automatically updated. If the application is intended to keep abreast of the changes to configuration data, it should register for notification of the [OwnerPropertiesChanged](https://msdn.microsoft.com/library/hh382763\(v=office.16\)) event.
 
 4. Terminate an endpoint.
     
-   An application can terminate an endpoint at any time by calling the [BeginTerminate(AsyncCallback, Object)](https://msdn.microsoft.com/en-us/library/hh348966\(v=office.16\)) method on the **ApplicationEndpoint** instance. UCMA can also automatically terminate an **ApplicationEndpoint** instance if the contact object for the endpoint is disabled or deleted from Active Directory.
+   An application can terminate an endpoint at any time by calling the [BeginTerminate(AsyncCallback, Object)](https://msdn.microsoft.com/library/hh348966\(v=office.16\)) method on the **ApplicationEndpoint** instance. UCMA can also automatically terminate an **ApplicationEndpoint** instance if the contact object for the endpoint is disabled or deleted from Active Directory.
 
 5. Handle errors.
     
-   An auto-provisioned **CollaborationPlatform** instance cannot be started successfully unless the provisioning data for the application is successfully fetched. If the application is not configured correctly, or a connection to Active Directory cannot be made, or Central Management Store is not running, **CollaborationPlatform** startup will fail, causing a [ProvisioningFailureException](https://msdn.microsoft.com/en-us/library/hh385160\(v=office.16\)) exception to be thrown. The application should alert the administrator in such a case to take corrective action.
+   An auto-provisioned **CollaborationPlatform** instance cannot be started successfully unless the provisioning data for the application is successfully fetched. If the application is not configured correctly, or a connection to Active Directory cannot be made, or Central Management Store is not running, **CollaborationPlatform** startup will fail, causing a [ProvisioningFailureException](https://msdn.microsoft.com/library/hh385160\(v=office.16\)) exception to be thrown. The application should alert the administrator in such a case to take corrective action.
     
-   After the **CollaborationPlatform** instance is started, it is resilient to failures in accessing provisioning data or faulty configuration. For example, if a new certificate is incorrectly configured for the machine while it is running or if Active Directory connectivity is lost, UCMA continues using the existing settings, but raises the [ProvisioningFailed](https://msdn.microsoft.com/en-us/library/hh365940\(v=office.16\)) event on the **CollaborationPlatform** instance. The application must alert the administrator of this failure so that prompt action can be taken to configure a certificate correctly or restore Active Directory connectivity.
+   After the **CollaborationPlatform** instance is started, it is resilient to failures in accessing provisioning data or faulty configuration. For example, if a new certificate is incorrectly configured for the machine while it is running or if Active Directory connectivity is lost, UCMA continues using the existing settings, but raises the [ProvisioningFailed](https://msdn.microsoft.com/library/hh365940\(v=office.16\)) event on the **CollaborationPlatform** instance. The application must alert the administrator of this failure so that prompt action can be taken to configure a certificate correctly or restore Active Directory connectivity.
 

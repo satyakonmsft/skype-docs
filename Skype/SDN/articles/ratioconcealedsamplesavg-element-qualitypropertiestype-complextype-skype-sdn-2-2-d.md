@@ -2,7 +2,7 @@
 title: RatioConcealedSamplesAvg element (QualityPropertiesType complexType) 
 TOCTitle: RatioConcealedSamplesAvg element
 ms:assetid: 3d73efac-8aea-65a1-2d32-83a45958cd44
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170955(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170955(v=office.16)
 ms:contentKeyID: 65855531
 ms.date: 08/24/2015
 mtps_version: v=office.16

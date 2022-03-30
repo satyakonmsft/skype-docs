@@ -23,7 +23,7 @@ The components are:
 | ------------- |:-------------|:-----|:-----|
 | Launch app     | `ms-sfb://start` | None | iOS, Android |
 | Start call     | `ms-sfb://call?id=(sip address) [&video= false or true ] `|`id` -   required parameter, can be an email address or PSTN ("+" (DIGIT) *(DIGIT / "-" )).  `video` - optional Boolean parameter with default of false, used to indicate that the user prefers the call as a video call, will be audio only if video not possible |  iOS (audio only), Android |
-| Start chat | `ms-sfb://chat?id=(sip address)  URLEncoded(url)`|id -   required parameter, can be an email address or a URL encoded [SIP URI](https://msdn.microsoft.com/en-us/library/office/hh347488(v=office.14).aspx) | iOS, Android|
+| Start chat | `ms-sfb://chat?id=(sip address)  URLEncoded(url)`|id -   required parameter, can be an email address or a URL encoded [SIP URI](https://msdn.microsoft.com/library/office/hh347488(v=office.14).aspx) | iOS, Android|
 
 ###URI Examples
 

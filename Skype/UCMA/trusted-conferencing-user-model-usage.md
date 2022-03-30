@@ -2,7 +2,7 @@
 title: Trusted conferencing user model usage
 TOCTitle: Trusted conferencing user model usage
 ms:assetid: 444ffba4-37d3-4ba4-8ce6-c23db12ba190
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466007(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466007(v=office.16)
 ms:contentKeyID: 65239948
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -22,9 +22,9 @@ This topic provides the details of using the trusted conferencing user model in 
 
 2.  Create and establish an [ApplicationEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.applicationendpoint?view=ucma-api) instance.
 
-3.  Create a [Conversation](https://msdn.microsoft.com/en-us/library/hh349224\(v=office.16\)) instance.
+3.  Create a [Conversation](https://msdn.microsoft.com/library/hh349224\(v=office.16\)) instance.
 
-4.  Join the [ConferenceSession](https://msdn.microsoft.com/en-us/library/hh349315\(v=office.16\)).
+4.  Join the [ConferenceSession](https://msdn.microsoft.com/library/hh349315\(v=office.16\)).
 
 5.  Create an [AudioVideoCall](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) instance.
 
@@ -43,7 +43,7 @@ The steps in the preceding procedure are described in detail in the following se
 Create a server [CollaborationPlatform](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.collaborationplatform?view=ucma-api) instance with MTLS, a server certificate, and a trusted service GRUU.
 
 > [!NOTE]
-> The variables shown as parameters to the [ServerPlatformSettings()](https://msdn.microsoft.com/en-us/library/hh385152(v=office.16)) constructor in the following example must be set to appropriate values before they are used.
+> The variables shown as parameters to the [ServerPlatformSettings()](https://msdn.microsoft.com/library/hh385152(v=office.16)) constructor in the following example must be set to appropriate values before they are used.
 
 
 ```csharp
@@ -90,7 +90,7 @@ private void PlatformStartupCompleted(IAsyncResult result)
 The application then establishes an [ApplicationEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.applicationendpoint?view=ucma-api) instance.
 
 > [!NOTE]
-> The variables shown as parameters to the [ApplicationEndpointSettings()](https://msdn.microsoft.com/en-us/library/hh382372(v=office.16)) constructor in the following example must be set to appropriate values before they are used.
+> The variables shown as parameters to the [ApplicationEndpointSettings()](https://msdn.microsoft.com/library/hh382372(v=office.16)) constructor in the following example must be set to appropriate values before they are used.
 
 ```csharp
 // Given a CollaborationPlatform, initialize and register an Application Endpoint.
@@ -152,11 +152,11 @@ private void EndpointEstablishCompleted(IAsyncResult result)
 
 ## Create a conversation instance
 
-The application creates a [Conversation](https://msdn.microsoft.com/en-us/library/hh349224\(v=office.16\)) object for each conference that it serves. If needed, an application can create multiple **Conversation** objects for a conference and load balance its users among those conversation instances.
+The application creates a [Conversation](https://msdn.microsoft.com/library/hh349224\(v=office.16\)) object for each conference that it serves. If needed, an application can create multiple **Conversation** objects for a conference and load balance its users among those conversation instances.
 
 ## Join the conference as a trusted user
 
-To join as a trusted user, the application must supply a [ConferenceJoinOptions](https://msdn.microsoft.com/en-us/library/hh385064\(v=office.16\)) instance to the [BeginJoin()](https://msdn.microsoft.com/en-us/library/hh349641\(v=office.16\)) method on the [ConferenceSession](https://msdn.microsoft.com/en-us/library/hh349315\(v=office.16\)) class, setting the [JoinMode](https://msdn.microsoft.com/en-us/library/hh384536\(v=office.16\)) property to **TrustedParticipant**. If the application has been configured correctly, it will be joined to the conference and will not appear in the roster of any Skype for Business 2015 clients. The following code sample shows how to accomplish this.
+To join as a trusted user, the application must supply a [ConferenceJoinOptions](https://msdn.microsoft.com/library/hh385064\(v=office.16\)) instance to the [BeginJoin()](https://msdn.microsoft.com/library/hh349641\(v=office.16\)) method on the [ConferenceSession](https://msdn.microsoft.com/library/hh349315\(v=office.16\)) class, setting the [JoinMode](https://msdn.microsoft.com/library/hh384536\(v=office.16\)) property to **TrustedParticipant**. If the application has been configured correctly, it will be joined to the conference and will not appear in the roster of any Skype for Business 2015 clients. The following code sample shows how to accomplish this.
 
 ```csharp
 ConferenceJoinOptions options = new ConferenceJoinOptions();
@@ -170,7 +170,7 @@ conversation.ConferenceSession.BeginJoin(
 
 ## Create an AudioVideoCall instance
 
-The application now creates an [AudioVideoCall](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) instance. It should set the [RemoveFromDefaultRouting](https://msdn.microsoft.com/en-us/library/hh349908\(v=office.16\)) property to true. This property can be accessed from the [AudioVideoMcuDialInOptions](https://msdn.microsoft.com/en-us/library/hh348625\(v=office.16\)) property on an [AudioVideoCallEstablishOptions](https://msdn.microsoft.com/en-us/library/hh382857\(v=office.16\)) instance.
+The application now creates an [AudioVideoCall](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) instance. It should set the [RemoveFromDefaultRouting](https://msdn.microsoft.com/library/hh349908\(v=office.16\)) property to true. This property can be accessed from the [AudioVideoMcuDialInOptions](https://msdn.microsoft.com/library/hh348625\(v=office.16\)) property on an [AudioVideoCallEstablishOptions](https://msdn.microsoft.com/library/hh382857\(v=office.16\)) instance.
 
 ```csharp
 AudioVideoCallEstablishOptions callOptions = new AudioVideoCallEstablishOptions();
@@ -185,7 +185,7 @@ Establishing the call without MCU routing avoids audio blips and simplifies impl
 
 ## Establish the call
 
-Before establishing the call, the application sets the [ApplicationContext](https://msdn.microsoft.com/en-us/library/hh383130\(v=office.16\)) property on the call to that of the user’s [ConversationParticipant](https://msdn.microsoft.com/en-us/library/hh366199\(v=office.16\)) instance and registers for notification of the relevant call events. The application can then establish the call as shown in the following example.
+Before establishing the call, the application sets the [ApplicationContext](https://msdn.microsoft.com/library/hh383130\(v=office.16\)) property on the call to that of the user’s [ConversationParticipant](https://msdn.microsoft.com/library/hh366199\(v=office.16\)) instance and registers for notification of the relevant call events. The application can then establish the call as shown in the following example.
 
 > [!NOTE]
 > The callOptions parameter was initialized in the previous example.
@@ -200,16 +200,16 @@ avCall.BeginEstablish(callOptions, AvCallEstablished, state);
 
 ### MCU activation
 
-MCUs are not necessarily activated immediately after the application has joined the conference. A call should be placed after the MCU becomes active (when the [StateChanged](https://msdn.microsoft.com/en-us/library/hh349760\(v=office.16\)) event on the [McuSession](https://msdn.microsoft.com/en-us/library/hh384975\(v=office.16\)) or [AudioVideoMcuSession](https://msdn.microsoft.com/en-us/library/hh385298\(v=office.16\)) instance is raised). However, in order to improve usability for the application developer, Microsoft Unified Communications Managed API 5.0 allows applications to invoke **BeginEstablish** on the call immediately after the join process is completed. If the MCU is not yet active, the dial-in request is placed in a queue for up to 30 seconds. If the 30-second period expires without the MCU becoming active, UCMA 5.0 still sends the dial-in request as a best effort in case the MCU activation notification was dropped.
+MCUs are not necessarily activated immediately after the application has joined the conference. A call should be placed after the MCU becomes active (when the [StateChanged](https://msdn.microsoft.com/library/hh349760\(v=office.16\)) event on the [McuSession](https://msdn.microsoft.com/library/hh384975\(v=office.16\)) or [AudioVideoMcuSession](https://msdn.microsoft.com/library/hh385298\(v=office.16\)) instance is raised). However, in order to improve usability for the application developer, Microsoft Unified Communications Managed API 5.0 allows applications to invoke **BeginEstablish** on the call immediately after the join process is completed. If the MCU is not yet active, the dial-in request is placed in a queue for up to 30 seconds. If the 30-second period expires without the MCU becoming active, UCMA 5.0 still sends the dial-in request as a best effort in case the MCU activation notification was dropped.
 
 ### Multi-call establishment and support for multiple points of conference
 
 The application can establish as many **AudioVideoCall** instances as it requires. This is possible only by the use of the TCU model. Non-TCU conversations and peer-to-peer scenarios do not permit multiple calls for the same modality. MCUs in Skype for Business Server 2015 do not support multiple points of conference. To work around this limitation, the platform creates each call with a fictitious identity.
 
 > [!NOTE]
-> To avoid confusion, this identity is not exposed to the application. The generated identity is controlled by the [UseGeneratedIdentityForTrustedConference](https://msdn.microsoft.com/en-us/library/hh382405(v=office.16)) property.
+> To avoid confusion, this identity is not exposed to the application. The generated identity is controlled by the [UseGeneratedIdentityForTrustedConference](https://msdn.microsoft.com/library/hh382405(v=office.16)) property.
 
-The platform is responsible for using the appropriate identity whenever an operation is performed on the call, so the application does not need to know this identity. The fictitious identity is also part of the \<trusted-users\> section of the roster so that ordinary clients such as Skype for Business 2015 do not display it in their user interfaces. Calls can be established in parallel. Applications can choose to create a pool of calls (all associated with an [Conversation](https://msdn.microsoft.com/en-us/library/hh349224\(v=office.16\)) instance) based on their own needs. It is the application’s responsibility to track the call instance that serves a specific user or group of users. It is recommended that the application use the [ApplicationContext](https://msdn.microsoft.com/en-us/library/hh383130\(v=office.16\)) property to accomplish this.
+The platform is responsible for using the appropriate identity whenever an operation is performed on the call, so the application does not need to know this identity. The fictitious identity is also part of the \<trusted-users\> section of the roster so that ordinary clients such as Skype for Business 2015 do not display it in their user interfaces. Calls can be established in parallel. Applications can choose to create a pool of calls (all associated with an [Conversation](https://msdn.microsoft.com/library/hh349224\(v=office.16\)) instance) based on their own needs. It is the application’s responsibility to track the call instance that serves a specific user or group of users. It is recommended that the application use the [ApplicationContext](https://msdn.microsoft.com/library/hh383130\(v=office.16\)) property to accomplish this.
 
 ## Customize MCU routing
 
@@ -249,7 +249,7 @@ As shown in the preceding list, sending an MCU routing command is dependent on r
 
 2.  Routing audio from a remote source
     
-    When the application calls **BeginUpdateAudioRoutes** to route audio from a remote source to itself, it is possible for the remote source to leave the conference before the update operation completes. In this circumstance the platform throws **InvalidOperationException** if it determines that the remote source left before the update request was sent. If the update request was sent before the remote source left, the platform relies on the audio-video MCU to fail the request and return the appropriate diagnostics information. The platform in turn throws [ConferenceFailureException](https://msdn.microsoft.com/en-us/library/hh382829\(v=office.16\)), which exposes diagnostics information.
+    When the application calls **BeginUpdateAudioRoutes** to route audio from a remote source to itself, it is possible for the remote source to leave the conference before the update operation completes. In this circumstance the platform throws **InvalidOperationException** if it determines that the remote source left before the update request was sent. If the update request was sent before the remote source left, the platform relies on the audio-video MCU to fail the request and return the appropriate diagnostics information. The platform in turn throws [ConferenceFailureException](https://msdn.microsoft.com/library/hh382829\(v=office.16\)), which exposes diagnostics information.
 
 3.  Routing audio to remote sinks
     
@@ -259,7 +259,7 @@ As shown in the preceding list, sending an MCU routing command is dependent on r
     
     - If some (but not all) participants have left the conference before the update operation completes, the update operation is sent for the remaining participants. The audio-video MCU should not fail this request.
     
-    - If all participants left the conference after the command is sent on the wire, the audio-video MCU fails the request. In this case the platform throws [ConferenceFailureException](https://msdn.microsoft.com/en-us/library/hh382829\(v=office.16\)).
+    - If all participants left the conference after the command is sent on the wire, the audio-video MCU fails the request. In this case the platform throws [ConferenceFailureException](https://msdn.microsoft.com/library/hh382829\(v=office.16\)).
 
 ## Issue a command in the context of another user
 

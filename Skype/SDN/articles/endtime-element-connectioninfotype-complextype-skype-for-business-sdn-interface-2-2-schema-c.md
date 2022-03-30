@@ -2,7 +2,7 @@
 title: EndTime element (ConnectionInfoType complexType) 
 TOCTitle: EndTime element
 ms:assetid: 06ba3c4a-f7e4-a9fb-eeda-42c53575d17c
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404757(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404757(v=office.16)
 ms:contentKeyID: 68250670
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: StartTime element (ConnectionInfoType complexType) 
 TOCTitle: StartTime element
 ms:assetid: 034a9539-e001-bec3-2224-433f98824ee3
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171003(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171003(v=office.16)
 ms:contentKeyID: 65855575
 ms.date: 08/24/2015
 mtps_version: v=office.16

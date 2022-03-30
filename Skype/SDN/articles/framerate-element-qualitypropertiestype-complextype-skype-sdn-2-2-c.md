@@ -2,7 +2,7 @@
 title: FrameRate element (QualityPropertiesType complexType) 
 TOCTitle: FrameRate element
 ms:assetid: fe6e2a77-2f44-2eab-25f1-f256bbafc84e
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404764(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404764(v=office.16)
 ms:contentKeyID: 68250710
 ms.date: 08/24/2015
 mtps_version: v=office.16

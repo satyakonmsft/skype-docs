@@ -2,7 +2,7 @@
 title: OS element (QualityEndPointType complexType) 
 TOCTitle: OS element
 ms:assetid: 453ce3a9-05f6-5c8a-59bf-0442f720230f
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170931(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170931(v=office.16)
 ms:contentKeyID: 65855509
 ms.date: 08/24/2015
 mtps_version: v=office.16

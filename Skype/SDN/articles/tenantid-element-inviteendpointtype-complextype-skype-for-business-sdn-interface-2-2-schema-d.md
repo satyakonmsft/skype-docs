@@ -2,7 +2,7 @@
 title: TenantId element (InviteEndPointType complexType) 
 TOCTitle: TenantId element (InviteEndPointType complexType)
 ms:assetid: 36162894-c773-d0a0-b66c-59a34515099d
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171006(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171006(v=office.16)
 ms:contentKeyID: 65855579
 ms.date: 08/24/2015
 mtps_version: v=office.16

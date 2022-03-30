@@ -2,7 +2,7 @@
 title: Application behavior
 TOCTitle: Application behavior
 ms:assetid: eecd7cfa-21a2-4b86-ae1d-66a6324d3f26
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466077(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466077(v=office.16)
 ms:contentKeyID: 65240015
 ms.date: 07/27/2015
 mtps_version: v=office.16

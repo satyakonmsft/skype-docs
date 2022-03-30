@@ -2,7 +2,7 @@
 title: Inside element (QualityEndPointType complexType) 
 TOCTitle: Inside element
 ms:assetid: 26c25414-5008-0a08-4e29-59a2b709bf3b
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404778(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404778(v=office.16)
 ms:contentKeyID: 68250688
 ms.date: 08/24/2015
 mtps_version: v=office.16

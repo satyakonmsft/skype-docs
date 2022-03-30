@@ -2,7 +2,7 @@
 title: CPUProcessorSpeed element (QualityEndPointType complexType) 
 TOCTitle: CPUProcessorSpeed element
 ms:assetid: 69a5d16b-8de1-5c04-bf63-5a990c14bac9
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt149461(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt149461(v=office.16)
 ms:contentKeyID: 65855408
 ms.date: 08/24/2015
 mtps_version: v=office.16

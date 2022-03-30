@@ -2,7 +2,7 @@
 title: Contact element (InviteEndPointType complexType) 
 TOCTitle: Contact element (InviteEndPointType complexType)
 ms:assetid: a4ab18bd-b57f-2249-9d86-b389661cfa1f
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt149458(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt149458(v=office.16)
 ms:contentKeyID: 65855403
 ms.date: 08/24/2015
 mtps_version: v=office.16

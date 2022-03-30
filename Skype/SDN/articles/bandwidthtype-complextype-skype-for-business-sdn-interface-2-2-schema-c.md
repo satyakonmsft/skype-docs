@@ -2,7 +2,7 @@
 title: BandwidthType complexType 
 TOCTitle: BandwidthType complexType
 ms:assetid: 76ff9fdd-8b40-9657-ecc5-7457718d84ed
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt429347(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt429347(v=office.16)
 ms:contentKeyID: 68250789
 ms.date: 08/24/2015
 mtps_version: v=office.16

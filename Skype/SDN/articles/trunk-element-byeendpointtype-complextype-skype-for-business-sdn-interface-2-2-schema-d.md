@@ -2,7 +2,7 @@
 title: Trunk element (ByeEndPointType complexType) 
 TOCTitle: Trunk element (ByeEndPointType complexType)
 ms:assetid: 0453a404-50e3-0637-a034-434f64a350f7
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171014(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171014(v=office.16)
 ms:contentKeyID: 65855587
 ms.date: 08/24/2015
 mtps_version: v=office.16

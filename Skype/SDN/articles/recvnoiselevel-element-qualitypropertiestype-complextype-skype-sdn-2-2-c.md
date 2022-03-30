@@ -2,7 +2,7 @@
 title: RecvNoiseLevel element (QualityPropertiesType complexType) 
 TOCTitle: RecvNoiseLevel element
 ms:assetid: 524f3cf4-b941-24cf-53e0-e86ced93851a
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404827(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404827(v=office.16)
 ms:contentKeyID: 68250739
 ms.date: 08/24/2015
 mtps_version: v=office.16

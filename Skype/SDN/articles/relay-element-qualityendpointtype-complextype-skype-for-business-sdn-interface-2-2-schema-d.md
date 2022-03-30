@@ -2,7 +2,7 @@
 title: Relay element (QualityEndPointType complexType) 
 TOCTitle: Relay element (QualityEndPointType complexType)
 ms:assetid: a2a2eaad-4b13-38e4-6d0d-33eba115a549
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170975(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170975(v=office.16)
 ms:contentKeyID: 65855551
 ms.date: 08/24/2015
 mtps_version: v=office.16

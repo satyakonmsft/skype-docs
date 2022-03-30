@@ -2,7 +2,7 @@
 title: Connectivity element (ConnectionInfoType complexType) 
 TOCTitle: Connectivity element
 ms:assetid: 21c70c92-1c97-8a75-5f48-3ef96159d556
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404726(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404726(v=office.16)
 ms:contentKeyID: 68250640
 ms.date: 08/24/2015
 mtps_version: v=office.16

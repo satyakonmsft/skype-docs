@@ -2,7 +2,7 @@
 title: Auto-provisioning and PowerShell activation
 TOCTitle: Auto-provisioning and PowerShell activation
 ms:assetid: 95c3c4ca-18d8-4759-8b06-94ac3ceb8c85
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465932(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465932(v=office.16)
 ms:contentKeyID: 65239810
 ms.date: 07/27/2015
 mtps_version: v=office.16

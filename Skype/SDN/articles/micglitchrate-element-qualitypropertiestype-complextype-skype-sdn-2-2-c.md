@@ -2,7 +2,7 @@
 title: MicGlitchRate element (QualityPropertiesType complexType) 
 TOCTitle: MicGlitchRate element
 ms:assetid: 33b1d78d-b885-fb91-f8a3-9ee648d405fd
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404793(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404793(v=office.16)
 ms:contentKeyID: 68250704
 ms.date: 08/24/2015
 mtps_version: v=office.16

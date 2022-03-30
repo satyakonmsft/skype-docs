@@ -2,7 +2,7 @@
 title: Configuring SDN Interface SDN Manager
 TOCTitle: Configuring SDN Interface SDN Manager
 ms:assetid: bf193e5f-86cd-4080-8a94-3a47c9d81f08
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt148354(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt148354(v=office.16)
 ms:contentKeyID: 65841591
 ms.date: 02/27/2017
 mtps_version: v=office.16

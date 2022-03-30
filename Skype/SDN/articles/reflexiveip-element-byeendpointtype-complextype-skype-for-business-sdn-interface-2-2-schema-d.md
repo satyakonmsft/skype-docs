@@ -2,7 +2,7 @@
 title: ReflexiveIP element (ByeEndPointType complexType) 
 TOCTitle: ReflexiveIP element (ByeEndPointType complexType)
 ms:assetid: 3cec431c-6a3d-bb5c-a68c-a1b84967d8e0
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170969(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170969(v=office.16)
 ms:contentKeyID: 65855544
 ms.date: 08/24/2015
 mtps_version: v=office.16

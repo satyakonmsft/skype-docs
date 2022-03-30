@@ -2,7 +2,7 @@
 title: ReflexiveIP element (EndPointType complexType) 
 TOCTitle: ReflexiveIP element (EndPointType complexType)
 ms:assetid: 8708adfb-21e7-41c3-e229-20d8f9b8e71e
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404830(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404830(v=office.16)
 ms:contentKeyID: 68250741
 ms.date: 08/24/2015
 mtps_version: v=office.16

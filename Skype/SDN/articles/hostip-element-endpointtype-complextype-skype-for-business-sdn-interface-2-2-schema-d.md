@@ -2,7 +2,7 @@
 title: HostIP element (EndPointType complexType) 
 TOCTitle: HostIP element (EndPointType complexType)
 ms:assetid: f176da0e-64a5-4430-8ea4-4af0312ce7b8
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170879(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170879(v=office.16)
 ms:contentKeyID: 65855455
 ms.date: 08/24/2015
 mtps_version: v=office.16

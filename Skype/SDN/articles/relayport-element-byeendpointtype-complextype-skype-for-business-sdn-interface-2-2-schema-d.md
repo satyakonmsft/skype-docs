@@ -2,7 +2,7 @@
 title: RelayPort element (ByeEndPointType complexType) 
 TOCTitle: RelayPort element (ByeEndPointType complexType)
 ms:assetid: 5e91a05a-fba5-30ad-1db1-ab64e284e589
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170979(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170979(v=office.16)
 ms:contentKeyID: 65855554
 ms.date: 08/24/2015
 mtps_version: v=office.16

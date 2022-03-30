@@ -2,7 +2,7 @@
 title: DegradationMax element (QualityPropertiesType complexType) 
 TOCTitle: DegradationMax element
 ms:assetid: d125cc87-0dad-f252-89c2-b576b5debbca
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404739(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404739(v=office.16)
 ms:contentKeyID: 68250652
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: Configuring SDN Interface Dialog Listener
 TOCTitle: Configuring SDN Interface Dialog Listener
 ms:assetid: e66f9787-ab6b-4a77-8895-0ae39a3a5ee1
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn785209(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn785209(v=office.16)
 ms:contentKeyID: 65258673
 ms.date: 02/27/2017
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: Via element (StartPropertiesType complexType) 
 TOCTitle: Via element
 ms:assetid: 2e38f811-b53b-18a3-1ce5-d74ed889c6d3
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171029(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171029(v=office.16)
 ms:contentKeyID: 65855601
 ms.date: 08/24/2015
 mtps_version: v=office.16

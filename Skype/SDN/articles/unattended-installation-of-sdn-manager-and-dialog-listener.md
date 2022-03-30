@@ -2,7 +2,7 @@
 title: Unattended installation of SDN Manager and Dialog Listener
 TOCTitle: Unattended installation of SDN Manager and Dialog Listener
 ms:assetid: f2eba9a3-9888-4a1b-b689-567a83ebcb90
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn785205(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn785205(v=office.16)
 ms:contentKeyID: 65258666
 ms.date: 02/27/2017
 mtps_version: v=office.16
@@ -168,7 +168,7 @@ Follow the guidelines for an unattended install:
 <td><p>The connect string to access a REDIS cache server. For example, to connect to Azure the connect string might appear as follows:<br />
 <br />
 myname.redis.cache.windows.net,ssl=true,password=VeryLongKeyCopiedFromPortal</p>
-<p>For more information, see <a href="https://azure.microsoft.com/en-us/documentation/articles/cache-dotnet-how-to-use-azure-redis-cache/">How to Use Azure Redis Cache</a></p></td>
+<p>For more information, see <a href="https://azure.microsoft.com/documentation/articles/cache-dotnet-how-to-use-azure-redis-cache/">How to Use Azure Redis Cache</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>REDIS_PASSWORD</p></td>

@@ -2,7 +2,7 @@
 title: ErrorProperties complexType 
 TOCTitle: ErrorProperties complexType
 ms:assetid: 8c50d36b-2f48-3c80-669b-f58c6e405ec7
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt429352(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt429352(v=office.16)
 ms:contentKeyID: 68250794
 ms.date: 08/24/2015
 mtps_version: v=office.16

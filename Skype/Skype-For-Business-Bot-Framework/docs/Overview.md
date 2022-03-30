@@ -13,9 +13,9 @@ This article will help you build and enable a Skype for Business bot using the M
 
 The Skype for Business bots are created by using the [Microsoft Bot Framework](https://dev.botframework.com/). Bots created with the framework can easily be configured to work with Skype for Business. See the Microsoft Bot Framework Overview to learn how to:
 
-1. Build a bot by using the [C# SDK](https://docs.botframework.com/en-us/csharp/builder/sdkreference/), [Node.js SDK](https://docs.botframework.com/en-us/node/builder/chat-reference/modules/_botbuilder_d_.html), or [REST API](https://docs.botframework.com/en-us/restapi/connector/#navtitle).
+1. Build a bot by using the [C# SDK](https://docs.botframework.com/csharp/builder/sdkreference/), [Node.js SDK](https://docs.botframework.com/node/builder/chat-reference/modules/_botbuilder_d_.html), or [REST API](https://docs.botframework.com/restapi/connector/#navtitle).
 
-2. Test it by using the [Bot Framework Emulator](https://docs.botframework.com/en-us/tools/bot-framework-emulator/).
+2. Test it by using the [Bot Framework Emulator](https://docs.botframework.com/tools/bot-framework-emulator/).
 
 3. Deploy the bot to a cloud service, such as [Microsoft Azure](https://azure.microsoft.com/).
 
@@ -40,7 +40,7 @@ Bots can only be added to Skype for Business by tenant administrators of a Skype
 
 The instructions contain the following information:
 
-To add your bot to Skype for Business, you must be the tenant administrator of a Skype for Business Online environment. A tenant administrator can easily add your bot by using the **[Skype for Business Admin PowerShell cmdlets](https://docs.microsoft.com/en-us/SkypeForBusiness/set-up-your-computer-for-windows-powershell/set-up-your-computer-for-windows-powershell)**. 
+To add your bot to Skype for Business, you must be the tenant administrator of a Skype for Business Online environment. A tenant administrator can easily add your bot by using the **[Skype for Business Admin PowerShell cmdlets](https://docs.microsoft.com/SkypeForBusiness/set-up-your-computer-for-windows-powershell/set-up-your-computer-for-windows-powershell)**. 
 
 ### To add a bot
 
@@ -53,7 +53,7 @@ To add your bot to Skype for Business, you must be the tenant administrator of a
    ```
 
    > [!NOTE] 
-   > To learn more about PowerShell usage, see [Connecting to Skype for Business Online by using Windows PowerShell](https://docs.microsoft.com/en-us/SkypeForBusiness/set-up-your-computer-for-windows-powershell/set-up-your-computer-for-windows-powershell).
+   > To learn more about PowerShell usage, see [Connecting to Skype for Business Online by using Windows PowerShell](https://docs.microsoft.com/SkypeForBusiness/set-up-your-computer-for-windows-powershell/set-up-your-computer-for-windows-powershell).
 
 3. You will be prompted with the Windows PowerShell credential dialog box. Sign in by using the tenant admin credentials.
 
@@ -64,14 +64,14 @@ To add your bot to Skype for Business, you must be the tenant administrator of a
    ```
 
    > [!NOTE] 
-   > For the **Skype for Business hybrid environment**, the **New-CsOnlineApplicationEndpoint** cmdlet will output an additional on-premises cmdlet to be run in your [Skype for Business Server (on-premises) Management Shell](https://technet.microsoft.com/en-us/library/gg398474.aspx). For more information about bot setup for the Skype for Business hybrid environment, see [Skype for Business Bot - Hybrid environment support](Bot-Hybrid-Support.md).
+   > For the **Skype for Business hybrid environment**, the **New-CsOnlineApplicationEndpoint** cmdlet will output an additional on-premises cmdlet to be run in your [Skype for Business Server (on-premises) Management Shell](https://technet.microsoft.com/library/gg398474.aspx). For more information about bot setup for the Skype for Business hybrid environment, see [Skype for Business Bot - Hybrid environment support](Bot-Hybrid-Support.md).
    >
    > Also, see [Skype for Business Bot - Common Errors](Bot-Common-Errors.md) to troubleshoot some of the common bot setup issues. 
  
    This cmdlet registers an instance of your bot with a Skype for Business Online tenant. A Skype for Business Admin can replace the **_Name_** parameter with their desired bot display name, and replace the **_Uri_** parameter with a unique user account from their domain (for example, mybot@contoso.com).
 
    > [!NOTE] 
-   > A newly registered bot can take up to 8 hours to be discoverable by all users in the Skype for Business tenant. For more information about using PowerShell to manage bots and apps for Skype for Business, see [Set up a Trusted Application Endpoint](https://docs.microsoft.com/en-us/skype-sdk/trusted-application-api/docs/trustedapplicationendpoint).
+   > A newly registered bot can take up to 8 hours to be discoverable by all users in the Skype for Business tenant. For more information about using PowerShell to manage bots and apps for Skype for Business, see [Set up a Trusted Application Endpoint](https://docs.microsoft.com/skype-sdk/trusted-application-api/docs/trustedapplicationendpoint).
 
 <a name="feature-support"></a>
 
@@ -79,7 +79,7 @@ To add your bot to Skype for Business, you must be the tenant administrator of a
 
 - **Messages**: Your bot can send plain text, Markdown, and emoticons to a user or group. Users can send rich text and emoticons to your bot. Some Skype for Business clients may not support Markdown or HTML rendering, so bot messages will fall back to text on those clients.
 
-- **Typing indicator**: Your bot can send a typing indicator by using the [C# SDK](https://docs.botframework.com/en-us/csharp/builder/sdkreference/), [Node.js SDK](https://docs.botframework.com/en-us/node/builder/chat-reference/modules/_botbuilder_d_.html), or [REST API](https://docs.botframework.com/en-us/restapi/connector/#navtitle) to tell the user that the bot is preparing to respond, for example, when processing a request.
+- **Typing indicator**: Your bot can send a typing indicator by using the [C# SDK](https://docs.botframework.com/csharp/builder/sdkreference/), [Node.js SDK](https://docs.botframework.com/node/builder/chat-reference/modules/_botbuilder_d_.html), or [REST API](https://docs.botframework.com/restapi/connector/#navtitle) to tell the user that the bot is preparing to respond, for example, when processing a request.
 
 - **Basic format**: The Skype for Business ID of a user is available for your bot, and is sent along with the _**display name**_ with every message.
 
@@ -179,7 +179,7 @@ To delete your bot completely, go to your bot dashboard, select edit the Skype f
 
 ## Remove a bot – Skype for Business tenant administrator
 
-To delete a bot completely from a Skype for Business tenant, you must be the tenant administrator of a Skype for Business Online environment. A tenant administrator can easily delete your bot by using the Skype for Business Admin **[PowerShell cmdlets](https://docs.microsoft.com/en-us/SkypeForBusiness/set-up-your-computer-for-windows-powershell/set-up-your-computer-for-windows-powershell)**. 
+To delete a bot completely from a Skype for Business tenant, you must be the tenant administrator of a Skype for Business Online environment. A tenant administrator can easily delete your bot by using the Skype for Business Admin **[PowerShell cmdlets](https://docs.microsoft.com/SkypeForBusiness/set-up-your-computer-for-windows-powershell/set-up-your-computer-for-windows-powershell)**. 
 
 ### To delete a bot
 

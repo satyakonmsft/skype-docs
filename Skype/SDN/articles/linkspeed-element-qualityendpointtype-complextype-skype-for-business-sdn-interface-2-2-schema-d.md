@@ -2,7 +2,7 @@
 title: LinkSpeed element (QualityEndPointType complexType) 
 TOCTitle: LinkSpeed element
 ms:assetid: 2c17259b-3373-0020-b137-e719f30f2b53
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170908(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170908(v=office.16)
 ms:contentKeyID: 65855483
 ms.date: 08/24/2015
 mtps_version: v=office.16

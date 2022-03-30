@@ -2,7 +2,7 @@
 title: PSTN gateway and IP-PBX interoperability
 TOCTitle: PSTN gateway and IP-PBX interoperability
 ms:assetid: 393b1403-3f11-4574-9d1b-0ed38764333d
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465944(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465944(v=office.16)
 ms:contentKeyID: 65239833
 ms.date: 07/27/2015
 mtps_version: v=office.16

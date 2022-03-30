@@ -2,7 +2,7 @@
 title: EchoEventCauses element (QualityPropertiesType complexType) 
 TOCTitle: EchoEventCauses element
 ms:assetid: d4ef7e39-31c8-333a-ed96-7d441f12d1aa
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170845(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170845(v=office.16)
 ms:contentKeyID: 65855422
 ms.date: 08/24/2015
 mtps_version: v=office.16

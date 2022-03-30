@@ -2,7 +2,7 @@
 title: RelativeOneWayBurstDensity element (QualityPropertiesType complexType) 
 TOCTitle: RelativeOneWayBurstDensity element
 ms:assetid: f08dece9-43c9-2199-4e6f-003bc44b48eb
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404834(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404834(v=office.16)
 ms:contentKeyID: 68250746
 ms.date: 08/24/2015
 mtps_version: v=office.16

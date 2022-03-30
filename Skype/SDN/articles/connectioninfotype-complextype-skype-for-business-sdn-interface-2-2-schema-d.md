@@ -2,7 +2,7 @@
 title: ConnectionInfoType complexType 
 TOCTitle: ConnectionInfoType complexType
 ms:assetid: 14be03ce-c13f-9d1a-4c7b-54821e479ba5
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171059(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171059(v=office.16)
 ms:contentKeyID: 65855632
 ms.date: 08/24/2015
 mtps_version: v=office.16

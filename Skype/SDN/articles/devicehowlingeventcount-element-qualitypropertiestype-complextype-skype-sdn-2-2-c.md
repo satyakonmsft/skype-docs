@@ -2,7 +2,7 @@
 title: DeviceHowlingEventCount element (QualityPropertiesType complexType) 
 TOCTitle: DeviceHowlingEventCount element
 ms:assetid: 637b8a4e-d3c2-56c0-fdc8-4a147db88a76
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404743(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404743(v=office.16)
 ms:contentKeyID: 68250656
 ms.date: 08/24/2015
 mtps_version: v=office.16

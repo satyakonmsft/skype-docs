@@ -2,7 +2,7 @@
 title: Codec element (QualityPropertiesType complexType) 
 TOCTitle: Codec element (QualityPropertiesType complexType)
 ms:assetid: 80291521-b022-7aee-8e35-88d370287c31
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt149445(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt149445(v=office.16)
 ms:contentKeyID: 65855392
 ms.date: 08/24/2015
 mtps_version: v=office.16

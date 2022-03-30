@@ -2,7 +2,7 @@
 title: IncallEnabled element (InviteEndPointType complexType) 
 TOCTitle: IncallEnabled element (InviteEndPointType complexType)
 ms:assetid: e0821fc0-0360-0696-c148-bbded00770cc
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170896(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170896(v=office.16)
 ms:contentKeyID: 65855471
 ms.date: 08/24/2015
 mtps_version: v=office.16

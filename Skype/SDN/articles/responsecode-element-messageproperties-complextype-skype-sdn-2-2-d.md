@@ -2,7 +2,7 @@
 title: ResponseCode element (MessageProperties complexType) 
 TOCTitle: ResponseCode element (MessageProperties complexType)
 ms:assetid: cef77f6d-f6c7-f1d3-8e6f-1859e1203576
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170987(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170987(v=office.16)
 ms:contentKeyID: 65855562
 ms.date: 08/24/2015
 mtps_version: v=office.16

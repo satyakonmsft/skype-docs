@@ -2,7 +2,7 @@
 title: Bandwidth element (StartPropertiesType complexType) 
 TOCTitle: Bandwidth element (StartPropertiesType complexType)
 ms:assetid: c8eb0297-a57c-0f7e-1d2a-c3c37e8cae5e
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404706(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404706(v=office.16)
 ms:contentKeyID: 68250980
 ms.date: 08/24/2015
 mtps_version: v=office.16

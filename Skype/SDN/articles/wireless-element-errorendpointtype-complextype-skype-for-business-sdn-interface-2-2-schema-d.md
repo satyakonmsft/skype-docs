@@ -2,7 +2,7 @@
 title: Wireless element (ErrorEndPointType complexType) 
 TOCTitle: Wireless element (ErrorEndPointType complexType)
 ms:assetid: 66132279-f8e2-e0fa-0593-0550dcdda4c9
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171040(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171040(v=office.16)
 ms:contentKeyID: 65855615
 ms.date: 08/24/2015
 mtps_version: v=office.16

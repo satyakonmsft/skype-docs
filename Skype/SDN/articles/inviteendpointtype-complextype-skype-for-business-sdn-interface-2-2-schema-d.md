@@ -2,7 +2,7 @@
 title: InviteEndPointType complexType 
 TOCTitle: InviteEndPointType complexType
 ms:assetid: 2de85f59-1413-c6eb-04af-8e6620953ec3
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171065(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171065(v=office.16)
 ms:contentKeyID: 65855638
 ms.date: 08/24/2015
 mtps_version: v=office.16

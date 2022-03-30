@@ -2,7 +2,7 @@
 title: Configuring the SDN manager by editing the config file
 TOCTitle: Configuring the SDN manager by editing the config file
 ms:assetid: 717466aa-c6b2-42ab-8492-8d2f4bed7765
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt148355(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt148355(v=office.16)
 ms:contentKeyID: 65841592
 ms.date: 02/27/2017
 mtps_version: v=office.16

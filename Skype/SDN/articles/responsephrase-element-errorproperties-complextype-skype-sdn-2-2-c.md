@@ -2,7 +2,7 @@
 title: ResponsePhrase element (ErrorProperties complexType) 
 TOCTitle: ResponsePhrase element
 ms:assetid: 2bf26bda-5530-ae73-af72-4fdb89a7ee83
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404843(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404843(v=office.16)
 ms:contentKeyID: 68250754
 ms.date: 08/24/2015
 mtps_version: v=office.16

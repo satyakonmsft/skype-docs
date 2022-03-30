@@ -2,7 +2,7 @@
 title: VideoFrameLossRate element (QualityPropertiesType complexType) 
 TOCTitle: VideoFrameLossRate element
 ms:assetid: 5d4d2f9a-df99-40fe-bac5-39d89b3dfb5d
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt429339(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt429339(v=office.16)
 ms:contentKeyID: 68250781
 ms.date: 08/24/2015
 mtps_version: v=office.16

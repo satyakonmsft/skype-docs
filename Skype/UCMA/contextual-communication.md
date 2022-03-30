@@ -2,7 +2,7 @@
 title: Contextual communication
 TOCTitle: Contextual communication
 ms:assetid: 6fe0e2a4-5546-41bb-87ae-2201aa32ae73
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465927(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465927(v=office.16)
 ms:contentKeyID: 65239807
 ms.date: 07/27/2015
 mtps_version: v=office.16

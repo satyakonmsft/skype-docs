@@ -2,7 +2,7 @@
 title: RouteType complexType 
 TOCTitle: RouteType complexType
 ms:assetid: 64fcf40f-6a51-c719-2f9c-b14f6511d5e4
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171072(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171072(v=office.16)
 ms:contentKeyID: 65855644
 ms.date: 08/24/2015
 mtps_version: v=office.16

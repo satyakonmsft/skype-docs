@@ -2,7 +2,7 @@
 title: 'Pre-meeting: conference scheduling'
 TOCTitle: 'Pre-meeting: conference scheduling'
 ms:assetid: 8a7c5693-48d0-4c22-a4b7-e7c1e1719573
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465923(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465923(v=office.16)
 ms:contentKeyID: 65239791
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -44,7 +44,7 @@ The configurable scheduling options include the following:
 
 ## Pre-meeting conference access level and conference lobby
 
-In UCMA 5.0, the conference access level specifies the people who have access to a conference based on their authentication method and source network. The following table summarizes the values of the [ConferenceAccessLevel](https://msdn.microsoft.com/en-us/library/hh385275\(v=office.16\)) enumeration.
+In UCMA 5.0, the conference access level specifies the people who have access to a conference based on their authentication method and source network. The following table summarizes the values of the [ConferenceAccessLevel](https://msdn.microsoft.com/library/hh385275\(v=office.16\)) enumeration.
 
 <table>
 <colgroup>

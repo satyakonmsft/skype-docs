@@ -2,7 +2,7 @@
 title: Call leg scenarios (Unified Communications Managed API 5.0)
 TOCTitle: Call leg scenarios
 ms:assetid: f3eced9e-fb4e-4be8-8125-6cb46e164ca9
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466021(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466021(v=office.16)
 ms:contentKeyID: 65239935
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -17,7 +17,7 @@ dev_langs:
 
  
 
-The [BackToBackCall](https://msdn.microsoft.com/en-us/library/hh365598\(v=office.16\)) class can be used in two scenarios:
+The [BackToBackCall](https://msdn.microsoft.com/library/hh365598\(v=office.16\)) class can be used in two scenarios:
 
   - Incoming-Idle scenario
 
@@ -33,7 +33,7 @@ The following illustration shows the signaling and media channels for this scena
 
 ![Signaling and media channels - customer and agents](images/Dn466021.UCMA3-AstanaChannels(Office.16).png "Signaling and media channels - customer and agents")
 
-The following code example demonstrates how to create a [BackToBackCall](https://msdn.microsoft.com/en-us/library/hh365598\(v=office.16\)) instance. The callback method referred to by the EstablishCompleted parameter in the call to [BeginEstablish(AsyncCallback, Object)](https://msdn.microsoft.com/en-us/library/hh384667\(v=office.16\)) is not shown.
+The following code example demonstrates how to create a [BackToBackCall](https://msdn.microsoft.com/library/hh365598\(v=office.16\)) instance. The callback method referred to by the EstablishCompleted parameter in the call to [BeginEstablish(AsyncCallback, Object)](https://msdn.microsoft.com/library/hh384667\(v=office.16\)) is not shown.
 
 ```csharp
 // Create a new call for the outgoing leg.
@@ -54,7 +54,7 @@ b2bCall.BeginEstablish(EstablishCompleted, b2bCall);
 
 The Incoming-Idle scenario is also referred to as "agent-hunting." In this scenario, an incoming call is received from a customer. The application searches for an available agent and establishes a back-to-back call between the customer and an appropriate agent without putting the customer on hold. Schematically, this scenario is similar to the previous ("click to call") scenario, except that it includes an exception where the customer initially calls an interactive voice response (IVR) application. After determining the nature of the customer’s call, the application selects an agent, and then transfers the customer’s call from the IVR to the back-to-back user agent.
 
-The following code example shows how to create a **BackToBackCall** instance for this scenario. This example assumes the existence of a previously created [Conversation](https://msdn.microsoft.com/en-us/library/hh349224\(v=office.16\)) instance, and that conversation is a reference to this instance. The incoming call from the customer (incomingCall) is also assumed to be initialized appropriately. As in the previous example, the callback method referred to by the EstablishCompleted parameter in the call to [BeginEstablish(AsyncCallback, Object)](https://msdn.microsoft.com/en-us/library/hh384667\(v=office.16\)) is not shown.
+The following code example shows how to create a **BackToBackCall** instance for this scenario. This example assumes the existence of a previously created [Conversation](https://msdn.microsoft.com/library/hh349224\(v=office.16\)) instance, and that conversation is a reference to this instance. The incoming call from the customer (incomingCall) is also assumed to be initialized appropriately. As in the previous example, the callback method referred to by the EstablishCompleted parameter in the call to [BeginEstablish(AsyncCallback, Object)](https://msdn.microsoft.com/library/hh384667\(v=office.16\)) is not shown.
 
 ```csharp
 // The conversation for the outbound call is assumed to already exist.
@@ -77,7 +77,7 @@ The following illustration shows the signaling and media channels for the confer
 
 ![Signaling and media channels for conference call](images/Dn466021.UCMA3-AspectChannels(Office.16).png "Signaling and media channels for conference call")
 
-The following code example shows the call to [BeginJoin(ConferenceJoinOptions, AsyncCallback, Object)](https://msdn.microsoft.com/en-us/library/hh348502\(v=office.16\)).
+The following code example shows the call to [BeginJoin(ConferenceJoinOptions, AsyncCallback, Object)](https://msdn.microsoft.com/library/hh348502\(v=office.16\)).
 
 ```csharp
 ConferenceJoinOptions cjo = new ConferenceJoinOptions();

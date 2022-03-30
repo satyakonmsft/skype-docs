@@ -2,7 +2,7 @@
 title: TimeStamp element (ConnectionInfoType complexType) 
 TOCTitle: TimeStamp element
 ms:assetid: 52b8e204-7243-cbf4-af3c-91fb3ff5a363
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171007(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171007(v=office.16)
 ms:contentKeyID: 65855580
 ms.date: 08/24/2015
 mtps_version: v=office.16

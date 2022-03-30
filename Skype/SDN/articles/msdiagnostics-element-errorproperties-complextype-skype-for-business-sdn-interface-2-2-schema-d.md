@@ -2,7 +2,7 @@
 title: MSDiagnostics element (ErrorProperties complexType) 
 TOCTitle: MSDiagnostics element (ErrorProperties complexType)
 ms:assetid: aa7f5d36-42de-3ee1-ee33-0e7b8f3afad4
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170919(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170919(v=office.16)
 ms:contentKeyID: 65855494
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: DeviceEchoEventRatio element (QualityPropertiesType complexType) 
 TOCTitle: DeviceEchoEventRatio element
 ms:assetid: 5c1dbbde-4be4-f965-829d-4acacac6c118
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404744(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404744(v=office.16)
 ms:contentKeyID: 68250657
 ms.date: 08/24/2015
 mtps_version: v=office.16

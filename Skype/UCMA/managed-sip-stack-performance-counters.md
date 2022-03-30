@@ -2,7 +2,7 @@
 title: Managed SIP stack performance counters
 TOCTitle: Managed SIP stack performance counters
 ms:assetid: 2e8ab47c-2c76-4eeb-b0fd-c48a384cc601
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466105(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466105(v=office.16)
 ms:contentKeyID: 65240033
 ms.date: 07/27/2015
 mtps_version: v=office.16

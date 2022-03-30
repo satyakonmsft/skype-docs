@@ -2,7 +2,7 @@
 title: Diagnostics and error reporting
 TOCTitle: Diagnostics and error reporting
 ms:assetid: 6c2b33a0-a4f3-444f-a5fb-fb905bdd2f37
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466074(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466074(v=office.16)
 ms:contentKeyID: 65239998
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -45,9 +45,9 @@ The following are three example headers. An "ms-diagnostics" header is sent for 
 
 "ms-diagnostics" and "ms-client-diagnostics" do not cross federation boundaries. To provide diagnostic information to an administrator across a federation boundary, use an "ms-diagnostics-public" header.
 
-For the full error code descriptions for UCMA 5.0, UCCP, and Skype for Business Server 2015, see [\[MS-OCER\]: Client Error Reporting Protocol Specification](https://msdn.microsoft.com/en-us/library/cc431503.aspx).
+For the full error code descriptions for UCMA 5.0, UCCP, and Skype for Business Server 2015, see [\[MS-OCER\]: Client Error Reporting Protocol Specification](https://msdn.microsoft.com/library/cc431503.aspx).
 
-It is strongly advised that an application add its own diagnostic header if the API call to send failure or rejection is caused by the application, either directly or as a reaction to changing server/platform conditions. Applications can use the members on the [DiagnosticsInformation](https://msdn.microsoft.com/en-us/library/hh161812\(v=office.16\)) class to supply diagnostics code.
+It is strongly advised that an application add its own diagnostic header if the API call to send failure or rejection is caused by the application, either directly or as a reaction to changing server/platform conditions. Applications can use the members on the [DiagnosticsInformation](https://msdn.microsoft.com/library/hh161812\(v=office.16\)) class to supply diagnostics code.
 
 The UCMA 5.0 platform has reserved a set of diagnostic ranges solely for use by developers so that errors raised from the application will be captured and logged within the Skype for Business Server 2015 reporting infrastructure.
 

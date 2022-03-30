@@ -2,7 +2,7 @@
 title: EndedType complexType 
 TOCTitle: EndedType complexType
 ms:assetid: dda03093-dc9d-8c38-9913-a17e91917115
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt429351(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt429351(v=office.16)
 ms:contentKeyID: 68250793
 ms.date: 08/24/2015
 mtps_version: v=office.16

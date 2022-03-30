@@ -2,7 +2,7 @@
 title: Collaboration platform
 TOCTitle: Collaboration platform
 ms:assetid: bad16211-f49a-4897-a978-14345082898c
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465954(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465954(v=office.16)
 ms:contentKeyID: 65239866
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -25,7 +25,7 @@ The endpoints in a UCMA application share various settings, resources, and servi
 
 The connection manager encapsulates the SIP stack and is used to provide services for endpoints. Each platform is associated with a single connection manager that endpoints can use. The connection manager provides connection sharing, certificate management, and takes care of outgoing and incoming connections for the endpoint. In UCMA 5.0 there are three non-abstract connection manager types: a client connection manager and two server connection managers, with one of the server connection managers using TCP as the transport type, and the other server connection manager using TLS as the transport type. For more information, see [Connection manager](connection-manager.md).
 
-The **CollaborationPlatform** class exposes the connection manager through its [ConnectionManager](https://msdn.microsoft.com/en-us/library/hh384799\(v=office.16\)) property. Using this property, an application can enforce connection policy and provide connection throttling, ensure that incoming connections come from trusted servers, and host authentication authority.
+The **CollaborationPlatform** class exposes the connection manager through its [ConnectionManager](https://msdn.microsoft.com/library/hh384799\(v=office.16\)) property. Using this property, an application can enforce connection policy and provide connection throttling, ensure that incoming connections come from trusted servers, and host authentication authority.
 
 The following illustration shows the relationship between a UCMA 5.0 application and Skype for Business Server 2015.
 
@@ -37,7 +37,7 @@ When the **CollaborationPlatform** instance is created, a trusted GRUU is assign
 
 ## Extensible communication framework
 
-The **CollaborationPlatform** contains all of the factories that are required for the media types supported in UCMA 5.0. In other words, factories for the [InstantMessagingCall](https://msdn.microsoft.com/en-us/library/hh161841\(v=office.16\)), **InstantMessagingProvider**, [AudioVideoCall](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api), and **AudioVideoProvider** classes are already registered with **CollaborationPlatform**. Developers who wish to implement custom media types can do so by creating custom call and media provider classes that inherit from, respectively, the [Call](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.call?view=ucma-api) and [MediaProvider](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaprovider?view=ucma-api) abstract base classes. For more information, see the topics in [Extending the UCMA platform](extending-the-ucma-platform.md).
+The **CollaborationPlatform** contains all of the factories that are required for the media types supported in UCMA 5.0. In other words, factories for the [InstantMessagingCall](https://msdn.microsoft.com/library/hh161841\(v=office.16\)), **InstantMessagingProvider**, [AudioVideoCall](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api), and **AudioVideoProvider** classes are already registered with **CollaborationPlatform**. Developers who wish to implement custom media types can do so by creating custom call and media provider classes that inherit from, respectively, the [Call](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.call?view=ucma-api) and [MediaProvider](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaprovider?view=ucma-api) abstract base classes. For more information, see the topics in [Extending the UCMA platform](extending-the-ucma-platform.md).
 
 ## Auto-provisioning
 

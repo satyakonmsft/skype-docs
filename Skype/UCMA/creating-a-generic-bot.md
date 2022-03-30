@@ -2,7 +2,7 @@
 title: Creating a generic bot
 TOCTitle: Creating a generic bot
 ms:assetid: 70eea19d-91ad-45ae-95b7-301919eb9633
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn454839(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn454839(v=office.16)
 ms:contentKeyID: 65240110
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -649,7 +649,7 @@ To improve the intelligence of your bot, you might want it to collect feedback f
 
 ## Test your bot
 
-It is a good idea for you to create test automation to ensure that your bot is working correctly, especially the message handlers. You can also add a Visual Studio Test project to your solution (for more information, see [A Unit Testing Walkthrough with Visual Studio Team Test](https://msdn.microsoft.com/en-us/library/ms379625\(vs.80\).aspx)) and instantiate a bot in your test class/methods to test the behavior of your message handlers. Make sure that all the desired message handler assemblies (DLLs) or projects are referenced from the test project.
+It is a good idea for you to create test automation to ensure that your bot is working correctly, especially the message handlers. You can also add a Visual Studio Test project to your solution (for more information, see [A Unit Testing Walkthrough with Visual Studio Team Test](https://msdn.microsoft.com/library/ms379625\(vs.80\).aspx)) and instantiate a bot in your test class/methods to test the behavior of your message handlers. Make sure that all the desired message handler assemblies (DLLs) or projects are referenced from the test project.
 
 For some integrated manual testing, the Build a Bot framework comes with two sample host environments in which test bots are instantiated: *BuildABot.Samples.WindowsForms* and *BuildABot.Samples.CommandPrompt*. Just copy your message handler DLLs to the same folder where the sample executable is located. When running the executable, you will be able to test the logic of your message handlers by interacting with test (console/windows) bots.
 

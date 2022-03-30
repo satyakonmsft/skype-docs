@@ -2,7 +2,7 @@
 title: DoubleBetween0And100 simpleType 
 TOCTitle: DoubleBetween0And100 simpleType
 ms:assetid: 9798d530-04fe-6208-a73f-732c8ffdf5b5
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171048(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171048(v=office.16)
 ms:contentKeyID: 65855617
 ms.date: 08/24/2015
 mtps_version: v=office.16

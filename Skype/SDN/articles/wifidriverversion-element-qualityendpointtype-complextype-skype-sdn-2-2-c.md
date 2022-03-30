@@ -2,7 +2,7 @@
 title: WifiDriverVersion element (QualityEndPointType complexType) 
 TOCTitle: WifiDriverVersion element
 ms:assetid: 23a7fbdd-3d3e-9e06-282d-7e7d24205ce9
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt429343(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt429343(v=office.16)
 ms:contentKeyID: 68250785
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: RecvSignalLevel element (QualityPropertiesType complexType) 
 TOCTitle: RecvSignalLevel element
 ms:assetid: 9b6b3573-16ac-adeb-c46d-6851002e7073
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404828(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404828(v=office.16)
 ms:contentKeyID: 68250740
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: InviteType complexType 
 TOCTitle: InviteType complexType
 ms:assetid: faf3beb9-872f-af5d-09d3-dc7c8b26d35f
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt429355(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt429355(v=office.16)
 ms:contentKeyID: 68250797
 ms.date: 08/24/2015
 mtps_version: v=office.16

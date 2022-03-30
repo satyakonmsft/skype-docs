@@ -2,7 +2,7 @@
 title: QuickStart sample applications
 TOCTitle: QuickStart sample applications
 ms:assetid: 3186fd60-eefc-4c62-bf06-413dc1512e0c
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466129(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466129(v=office.16)
 ms:contentKeyID: 65240070
 ms.date: 07/27/2015
 mtps_version: v=office.16

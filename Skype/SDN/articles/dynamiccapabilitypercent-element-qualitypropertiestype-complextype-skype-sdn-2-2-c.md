@@ -2,7 +2,7 @@
 title: DynamicCapabilityPercent element (QualityPropertiesType complexType) 
 TOCTitle: DynamicCapabilityPercent element
 ms:assetid: 335706b3-8b4a-1404-5929-47e13fd4f4f7
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404749(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404749(v=office.16)
 ms:contentKeyID: 68250662
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: Using the Skype for Business SDN Interface
 TOCTitle: Using the Skype for Business SDN Interface
 ms:assetid: 542be3ea-3144-4e21-b320-c479cb0397bd
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn785190(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn785190(v=office.16)
 ms:contentKeyID: 65258653
 ms.date: 02/27/2017
 mtps_version: v=office.16
@@ -94,7 +94,7 @@ The **From** and **To** sections contain information related to the endpoints wi
 
 
 
-For more information about SDN Manager-generated Skype for Business SDN Interface data, see [Skype for Business SDN Interface reference](https://msdn.microsoft.com/en-us/library/dn912673\(v=office.16\)).
+For more information about SDN Manager-generated Skype for Business SDN Interface data, see [Skype for Business SDN Interface reference](https://msdn.microsoft.com/library/dn912673\(v=office.16\)).
 
 ## See also
 

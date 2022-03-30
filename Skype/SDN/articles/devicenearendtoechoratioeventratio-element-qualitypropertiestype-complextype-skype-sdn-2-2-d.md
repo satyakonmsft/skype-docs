@@ -2,7 +2,7 @@
 title: DeviceNearEndToEchoRatioEventRatio element (QualityPropertiesType complexType) 
 TOCTitle: DeviceNearEndToEchoRatioEventRatio element
 ms:assetid: b4e2936d-fc5e-ebe7-5cea-428495cfafe2
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170851(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170851(v=office.16)
 ms:contentKeyID: 65855428
 ms.date: 08/24/2015
 mtps_version: v=office.16

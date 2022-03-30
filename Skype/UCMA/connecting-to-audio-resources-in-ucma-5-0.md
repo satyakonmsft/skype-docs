@@ -2,7 +2,7 @@
 title: Connecting to audio resources in UCMA 5.0
 TOCTitle: Connecting to audio resources in UCMA 5.0
 ms:assetid: 8da6dc06-69b0-4e7c-b42e-1011cad4223f
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466126(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466126(v=office.16)
 ms:contentKeyID: 65240067
 ms.date: 07/27/2015
 mtps_version: v=office.16

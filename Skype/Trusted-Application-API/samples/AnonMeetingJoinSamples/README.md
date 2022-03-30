@@ -14,15 +14,15 @@ The sample Web SDK application interacts with the Trusted Application sample and
 ## Getting started
 ## Prerequisites
 1.	Download [Azure SDK v2.9](https://go.microsoft.com/fwlink/?LinkId=746481) or above.
-2.	Create a Cloud Service from Azure and give it a name to reserve a *.cloudapp.net URL. Refer to [this link](https://azure.microsoft.com/en-us/documentation/services/cloud-services/) for details.
-> The Trusted Application API requires the use of SSL and https for your cloud service.  You will need to create a DNS CName that points to your *.cloudapp.net cloud service to give it a custom domain.  Please refer to [this link](https://azure.microsoft.com/en-us/documentation/articles/cloud-services-custom-domain-name-portal/)
+2.	Create a Cloud Service from Azure and give it a name to reserve a *.cloudapp.net URL. Refer to [this link](https://azure.microsoft.com/documentation/services/cloud-services/) for details.
+> The Trusted Application API requires the use of SSL and https for your cloud service.  You will need to create a DNS CName that points to your *.cloudapp.net cloud service to give it a custom domain.  Please refer to [this link](https://azure.microsoft.com/documentation/articles/cloud-services-custom-domain-name-portal/)
 3.  Use the [quick registration tool](https://aka.ms/skypeappregistration) for registering Skype for Business Trusted Applications in Azure and Skype for Business Online, that eliminates the need to register an Application manually in Azure portal.
 Optionally, you can manually register your application in Azure Portal, where you will get a Client ID and set an App ID URI. Refer to [Registration in Azure Active Directory](https://github.com/OfficeDev/skype-docs/tree/master/Skype/Trusted-Application-API/docs/RegistrationInAzureActiveDirectory.md) for details.
 4.	Register Trusted Endpoints in a Skype for Business Online tenant using PowerShell.   Refer to [Setting up a Trusted Application Endpoint](https://github.com/OfficeDev/skype-docs/tree/master/Skype/Trusted-Application-API/docs/TrustedApplicationEndpoint.md) for details.
 5.  Provide consent: When the application is registered in AAD, it is registered in the context of a tenant.  For a tenant to use the Service Application, for example, when the application is developed as a multi-tenant application, it must be consented to by that tenant's admin. Refer to [Tenant Admin Consent](https://github.com/OfficeDev/skype-docs/tree/master/Skype/Trusted-Application-API/docs/TenantAdminConsent.md) for more details.
 6.  Deploy the the client (anonymous webpage) code contained in the `WebsiteSamples` folder to a web server (e.g. IIS on localhost, or Azure App Service to deploy to *.azurewebsites.net)
-7.  Create Azure storage used to save event messages from Platform Service, where you will get an account name and account key. Refer to [this link](https://azure.microsoft.com/en-us/documentation/articles/storage-create-storage-account/) for details.
-8.  Create Azure service bus for the process of saving the event messages to storage, from where you will get connection string. Refer to [this link](https://azure.microsoft.com/en-us/documentation/articles/service-bus-dotnet-get-started-with-queues/) for details.
+7.  Create Azure storage used to save event messages from Platform Service, where you will get an account name and account key. Refer to [this link](https://azure.microsoft.com/documentation/articles/storage-create-storage-account/) for details.
+8.  Create Azure service bus for the process of saving the event messages to storage, from where you will get connection string. Refer to [this link](https://azure.microsoft.com/documentation/articles/service-bus-dotnet-get-started-with-queues/) for details.
 
 
 ## Deployment
@@ -75,7 +75,7 @@ If you see this error message:
 
 You need to adjust web.config on the Cloud Service to set `customError="off"` per the error message.
 
-1. Enable Remote Desktop on the `FrontEnd` role instance - see [here](https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-role-enable-remote-desktop#remote-into-role-instances) for details
+1. Enable Remote Desktop on the `FrontEnd` role instance - see [here](https://docs.microsoft.com/azure/cloud-services/cloud-services-role-enable-remote-desktop#remote-into-role-instances) for details
 2. Remote it and start the IIS Manager
 3. Find the Under *Sites*, right-click the configured website (there should only be one) and select *Explore...*.
 4. Edit `web.config` and allow custom errors on remote hosts, as per the error page's instructions.

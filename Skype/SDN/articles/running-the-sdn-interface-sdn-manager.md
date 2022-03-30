@@ -2,7 +2,7 @@
 title: Running the SDN Interface SDN Manager
 TOCTitle: Running the SDN Interface SDN Manager
 ms:assetid: 41743ca0-f297-4e11-8bd3-27bab2f4baee
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn785214(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn785214(v=office.16)
 ms:contentKeyID: 65258681
 ms.date: 02/27/2017
 mtps_version: v=office.16

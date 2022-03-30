@@ -2,7 +2,7 @@
 title: Using an InstantMessagingFlow
 TOCTitle: Using an InstantMessagingFlow
 ms:assetid: 7ba32e50-db6b-43a3-b3f2-f6bf6963740c
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466035(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466035(v=office.16)
 ms:contentKeyID: 65239963
 ms.date: 07/27/2015
 mtps_version: v=office.16

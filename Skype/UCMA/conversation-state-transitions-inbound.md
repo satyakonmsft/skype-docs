@@ -2,7 +2,7 @@
 title: Conversation state transitions - inbound
 TOCTitle: Conversation state transitions - inbound
 ms:assetid: 27a12921-9948-4b5d-a433-2dd5ac801fa1
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465978(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465978(v=office.16)
 ms:contentKeyID: 65239920
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -13,7 +13,7 @@ mtps_version: v=office.16
 
 **Applies to**: Skype for Business 2015
 
-The [Conversation](https://msdn.microsoft.com/en-us/library/hh349224\(v=office.16\)) state transitions for inbound calls are shown in the following illustration.
+The [Conversation](https://msdn.microsoft.com/library/hh349224\(v=office.16\)) state transitions for inbound calls are shown in the following illustration.
 
 ![Conversation state transitions for inbound calls](images/Dn465978.StateMach_Conversation-In(Office.16).jpg "Conversation state transitions for inbound calls")
 

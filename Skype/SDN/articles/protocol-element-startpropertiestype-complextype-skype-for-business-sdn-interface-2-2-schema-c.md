@@ -2,7 +2,7 @@
 title: Protocol element (StartPropertiesType complexType) 
 TOCTitle: Protocol element (StartPropertiesType complexType)
 ms:assetid: 9bc50ce2-21d8-06f7-7e5d-af432a632761
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404818(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404818(v=office.16)
 ms:contentKeyID: 68250730
 ms.date: 08/24/2015
 mtps_version: v=office.16

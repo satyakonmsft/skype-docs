@@ -2,7 +2,7 @@
 title: Update element (MessageType complexType) 
 TOCTitle: Update element
 ms:assetid: 2f3e99fb-9966-34e0-ea2c-37a1ff7a8b47
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt429331(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt429331(v=office.16)
 ms:contentKeyID: 68250774
 ms.date: 08/24/2015
 mtps_version: v=office.16

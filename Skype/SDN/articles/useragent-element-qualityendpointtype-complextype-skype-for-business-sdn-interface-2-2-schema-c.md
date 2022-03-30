@@ -2,7 +2,7 @@
 title: UserAgent element (QualityEndPointType complexType) 
 TOCTitle: UserAgent element (QualityEndPointType complexType)
 ms:assetid: e65f8a8c-10b2-00b4-221b-bd723c697e80
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt429334(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt429334(v=office.16)
 ms:contentKeyID: 68250776
 ms.date: 08/24/2015
 mtps_version: v=office.16

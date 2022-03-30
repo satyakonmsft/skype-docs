@@ -2,7 +2,7 @@
 title: Personas (Unified Communications Managed API 5.0)
 TOCTitle: Personas
 ms:assetid: c033d25f-e55a-449d-b697-f93f64cee0a6
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465949(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465949(v=office.16)
 ms:contentKeyID: 65239862
 ms.date: 07/27/2015
 mtps_version: v=office.16

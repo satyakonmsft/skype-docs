@@ -2,7 +2,7 @@
 title: 'UCMA applications: Coexistence, migration, and upgrade scenarios'
 TOCTitle: 'UCMA applications: Coexistence, migration, and upgrade scenarios'
 ms:assetid: 132c6c9c-f8e1-4d3f-aa8a-da35891b05d8
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466143(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466143(v=office.16)
 ms:contentKeyID: 65240057
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -88,7 +88,7 @@ In a mixed environment, if you create a new trusted application server after mer
 
 ### Upgrading a UCMA 3.0 application to UCMA 4.0
 
-Simply rebuild your UCMA 3.0 application using the UCMA 5.0 SDK. Watch for compiler warnings about the use of obsolete class members. For more information, see [Obsolete or removed API members in UCMA 5.0](https://msdn.microsoft.com/en-us/library/dn465992\(v=office.16\)).
+Simply rebuild your UCMA 3.0 application using the UCMA 5.0 SDK. Watch for compiler warnings about the use of obsolete class members. For more information, see [Obsolete or removed API members in UCMA 5.0](https://msdn.microsoft.com/library/dn465992\(v=office.16\)).
 
 ## UCMA 2.0 applications in a coexistence environment: Mixed Office Communications Server 2007 R2 and Lync Server 2013 topology
 

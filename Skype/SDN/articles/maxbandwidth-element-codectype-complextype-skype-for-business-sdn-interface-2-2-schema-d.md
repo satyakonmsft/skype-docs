@@ -2,7 +2,7 @@
 title: MaxBandwidth element (CodecType complexType) 
 TOCTitle: MaxBandwidth element
 ms:assetid: 2c37df4e-39d9-abbc-4b1a-4e9098947437
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170914(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170914(v=office.16)
 ms:contentKeyID: 65855489
 ms.date: 08/24/2015
 mtps_version: v=office.16

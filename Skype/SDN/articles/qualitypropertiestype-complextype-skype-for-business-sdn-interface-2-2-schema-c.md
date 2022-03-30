@@ -2,7 +2,7 @@
 title: QualityPropertiesType complexType 
 TOCTitle: QualityPropertiesType complexType
 ms:assetid: e2794aea-3eb8-573c-ae53-3b4c44faa480
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt429361(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt429361(v=office.16)
 ms:contentKeyID: 68250803
 ms.date: 08/24/2015
 mtps_version: v=office.16

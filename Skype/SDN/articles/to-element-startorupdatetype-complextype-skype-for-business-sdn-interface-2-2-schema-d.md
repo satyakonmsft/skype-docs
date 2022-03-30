@@ -2,7 +2,7 @@
 title: To element (StartOrUpdateType complexType) 
 TOCTitle: To element (StartOrUpdateType complexType)
 ms:assetid: ca1f6a62-3421-9d53-7e1d-aaadb55a37cc
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171011(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171011(v=office.16)
 ms:contentKeyID: 65855584
 ms.date: 08/24/2015
 mtps_version: v=office.16

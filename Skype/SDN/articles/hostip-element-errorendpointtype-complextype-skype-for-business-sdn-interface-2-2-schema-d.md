@@ -2,7 +2,7 @@
 title: HostIP element (ErrorEndPointType complexType) 
 TOCTitle: HostIP element (ErrorEndPointType complexType)
 ms:assetid: 57312cc7-b82d-4f38-896a-2352a255cf0a
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170882(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170882(v=office.16)
 ms:contentKeyID: 65855459
 ms.date: 08/24/2015
 mtps_version: v=office.16

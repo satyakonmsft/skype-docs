@@ -2,7 +2,7 @@
 title: SourcePool element (ConnectionInfoType complexType) 
 TOCTitle: SourcePool element
 ms:assetid: 0202b8e4-a19d-f2f2-2af3-b4c1c267650a
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404850(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404850(v=office.16)
 ms:contentKeyID: 68250762
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -75,10 +75,10 @@ Prior knowledge and understanding of the following APIs from the Skype Developer
  
   HTTP, Hypermedia, Resources, Payload Format, Query Parameters, Operation Resource, Caching, Batch, and Errors. - [Key programming concepts](https://ucwa.skype.com/documentation/key-programming-concepts)
  
-  The general principles, capabilities, API style, API concepts in the **Trusted Application API** are modelled to follow those in the UCWA.  Please see this link for detailed UCWA info - [UCWA API reference](https://msdn.microsoft.com/en-us/skype/ucwa/ucwa2_0apireference)
+  The general principles, capabilities, API style, API concepts in the **Trusted Application API** are modelled to follow those in the UCWA.  Please see this link for detailed UCWA info - [UCWA API reference](https://msdn.microsoft.com/skype/ucwa/ucwa2_0apireference)
  
  
-- [The Unified Communications Managed API (UCMA)](https://msdn.microsoft.com/en-us/library/office/dn454984.aspx)
+- [The Unified Communications Managed API (UCMA)](https://msdn.microsoft.com/library/office/dn454984.aspx)
  
   UCMA is a C# API that includes development and runtime components for Skype for Business Server.  Like the **Trusted Application API**, UCMA makes it easy for developers to develop powerful communication solutions.  Knowledge of UCMA is helpful for understanding similar communications scenarios in the **Trusted Application API**:  Sophisticated contact center or help desk scenarios, such as those that use interactive voice response (IVR), automated call distribution (ACD), and call-recording. Other scenarios include web chat, query response bots, and conferencing.
  

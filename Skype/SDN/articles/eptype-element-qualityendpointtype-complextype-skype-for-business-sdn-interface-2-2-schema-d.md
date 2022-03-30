@@ -2,7 +2,7 @@
 title: EPType element (QualityEndPointType complexType) 
 TOCTitle: EPType element (QualityEndPointType complexType)
 ms:assetid: 4debf6f0-f0a7-8b92-2402-33a5ca5d9fd7
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170863(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170863(v=office.16)
 ms:contentKeyID: 65855439
 ms.date: 08/24/2015
 mtps_version: v=office.16

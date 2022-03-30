@@ -2,7 +2,7 @@
 title: VoiceXML browser
 TOCTitle: VoiceXML browser
 ms:assetid: ae93b7b5-3bc4-40a6-bf01-ed80182003b5
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466125(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466125(v=office.16)
 ms:contentKeyID: 65240066
 ms.date: 07/27/2015
 mtps_version: v=office.16

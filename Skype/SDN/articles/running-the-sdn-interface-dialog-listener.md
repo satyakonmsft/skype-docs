@@ -2,7 +2,7 @@
 title: Running the SDN Interface Dialog Listener
 TOCTitle: Running the SDN Interface Dialog Listener
 ms:assetid: f405de17-b1be-419e-a301-4055a4dfdaad
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn785217(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn785217(v=office.16)
 ms:contentKeyID: 65258676
 ms.date: 02/27/2017
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: From element (EndedType complexType) 
 TOCTitle: From element (EndedType complexType)
 ms:assetid: 531dbc2f-46b4-0f0d-ca2a-d215a3849db1
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404768(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404768(v=office.16)
 ms:contentKeyID: 68250681
 ms.date: 08/24/2015
 mtps_version: v=office.16

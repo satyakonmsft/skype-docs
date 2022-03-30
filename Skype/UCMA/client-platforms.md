@@ -2,7 +2,7 @@
 title: Client platforms (Unified Communications Managed API 5.0)
 TOCTitle: Client platforms
 ms:assetid: 10b3cb99-b1ab-4a21-97e4-b6106781b25b
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466052(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466052(v=office.16)
 ms:contentKeyID: 65239978
 ms.date: 07/27/2015
 mtps_version: v=office.16

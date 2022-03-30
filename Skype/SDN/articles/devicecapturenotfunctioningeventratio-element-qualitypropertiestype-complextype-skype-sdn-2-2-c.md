@@ -2,7 +2,7 @@
 title: DeviceCaptureNotFunctioningEventRatio element (QualityPropertiesType complexType) 
 TOCTitle: DeviceCaptureNotFunctioningEventRatio element
 ms:assetid: 87a4b340-6230-4331-e033-7750537e9764
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404742(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404742(v=office.16)
 ms:contentKeyID: 68250655
 ms.date: 08/24/2015
 mtps_version: v=office.16

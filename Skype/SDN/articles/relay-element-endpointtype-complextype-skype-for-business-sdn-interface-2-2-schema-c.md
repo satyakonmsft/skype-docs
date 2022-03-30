@@ -2,7 +2,7 @@
 title: Relay element (EndPointType complexType) 
 TOCTitle: Relay element (EndPointType complexType)
 ms:assetid: 97761b90-bfe2-66a2-91ac-72bbd82ff86d
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404835(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404835(v=office.16)
 ms:contentKeyID: 68250747
 ms.date: 08/24/2015
 mtps_version: v=office.16

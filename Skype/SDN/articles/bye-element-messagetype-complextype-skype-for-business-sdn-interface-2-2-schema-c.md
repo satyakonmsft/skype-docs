@@ -2,7 +2,7 @@
 title: Bye element (MessageType complexType) 
 TOCTitle: Bye element
 ms:assetid: b054de95-f996-b81d-703d-ca0bf9870977
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404714(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404714(v=office.16)
 ms:contentKeyID: 68250627
 ms.date: 08/24/2015
 mtps_version: v=office.16

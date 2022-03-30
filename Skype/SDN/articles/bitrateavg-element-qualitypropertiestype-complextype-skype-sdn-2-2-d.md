@@ -2,7 +2,7 @@
 title: BitRateAvg element (QualityPropertiesType complexType) 
 TOCTitle: BitRateAvg element
 ms:assetid: 3a632c93-613c-f9ee-c30c-9ddf1e2b6711
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt149431(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt149431(v=office.16)
 ms:contentKeyID: 65855380
 ms.date: 08/24/2015
 mtps_version: v=office.16

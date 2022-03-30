@@ -4,7 +4,7 @@ Tenant Admin Provisioning includes setting up the trusted endpoints and tenant a
 Please refer [Tenant Admin Consent](./TenantAdminConsent.md) for a tenant to consent to the application.
 
 You can easily register **Trusted Application Endpoints** by using the PowerShell cmdlets.
-General information about PowerShell cmdlets usage can be found in [Using Windows PowerShell to manage Skype for Business Online](https://technet.microsoft.com/en-us/library/dn362831.aspx).  You will need to complete the following steps to run the admin PowerShell:
+General information about PowerShell cmdlets usage can be found in [Using Windows PowerShell to manage Skype for Business Online](https://technet.microsoft.com/library/dn362831.aspx).  You will need to complete the following steps to run the admin PowerShell:
 
 1. [Download and install the Skype for Business Online Connector module](https://go.microsoft.com/fwlink/?LinkId=294688)
 2. Open Windows PowerShell as Administrator and run the following:
@@ -13,14 +13,14 @@ General information about PowerShell cmdlets usage can be found in [Using Window
 Import-PSSession (New-CsOnlineSession -Credential (Get-Credential))
 ```
 
-For more information see: [Connecting to Skype for Business Online by using Windows PowerShell](https://technet.microsoft.com/en-us/library/dn362795.aspx)
+For more information see: [Connecting to Skype for Business Online by using Windows PowerShell](https://technet.microsoft.com/library/dn362795.aspx)
 
 ## Managing Trusted Application Endpoint With PowerShell
 
 > [!NOTE] 
 > For assigning a PSTN phone number to a Trusted Endpoint, you will need to follow the steps below acquire a service number that will be assigned to Trusted Application Endpoint. **Assigning a phone number is optional.  If assigning a phone number to your endpoint, acquiring a service number should be completed before running the Powershell cmdlets.  See details below**.
 
- 1. Follow the documentation to connect to the [Skype for Business PowerShell cmdlets](https://technet.microsoft.com/en-us/library/dn362831.aspx)
+ 1. Follow the documentation to connect to the [Skype for Business PowerShell cmdlets](https://technet.microsoft.com/library/dn362831.aspx)
  The following cmdlets can be used to setup trusted application endpoints:
 
 - **New-CsOnlineApplicationEndpoint** - It creates a new application endpoint.

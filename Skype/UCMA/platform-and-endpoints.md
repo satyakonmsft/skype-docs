@@ -2,7 +2,7 @@
 title: Platform and endpoints
 TOCTitle: Platform and endpoints
 ms:assetid: de5868bc-9ac7-4f88-b700-a2efce8d531e
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466045(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466045(v=office.16)
 ms:contentKeyID: 65239979
 ms.date: 07/27/2015
 mtps_version: v=office.16

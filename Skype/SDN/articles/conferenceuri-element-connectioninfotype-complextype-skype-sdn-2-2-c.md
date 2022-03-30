@@ -2,7 +2,7 @@
 title: ConferenceURI element (ConnectionInfoType complexType) 
 TOCTitle: ConferenceURI element
 ms:assetid: 85fa3b82-77cf-ccdd-9be8-1ac66e955545
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404724(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404724(v=office.16)
 ms:contentKeyID: 68250637
 ms.date: 08/24/2015
 mtps_version: v=office.16

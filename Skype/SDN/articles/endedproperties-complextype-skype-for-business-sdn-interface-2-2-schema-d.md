@@ -2,7 +2,7 @@
 title: EndedProperties complexType 
 TOCTitle: EndedProperties complexType
 ms:assetid: 599553a1-17be-d1cb-ed99-4c614acddb87
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171058(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171058(v=office.16)
 ms:contentKeyID: 65855631
 ms.date: 08/24/2015
 mtps_version: v=office.16

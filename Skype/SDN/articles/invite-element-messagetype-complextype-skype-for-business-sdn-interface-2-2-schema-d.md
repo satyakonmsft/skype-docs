@@ -2,7 +2,7 @@
 title: Invite element (MessageType complexType) 
 TOCTitle: Invite element
 ms:assetid: 82315508-6a09-f166-b971-a7212826d73c
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170900(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170900(v=office.16)
 ms:contentKeyID: 65855475
 ms.date: 08/24/2015
 mtps_version: v=office.16

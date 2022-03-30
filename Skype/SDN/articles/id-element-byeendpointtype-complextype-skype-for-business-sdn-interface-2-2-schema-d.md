@@ -2,7 +2,7 @@
 title: Id element (ByeEndPointType complexType) 
 TOCTitle: Id element (ByeEndPointType complexType)
 ms:assetid: de7e89c4-a919-aefa-faff-7f43e5708ac7
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170891(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170891(v=office.16)
 ms:contentKeyID: 65855466
 ms.date: 08/24/2015
 mtps_version: v=office.16

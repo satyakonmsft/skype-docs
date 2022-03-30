@@ -2,7 +2,7 @@
 title: AVFlow-ApplyChanges (QuickStart)
 TOCTitle: AVFlow-ApplyChanges (QuickStart)
 ms:assetid: 6bf7708b-ca30-4418-b36f-5f4e91141ca6
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466136(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466136(v=office.16)
 ms:contentKeyID: 65240072
 ms.date: 07/27/2015
 mtps_version: v=office.16

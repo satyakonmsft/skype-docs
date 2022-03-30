@@ -2,7 +2,7 @@
 title: SpeakerGlitchRate element (QualityPropertiesType complexType) 
 TOCTitle: SpeakerGlitchRate element
 ms:assetid: 1d8c39b6-d1b0-ba96-8c17-7ec4a385be25
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170994(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170994(v=office.16)
 ms:contentKeyID: 65855569
 ms.date: 08/24/2015
 mtps_version: v=office.16
