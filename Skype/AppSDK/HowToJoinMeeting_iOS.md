@@ -46,9 +46,9 @@ No **Skype for Business** credentials are used to join the meeting.
 
   **Objective C**
 
-    ```objectivec 
-     SfBApplication *sfb = SfBApplication.sharedApplication;
-    ```
+```objectivec 
+ SfBApplication *sfb = SfBApplication.sharedApplication;
+```
 
   **Swift**
 
@@ -60,16 +60,16 @@ No **Skype for Business** credentials are used to join the meeting.
 
   **Objective C**
 
-   ```objectivec
+```objectivec
 
-    sfb.configurationManager.requireWifiForVideo = NO;
-   ```
+ sfb.configurationManager.requireWifiForVideo = NO;
+```
 
   **Swift**
 
-   ```swift
-   sfb.configurationManager.requireWifiForVideo = false
-   ```
+```swift
+ sfb.configurationManager.requireWifiForVideo = false
+```
 
    > [!NOTE]
    > Please refer [SfBApplication](https://ucwa.skype.com/reference/appSDK/IOS/Classes/SfBApplication.html),  [SfBConfigurationManager](https://ucwa.skype.com/reference/appSDK/IOS/Classes/SfBConfigurationManager.html),  [SfBVideoService](https://ucwa.skype.com/reference/appSDK/IOS/Classes/SfBVideoService.html), [SfBDevicesManager]    (<https://ucwa.skype.com/reference/appSDK/IOS/Classes/SfBDevicesManager.html>) and other classes in [SkypeForBusiness] (<https://ucwa.skype.com/reference/appSDK/IOS/>) framework to handle application level Skype configurations.
