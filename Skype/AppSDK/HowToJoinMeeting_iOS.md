@@ -1,3 +1,9 @@
+---
+title: Use the SDK to join a meeting with an iOS device
+description: This article shows an iOS developer how to join the Skype for Business meeting using a meeting URL and enable core features like Text chat, Audio/Video chat in your app.
+ms.date: 03/30/2022
+---
+
 # Use the SDK to join a meeting with an iOS device
 
 This article shows an iOS developer how to join the **Skype for Business meeting** using a [**meeting URL**](https://msdn.microsoft.com/en-us/skype/appsdk/getmeetingurl) and enable core **Skype for Business App SDK** features like Text chat, Audio/Video chat in your app.
