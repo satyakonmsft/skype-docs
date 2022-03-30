@@ -2,7 +2,7 @@
 title: Relay element (ByeEndPointType complexType) 
 TOCTitle: Relay element (ByeEndPointType complexType)
 ms:assetid: 2aa217f7-eff3-d4d5-efcd-24ebc0c06459
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170976(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170976(v=office.16)
 ms:contentKeyID: 65855550
 ms.date: 08/24/2015
 mtps_version: v=office.16

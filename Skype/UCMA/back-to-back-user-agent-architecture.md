@@ -2,7 +2,7 @@
 title: Back-to-back user agent architecture
 TOCTitle: Back-to-back user agent architecture
 ms:assetid: 433baf9b-d4c3-441d-a5fb-9f4010cc0f21
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465993(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465993(v=office.16)
 ms:contentKeyID: 65239936
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -21,7 +21,7 @@ Signaling layer messages are exchanged at the **Call** level, while Session Desc
 
 Signaling-related messages are sent back-to-back between the Call objects. SDP offer/answer messages are sent back-to-back using media provider methods.
 
-When messages are sent back-to-back across Calls, signaling headers that are configured using [SetPassThroughHeaderNames](https://msdn.microsoft.com/en-us/library/hh384137\(v=office.16\)) are copied from one call leg to the others.
+When messages are sent back-to-back across Calls, signaling headers that are configured using [SetPassThroughHeaderNames](https://msdn.microsoft.com/library/hh384137\(v=office.16\)) are copied from one call leg to the others.
 
 ## Header passing across call legs
 
@@ -58,7 +58,7 @@ Allow and Supported header fields are parsed for header values that are added by
 A **BackToBackCall** instance performs back-to-back message transmission as follows.
 
 > [!NOTE]
-> The UCMA 5.0 implementation does not permit an application to control individual message exchange behavior on an Incoming-Idle call (that is, when the [State](https://msdn.microsoft.com/en-us/library/hh381151(v=office.16)) property on the first call leg is **Incoming**, and the same property on the second call leg is **Idle**). For more information, see [CallState](https://msdn.microsoft.com/en-us/library/hh366023(v=office.16)).
+> The UCMA 5.0 implementation does not permit an application to control individual message exchange behavior on an Incoming-Idle call (that is, when the [State](https://msdn.microsoft.com/library/hh381151(v=office.16)) property on the first call leg is **Incoming**, and the same property on the second call leg is **Idle**). For more information, see [CallState](https://msdn.microsoft.com/library/hh366023(v=office.16)).
 
 - Pass-through headers (except the restricted headers listed in the previous section) received on an incoming call are sent to the outgoing call.
 
@@ -73,7 +73,7 @@ A **BackToBackCall** instance performs back-to-back message transmission as foll
 
 ## Call leg state and BackToBackCall.State
 
-The value of the [State](https://msdn.microsoft.com/en-us/library/hh383563\(v=office.16\)) property on a **\[BackToBackCall\]** instance is calculated from the [State](https://msdn.microsoft.com/en-us/library/hh381151\(v=office.16\)) on each call leg. The following table summarizes the relationships of these properties.
+The value of the [State](https://msdn.microsoft.com/library/hh383563\(v=office.16\)) property on a **\[BackToBackCall\]** instance is calculated from the [State](https://msdn.microsoft.com/library/hh381151\(v=office.16\)) on each call leg. The following table summarizes the relationships of these properties.
 
 <table>
 <colgroup>

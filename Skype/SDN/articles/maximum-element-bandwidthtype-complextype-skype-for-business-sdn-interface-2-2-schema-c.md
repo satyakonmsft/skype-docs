@@ -2,7 +2,7 @@
 title: Maximum element (BandwidthType complexType) 
 TOCTitle: Maximum element
 ms:assetid: 3eea5c54-ce2c-f09b-47c3-1b3d758e6286
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404790(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404790(v=office.16)
 ms:contentKeyID: 68250700
 ms.date: 08/24/2015
 mtps_version: v=office.16

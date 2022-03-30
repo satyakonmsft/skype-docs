@@ -2,7 +2,7 @@
 title: MediaBypass element (ConnectionInfoType complexType) 
 TOCTitle: MediaBypass element
 ms:assetid: e7fad1d2-57f1-97b9-fc6e-dca35c59f299
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404791(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404791(v=office.16)
 ms:contentKeyID: 68250701
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: AudioTimestampErrorSpkMs element (QualityPropertiesType complexType) 
 TOCTitle: AudioTimestampErrorSpkMs element
 ms:assetid: 2f2c4114-6946-20bc-e161-3ab83c4722af
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt149425(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt149425(v=office.16)
 ms:contentKeyID: 65855373
 ms.date: 08/24/2015
 mtps_version: v=office.16

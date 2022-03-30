@@ -2,7 +2,7 @@
 title: Contact element (ByeEndPointType complexType) 
 TOCTitle: Contact element (ByeEndPointType complexType)
 ms:assetid: 9a724a72-cf75-d6a3-0ebf-65ef1eaead83
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt149451(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt149451(v=office.16)
 ms:contentKeyID: 65855398
 ms.date: 08/24/2015
 mtps_version: v=office.16

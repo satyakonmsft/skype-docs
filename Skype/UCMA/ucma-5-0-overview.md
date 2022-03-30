@@ -2,7 +2,7 @@
 title: UCMA 5.0 overview (Unified Communications Managed API 5.0)
 TOCTitle: UCMA 5.0 overview
 ms:assetid: 24a4b483-b707-4ba2-adf1-479a38205041
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465942(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465942(v=office.16)
 ms:contentKeyID: 65239784
 ms.date: 07/27/2015
 mtps_version: v=office.16

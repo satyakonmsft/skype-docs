@@ -2,7 +2,7 @@
 title: RecvFrameRateAverage element (QualityPropertiesType complexType) 
 TOCTitle: RecvFrameRateAverage element
 ms:assetid: 0ae6b1d1-62e7-fc96-eed0-25e033e2e5d2
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404824(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404824(v=office.16)
 ms:contentKeyID: 68250736
 ms.date: 08/24/2015
 mtps_version: v=office.16

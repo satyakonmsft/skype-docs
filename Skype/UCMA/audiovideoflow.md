@@ -2,7 +2,7 @@
 title: AudioVideoFlow (Unified Communications Managed API 5.0)
 TOCTitle: AudioVideoFlow
 ms:assetid: 095bc495-8338-4cd7-8e1f-6964861728df
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466030(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466030(v=office.16)
 ms:contentKeyID: 65239968
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -20,17 +20,17 @@ An [AudioVideoFlow](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collabor
 
 The [Audio](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow.audio?view=ucma-api) property provides access to an [AudioControl](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiocontrol?view=ucma-api) instance, which provides access to the audio channel and can be used such purposes as muting and unmuting the audio channel, changing the sampling rate, and changing the direction. 
 
-The [Player](https://msdn.microsoft.com/en-us/library/hh383679\(v=office.16\)) property provides access to a [Player](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.player?view=ucma-api) instance, which can be used to play audio data captured previously. 
+The [Player](https://msdn.microsoft.com/library/hh383679\(v=office.16\)) property provides access to a [Player](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.player?view=ucma-api) instance, which can be used to play audio data captured previously. 
 
-The [Recorder](https://msdn.microsoft.com/en-us/library/hh382678\(v=office.16\)) property provides access to a [Recorder](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.recorder?view=ucma-api) instance, which can be used to record audio and video data. 
+The [Recorder](https://msdn.microsoft.com/library/hh382678\(v=office.16\)) property provides access to a [Recorder](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.recorder?view=ucma-api) instance, which can be used to record audio and video data. 
 
-The [SpeechRecognitionConnector](https://msdn.microsoft.com/en-us/library/hh365919\(v=office.16\)) property provides access to a [SpeechRecognitionConnector](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.speechrecognitionconnector?view=ucma-api) instance, which can be used in conjunction with the **Microsoft.Speech** namespace to perform speech recognition. 
+The [SpeechRecognitionConnector](https://msdn.microsoft.com/library/hh365919\(v=office.16\)) property provides access to a [SpeechRecognitionConnector](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.speechrecognitionconnector?view=ucma-api) instance, which can be used in conjunction with the **Microsoft.Speech** namespace to perform speech recognition. 
 
-The [SpeechSynthesisConnector](https://msdn.microsoft.com/en-us/library/hh382006\(v=office.16\)) property provides access to a [SpeechSynthesisConnector](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.speechsynthesisconnector?view=ucma-api) instance, which can be used in conjunction with the **Microsoft.Speech** namespace to render text as speech. 
+The [SpeechSynthesisConnector](https://msdn.microsoft.com/library/hh382006\(v=office.16\)) property provides access to a [SpeechSynthesisConnector](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.speechsynthesisconnector?view=ucma-api) instance, which can be used in conjunction with the **Microsoft.Speech** namespace to render text as speech. 
 
-The [ToneController](https://msdn.microsoft.com/en-us/library/hh348941\(v=office.16\)) property provides access to a [ToneController](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.tonecontroller?view=ucma-api) instance. A **ToneController** can be used to send and receive Dual-Tone Multi-Frequency (DTMF) tones and to receive Fax tones.
+The [ToneController](https://msdn.microsoft.com/library/hh348941\(v=office.16\)) property provides access to a [ToneController](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.tonecontroller?view=ucma-api) instance. A **ToneController** can be used to send and receive Dual-Tone Multi-Frequency (DTMF) tones and to receive Fax tones.
 
-The [Player](https://msdn.microsoft.com/en-us/library/hh383679\(v=office.16\)), [Recorder](https://msdn.microsoft.com/en-us/library/hh382678\(v=office.16\)), [ToneController](https://msdn.microsoft.com/en-us/library/hh348941\(v=office.16\)), [SpeechRecognitionConnector](https://msdn.microsoft.com/en-us/library/hh365919\(v=office.16\)), and [SpeechSynthesisConnector](https://msdn.microsoft.com/en-us/library/hh382006\(v=office.16\)) properties are considered to be devices. Although these devices are represented as properties on the **AudioVideoFlow** class, they are not automatically instantiated. Before any of these devices can be used, it must be created, and then attached to an **AudioVideoFlow** instance. 
+The [Player](https://msdn.microsoft.com/library/hh383679\(v=office.16\)), [Recorder](https://msdn.microsoft.com/library/hh382678\(v=office.16\)), [ToneController](https://msdn.microsoft.com/library/hh348941\(v=office.16\)), [SpeechRecognitionConnector](https://msdn.microsoft.com/library/hh365919\(v=office.16\)), and [SpeechSynthesisConnector](https://msdn.microsoft.com/library/hh382006\(v=office.16\)) properties are considered to be devices. Although these devices are represented as properties on the **AudioVideoFlow** class, they are not automatically instantiated. Before any of these devices can be used, it must be created, and then attached to an **AudioVideoFlow** instance. 
 
 The following code example shows the steps required to create a **Player** and attach it to an existing **AudioVideoFlow** instance.
 
@@ -45,17 +45,17 @@ When the device is no longer needed, the **AudioVideoFlow** instance that is att
     myPlayer.DetachFlow(avFlow);
 ```
 
-For more information about these devices, see [Devices in UCMA](https://msdn.microsoft.com/en-us/library/dd280152\(v=office.16\)).
+For more information about these devices, see [Devices in UCMA](https://msdn.microsoft.com/library/dd280152\(v=office.16\)).
 
 ## AudioVideoFlow methods
 
-An application that intends to configure the **AudioVideoFlow** by using [Initialize(AudioVideoFlowTemplate)](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow.initialize?view=ucma-api) must process the [AudioVideoFlowConfigurationRequested](https://docs.microsoft.com/en-us/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall.audiovideoflowconfigurationrequested?view=ucma-api) event synchronously. 
+An application that intends to configure the **AudioVideoFlow** by using [Initialize(AudioVideoFlowTemplate)](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow.initialize?view=ucma-api) must process the [AudioVideoFlowConfigurationRequested](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall.audiovideoflowconfigurationrequested?view=ucma-api) event synchronously. 
 
-**AudioVideoFlowConfigurationRequested** is an [AudioVideoCall](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) event. The application can assume that the **AudioVideoFlow** [State](https://msdn.microsoft.com/en-us/library/hh349893\(v=office.16\)) will not change from **Idle** during the event callback, so no state check is necessary. Only an invalid template configuration can possibly cause **Initialize** to throw an exception.
+**AudioVideoFlowConfigurationRequested** is an [AudioVideoCall](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) event. The application can assume that the **AudioVideoFlow** [State](https://msdn.microsoft.com/library/hh349893\(v=office.16\)) will not change from **Idle** during the event callback, so no state check is necessary. Only an invalid template configuration can possibly cause **Initialize** to throw an exception.
 
 ## Negotiation between local and remote endpoints
 
-After an **AudioVideoFlow** instance has been initialized or modified, negotiation with the remote participant is carried out. Settings such as [HoldStatus](https://msdn.microsoft.com/en-us/library/hh349483\(v=office.16\)) and **AllowedDirection** on the remote endpoint can affect the resulting **AudioVideoFlow** settings. 
+After an **AudioVideoFlow** instance has been initialized or modified, negotiation with the remote participant is carried out. Settings such as [HoldStatus](https://msdn.microsoft.com/library/hh349483\(v=office.16\)) and **AllowedDirection** on the remote endpoint can affect the resulting **AudioVideoFlow** settings. 
 
 For example, if the application sets **AllowedDirection** to **MediaChannelDirection**.**SendReceive**, but the remote has previously set **AllowedDirection** to **MediaChannelDirection**.**SendOnly**, the **Direction** setting on the local endpoint will become **MediaChannelDirection**.**ReceiveOnly**.
 
@@ -67,9 +67,9 @@ The following steps show the values of **AllowedDirection**, **Direction**, and 
 
 2.  The local endpoint applies a hold to both ends, using a call to **BeginHold**(**HoldType**.**BothEndpoints**, , ).
     
-    Results: **AllowedDirection** is **MediaChannelDirection**.**SendReceive**, [HoldStatus](https://msdn.microsoft.com/en-us/library/hh349483\(v=office.16\)) is set to **HoldType**.**BothEndpoints**, and **Direction** on the local endpoint will be set to **MediaChannelDirection**.**Inactive**.
+    Results: **AllowedDirection** is **MediaChannelDirection**.**SendReceive**, [HoldStatus](https://msdn.microsoft.com/library/hh349483\(v=office.16\)) is set to **HoldType**.**BothEndpoints**, and **Direction** on the local endpoint will be set to **MediaChannelDirection**.**Inactive**.
 
-3.  The local endpoint removes the hold, using a call to [BeginRetrieve](https://msdn.microsoft.com/en-us/library/hh381101\(v=office.16\)).
+3.  The local endpoint removes the hold, using a call to [BeginRetrieve](https://msdn.microsoft.com/library/hh381101\(v=office.16\)).
     
     Results: **AllowedDirection** is **MediaChannelDirection**.**SendReceive**, **HoldStatus** is set to **HoldType**.**None**, and **Direction** on the local endpoint will depend on the response from the remote endpoint. If the remote endpoint responds with **MediaChannelDirection**.**SendReceive**, then **Direction** will be set to **MediaChannelDirection**.**SendReceive**. If the remote endpoint responds with **MediaChannelDirection**.**SendOnly** (as in step 1), then **Direction** on the local endpoint will be set to **MediaChannelDirection**.**ReceiveOnly**.
 
@@ -87,7 +87,7 @@ The **AudioVideoFlow** state transitions are shown in the following illustration
     
    - Media (RTP or RTCP) is received from the remote peer.
     
-   - For an incoming call, acknowledgement from the caller that it has received a provisional acceptance of the call (by the application calling [BeginEstablishEarlyMedia()](https://msdn.microsoft.com/en-us/library/hh365657\(v=office.16\))). That is, a SIP PRACK message is received from the caller.
+   - For an incoming call, acknowledgement from the caller that it has received a provisional acceptance of the call (by the application calling [BeginEstablishEarlyMedia()](https://msdn.microsoft.com/library/hh365657\(v=office.16\))). That is, a SIP PRACK message is received from the caller.
     
    - Special case: The remote endpoint negotiates the audio channel to be disabled. Disabled media means that no transport connection will be established; in SDP, the media is identified with a ‘c=IN IP4 0.0.0.0’ connection address line.
 

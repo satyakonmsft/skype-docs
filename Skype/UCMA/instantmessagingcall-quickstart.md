@@ -2,7 +2,7 @@
 title: InstantMessagingCall (QuickStart)
 TOCTitle: InstantMessagingCall (QuickStart)
 ms:assetid: 76574248-8d00-4c66-aad5-a5df2f9f7607
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn454827(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn454827(v=office.16)
 ms:contentKeyID: 65240096
 ms.date: 07/27/2015
 mtps_version: v=office.16

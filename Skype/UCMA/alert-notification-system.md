@@ -2,7 +2,7 @@
 title: Alert notification system
 TOCTitle: Alert notification system
 ms:assetid: e75d50af-2a7e-4558-bb18-7bcf2c66560f
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465952(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465952(v=office.16)
 ms:contentKeyID: 65239777
 ms.date: 07/27/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: DegradationAvg element (QualityPropertiesType complexType) 
 TOCTitle: DegradationAvg element
 ms:assetid: 1f13a842-4d92-4ed3-ba12-53bf4e48438f
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404737(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404737(v=office.16)
 ms:contentKeyID: 68250650
 ms.date: 08/24/2015
 mtps_version: v=office.16

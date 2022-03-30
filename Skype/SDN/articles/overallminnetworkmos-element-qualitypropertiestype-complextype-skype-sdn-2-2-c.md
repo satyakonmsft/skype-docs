@@ -2,7 +2,7 @@
 title: OverallMinNetworkMOS element (QualityPropertiesType complexType) 
 TOCTitle: OverallMinNetworkMOS element
 ms:assetid: 54fb52db-c10d-2b39-918b-080f083cfa15
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404806(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404806(v=office.16)
 ms:contentKeyID: 68250719
 ms.date: 08/24/2015
 mtps_version: v=office.16

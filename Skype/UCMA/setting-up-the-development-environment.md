@@ -2,7 +2,7 @@
 title: Setting up the development environment
 TOCTitle: Setting up the development environment
 ms:assetid: 469a42a0-08fe-46cc-84a5-4f23ec35dd1a
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn454836(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn454836(v=office.16)
 ms:contentKeyID: 65240109
 ms.date: 07/27/2015
 mtps_version: v=office.16

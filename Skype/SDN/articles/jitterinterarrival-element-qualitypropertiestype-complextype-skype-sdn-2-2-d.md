@@ -2,7 +2,7 @@
 title: JitterInterArrival element (QualityPropertiesType complexType) 
 TOCTitle: JitterInterArrival element
 ms:assetid: 31844ffc-0d7f-0012-5a0b-c98594657e0c
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170906(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170906(v=office.16)
 ms:contentKeyID: 65855480
 ms.date: 08/24/2015
 mtps_version: v=office.16

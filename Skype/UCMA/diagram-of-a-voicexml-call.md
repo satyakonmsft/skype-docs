@@ -2,7 +2,7 @@
 title: Diagram of a VoiceXML call
 TOCTitle: Diagram of a VoiceXML call
 ms:assetid: 81874951-9055-4c44-9869-fc2028ac957f
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466124(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466124(v=office.16)
 ms:contentKeyID: 65240065
 ms.date: 07/27/2015
 mtps_version: v=office.16

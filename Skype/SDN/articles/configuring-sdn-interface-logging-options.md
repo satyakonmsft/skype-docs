@@ -2,7 +2,7 @@
 title: Configuring SDN Interface logging options
 TOCTitle: Configuring SDN Interface logging options
 ms:assetid: 0f604c7d-87a3-4526-b67c-25648c8427e7
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn785206(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn785206(v=office.16)
 ms:contentKeyID: 65258670
 ms.date: 02/27/2017
 mtps_version: v=office.16
@@ -15,7 +15,7 @@ dev_langs:
 
 _**Applies to:** Lync Server 2013 | Skype for Business 2015_
 
-Skype for Business SDN Interface version 2.2 and later uses the logging infrastructure of the [Enterprise Libraries 5.0](https://msdn.microsoft.com/en-us/library/ff632023.aspx). You can inspect and modify the configuration file by using the Microsoft Enterprise Library Configuration Tool. For a complete documentation on the options and capabilities of the logging infrastructure, see [Configuring the Logging Application Block](https://msdn.microsoft.com/en-us/library/ff664723\(v=pandp.50\).aspx).
+Skype for Business SDN Interface version 2.2 and later uses the logging infrastructure of the [Enterprise Libraries 5.0](https://msdn.microsoft.com/library/ff632023.aspx). You can inspect and modify the configuration file by using the Microsoft Enterprise Library Configuration Tool. For a complete documentation on the options and capabilities of the logging infrastructure, see [Configuring the Logging Application Block](https://msdn.microsoft.com/library/ff664723\(v=pandp.50\).aspx).
 
 The Enterprise Libraries also includes a configuration tool that provides an intuitive graphical user interface for adding and changing settings for the logging configuration. You can use this tool to configure the Dialog Listener logging options. This article explains how to configure the logging options in the DialogListener.exe.config and SDNManager.exe.config files directly.
 

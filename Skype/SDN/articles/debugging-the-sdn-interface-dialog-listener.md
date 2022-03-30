@@ -2,7 +2,7 @@
 title: Debugging the SDN Interface Dialog Listener
 TOCTitle: Debugging the SDN Interface Dialog Listener
 ms:assetid: 0dade195-3eee-4b8d-8510-33bd78927442
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn785218(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn785218(v=office.16)
 ms:contentKeyID: 65258677
 ms.date: 02/27/2017
 mtps_version: v=office.16

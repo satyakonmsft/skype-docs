@@ -2,7 +2,7 @@
 title: PAI element (ByeEndPointType complexType) 
 TOCTitle: PAI element (ByeEndPointType complexType)
 ms:assetid: e0dc6911-98ed-c074-c954-7b7a231767dd
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170936(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170936(v=office.16)
 ms:contentKeyID: 65855510
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: VGAQualityRatio element (QualityPropertiesType complexType) 
 TOCTitle: VGAQualityRatio element
 ms:assetid: 2d0bb813-a819-f421-5326-c96ec17ba486
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171028(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171028(v=office.16)
 ms:contentKeyID: 65855602
 ms.date: 08/24/2015
 mtps_version: v=office.16

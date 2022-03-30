@@ -2,7 +2,7 @@
 title: DSCPOutbound element (QualityEndPointType complexType) 
 TOCTitle: DSCPOutbound element
 ms:assetid: bf1cc06d-83fd-d09e-2322-032fbdf21a21
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404747(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404747(v=office.16)
 ms:contentKeyID: 68250660
 ms.date: 08/24/2015
 mtps_version: v=office.16

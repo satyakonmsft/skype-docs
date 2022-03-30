@@ -2,7 +2,7 @@
 title: Handle an InstantMessagingFlow
 TOCTitle: Handle an InstantMessagingFlow
 ms:assetid: 5d21b345-350d-4a09-915e-03bd48545f70
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466028(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466028(v=office.16)
 ms:contentKeyID: 65239964
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -20,11 +20,11 @@ dev_langs:
 
 ## InstantMessagingFlowTemplate
 
-The **InstantMessagingFlow** class has no public constructors, but instead relies on settings in an [InstantMessagingFlowTemplate](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.instantmessagingflowtemplate?view=ucma-api) instance to initialize or modify an **InstantMessagingFlow** instance. After an **InstantMessagingFlowTemplate** instance has been created, its settings can be copied to an **InstantMessagingFlow** instance by a call to the [Initialize(InstantMessagingFlowTemplate)](https://msdn.microsoft.com/en-us/library/hh382523\(v=office.16\)) method on the **InstantMessagingFlow** class. This initialization must occur within the body of a handler for the [InstantMessagingFlowConfigurationRequested](https://msdn.microsoft.com/en-us/library/hh384346\(v=office.16\)) event.
+The **InstantMessagingFlow** class has no public constructors, but instead relies on settings in an [InstantMessagingFlowTemplate](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.instantmessagingflowtemplate?view=ucma-api) instance to initialize or modify an **InstantMessagingFlow** instance. After an **InstantMessagingFlowTemplate** instance has been created, its settings can be copied to an **InstantMessagingFlow** instance by a call to the [Initialize(InstantMessagingFlowTemplate)](https://msdn.microsoft.com/library/hh382523\(v=office.16\)) method on the **InstantMessagingFlow** class. This initialization must occur within the body of a handler for the [InstantMessagingFlowConfigurationRequested](https://msdn.microsoft.com/library/hh384346\(v=office.16\)) event.
 
 The [InstantMessagingSettings](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.collaborationplatform.instantmessagingsettings?view=ucma-api) property provides access to global configuration settings for instant messaging (IM) flows using an **InstantMessagingFlowTemplate** object.
 
-Applications specify their consumption mode using the [InstantMessageConsumptionMode](https://msdn.microsoft.com/en-us/library/hh366078\(v=office.16\)) enumeration. The following table lists the enumeration values for this type.
+Applications specify their consumption mode using the [InstantMessageConsumptionMode](https://msdn.microsoft.com/library/hh366078\(v=office.16\)) enumeration. The following table lists the enumeration values for this type.
 
 <table>
 <colgroup>

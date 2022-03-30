@@ -2,7 +2,7 @@
 title: Call park (Unified Communications Managed API 5.0)
 TOCTitle: Call park
 ms:assetid: 555e8378-4124-49d8-bada-08dc636bde33
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466006(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466006(v=office.16)
 ms:contentKeyID: 65239933
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -20,11 +20,11 @@ After the parked call is retrieved, the connection to the music-on-hold server i
 
 Use these two methods to park a call: 
 
-- [BeginPark](https://msdn.microsoft.com/en-us/library/hh384250\(v=office.16\))
-- [EndPark](https://msdn.microsoft.com/en-us/library/hh349305\(v=office.16\))
+- [BeginPark](https://msdn.microsoft.com/library/hh384250\(v=office.16\))
+- [EndPark](https://msdn.microsoft.com/library/hh349305\(v=office.16\))
 
 Use these two methods to retrieve a parked call:
 
-- [BeginEstablish](https://msdn.microsoft.com/en-us/library/hh349055\(v=office.16\))
-- [EndEstablish](https://msdn.microsoft.com/en-us/library/hh349248\(v=office.16\))
+- [BeginEstablish](https://msdn.microsoft.com/library/hh349055\(v=office.16\))
+- [EndEstablish](https://msdn.microsoft.com/library/hh349248\(v=office.16\))
 

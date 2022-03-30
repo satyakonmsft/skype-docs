@@ -2,7 +2,7 @@
 title: Administering a UCMA 5.0 application
 TOCTitle: Administering a UCMA 5.0 application
 ms:assetid: 7f341709-38a6-424d-bae6-262c97c196e0
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466103(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466103(v=office.16)
 ms:contentKeyID: 65240031
 ms.date: 07/27/2015
 mtps_version: v=office.16

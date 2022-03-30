@@ -2,7 +2,7 @@
 title: ByeType complexType 
 TOCTitle: ByeType complexType
 ms:assetid: de32a302-767e-1a49-207d-b0e716f51c7b
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt429345(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt429345(v=office.16)
 ms:contentKeyID: 68250787
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: RawSDP element (MessageType complexType) 
 TOCTitle: RawSDP element
 ms:assetid: b2fedf2d-7c27-b2fc-534b-bbbb2ffc862c
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170954(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170954(v=office.16)
 ms:contentKeyID: 65855529
 ms.date: 08/24/2015
 mtps_version: v=office.16

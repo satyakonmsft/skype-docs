@@ -2,7 +2,7 @@
 title: ResponseCode element (ErrorProperties complexType) 
 TOCTitle: ResponseCode element (ErrorProperties complexType)
 ms:assetid: fe089740-a4c2-959a-3d9c-3e94b69cbe91
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404840(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404840(v=office.16)
 ms:contentKeyID: 68250752
 ms.date: 08/24/2015
 mtps_version: v=office.16

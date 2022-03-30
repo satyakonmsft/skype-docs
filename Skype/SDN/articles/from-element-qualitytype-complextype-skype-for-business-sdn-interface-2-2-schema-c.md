@@ -2,7 +2,7 @@
 title: From element (QualityType complexType) 
 TOCTitle: From element (QualityType complexType)
 ms:assetid: 426c035c-46a1-3793-ccc3-801556ed0a84
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404766(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404766(v=office.16)
 ms:contentKeyID: 68250674
 ms.date: 08/24/2015
 mtps_version: v=office.16

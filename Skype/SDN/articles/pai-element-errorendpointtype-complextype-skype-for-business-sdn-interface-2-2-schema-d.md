@@ -2,7 +2,7 @@
 title: PAI element (ErrorEndPointType complexType) 
 TOCTitle: PAI element (ErrorEndPointType complexType)
 ms:assetid: c6d816c1-e79a-37ae-29e2-75ea82ad0eab
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170938(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170938(v=office.16)
 ms:contentKeyID: 65855513
 ms.date: 08/24/2015
 mtps_version: v=office.16

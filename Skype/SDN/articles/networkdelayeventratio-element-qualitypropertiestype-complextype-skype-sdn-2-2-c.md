@@ -2,7 +2,7 @@
 title: NetworkDelayEventRatio element (QualityPropertiesType complexType) 
 TOCTitle: NetworkDelayEventRatio element
 ms:assetid: 44017134-b5b2-9615-46f2-060fbdcdaaf3
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404804(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404804(v=office.16)
 ms:contentKeyID: 68250716
 ms.date: 08/24/2015
 mtps_version: v=office.16

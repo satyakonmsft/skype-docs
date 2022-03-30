@@ -2,7 +2,7 @@
 title: Wireless element (ByeEndPointType complexType) 
 TOCTitle: Wireless element (ByeEndPointType complexType)
 ms:assetid: 64d9d8c9-e0a0-b20f-eb07-816bab463363
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171038(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171038(v=office.16)
 ms:contentKeyID: 65855612
 ms.date: 08/24/2015
 mtps_version: v=office.16

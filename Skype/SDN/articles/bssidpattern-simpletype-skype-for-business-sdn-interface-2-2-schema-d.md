@@ -2,7 +2,7 @@
 title: BSSIDPattern simpleType 
 TOCTitle: BSSIDPattern simpleType
 ms:assetid: 0b7aa4c4-9022-1da0-6fb3-1a9ff8581415
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171042(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171042(v=office.16)
 ms:contentKeyID: 65855616
 ms.date: 08/24/2015
 mtps_version: v=office.16

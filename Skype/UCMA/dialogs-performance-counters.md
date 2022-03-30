@@ -2,7 +2,7 @@
 title: Dialogs performance counters
 TOCTitle: Dialogs performance counters
 ms:assetid: 0be237dd-ea76-4e03-8426-c6f710ae77fe
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466108(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466108(v=office.16)
 ms:contentKeyID: 65240034
 ms.date: 07/27/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: ConnectionInfo element (MessageType complexType) 
 TOCTitle: ConnectionInfo element
 ms:assetid: f8d90b19-b999-277a-881b-f50ac080f820
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt149453(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt149453(v=office.16)
 ms:contentKeyID: 65855401
 ms.date: 08/24/2015
 mtps_version: v=office.16

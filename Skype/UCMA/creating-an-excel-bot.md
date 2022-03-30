@@ -2,7 +2,7 @@
 title: Creating an Excel bot
 TOCTitle: Creating an Excel bot
 ms:assetid: 10649396-2ea8-43c9-9dc6-bfcb77d6801d
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn454841(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn454841(v=office.16)
 ms:contentKeyID: 65240112
 ms.date: 07/27/2015
 mtps_version: v=office.16

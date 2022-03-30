@@ -2,7 +2,7 @@
 title: To element (EndedType complexType) 
 TOCTitle: To element (EndedType complexType)
 ms:assetid: 4bebfdcf-da3e-0927-11b2-dc011c90e574
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171009(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171009(v=office.16)
 ms:contentKeyID: 65855582
 ms.date: 08/24/2015
 mtps_version: v=office.16

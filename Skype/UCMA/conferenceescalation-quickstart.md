@@ -2,7 +2,7 @@
 title: ConferenceEscalation (QuickStart)
 TOCTitle: ConferenceEscalation (QuickStart)
 ms:assetid: f9865881-2532-4e22-83dc-e4db22a294ed
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn454824(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn454824(v=office.16)
 ms:contentKeyID: 65240091
 ms.date: 07/27/2015
 mtps_version: v=office.16

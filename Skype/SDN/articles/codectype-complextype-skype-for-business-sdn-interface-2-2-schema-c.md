@@ -2,7 +2,7 @@
 title: CodecType complexType 
 TOCTitle: CodecType complexType
 ms:assetid: 061b11a5-2930-6d09-31b0-1a9ed79757d4
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt429350(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt429350(v=office.16)
 ms:contentKeyID: 68250792
 ms.date: 08/24/2015
 mtps_version: v=office.16

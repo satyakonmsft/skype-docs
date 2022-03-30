@@ -2,7 +2,7 @@
 title: Replaces element (StartPropertiesType complexType) 
 TOCTitle: Replaces element
 ms:assetid: 4933dd76-abf7-9b98-1feb-c35184aafdf2
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170984(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170984(v=office.16)
 ms:contentKeyID: 65855558
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: ErrorType complexType 
 TOCTitle: ErrorType complexType
 ms:assetid: 889a7dba-4d3f-b2bd-9e78-62557a7bb35f
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171064(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171064(v=office.16)
 ms:contentKeyID: 65855637
 ms.date: 08/24/2015
 mtps_version: v=office.16

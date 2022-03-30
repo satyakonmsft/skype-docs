@@ -2,7 +2,7 @@
 title: Reference topology with high availability and multiple data center
 TOCTitle: Reference topology with high availability and multiple data center
 ms:assetid: 1e63f4ec-823a-4c39-b124-ea7ee729bb71
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465973(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465973(v=office.16)
 ms:contentKeyID: 65239899
 ms.date: 07/27/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: PacketLossRateMax element (QualityPropertiesType complexType) 
 TOCTitle: PacketLossRateMax element
 ms:assetid: 36ee4a9c-fd0a-00a8-b712-33c569e9b3c3
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404808(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404808(v=office.16)
 ms:contentKeyID: 68250720
 ms.date: 08/24/2015
 mtps_version: v=office.16

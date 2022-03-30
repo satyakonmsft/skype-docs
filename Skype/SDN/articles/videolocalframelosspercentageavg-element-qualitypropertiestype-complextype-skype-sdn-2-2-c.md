@@ -2,7 +2,7 @@
 title: VideoLocalFrameLossPercentageAvg element (QualityPropertiesType complexType) 
 TOCTitle: VideoLocalFrameLossPercentageAvg element
 ms:assetid: 92a61861-f3b9-c9cc-79e4-b5d378568681
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt429338(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt429338(v=office.16)
 ms:contentKeyID: 68250780
 ms.date: 08/24/2015
 mtps_version: v=office.16

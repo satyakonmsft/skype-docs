@@ -2,7 +2,7 @@
 title: Route element (MessageType complexType) 
 TOCTitle: Route element (MessageType complexType)
 ms:assetid: 3c183e98-7d93-0576-908a-19a75f522225
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404847(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404847(v=office.16)
 ms:contentKeyID: 68250759
 ms.date: 08/24/2015
 mtps_version: v=office.16

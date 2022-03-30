@@ -2,7 +2,7 @@
 title: Activating an auto-provisioned application
 TOCTitle: Activating an auto-provisioned application
 ms:assetid: 0f3a7547-8118-4b14-b88b-c8f4b5e5f99d
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466123(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466123(v=office.16)
 ms:contentKeyID: 65240051
 ms.date: 07/27/2015
 mtps_version: v=office.16

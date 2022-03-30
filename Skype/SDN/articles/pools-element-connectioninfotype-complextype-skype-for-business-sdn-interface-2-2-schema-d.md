@@ -2,7 +2,7 @@
 title: Pools element (ConnectionInfoType complexType) 
 TOCTitle: Pools element
 ms:assetid: df5bbcf3-8eaf-2728-00f3-7aabd0644019
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170941(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170941(v=office.16)
 ms:contentKeyID: 65855516
 ms.date: 08/24/2015
 mtps_version: v=office.16

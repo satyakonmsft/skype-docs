@@ -2,7 +2,7 @@
 title: OverallAvgNetworkMOS element (QualityPropertiesType complexType) 
 TOCTitle: OverallAvgNetworkMOS element
 ms:assetid: 4bd89431-d42b-1271-f30d-282c75c154b8
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404805(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404805(v=office.16)
 ms:contentKeyID: 68250717
 ms.date: 08/24/2015
 mtps_version: v=office.16

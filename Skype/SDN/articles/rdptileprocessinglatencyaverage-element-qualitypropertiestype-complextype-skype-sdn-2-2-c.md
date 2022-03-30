@@ -2,7 +2,7 @@
 title: RDPTileProcessingLatencyAverage element (QualityPropertiesType complexType) 
 TOCTitle: RDPTileProcessingLatencyAverage element
 ms:assetid: 3834019a-c55a-a348-f6bd-bd8ff2edaa99
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404822(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404822(v=office.16)
 ms:contentKeyID: 68250734
 ms.date: 08/24/2015
 mtps_version: v=office.16

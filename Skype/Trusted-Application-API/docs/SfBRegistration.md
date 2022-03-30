@@ -57,7 +57,7 @@ A tenant administrator must explicitly grant consent to allow your application t
 - **Callback uri** for the **Trusted Application API** to POST events to the application
 
 ### Additional information
-Read about [Skype for Business Online Scope Permissions](https://msdn.microsoft.com/en-us/skype/ucwa/skypeforbusinessonlinescopepermissions) to learn more about permissions.  
+Read about [Skype for Business Online Scope Permissions](https://msdn.microsoft.com/skype/ucwa/skypeforbusinessonlinescopepermissions) to learn more about permissions.  
 
 See [Tenant Admin Consent](./TenantAdminConsent.md) and the following for additional information:
-[Building Service Apps in Office 365](https://msdn.microsoft.com/en-us/office/office365/howto/building-service-apps-in-office-365)
+[Building Service Apps in Office 365](https://msdn.microsoft.com/office/office365/howto/building-service-apps-in-office-365)

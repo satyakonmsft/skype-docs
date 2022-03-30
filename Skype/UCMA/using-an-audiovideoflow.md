@@ -2,7 +2,7 @@
 title: Using an AudioVideoFlow
 TOCTitle: Using an AudioVideoFlow
 ms:assetid: 8d2f16be-724d-4d32-ad34-5ba3e65c80a6
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466032(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466032(v=office.16)
 ms:contentKeyID: 65239970
 ms.date: 07/27/2015
 mtps_version: v=office.16

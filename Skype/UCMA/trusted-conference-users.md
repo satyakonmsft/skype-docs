@@ -2,7 +2,7 @@
 title: Trusted conference users
 TOCTitle: Trusted conference users
 ms:assetid: a0dca201-f920-45ca-b2e4-2f0d43b315d7
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465963(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465963(v=office.16)
 ms:contentKeyID: 65239853
 ms.date: 07/27/2015
 mtps_version: v=office.16

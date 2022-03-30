@@ -2,7 +2,7 @@
 title: Deactivation best practices
 TOCTitle: Deactivation best practices
 ms:assetid: ac1ed606-5d62-463f-9891-1308b3cf31dc
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466141(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466141(v=office.16)
 ms:contentKeyID: 65240054
 ms.date: 07/27/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: EndPoint element (ByeType complexType) 
 TOCTitle: EndPoint element (ByeType complexType)
 ms:assetid: 0af8801d-8beb-57c7-e2e0-1ec2afe3de13
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170856(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170856(v=office.16)
 ms:contentKeyID: 65855431
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: CPUInsufficientEventRatio element (QualityPropertiesType complexType) 
 TOCTitle: CPUInsufficientEventRatio element
 ms:assetid: 5d166bb4-dba8-8ed2-97b1-9060a9d57839
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404731(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404731(v=office.16)
 ms:contentKeyID: 68250644
 ms.date: 08/24/2015
 mtps_version: v=office.16

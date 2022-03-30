@@ -2,7 +2,7 @@
 title: IP element (QualityEndPointType complexType) 
 TOCTitle: IP element (QualityEndPointType complexType)
 ms:assetid: d9950c42-43a3-1847-d97b-4e061addf302
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404779(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404779(v=office.16)
 ms:contentKeyID: 68250689
 ms.date: 08/24/2015
 mtps_version: v=office.16

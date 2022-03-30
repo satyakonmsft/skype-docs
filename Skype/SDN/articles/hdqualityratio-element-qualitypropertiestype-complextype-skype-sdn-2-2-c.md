@@ -2,7 +2,7 @@
 title: HDQualityRatio element (QualityPropertiesType complexType) 
 TOCTitle: HDQualityRatio element
 ms:assetid: 3b7948f9-7b30-7844-2421-a7ad70374709
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404769(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404769(v=office.16)
 ms:contentKeyID: 68250678
 ms.date: 08/24/2015
 mtps_version: v=office.16

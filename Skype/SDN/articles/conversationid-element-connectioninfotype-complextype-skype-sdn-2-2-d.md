@@ -2,7 +2,7 @@
 title: ConversationId element (ConnectionInfoType complexType) 
 TOCTitle: ConversationId element
 ms:assetid: 31565a06-0e5b-9007-0f64-3b7335dea067
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt149456(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt149456(v=office.16)
 ms:contentKeyID: 65855404
 ms.date: 08/24/2015
 mtps_version: v=office.16

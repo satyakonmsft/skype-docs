@@ -2,7 +2,7 @@
 title: CPUName element (QualityEndPointType complexType) 
 TOCTitle: CPUName element
 ms:assetid: 7ad77f85-f8fc-1620-2f11-b35193926311
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404733(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404733(v=office.16)
 ms:contentKeyID: 68250646
 ms.date: 08/24/2015
 mtps_version: v=office.16

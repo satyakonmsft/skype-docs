@@ -2,7 +2,7 @@
 title: EchoPercentMicIn element (QualityPropertiesType complexType) 
 TOCTitle: EchoPercentMicIn element
 ms:assetid: 16e4ae8e-31ed-f754-8805-3adc7a68dd25
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404751(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404751(v=office.16)
 ms:contentKeyID: 68250664
 ms.date: 08/24/2015
 mtps_version: v=office.16

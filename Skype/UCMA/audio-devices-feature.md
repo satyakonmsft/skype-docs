@@ -2,7 +2,7 @@
 title: Audio devices (feature)
 TOCTitle: Audio devices
 ms:assetid: ce151696-2fec-49f4-842a-fa5e69f625d7
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465951(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465951(v=office.16)
 ms:contentKeyID: 65239789
 ms.date: 07/27/2015
 mtps_version: v=office.16

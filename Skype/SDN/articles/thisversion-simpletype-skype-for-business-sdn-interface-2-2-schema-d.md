@@ -2,7 +2,7 @@
 title: ThisVersion simpleType 
 TOCTitle: ThisVersion simpleType
 ms:assetid: 571a287c-8368-f496-6adb-e2d9714d413e
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171052(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171052(v=office.16)
 ms:contentKeyID: 65855625
 ms.date: 08/24/2015
 mtps_version: v=office.16

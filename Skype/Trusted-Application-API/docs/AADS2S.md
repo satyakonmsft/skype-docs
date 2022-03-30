@@ -13,14 +13,14 @@ Please refer to the following information and examples for how to get an **Oauth
  
 ## Additional information
 
-[Building service aps in Office 365](https://msdn.microsoft.com/en-us/office/office365/howto/building-service-apps-in-office-365)
+[Building service aps in Office 365](https://msdn.microsoft.com/office/office365/howto/building-service-apps-in-office-365)
 
-[Active Directory authentication scenarios](https://azure.microsoft.com/en-us/documentation/articles/active-directory-authentication-scenarios)
+[Active Directory authentication scenarios](https://azure.microsoft.com/documentation/articles/active-directory-authentication-scenarios)
 
 [Active Directory Certificate Credentials](https://github.com/Azure-Samples/active-directory-dotnet-daemon-certificate-credential)
 
-[Configuring a custom domain name for an Azure cloud service](https://azure.microsoft.com/en-us/documentation/articles/cloud-services-custom-domain-name-portal)
+[Configuring a custom domain name for an Azure cloud service](https://azure.microsoft.com/documentation/articles/cloud-services-custom-domain-name-portal)
 
-[Authorize access to web applications using OAuth 2.0 and Azure Active Directory](https://msdn.microsoft.com/en-us/library/azure/dn645543.aspx)
+[Authorize access to web applications using OAuth 2.0 and Azure Active Directory](https://msdn.microsoft.com/library/azure/dn645543.aspx)
 
-[Authentication Scenarios for Azure AD](https://azure.microsoft.com/en-us/documentation/articles/active-directory-authentication-scenarios)
+[Authentication Scenarios for Azure AD](https://azure.microsoft.com/documentation/articles/active-directory-authentication-scenarios)

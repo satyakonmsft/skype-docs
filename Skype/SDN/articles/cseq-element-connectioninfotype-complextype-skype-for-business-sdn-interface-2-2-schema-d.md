@@ -2,7 +2,7 @@
 title: CSEQ element (ConnectionInfoType complexType) 
 TOCTitle: CSEQ element
 ms:assetid: 1f77eda5-0bee-f83b-9576-a6ea8187bafe
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt149464(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt149464(v=office.16)
 ms:contentKeyID: 65855411
 ms.date: 08/24/2015
 mtps_version: v=office.16

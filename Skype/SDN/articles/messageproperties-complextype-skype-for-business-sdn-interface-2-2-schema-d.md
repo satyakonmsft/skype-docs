@@ -2,7 +2,7 @@
 title: MessageProperties complexType 
 TOCTitle: MessageProperties complexType
 ms:assetid: f7c0c752-ecdc-55bc-dfe0-06998ec1e06f
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171066(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171066(v=office.16)
 ms:contentKeyID: 65855639
 ms.date: 08/24/2015
 mtps_version: v=office.16

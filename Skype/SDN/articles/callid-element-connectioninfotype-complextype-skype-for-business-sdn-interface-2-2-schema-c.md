@@ -2,7 +2,7 @@
 title: CallId element (ConnectionInfoType complexType) 
 TOCTitle: CallId element
 ms:assetid: 92558a4d-2a23-4e5e-6c4a-56e65bdf994f
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404717(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404717(v=office.16)
 ms:contentKeyID: 68250630
 ms.date: 08/24/2015
 mtps_version: v=office.16

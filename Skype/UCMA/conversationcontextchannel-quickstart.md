@@ -2,7 +2,7 @@
 title: ConversationContextChannel (QuickStart)
 TOCTitle: ConversationContextChannel (QuickStart)
 ms:assetid: 629b6197-eb45-4810-99fe-66bd44881d21
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn454821(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn454821(v=office.16)
 ms:contentKeyID: 65240094
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -20,7 +20,7 @@ The application initializes the platform to start listening on behalf of a user,
 
 ## Features
 
-  - [ConversationContextChannel](https://msdn.microsoft.com/en-us/library/hh161849\(v=office.16\)) establishment
+  - [ConversationContextChannel](https://msdn.microsoft.com/library/hh161849\(v=office.16\)) establishment
 
   - Sending context data to the remote user on the **ConversationContextChannel** instance
 

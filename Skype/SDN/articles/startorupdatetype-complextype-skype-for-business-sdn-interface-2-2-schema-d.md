@@ -2,7 +2,7 @@
 title: StartOrUpdateType complexType 
 TOCTitle: StartOrUpdateType complexType
 ms:assetid: 7023ae43-40d9-c4b8-d8eb-530cb383130e
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171075(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171075(v=office.16)
 ms:contentKeyID: 65855648
 ms.date: 08/24/2015
 mtps_version: v=office.16

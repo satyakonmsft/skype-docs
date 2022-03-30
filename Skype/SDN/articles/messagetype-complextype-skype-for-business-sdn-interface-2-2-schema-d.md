@@ -2,7 +2,7 @@
 title: MessageType complexType 
 TOCTitle: MessageType complexType
 ms:assetid: 7b0fdb3a-8f1f-9197-e3d6-d6490f10f410
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171068(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171068(v=office.16)
 ms:contentKeyID: 65855641
 ms.date: 08/24/2015
 mtps_version: v=office.16

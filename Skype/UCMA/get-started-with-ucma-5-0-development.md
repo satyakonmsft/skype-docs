@@ -2,7 +2,7 @@
 title: Get started with UCMA 5.0 development
 TOCTitle: Get started with development
 ms:assetid: aa9d3dc8-a16a-4c1a-a1a4-c07c79730193
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465959(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465959(v=office.16)
 ms:contentKeyID: 65239781
 ms.date: 07/27/2015
 mtps_version: v=office.16

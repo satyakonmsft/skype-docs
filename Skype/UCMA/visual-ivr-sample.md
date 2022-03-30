@@ -2,7 +2,7 @@
 title: Visual IVR (sample)
 TOCTitle: Visual IVR (sample)
 ms:assetid: fcc6ccb1-2b8e-4471-b863-2e7fe22b600f
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn454842(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn454842(v=office.16)
 ms:contentKeyID: 65240114
 ms.date: 07/27/2015
 mtps_version: v=office.16

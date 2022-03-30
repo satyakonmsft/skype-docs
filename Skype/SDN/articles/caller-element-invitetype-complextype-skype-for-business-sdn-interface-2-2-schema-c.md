@@ -2,7 +2,7 @@
 title: Caller element (InviteType complexType) 
 TOCTitle: Caller element
 ms:assetid: bb690f0a-6983-d676-bd58-10a2e4c414b9
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404715(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404715(v=office.16)
 ms:contentKeyID: 68250628
 ms.date: 08/24/2015
 mtps_version: v=office.16

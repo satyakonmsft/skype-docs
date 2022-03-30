@@ -2,7 +2,7 @@
 title: DeviceRenderNotFunctioningEventRatio element (QualityPropertiesType complexType) 
 TOCTitle: DeviceRenderNotFunctioningEventRatio element
 ms:assetid: a9e03e46-7197-bbe6-ad84-6a5fea1cfce5
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404748(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404748(v=office.16)
 ms:contentKeyID: 68250661
 ms.date: 08/24/2015
 mtps_version: v=office.16

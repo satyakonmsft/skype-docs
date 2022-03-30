@@ -2,7 +2,7 @@
 title: Ended element (MessageType complexType) 
 TOCTitle: Ended element
 ms:assetid: a5910d3e-5fd6-326e-4fa1-33697da7c879
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404753(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404753(v=office.16)
 ms:contentKeyID: 68250666
 ms.date: 08/24/2015
 mtps_version: v=office.16

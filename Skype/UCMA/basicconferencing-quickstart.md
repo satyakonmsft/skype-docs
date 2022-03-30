@@ -2,7 +2,7 @@
 title: BasicConferencing (QuickStart)
 TOCTitle: BasicConferencing (QuickStart)
 ms:assetid: 87398899-e1a8-48c4-9137-9ea2d741ac1c
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466142(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466142(v=office.16)
 ms:contentKeyID: 65240086
 ms.date: 07/27/2015
 mtps_version: v=office.16

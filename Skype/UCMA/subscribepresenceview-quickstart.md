@@ -2,7 +2,7 @@
 title: SubscribePresenceView (QuickStart)
 TOCTitle: SubscribePresenceView (QuickStart)
 ms:assetid: 4a3d3894-80f2-4553-b719-25cc7fce92fc
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn454838(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn454838(v=office.16)
 ms:contentKeyID: 65240102
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -18,7 +18,7 @@ mtps_version: v=office.16
 
 ## Description
 
-The application initializes the platform and endpoint and subscribes to a target user. The application uses two [RemotePresenceView](https://msdn.microsoft.com/en-us/library/hh381152\(v=office.16\)) objects, each configured with different [RemotePresenceViewSubscriptionMode](https://msdn.microsoft.com/en-us/library/hh381952\(v=office.16\)) values: **Persistent** and **Polling**.
+The application initializes the platform and endpoint and subscribes to a target user. The application uses two [RemotePresenceView](https://msdn.microsoft.com/library/hh381152\(v=office.16\)) objects, each configured with different [RemotePresenceViewSubscriptionMode](https://msdn.microsoft.com/library/hh381952\(v=office.16\)) values: **Persistent** and **Polling**.
 
 After the subscription is complete, the application listens for incoming notifications from a user logged in to Skype for Business 2015 and displays the notifications in the console.
 

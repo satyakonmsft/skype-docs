@@ -2,7 +2,7 @@
 title: MSDiagnosticsPublic element (EndedProperties complexType) 
 TOCTitle: MSDiagnosticsPublic element (EndedProperties complexType)
 ms:assetid: 767ed824-92f1-20fd-6931-0915d2eb3f3c
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404801(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404801(v=office.16)
 ms:contentKeyID: 68250713
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: DegradationPacketLossAvg element (QualityPropertiesType complexType) 
 TOCTitle: DegradationPacketLossAvg element
 ms:assetid: 8bc824af-dc45-1c2b-7aff-65519254dbfd
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt149471(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt149471(v=office.16)
 ms:contentKeyID: 65855417
 ms.date: 08/24/2015
 mtps_version: v=office.16

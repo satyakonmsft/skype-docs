@@ -2,7 +2,7 @@
 title: EPId element (ByeEndPointType complexType) 
 TOCTitle: EPId element (ByeEndPointType complexType)
 ms:assetid: 1f55a4c1-644a-6f94-b3c4-e96b7be56887
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170858(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170858(v=office.16)
 ms:contentKeyID: 65855433
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: Callee element (InviteType complexType) 
 TOCTitle: Callee element
 ms:assetid: 32714871-4bd4-3619-447b-3890c8177ad2
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt149439(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt149439(v=office.16)
 ms:contentKeyID: 65855384
 ms.date: 08/24/2015
 mtps_version: v=office.16

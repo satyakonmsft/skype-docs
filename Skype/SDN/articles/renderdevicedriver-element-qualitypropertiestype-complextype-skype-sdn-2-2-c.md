@@ -2,7 +2,7 @@
 title: RenderDeviceDriver element (QualityPropertiesType complexType) 
 TOCTitle: RenderDeviceDriver element
 ms:assetid: 76fb28d5-690a-1a1d-12fe-cec5e23e599b
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404839(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404839(v=office.16)
 ms:contentKeyID: 68250751
 ms.date: 08/24/2015
 mtps_version: v=office.16

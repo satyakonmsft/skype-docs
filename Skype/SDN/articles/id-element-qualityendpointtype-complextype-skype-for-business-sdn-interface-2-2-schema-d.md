@@ -2,7 +2,7 @@
 title: Id element (QualityEndPointType complexType) 
 TOCTitle: Id element (QualityEndPointType complexType)
 ms:assetid: ac00e7bb-45a8-b450-1088-13b9ecaba80e
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170890(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170890(v=office.16)
 ms:contentKeyID: 65855465
 ms.date: 08/24/2015
 mtps_version: v=office.16

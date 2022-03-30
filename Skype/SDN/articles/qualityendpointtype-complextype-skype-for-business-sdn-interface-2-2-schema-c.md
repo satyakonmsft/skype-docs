@@ -2,7 +2,7 @@
 title: QualityEndPointType complexType 
 TOCTitle: QualityEndPointType complexType
 ms:assetid: a7a18f94-9b7b-8138-f44a-679f7667c57a
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt429357(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt429357(v=office.16)
 ms:contentKeyID: 68250799
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: UCMA 5.0 SDK software and hardware requirements
 TOCTitle: Software and hardware requirements
 ms:assetid: 521f7820-f6ed-4706-905d-9802674ab029
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465960(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465960(v=office.16)
 ms:contentKeyID: 65239773
 ms.date: 07/27/2015
 mtps_version: v=office.16

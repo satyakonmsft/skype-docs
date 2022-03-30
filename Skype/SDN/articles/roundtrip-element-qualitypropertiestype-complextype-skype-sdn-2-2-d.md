@@ -2,7 +2,7 @@
 title: RoundTrip element (QualityPropertiesType complexType) 
 TOCTitle: RoundTrip element
 ms:assetid: a2a7cca8-5d43-efca-5e54-201a7a968966
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170988(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170988(v=office.16)
 ms:contentKeyID: 65855563
 ms.date: 08/24/2015
 mtps_version: v=office.16

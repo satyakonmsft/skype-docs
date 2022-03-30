@@ -2,7 +2,7 @@
 title: HostIP element (ByeEndPointType complexType) 
 TOCTitle: HostIP element (ByeEndPointType complexType)
 ms:assetid: 6e4a481a-9960-5cf1-afdb-00bbba051c02
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170880(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170880(v=office.16)
 ms:contentKeyID: 65855454
 ms.date: 08/24/2015
 mtps_version: v=office.16

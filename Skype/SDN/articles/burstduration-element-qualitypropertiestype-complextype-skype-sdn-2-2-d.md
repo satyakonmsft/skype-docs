@@ -2,7 +2,7 @@
 title: BurstDuration element (QualityPropertiesType complexType) 
 TOCTitle: BurstDuration element
 ms:assetid: d486a2e7-9431-9d6c-7018-53a7779ada11
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt149435(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt149435(v=office.16)
 ms:contentKeyID: 65855386
 ms.date: 08/24/2015
 mtps_version: v=office.16

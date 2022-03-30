@@ -2,7 +2,7 @@
 title: Transferring a call
 TOCTitle: Transferring a call
 ms:assetid: 0ad597a8-d002-4708-9879-f7335a5f02f5
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465979(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465979(v=office.16)
 ms:contentKeyID: 65239932
 ms.date: 07/27/2015
 mtps_version: v=office.16

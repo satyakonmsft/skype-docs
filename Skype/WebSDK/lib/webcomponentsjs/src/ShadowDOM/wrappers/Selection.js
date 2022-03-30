@@ -56,7 +56,7 @@
   };
 
   // Not all browsers support Selection.extend. IE does not support extend.
-  // https://msdn.microsoft.com/en-us/library/ie/ms535869%28v=vs.85%29.aspx
+  // https://msdn.microsoft.com/library/ie/ms535869%28v=vs.85%29.aspx
   // Code that checks if extend exists in the Selection would
   // fail the test if we define extend on the wrapper and it does not exist in
   // the browser Selection object.

@@ -2,7 +2,7 @@
 title: URI element (QualityEndPointType complexType) 
 TOCTitle: URI element (QualityEndPointType complexType)
 ms:assetid: 5238e325-ef0b-0f9d-9812-c1b9471e2c5c
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171017(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171017(v=office.16)
 ms:contentKeyID: 65855590
 ms.date: 08/24/2015
 mtps_version: v=office.16

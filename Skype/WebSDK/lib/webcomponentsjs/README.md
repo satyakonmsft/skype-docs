@@ -115,7 +115,7 @@ For a full explanation on the implementation and both the possibilities and the 
 ### Element wrapping / unwrapping limitations <a id="wrapping"></a>
 The Shadow DOM polyfill is implemented by [wrapping](http://webcomponents.org/polyfills/shadow-dom/#wrappers) DOM elements whenever possible. It does this by wrapping methods like `document.querySelector` to return wrapped DOM elements. This has a few caveats:
    * Not _everything_ can be wrapped. For example, elements like `document`, `window`, `document.body`, `document.fullscreenElement` and others are non-configurable and thus cannot be overridden.
-   * Wrappers don't support [live NodeLists](https://developer.mozilla.org/en-US/docs/Web/API/NodeList#A_sometimes-live_collection) like `HTMLElement.childNodes` and `HTMLFormElement.elements`. All NodeLists are snapshotted upon read. See [#217](https://github.com/webcomponents/webcomponentsjs/issues/217) for an explanation.
+   * Wrappers don't support [live NodeLists](https://developer.mozilla.org/docs/Web/API/NodeList#A_sometimes-live_collection) like `HTMLElement.childNodes` and `HTMLFormElement.elements`. All NodeLists are snapshotted upon read. See [#217](https://github.com/webcomponents/webcomponentsjs/issues/217) for an explanation.
 
 In order to work around these limitations the polyfill provides the `ShadowDOMPolyfill.wrap` and `ShadowDOMPolyfill.unwrap` methods to respectively wrap and unwrap DOM elements manually.
 

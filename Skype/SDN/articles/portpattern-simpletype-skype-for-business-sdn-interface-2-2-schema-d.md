@@ -2,7 +2,7 @@
 title: PortPattern simpleType 
 TOCTitle: PortPattern simpleType
 ms:assetid: 48777069-7002-0023-cc09-98381b13305f
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171051(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171051(v=office.16)
 ms:contentKeyID: 65855622
 ms.date: 08/24/2015
 mtps_version: v=office.16

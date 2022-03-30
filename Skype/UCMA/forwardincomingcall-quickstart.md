@@ -2,7 +2,7 @@
 title: ForwardIncomingCall (QuickStart)
 TOCTitle: ForwardIncomingCall (QuickStart)
 ms:assetid: 33f4303f-c3dc-47e5-b44e-3edfeb666a5e
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn454826(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn454826(v=office.16)
 ms:contentKeyID: 65240095
 ms.date: 07/27/2015
 mtps_version: v=office.16

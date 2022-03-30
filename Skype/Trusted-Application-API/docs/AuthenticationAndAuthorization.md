@@ -13,9 +13,9 @@ The client receives a 401 challenge in a response. The client responds to the au
 
 ## Additional information
 
-- [Authorize access to web applications using OAuth 2.0 and Azure Active Directory](https://msdn.microsoft.com/en-us/library/azure/dn645543.aspx)
+- [Authorize access to web applications using OAuth 2.0 and Azure Active Directory](https://msdn.microsoft.com/library/azure/dn645543.aspx)
 
-- [Authentication Scenarios for Azure AD](https://azure.microsoft.com/en-us/documentation/articles/active-directory-authentication-scenarios)
+- [Authentication Scenarios for Azure AD](https://azure.microsoft.com/documentation/articles/active-directory-authentication-scenarios)
 
  
 ## Authentication details

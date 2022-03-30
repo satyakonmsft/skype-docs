@@ -2,7 +2,7 @@
 title: DSCPInbound element (QualityEndPointType complexType) 
 TOCTitle: DSCPInbound element
 ms:assetid: 43df1365-0092-d7cf-daf1-48c6ae037399
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170852(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170852(v=office.16)
 ms:contentKeyID: 65855425
 ms.date: 08/24/2015
 mtps_version: v=office.16

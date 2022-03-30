@@ -2,7 +2,7 @@
 title: Error element (MessageType complexType) 
 TOCTitle: Error element
 ms:assetid: b5823ee0-aafa-4094-2ad4-d0c5b480eb50
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404763(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404763(v=office.16)
 ms:contentKeyID: 68250680
 ms.date: 08/24/2015
 mtps_version: v=office.16

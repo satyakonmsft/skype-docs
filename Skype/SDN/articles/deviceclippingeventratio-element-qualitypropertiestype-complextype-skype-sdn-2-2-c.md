@@ -2,7 +2,7 @@
 title: DeviceClippingEventRatio element (QualityPropertiesType complexType) 
 TOCTitle: DeviceClippingEventRatio element
 ms:assetid: 0f6035dc-191b-ea50-1358-c7d1062b58ad
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404741(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404741(v=office.16)
 ms:contentKeyID: 68250654
 ms.date: 08/24/2015
 mtps_version: v=office.16

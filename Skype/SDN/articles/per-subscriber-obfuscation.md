@@ -2,7 +2,7 @@
 title: Per Subscriber Obfuscation
 TOCTitle: Per Subscriber Obfuscation
 ms:assetid: d7fee767-9dbb-4ec0-9d20-3de741e79079
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt683864(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt683864(v=office.16)
 ms:contentKeyID: 72245470
 ms.date: 02/27/2017
 mtps_version: v=office.16

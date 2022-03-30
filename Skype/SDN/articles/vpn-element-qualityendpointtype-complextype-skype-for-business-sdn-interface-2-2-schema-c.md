@@ -2,7 +2,7 @@
 title: VPN element (QualityEndPointType complexType) 
 TOCTitle: VPN element
 ms:assetid: 66d80682-5784-bd55-6e4c-ee2b54d13212
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt429342(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt429342(v=office.16)
 ms:contentKeyID: 68250784
 ms.date: 08/24/2015
 mtps_version: v=office.16

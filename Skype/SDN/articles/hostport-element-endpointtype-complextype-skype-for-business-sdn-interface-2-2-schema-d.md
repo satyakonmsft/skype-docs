@@ -2,7 +2,7 @@
 title: HostPort element (EndPointType complexType) 
 TOCTitle: HostPort element (EndPointType complexType)
 ms:assetid: 7d7e5286-26ff-521e-2bfb-164aa97c9502
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170883(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170883(v=office.16)
 ms:contentKeyID: 65855457
 ms.date: 08/24/2015
 mtps_version: v=office.16

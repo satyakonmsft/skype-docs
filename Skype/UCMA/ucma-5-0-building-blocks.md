@@ -2,7 +2,7 @@
 title: UCMA 5.0 building blocks
 TOCTitle: UCMA 5.0 building blocks
 ms:assetid: 8ca81f41-3f8c-427c-a9a4-18d16672a725
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465945(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465945(v=office.16)
 ms:contentKeyID: 65239861
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -29,15 +29,15 @@ An endpoint (represented as a [UserEndpoint](https://docs.microsoft.com/dotnet/a
 An endpoint can use this functionality to:
 
 
-- Initiate and manage a conversation (the [GetConversations()](https://msdn.microsoft.com/en-us/library/hh349978\(v=office.16\)) method).
+- Initiate and manage a conversation (the [GetConversations()](https://msdn.microsoft.com/library/hh349978\(v=office.16\)) method).
 
-- Schedule and manage conferences offline (the [ConferenceServices](https://msdn.microsoft.com/en-us/library/hh161814\(v=office.16\)) property).
+- Schedule and manage conferences offline (the [ConferenceServices](https://msdn.microsoft.com/library/hh161814\(v=office.16\)) property).
 
-- Subscribe to the presence of remote presentities (the [PresenceServices](https://msdn.microsoft.com/en-us/library/hh384331\(v=office.16\)) property.
+- Subscribe to the presence of remote presentities (the [PresenceServices](https://msdn.microsoft.com/library/hh384331\(v=office.16\)) property.
 
-- Publish presence for the endpoint owner (the [PresenceServices](https://msdn.microsoft.com/en-us/library/hh384331\(v=office.16\)) and [LocalOwnerPresence](https://msdn.microsoft.com/en-us/library/hh348476\(v=office.16\)) properties).
+- Publish presence for the endpoint owner (the [PresenceServices](https://msdn.microsoft.com/library/hh384331\(v=office.16\)) and [LocalOwnerPresence](https://msdn.microsoft.com/library/hh348476\(v=office.16\)) properties).
 
-- Manage contacts and groups (the [ContactGroupServices](https://msdn.microsoft.com/en-us/library/hh383122\(v=office.16\)) property).
+- Manage contacts and groups (the [ContactGroupServices](https://msdn.microsoft.com/library/hh383122\(v=office.16\)) property).
     
 > [!IMPORTANT]
 > The **ContactGroupServices** property is present only on a **UserEndpoint** object. For more information, see [Endpoint services](endpoint-services.md).
@@ -70,27 +70,27 @@ Each of the top-level feature areas described in [Key features of UCMA 5.0](key-
 <tr class="odd">
 <td><p>Conversation</p></td>
 <td><p>Communication</p></td>
-<td><p><a href="https://msdn.microsoft.com/en-us/library/hh349224(v=office.16)">Conversation</a></p></td>
+<td><p><a href="https://msdn.microsoft.com/library/hh349224(v=office.16)">Conversation</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Conference scheduling and management</p></td>
 <td><p>Communication</p></td>
-<td><p><a href="https://msdn.microsoft.com/en-us/library/hh348907(v=office.16)">ConferenceServices</a></p></td>
+<td><p><a href="https://msdn.microsoft.com/library/hh348907(v=office.16)">ConferenceServices</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Presence publishing</p></td>
 <td><p>Collaboration</p></td>
-<td><p><a href="https://msdn.microsoft.com/en-us/library/hh350157(v=office.16)">LocalEndpointPresenceServices</a> and <a href="https://msdn.microsoft.com/en-us/library/hh382370(v=office.16)">LocalOwnerPresence</a></p></td>
+<td><p><a href="https://msdn.microsoft.com/library/hh350157(v=office.16)">LocalEndpointPresenceServices</a> and <a href="https://msdn.microsoft.com/library/hh382370(v=office.16)">LocalOwnerPresence</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Presence subscription</p></td>
 <td><p>Collaboration</p></td>
-<td><p><a href="https://msdn.microsoft.com/en-us/library/hh381152(v=office.16)">RemotePresenceView</a></p></td>
+<td><p><a href="https://msdn.microsoft.com/library/hh381152(v=office.16)">RemotePresenceView</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Contacts and groups</p></td>
 <td><p>Collaboration</p></td>
-<td><p><a href="https://msdn.microsoft.com/en-us/library/hh381099(v=office.16)">ContactGroupServices</a></p></td>
+<td><p><a href="https://msdn.microsoft.com/library/hh381099(v=office.16)">ContactGroupServices</a></p></td>
 </tr>
 </tbody>
 </table>

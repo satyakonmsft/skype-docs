@@ -2,7 +2,7 @@
 title: CaptureDeviceDriver element (QualityPropertiesType complexType) 
 TOCTitle: CaptureDeviceDriver element
 ms:assetid: f5829bac-c006-8001-da5d-5bfeca9d8d12
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt149443(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt149443(v=office.16)
 ms:contentKeyID: 65855390
 ms.date: 08/24/2015
 mtps_version: v=office.16

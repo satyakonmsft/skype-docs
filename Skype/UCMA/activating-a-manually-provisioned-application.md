@@ -2,7 +2,7 @@
 title: Activating a manually-provisioned application
 TOCTitle: Activating a manually-provisioned application
 ms:assetid: 26903c64-1b34-4473-9d9e-67070655890c
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466122(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466122(v=office.16)
 ms:contentKeyID: 65240052
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -45,7 +45,7 @@ The following procedure shows the steps required to manually provision an applic
         client.contoso.com   sip:client.contoso.com@contoso.com; gruu Opaque=srvr:ucmasampleapplication:yDUhQWqi81WfJXFUvMAwtwAA
    ```
 
-5. Copy the GRUU string for the computer FQDN, taking care to remove any line breaks. You will need to provide this value and additional information when the [ServerPlatformSettings](https://msdn.microsoft.com/en-us/library/hh382156\(v=office.16\)) instance is constructed.
+5. Copy the GRUU string for the computer FQDN, taking care to remove any line breaks. You will need to provide this value and additional information when the [ServerPlatformSettings](https://msdn.microsoft.com/library/hh382156\(v=office.16\)) instance is constructed.
     
    > [!NOTE]
    > A service GRUU can be used in a single-computer pool (a pool in which the computer FQDN is the same as the pool FQDN). However, if additional computers are added to that pool, the use of the service GRUU should be discontinued and the computer GRUU used instead.

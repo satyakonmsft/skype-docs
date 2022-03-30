@@ -2,7 +2,7 @@
 title: DeclineIncomingCall (QuickStart)
 TOCTitle: DeclineIncomingCall (QuickStart)
 ms:assetid: 72db6c20-e348-489d-bf98-160d72329a4d
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn454825(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn454825(v=office.16)
 ms:contentKeyID: 65240093
 ms.date: 07/27/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: Player (QuickStart)
 TOCTitle: Player (QuickStart)
 ms:assetid: 479967c3-7fc8-4884-83f7-ea92c9893026
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn454813(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn454813(v=office.16)
 ms:contentKeyID: 65240077
 ms.date: 07/27/2015
 mtps_version: v=office.16

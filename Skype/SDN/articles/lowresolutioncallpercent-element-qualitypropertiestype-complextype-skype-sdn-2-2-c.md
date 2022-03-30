@@ -2,7 +2,7 @@
 title: LowResolutionCallPercent element (QualityPropertiesType complexType) 
 TOCTitle: LowResolutionCallPercent element
 ms:assetid: c8c036e0-6579-f286-0523-84cf39516a4b
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404786(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404786(v=office.16)
 ms:contentKeyID: 68250696
 ms.date: 08/24/2015
 mtps_version: v=office.16

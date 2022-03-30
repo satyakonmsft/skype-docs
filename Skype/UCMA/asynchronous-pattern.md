@@ -2,7 +2,7 @@
 title: Asynchronous pattern
 TOCTitle: Asynchronous pattern
 ms:assetid: 74da9223-e635-43cf-9e98-d9c7f8a6be38
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466078(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466078(v=office.16)
 ms:contentKeyID: 65240010
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -13,7 +13,7 @@ mtps_version: v=office.16
 
 **Applies to**: Skype for Business 2015
 
-Microsoft Unified Communications Managed API 5.0 is designed for middle-tier applications, for which performance is one of the most important goals. To provide this performance and to be consistent with the previous releases,UCMA 5.0 supports the **BeginXxx**/**EndXxx** pattern to implement asynchronous operations. The application programmer is expected to be familiar with this usage pattern. For more information, see [Asynchronous Programming Overview](https://msdn.microsoft.com/en-us/library/ms228963.aspx).
+Microsoft Unified Communications Managed API 5.0 is designed for middle-tier applications, for which performance is one of the most important goals. To provide this performance and to be consistent with the previous releases,UCMA 5.0 supports the **BeginXxx**/**EndXxx** pattern to implement asynchronous operations. The application programmer is expected to be familiar with this usage pattern. For more information, see [Asynchronous Programming Overview](https://msdn.microsoft.com/library/ms228963.aspx).
 
   - UCMA 5.0 supports the extensibility of the **Call** and **MediaProvider** classes. Those who provide these extensions are expected to provide an API that is consistent with UCMA 5.0. This includes implementing asynchronous operations using **BeginXxx**/**EndXxx** methods, and using queue mechanisms as defined in [Queue usage model](queue-usage-model.md). For more information about extending the **Call** and **MediaProvider** classes, see the [Extending the UCMA platform](extending-the-ucma-platform.md) group of topics.
 

@@ -2,7 +2,7 @@
 title: Planning performance counters
 TOCTitle: Planning performance counters
 ms:assetid: 65c181e5-5817-431f-aa4f-3fc6179d3a6c
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466089(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466089(v=office.16)
 ms:contentKeyID: 65240041
 ms.date: 07/27/2015
 mtps_version: v=office.16

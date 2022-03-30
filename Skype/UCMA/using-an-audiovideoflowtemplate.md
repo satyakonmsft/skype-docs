@@ -2,7 +2,7 @@
 title: Using an AudioVideoFlowTemplate
 TOCTitle: Using an AudioVideoFlowTemplate
 ms:assetid: d73d357f-5fe1-4a7d-b1c6-be1a2dec2882
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466033(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466033(v=office.16)
 ms:contentKeyID: 65239969
 ms.date: 07/27/2015
 mtps_version: v=office.16

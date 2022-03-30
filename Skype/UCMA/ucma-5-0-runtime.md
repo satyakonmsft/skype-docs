@@ -2,7 +2,7 @@
 title: UCMA 5.0 Runtime (Unified Communications Managed API 5.0)
 TOCTitle: UCMA 5.0 Runtime
 ms:assetid: 90679514-7bec-4a91-be50-f1020080a60a
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466090(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466090(v=office.16)
 ms:contentKeyID: 65240032
 ms.date: 07/27/2015
 mtps_version: v=office.16

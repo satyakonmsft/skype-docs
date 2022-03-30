@@ -2,7 +2,7 @@
 title: SpoiledTilePercentAverage element (QualityPropertiesType complexType) 
 TOCTitle: SpoiledTilePercentAverage element
 ms:assetid: caffd8d9-eb35-5659-0c24-b57439e1c41e
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170997(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170997(v=office.16)
 ms:contentKeyID: 65855571
 ms.date: 08/24/2015
 mtps_version: v=office.16

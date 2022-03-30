@@ -2,7 +2,7 @@
 title: MSDiagnosticsClient element (EndedProperties complexType) 
 TOCTitle: MSDiagnosticsClient element (EndedProperties complexType)
 ms:assetid: 4611fb54-c4fe-605d-0554-b3f47b16c7d3
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170923(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170923(v=office.16)
 ms:contentKeyID: 65855497
 ms.date: 08/24/2015
 mtps_version: v=office.16

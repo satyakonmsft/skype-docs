@@ -2,7 +2,7 @@
 title: Installing UCMA 5.0 SDK
 TOCTitle: Installing UCMA 5.0 SDK
 ms:assetid: 717f597d-2845-4310-af5b-bdd158d55ab7
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465970(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465970(v=office.16)
 ms:contentKeyID: 65239782
 ms.date: 07/27/2015
 mtps_version: v=office.16
@@ -19,7 +19,7 @@ For information on uninstalling this SDK, see [Uninstalling UCMA 5.0 SDK](uninst
 
 ## Install UCMA 5.0 SDK
 
-1.  Download [UcmaSdkSetup.exe](https://www.microsoft.com/en-us/download/details.aspx?id=47345).
+1.  Download [UcmaSdkSetup.exe](https://www.microsoft.com/download/details.aspx?id=47345).
 
 2.  Launch UcmaSdkSetup.exe and follow the instructions on the screens that are displayed to accept the EULA and choose an installation location.
     

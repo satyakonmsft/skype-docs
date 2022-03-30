@@ -2,7 +2,7 @@
 title: Reference topology with limited high availability
 TOCTitle: Reference topology with limited high availability
 ms:assetid: a75b53a5-4951-4a2e-b261-55b1a4bf891b
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465969(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465969(v=office.16)
 ms:contentKeyID: 65239886
 ms.date: 06/21/2019
 mtps_version: v=office.16

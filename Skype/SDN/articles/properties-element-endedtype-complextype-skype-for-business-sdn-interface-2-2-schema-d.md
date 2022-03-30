@@ -2,7 +2,7 @@
 title: Properties element (EndedType complexType) 
 TOCTitle: Properties element (EndedType complexType)
 ms:assetid: 7a607432-3307-04e8-04b7-916390c2ca3e
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170951(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170951(v=office.16)
 ms:contentKeyID: 65855525
 ms.date: 08/24/2015
 mtps_version: v=office.16

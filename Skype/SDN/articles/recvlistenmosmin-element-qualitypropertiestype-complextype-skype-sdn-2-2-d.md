@@ -2,7 +2,7 @@
 title: RecvListenMOSMin element (QualityPropertiesType complexType) 
 TOCTitle: RecvListenMOSMin element
 ms:assetid: 2314a370-96c9-db30-62cd-1a7552f47e33
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170961(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170961(v=office.16)
 ms:contentKeyID: 65855536
 ms.date: 08/24/2015
 mtps_version: v=office.16

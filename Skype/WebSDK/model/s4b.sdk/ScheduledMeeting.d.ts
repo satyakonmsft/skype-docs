@@ -13,7 +13,7 @@ declare module jCafe {
      * Then the URI can be sent to attendees and they can join.
      *
      * See also how to schedule online meetings with UCWA:
-     * msdn.microsoft.com/en-us/library/office/dn356790.aspx
+     * msdn.microsoft.com/library/office/dn356790.aspx
      */
     export interface ScheduledMeeting {
         onlineMeetingUri: Property<string>;

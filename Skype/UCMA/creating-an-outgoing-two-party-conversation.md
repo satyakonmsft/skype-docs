@@ -2,7 +2,7 @@
 title: Creating an outgoing two-party conversation
 TOCTitle: Creating an outgoing two-party conversation
 ms:assetid: 67b43d59-9f40-4d80-82cf-365acdae078f
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465980(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465980(v=office.16)
 ms:contentKeyID: 65239921
 ms.date: 07/27/2015
 mtps_version: v=office.16

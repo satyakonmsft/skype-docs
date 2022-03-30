@@ -2,7 +2,7 @@
 title: Standalone IVR application
 TOCTitle: Standalone IVR application
 ms:assetid: e824ca31-c9fa-4ba6-99de-bdc090e3547c
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465937(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn465937(v=office.16)
 ms:contentKeyID: 65239774
 ms.date: 07/27/2015
 mtps_version: v=office.16

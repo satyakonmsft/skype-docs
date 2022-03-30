@@ -2,7 +2,7 @@
 title: CorrelationId element (ConnectionInfoType complexType) 
 TOCTitle: CorrelationId element
 ms:assetid: 118155e4-cf54-47be-c7fd-d81c07e8e2c6
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt149459(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt149459(v=office.16)
 ms:contentKeyID: 65855406
 ms.date: 08/24/2015
 mtps_version: v=office.16

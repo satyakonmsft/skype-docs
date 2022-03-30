@@ -2,7 +2,7 @@
 title: Codec element (StartPropertiesType complexType) 
 TOCTitle: Codec element (StartPropertiesType complexType)
 ms:assetid: 580d5efd-e174-cc1d-9992-15d996f7cfe3
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404719(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404719(v=office.16)
 ms:contentKeyID: 68250632
 ms.date: 08/24/2015
 mtps_version: v=office.16

@@ -2,7 +2,7 @@
 title: Port element (InviteEndPointType complexType) 
 TOCTitle: Port element (InviteEndPointType complexType)
 ms:assetid: 37170cf5-a271-e705-d91c-189e0528eec2
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170944(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170944(v=office.16)
 ms:contentKeyID: 65855519
 ms.date: 08/24/2015
 mtps_version: v=office.16

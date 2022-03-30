@@ -2,7 +2,7 @@
 title: Signaling layer (Unified Communications Managed API 5.0)
 TOCTitle: Signaling layer
 ms:assetid: 994070d8-7071-4457-9796-53e5c680964e
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466046(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Dn466046(v=office.16)
 ms:contentKeyID: 65239986
 ms.date: 07/27/2015
 mtps_version: v=office.16

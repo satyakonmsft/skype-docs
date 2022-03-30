@@ -2,7 +2,7 @@
 title: Skype for Business SDN Interface Release Notes
 TOCTitle: Skype for Business SDN Interface Release Notes
 ms:assetid: 726f613b-4639-4433-85db-50a572778ab8
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt269085(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt269085(v=office.16)
 ms:contentKeyID: 66262507
 ms.date: 02/27/2017
 mtps_version: v=office.16
@@ -85,7 +85,7 @@ The following bugs have been fixed in SDN 3.0:
     
     An actionable error, like: "Error: Aborting because COMPUTERNAME was not specified".
 
-  - Connection attempts using SSL from Dialog Listener to an SDN Manager installed on WS2008R2 fails. WS2008R2 machines do not support TLS1.2 by default. When hosting SDN Manager, the host must enable TLS1.2 support in its registry. See [TLS/SSL Settings](https://technet.microsoft.com/en-us/library/dn786418\(v=ws.11\).aspx)
+  - Connection attempts using SSL from Dialog Listener to an SDN Manager installed on WS2008R2 fails. WS2008R2 machines do not support TLS1.2 by default. When hosting SDN Manager, the host must enable TLS1.2 support in its registry. See [TLS/SSL Settings](https://technet.microsoft.com/library/dn786418\(v=ws.11\).aspx)
 
   - Support for Lync 2010 is now deprecated.
 
@@ -97,5 +97,5 @@ The following bugs have been fixed in SDN 3.0:
 
 ## See also
 
-  - [Skype for Business SDN Interface schema reference](https://msdn.microsoft.com/en-us/library/dn965442\(v=office.16\))
+  - [Skype for Business SDN Interface schema reference](https://msdn.microsoft.com/library/dn965442\(v=office.16\))
 

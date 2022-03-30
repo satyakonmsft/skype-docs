@@ -2,7 +2,7 @@
 title: Hop element (RouteType complexType) 
 TOCTitle: Hop element
 ms:assetid: 086a46d4-2089-311f-452f-53445f6549ef
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt404771(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt404771(v=office.16)
 ms:contentKeyID: 68250679
 ms.date: 08/24/2015
 mtps_version: v=office.16

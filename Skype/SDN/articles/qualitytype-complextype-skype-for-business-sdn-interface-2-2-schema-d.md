@@ -2,7 +2,7 @@
 title: QualityType complexType 
 TOCTitle: QualityType complexType
 ms:assetid: 300b4904-2f47-ee80-bc52-0598bbc9dfe7
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt171073(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt171073(v=office.16)
 ms:contentKeyID: 65855646
 ms.date: 08/24/2015
 mtps_version: v=office.16

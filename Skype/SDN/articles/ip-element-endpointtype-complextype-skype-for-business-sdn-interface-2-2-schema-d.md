@@ -2,7 +2,7 @@
 title: IP element (EndPointType complexType) 
 TOCTitle: IP element (EndPointType complexType)
 ms:assetid: f207252f-2279-c8c0-4754-81c6f8b798ee
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt170904(v=office.16)
+ms:mtpsurl: https://msdn.microsoft.com/library/Mt170904(v=office.16)
 ms:contentKeyID: 65855479
 ms.date: 08/24/2015
 mtps_version: v=office.16
