@@ -5,7 +5,7 @@ ms.assetid: 96830fcf-2a72-4a2a-8b3b-b523e0e8f4cd
 ---
 
 
-# Appendix to Skype for Business SDN Interface
+# Skype for Business SDN Interface Appendix
 
  **Applies to**: Lync Server 2013 | Skype for Business 2015
 
