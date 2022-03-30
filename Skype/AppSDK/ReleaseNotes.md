@@ -1,4 +1,11 @@
+---
+title: 'Release Notes'
+description: 'Skype for Business App SDK General Availability - Release Notes
+ms.date: 03/30/2022
+---
+
 # Release Notes
+
 Skype for Business App SDK General Availability - Release Notes
 
 - Mute State - The local participants mute state and API to change the it are exposed on the AudioService.
