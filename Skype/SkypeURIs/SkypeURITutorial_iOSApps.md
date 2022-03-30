@@ -13,7 +13,7 @@ Learn how to incorporate Skype communication functionality into your iOS apps.
 ## Use Skype URIs in your iOS apps
 
 You can use Skype URIs in your iOS apps; for example, tapping a contact's picture might start a Skype audio call. After 
-you have constructed the appropriate Skype URI, simply use  **openURL** to initiate its actions.
+you have constructed the appropriate Skype URI, simply use **openURL** to initiate its actions.
 
 ```
 - (IBAction)skypeMe:(id)sender
@@ -34,7 +34,7 @@ you have constructed the appropriate Skype URI, simply use  **openURL** to initi
 
 ## Determine whether a Skype client is installed
 
-Your iOS app can simply pass the  **skype:** scheme to **canOpenURL** to determine whether a Skype client is installed 
+Your iOS app can simply pass the **skype:** scheme to **canOpenURL** to determine whether a Skype client is installed 
 on the device. A return value of **true** indicates that the Skype client is installed.
 
 

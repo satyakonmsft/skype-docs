@@ -42,7 +42,7 @@ Azure Communication Service SDKs are designed with a substantially different API
 
 To use Graph and ACS SDKs as an SfB Web SDK replacement, you will leverage these features:
 
-| Product   | **Feature**                                                                             |  **Status**     |
+| Product   | **Feature**                                                                             | **Status**     |
 |:----------|:----------------------------------------------------------------------------------------|:----------------|
 | **Graph** | Log-in a user to M365                                                                   | [Available Today](/graph/auth.md) |
 | **Graph** | Set presence                                                                            | [Available Today](/graph/api/presence-setpresence.md)  |

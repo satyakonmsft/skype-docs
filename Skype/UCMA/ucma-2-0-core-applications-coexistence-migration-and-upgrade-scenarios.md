@@ -36,7 +36,7 @@ The following illustration shows this topology.
 
 3.  Verify that the UCMA 2.0 application is running and is configured correctly.
 
-4.  **Migrate trusted service entries using Microsoft Lync Server 2010 Topology Builder or PowerShell cmdlets.** This is the key step of this scenario. For more information, see the relevant section in [Migration and coexistence details (UCMA 2.0 and UCMA 3.0)](migration-and-coexistence-details-ucma-2-0-and-ucma-3-0.md).
+4. **Migrate trusted service entries using Microsoft Lync Server 2010 Topology Builder or PowerShell cmdlets.** This is the key step of this scenario. For more information, see the relevant section in [Migration and coexistence details (UCMA 2.0 and UCMA 3.0)](migration-and-coexistence-details-ucma-2-0-and-ucma-3-0.md).
 
 5.  Verify that the trusted service entries in the previous step were successfully migrated. See the relevant section in [Migration and coexistence details (UCMA 2.0 and UCMA 3.0)](migration-and-coexistence-details-ucma-2-0-and-ucma-3-0.md).
 
@@ -136,7 +136,7 @@ The following illustration shows this topology after the UCMA 2.0 application ha
 
 6.  Continue to use WMI-based management tools (such as ApplicationProvisioner.exe) to add and manage the application contact objects. For more information, see [Modifying ApplicationProvisioner.exe sample code](modifying-applicationprovisioner-exe-sample-code.md).
     
-    **Each time you add a new contact object, perform steps 3 and 4.**
+   **Each time you add a new contact object, perform steps 3 and 4.**
     
     > [!NOTE]
     > This point is emphasized to remind you to perform the verifications in these steps when a new contact object is added using PowerShell. PowerShell might not be available locally on the computer from which you are running the WMI tool for activating new contact objects.

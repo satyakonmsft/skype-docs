@@ -50,7 +50,7 @@ Once users have a meeting URI from the organizer, for example: `sip:user@contoso
   });
   ```
 
-4.  **Alternatively:** Clients can join the meeting by starting the audio service or video service, as shown below.
+4. **Alternatively:** Clients can join the meeting by starting the audio service or video service, as shown below.
 
   Join the meeting by starting the audio service.
   

@@ -1,30 +1,30 @@
+---
+title: Use the App SDK and the Trusted Application API to join an Online meeting - Android
+description: Learn how to enable the core Skype for Business Online anonymous meeting join scenario in your Android app.
+ms.date: 03/30/2022
+---
+
 # Use the App SDK and the Trusted Application API to join an Online meeting - Android
 
-This article shows you how to enable the core  **Skype for Business Online** anonymous meeting join scenario in your Android app. iOS developers should read
-[Use the App SDK and the Trusted Application API to join an Online meeting - iOS](../Trusted-Application-API/docs/ImplementingAnonymousClientWithSkypeAppSDK.md). 
+This article shows you how to enable the core **Skype for Business Online** anonymous meeting join scenario in your Android app. iOS developers should read [Use the App SDK and the Trusted Application API to join an Online meeting - iOS](../Trusted-Application-API/docs/ImplementingAnonymousClientWithSkypeAppSDK.md).
 
-If the anonymous meeting your app joins is hosted in a **Skype for Business Online** service and 
-your app is **not** enabled for Skype for Business preview features, then your app must get a **discovery Url** and an **anonymous meeting token** to join. This workflow requires that you create and deploy a Trused Application API-based service application that creates ad-hoc meetings, provides meeting join Urls, discovery Uris, and anonymous meeting tokens to the mobile apps that 
-request them.
+If the anonymous meeting your app joins is hosted in a **Skype for Business Online** service and
+your app is **not** enabled for Skype for Business preview features, then your app must get a **discovery Url** and an **anonymous meeting token** to join. This workflow requires that you create and deploy a Trusted Application API-based service application that creates ad-hoc meetings, provides meeting join Urls, discovery Uris, and anonymous meeting tokens to the mobile apps that request them.
 
 >[!NOTE]
-**For mobile apps that enabled preview features:** If the anonymous meeting your app joins is hosted in a **Skype for Business Online** service and 
-your app is enabled for Skype for Business preview features, then your app can use a meeting Url to join. A Trused Application API-based service application is **not** needed to complete the scenario in this case. To learn
-how to use a meeting Url, read [Use the App SDK to join a meeting with an Android device](HowToJoinMeeting_Android.md)
+>**For mobile apps that enabled preview features:** If the anonymous meeting your app joins is hosted in a **Skype for Business Online** service and your app is enabled for Skype for Business preview features, then your app can use a meeting Url to join. A Trusted Application API-based service application is **not** needed to complete the scenario in this case. To learn how to use a meeting Url, read [Use the App SDK to join a meeting with an Android device](HowToJoinMeeting_Android.md)
 
-## Getting started
+## Create and deploy a Trusted Application API-based service Application
 
-### Create and deploy a Trusted Application API-based service Application
-
-The service application you create will give your mobile app access to the needed anonymous meeting join resources - discovery Url and anonymous meeting token. You'll use the RESTful Trusted Application API endpoint to schedule a meeting, get 
-the discovery Url and token. The rest of this article describes how to enable your Android app to call into such a service application. You can read more about the [Trusted Appplication API](../Trusted-Application-API/docs/Trusted_Application_API_GeneralReference.md) to learn
+The service application you create will give your mobile app access to the needed anonymous meeting join resources - discovery Url and anonymous meeting token. You'll use the RESTful Trusted Application API endpoint to schedule a meeting, get
+the discovery Url and token. The rest of this article describes how to enable your Android app to call into such a service application. You can read more about the [Trusted Application API](../Trusted-Application-API/docs/Trusted_Application_API_GeneralReference.md) to learn
 about all of the features of this Skype for Business service application api.
 
 We've published two service application [examples](https://github.com/OfficeDev/skype-docs/tree/johnau/ucapdocs/Skype/Trusted-Application-API/samples) in GitHub to get you started.
 
-### Add anonymous online meeting code to your mobile app
+## Add anonymous online meeting code to your mobile app
 
-Please read [Implementing a Anonymous Client with the Skype App SDK - Android](https://github.com/OfficeDev/skype-docs/blob/johnau/ucapdocs/Skype/Trusted-Application-API/docs/ImplementingAnonymousClientWithSkypeAppSDK.md) for the sample code. 
+Please read [Implementing a Anonymous Client with the Skype App SDK - Android](https://github.com/OfficeDev/skype-docs/blob/johnau/ucapdocs/Skype/Trusted-Application-API/docs/ImplementingAnonymousClientWithSkypeAppSDK.md) for the sample code.
 The sample code is taken from our GitHub [Healthcare app sample](https://github.com/OfficeDev/skype-android-app-sdk-samples/tree/master/HealthcareApp). The example code steps include:
 
 - Call into a service application sample to get a join Url for a new ad-hoc meeting that is created by the service application
@@ -34,7 +34,7 @@ The sample code is taken from our GitHub [Healthcare app sample](https://github.
 - Get a **Conversation** object from the asynchronously returned **AnonymousSession** object.
 
 The Android sample uses the **Retrofit 2** library from **Square** to make the RESTful calls into the service application. We've included the source code that sets up the REST adaptor so that
-you can see the HTTP headers needed for the sample service application. 
+you can see the HTTP headers needed for the sample service application.
 
 ### Get a join Url
 
@@ -83,12 +83,12 @@ you can see the HTTP headers needed for the sample service application.
                 @Override
                 public void onFailure(Call<GetMeetingURIResult> call, Throwable t) {
                     Log.i("Failed to get meeting url", t.getLocalizedMessage().toString());
-					Snackbar.make(mRootView, "Failed: Could not get a meeting url", Snackbar.LENGTH_LONG)
-							.setAction("Action", null).show();
-					mCallDoctorButton.show();
+     Snackbar.make(mRootView, "Failed: Could not get a meeting url", Snackbar.LENGTH_LONG)
+       .setAction("Action", null).show();
+     mCallDoctorButton.show();
 
 
-				}
+    }
             });
 
 ```
@@ -135,8 +135,8 @@ The following example creates an HTTP request body and then uses a helper interf
                 @Override
                 public void onFailure(Call<GetTokenResult> call, Throwable t) {
                     Log.i("failed token get", t.getLocalizedMessage().toString());
-					Snackbar.make(mRootView, "Authentication token was not returned", Snackbar.LENGTH_LONG)
-							.setAction("Action", null).show();
+     Snackbar.make(mRootView, "Authentication token was not returned", Snackbar.LENGTH_LONG)
+       .setAction("Action", null).show();
 
                 }
             });
@@ -149,11 +149,9 @@ The following code runs in the newly created **SkypeCall** activity. It calls **
 represents the adhoc meeting.
 
 >[!NOTE]
-The sample code shows the use of the new **setEndUserAcceptedVideoLicense** api. This API must be called before a user can join video in a meeting. Once the api has been called, the user 
-is considered in acceptance of the third party video codec license that we use to support video. It is necessary that your app presents the terms of this license to the user before a meeting 
-is started. Subsequent meetings do not require the license acceptance.
+>The sample code shows the use of the new **setEndUserAcceptedVideoLicense** api. This API must be called before a user can join video in a meeting. Once the api has been called, the user is considered in acceptance of the third party video codec license that we use to support video. It is necessary that your app presents the terms of this license to the user before a meeting is started. Subsequent meetings do not require the license acceptance.
 
-#### Show video codec license
+### Show video codec license
 
 ```java
     /**
@@ -231,8 +229,7 @@ is started. Subsequent meetings do not require the license acceptance.
 
 ```
 
-
-#### Join the meeting
+### Join the meeting
 
 The following code snippet sets configurable parameters for Skype for Business calls and then joins the anonymous meeting.
 
@@ -302,9 +299,9 @@ The following code snippet sets configurable parameters for Skype for Business c
 
 ```
 
-#### Retrofit helper interface
+### Retrofit helper interface
 
-This example creates a constructor, loggin interceptor method, and interface to the service application REST api. The logging interceptor method injects HTTP headers into RESTful requests
+This example creates a constructor, login interceptor method, and interface to the service application REST api. The logging interceptor method injects HTTP headers into RESTful requests
 made by the mobile sample.
 
 ```java

@@ -9,7 +9,7 @@ Learn how to incorporate Skype communication functionality into your Windows 8 a
 ## Use Skype URIs in your Windows 8 apps
 
 You can use Skype URIs in your Windows 8 apps; for example, tapping a contact's picture might start a Skype audio call. 
-After you have constructed the appropriate Skype URI, simply set it as the value of  **document.location** to initiate 
+After you have constructed the appropriate Skype URI, simply set it as the value of **document.location** to initiate 
 its actions.
 
 For an introduction to the Fixed Layout template, see [JavaScript project templates for Store apps](https://go.microsoft.com/fwlink/?LinkId=232508)
@@ -97,7 +97,7 @@ For an introduction to the Fixed Layout template, see [JavaScript project templa
 
 ## Determine whether a Skype client is installed
 
-Windows 8 applications detect that there is no application associated with the  **skype:** scheme, and alert the user.
+Windows 8 applications detect that there is no application associated with the **skype:** scheme, and alert the user.
 
 
 **Figure 1. Windows Store dialog box**
@@ -108,7 +108,7 @@ Windows 8 applications detect that there is no application associated with the  
 ## What to do if a Skype client is not installed
 
 Windows 8 applications include a link to the Store as part of an alert whenever they detect that no application is 
-associated with the  **skype:** scheme. Click the Store icon to navigate to the entry for the Skype client.
+associated with the **skype:** scheme. Click the Store icon to navigate to the entry for the Skype client.
 
 
 **Figure 2. Windows Store dialog box**

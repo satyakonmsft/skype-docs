@@ -44,7 +44,7 @@ Follow these steps to use the **Setup Wizard** to install the Dialog Listener co
   
 4. Specify the installation folder and also specify the location of the application logs (see Figure 1). In the destination folder field, keep the default or enter a custom Dialog Listener installation directory. Do the same for the service logging directory and select the checkbox to activate debug level logging. 
     
-   **Figure 1. Destination folder selection wizard page**
+  **Figure 1. Destination folder selection wizard page**
 
   
 
@@ -60,7 +60,7 @@ Follow these steps to use the **Setup Wizard** to install the Dialog Listener co
   
 5. In **SDN Interface Configuration Service** wizard page, enter SDN configuration service URL, and then choose **Next**.
     
-   **Figure 2. SDN Interface configuration service wizard page**
+  **Figure 2. SDN Interface configuration service wizard page**
 
   
 
@@ -74,7 +74,7 @@ If you have a DNS SRV record configured, selecting the checkbox ( **Use the DNS 
   
 6. In **Dialog Listener Service Account** wizard screen, select the **Network Service** or **Specify an Account** option, and then select **Next**.
     
-   **Figure 3. Dialog Listener service account**
+  **Figure 3. Dialog Listener service account**
 
   
 

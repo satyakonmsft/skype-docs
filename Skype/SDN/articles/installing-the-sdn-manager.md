@@ -34,7 +34,7 @@ To install Skype for Business SDN Manager, do the following:
   
 5. In the **Destination Folder** panel, keep the default or enter a custom SDN Manager installation directory.
     
-   **Figure 1. SDN manager destination folder**
+  **Figure 1. SDN manager destination folder**
 
   
 
@@ -61,7 +61,7 @@ To install Skype for Business SDN Manager, do the following:
     
   
 
-   **Figure 2. SDN manager topology**
+  **Figure 2. SDN manager topology**
 
   
 
@@ -79,7 +79,7 @@ To install Skype for Business SDN Manager, do the following:
   In the **REDIS Settings** wizard page (Figure 3), enter the connect string to a Redis cache service. You can enter the password, if required, as part of the connect string, or else enter the password in the separate **Password** field.
     
 
-   **Figure 3. REDIS settings wizard screen**
+  **Figure 3. REDIS settings wizard screen**
 
   
 
@@ -96,7 +96,7 @@ To install Skype for Business SDN Manager, do the following:
     
   - In **Skype for BusinessSDN Manager Database Settings** wizard page, enter a SQL Server name in the **Database Server** field, and the database instance name, if appropriate, in the **Database Name** field.
     
-   **Figure 4. SDN manager database settings**
+  **Figure 4. SDN manager database settings**
 
   
 

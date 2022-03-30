@@ -1,27 +1,30 @@
+---
+title: Retrieve the API entry point and sign in a user
+description: Leaern how to get the SDK entry point and sign in a user.
+ms.date: 03/30/2022
+---
 
 # Retrieve the API entry point and sign in a user
 
-
  _**Applies to:** Skype for Business 2015_
-
 
 The [Application](http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.application.html) object is created by invoking the **Application** class constructor with the **new** keyword. This is the only SDK object that can be constructed in application logic. All other SDK types are accessed by reading properties or invoking functions on application.
 
 The [SignInManager.SignIn](http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.signinmanager.html#signin) method and the [SignInManager.SignOut](http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.signinmanager.html#signout) method are asynchronous and return a [Promise](http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.promise.html) object. Use the **Promise#then** method to set operation success or failure callbacks.
 
-> [!NOTE] 
+> [!NOTE]
 > To enable audio/video functionality for IE 11 and Safari you need to install the Skype for Business Web App Plug-in. It is available for Windows and Mac computers:  
+>
 > - [Windows Download](https://swx.cdn.skype.com/s4b-plugin/16.2.0.67/SkypeMeetingsApp.msi)
 > - [Mac Download](https://swx.cdn.skype.com/s4b-plugin/16.2.0.67/SkypeForBusinessPlugin.pkg)
 
-### Get the SDK entry point and sign in a user
+## Get the SDK entry point and sign in a user
 
 Add a reference to the bootstrapper to your HTML file.
 
-
 BY USING THE SOFTWARE LOCATED HERE: [https://swx.cdn.skype.com](https://swx.cdn.skype.com), YOU ACCEPT THE _[Microsoft Software License Terms](TermsOfService.md)_ IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.
 
-> [!NOTE] 
+> [!NOTE]
 > These license terms apply to the use of the content from the domain swx.cdn.skype.com.
 
 ```html
@@ -44,14 +47,13 @@ Skype.initialize({ apiKey: config.apiKey }, function (api) {
 });
 ```
 
-
 Call the [Application](http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.application.html) constructor.
 
 ```js
 app = new Application;
 ```
 
-Sign the user in by calling the  **Application#signInManager.signIn** method.
+Sign the user in by calling the **Application#signInManager.signIn** method.
 
 ```js
 app.signInManager.signIn ({
@@ -64,7 +66,7 @@ app.signInManager.signIn ({
 });
 ```
 
-> [!NOTE] 
+> [!NOTE]
 > If sign in fails or you call **signOut**, you must create a new [Application](http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.application.html) object and make the new sign in attempt with that object. The original application object will not be able to attempt a new sign in operation.
 
 The following example uses the password grant authentication to sign a user in with a username and password.
@@ -96,4 +98,3 @@ The following example uses the password grant authentication to sign a user in w
 </body>
 </html>
 ```
-

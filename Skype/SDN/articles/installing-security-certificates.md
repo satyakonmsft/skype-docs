@@ -41,11 +41,11 @@ The following example demonstrates how to request a certificate from a Windows C
 10. Move the certificate from the **Certificates-Current User\\Personal\\Certificates** folder to the **Certificates Local computer\\Personal\\Certificates** folder.
 11. Ensure that the processes have access to the entire certificate, including its private key. This might require adding the network service (or other credential that runs the service) to the certificate as shown in figures 1 and 2.
 
-   **Figure 1. Adding a service to the certificate, part 1**
+  **Figure 1. Adding a service to the certificate, part 1**
 
 ![Adding services to the certificate](../images/5fbcf4ab-025a-4845-ad7c-7257a9649de9.png)
   
-   **Figure 2. Adding a service to the certificate, part 2**
+  **Figure 2. Adding a service to the certificate, part 2**
 
 ![Adding services to certificates](../images/b5be8fd2-361b-4ea0-9437-909c8928ac02.png)
   

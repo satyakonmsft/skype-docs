@@ -29,7 +29,7 @@ The SDN Manager setup wizard will install, configure, and start SDN Manager serv
   
 3. If SDN Manager is not already started, right-click the entry to select the **Properties** menu item. Click **Start** to restart the service. Click **OK** after the service is restarted.
     
-   **Figure 1. SDN Manager properties dialog box**
+  **Figure 1. SDN Manager properties dialog box**
 
   
 
