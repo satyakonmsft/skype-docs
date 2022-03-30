@@ -24,7 +24,7 @@ Before your code starts getting presence event notifications, it must get a [Per
     
 - Create a search query on the [PersonAndGroupsManager]( http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.personsandgroupsmanager.html) by calling the **createPersonSearchQuery** method. A[SearchQuery]( http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.searchquery.html) object is returned.
     
-The following sample code is the  **onSuccess** argument of the[Promise]( http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.promise.html) returned by the[SearchQuery.getMore]( http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.searchquery.html#getmore) operation. It shows how to use JavaScript and the Skype Web SDK to get several presence elements for persons in the search results. The text of these presence values are appended to an HTML tag with the id "results".
+The following sample code is the **onSuccess** argument of the[Promise]( http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.promise.html) returned by the[SearchQuery.getMore]( http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.searchquery.html#getmore) operation. It shows how to use JavaScript and the Skype Web SDK to get several presence elements for persons in the search results. The text of these presence values are appended to an HTML tag with the id "results".
 
 
 
@@ -68,7 +68,7 @@ The following sample code is the  **onSuccess** argument of the[Promise]( http:/
 ## Presence subscription
 <a name="sectionSection1"> </a>
 
-A presence subscription on a person is a request on the Skype for Business Server to provide continual updates to a user's presence. A presence update generates an event on the associated  **person** object whenever a user changes a presence value such as status or the personal note. You should create a unique presence subscription for each person that you display in your UI.
+A presence subscription on a person is a request on the Skype for Business Server to provide continual updates to a user's presence. A presence update generates an event on the associated **person** object whenever a user changes a presence value such as status or the personal note. You should create a unique presence subscription for each person that you display in your UI.
 
 You can cancel a presence subscription for a given person at any time. Normally presence subscriptions are cancelled when a subscribed person is no longer shown on your UI. Cancelling unneeded presence subscriptions can lead to better application performance.
 
@@ -99,7 +99,7 @@ $('#self-note').on('change', function (event) {
 ## Listening for presence changes
 <a name="sectionSection3"> </a>
 
-When a person signs in, signs out or changes their activity, the server sends notification to any client that is subscribed to presence notifications for the person. These presence notifications happen frequently and your app should respond by updating the UI to reflect person presence changes. Subscribe to person presence events by calling the  **Property.changed** method on the **MePerson.status** property or **MePerson.activity**.
+When a person signs in, signs out or changes their activity, the server sends notification to any client that is subscribed to presence notifications for the person. These presence notifications happen frequently and your app should respond by updating the UI to reflect person presence changes. Subscribe to person presence events by calling the **Property.changed** method on the **MePerson.status** property or **MePerson.activity**.
 
 The following sample code shows how to get notification of changes to a person's presence.
 
@@ -132,7 +132,7 @@ Var subActivity = person.activity.subscribe(); // start the subscription
 ## Canceling a presence subscription
 <a name="sectionSection4"> </a>
 
-A subscription uses resources and generates both GET and POST requests. To avoid using resources and bandwidth unnecessarily, be sure to end a presence subscription before your application moves a person object out of scope. JavaScript does not have a concept of a finalizer or destructor, so the person object itself cannot determine when it is no longer needed. To end a subscription, call the  **dispose** function on each object returned by the[Property.subscribe]( http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.property.html#subscribe) method called for each subscription.
+A subscription uses resources and generates both GET and POST requests. To avoid using resources and bandwidth unnecessarily, be sure to end a presence subscription before your application moves a person object out of scope. JavaScript does not have a concept of a finalizer or destructor, so the person object itself cannot determine when it is no longer needed. To end a subscription, call the **dispose** function on each object returned by the[Property.subscribe]( http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.property.html#subscribe) method called for each subscription.
 
 The following sample cancels a presence subscription by iterating an array of subscription objects and disposing of each in turn.
 

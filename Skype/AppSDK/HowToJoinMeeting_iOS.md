@@ -44,13 +44,13 @@ No **Skype for Business** credentials are used to join the meeting.
 
 1. In your code, initialize the **App SDK** application :
 
-  **Objective C**
+ **Objective C**
 
 ```objectivec 
  SfBApplication *sfb = SfBApplication.sharedApplication;
 ```
 
-  **Swift**
+ **Swift**
 
 ```swift 
  let sfb:SfBApplication? = SfBApplication.sharedApplication()
@@ -58,14 +58,14 @@ No **Skype for Business** credentials are used to join the meeting.
 
 2. You can handle application level Skype configurations like requireWifiForAudio, maxVideoChannels, requireWifiForVideo, setActiveCamera, get available cameras list  and other types of information that can impact the Skype session, for example, by default, video service will be disabled while not on Wi-Fi network. To allow video call on any network connection, we can configure requireWifiForVideo as follow:
 
-  **Objective C**
+ **Objective C**
 
 ```objectivec
 
  sfb.configurationManager.requireWifiForVideo = NO;
 ```
 
-  **Swift**
+ **Swift**
 
 ```swift
  sfb.configurationManager.requireWifiForVideo = false
@@ -96,7 +96,7 @@ No **Skype for Business** credentials are used to join the meeting.
 
 4. Initialize the conversation helper with the conversation instance obtained in the previous step and delegate object that should receive callbacks from this conversation helper. This will automatically start incoming and outgoing video. The delegate class must conform to _SfBConversationHelperDelegate_ protocol.
   
-  **Objective C**
+ **Objective C**
 
   ```objectivec
 
@@ -111,7 +111,7 @@ No **Skype for Business** credentials are used to join the meeting.
       }
   ```
   
-  **Swift**
+ **Swift**
 
   ```swift
    self.conversationHelper = SfBConversationHelper(conversation: conversation,
@@ -134,7 +134,7 @@ No **Skype for Business** credentials are used to join the meeting.
 
 6. Implement SfBConversationHelperDelegate methods to handle video service state changes.
 
-  **Objective C**
+ **Objective C**
    
    ```objectivec 
 
@@ -162,7 +162,7 @@ No **Skype for Business** credentials are used to join the meeting.
     }
   ```
 
-  **Swift**
+ **Swift**
 
   ```swift
     // When it's ready, start the video service and show the outgoing video view.
@@ -219,7 +219,7 @@ No **Skype for Business** credentials are used to join the meeting.
 
 7. To end the video meeting, monitor the _canLeave_ property of a conversation to prevent leaving prematurely.
 
-   **Objective C**
+  **Objective C**
 
    ```objectivec
 
@@ -249,7 +249,7 @@ No **Skype for Business** credentials are used to join the meeting.
         }
    ```
 
-   **Swift**
+  **Swift**
 
    ```swift
         // Add observer to _canLeave_ property

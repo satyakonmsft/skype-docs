@@ -19,12 +19,12 @@ Notice that the connector in figure 1 shows relationships between the groups col
 ![SkypeWebSDK_PersonListObjectmodel](../images/1168c6b2-e49a-435c-9233-d5d1695ed605.png)
 ### Person list ordered by person
 
-This combines the person memberships of all of the user's person groups into one view. Each person in the list is represented only once, even if they are a member in multiple groups. Use the  **PersonsAndGroupsManager.all.persons** collection to get the person list. Lists are dynamic because a user can add or remove people from her person list at any time. The **persons** collection provides a set of events that you can listen to if you want to keep a person list view current..
+This combines the person memberships of all of the user's person groups into one view. Each person in the list is represented only once, even if they are a member in multiple groups. Use the **PersonsAndGroupsManager.all.persons** collection to get the person list. Lists are dynamic because a user can add or remove people from her person list at any time. The **persons** collection provides a set of events that you can listen to if you want to keep a person list view current..
 
 
 ### Person list ordered by group
 
-Use the  **PersonsAndGroupsManager.all.groups** collection to show a view of the groups in a user's person list. For each group, you can show the person membership. Any distribution groups in a user's person list are a special case of group. Distribution groups can contain other distribution groups in addition to persons. You can add a feature that lets a user expand a distribution group in list view to show any persons or another level of distribution group nesting. The **PersonsAndGroupsManager.all.groups** collection exposes events that are raised when a user creates a new custom group or removes a custom group. An individual Group has events for membership changes and property changes such as an update to the **Group.name** property.
+Use the **PersonsAndGroupsManager.all.groups** collection to show a view of the groups in a user's person list. For each group, you can show the person membership. Any distribution groups in a user's person list are a special case of group. Distribution groups can contain other distribution groups in addition to persons. You can add a feature that lets a user expand a distribution group in list view to show any persons or another level of distribution group nesting. The **PersonsAndGroupsManager.all.groups** collection exposes events that are raised when a user creates a new custom group or removes a custom group. An individual Group has events for membership changes and property changes such as an update to the **Group.name** property.
 
 
 ## Person list ordered by relationship

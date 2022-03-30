@@ -10,7 +10,7 @@ Conversation Control members consist of:
 
 ## Properties
 
-The following table lists the properties of the  **Conversation Control** object.
+The following table lists the properties of the **Conversation Control** object.
 
 
 |Property|Description|Returns|
@@ -19,16 +19,16 @@ The following table lists the properties of the  **Conversation Control** object
 
 ### Methods
 
-The following table lists the methods of the  **Conversation Control** object.
+The following table lists the methods of the **Conversation Control** object.
 
 
 |Method|Description|Returns|
 |:-----|:-----|:-----|
-| _renderConversation_|Render a conversation in given context <br/>  **Parameters** <br/> - _container_  - (**String/DOMelement** ) Mandatory. A CSS selector or DOM element <br />- _state_  - **Object**  Optional. Object holding the optional parameters<br />- _state.participants_  - **Array**  Optional. Array of participants to start a conversation with.<br />- _state.conversation_  - **Object**  Optional.  Conversation object to render.<br/>- _state.conversationId_  - **String**  Optional.  Id/Uri of the group conversation to render.<br/> Use only one of participants, conversation or conversationId.<br/>- _modalities_  - **Array**  Optional. Array of modalities to start.<br />|[Promise]( http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.promise.html)|
+| _renderConversation_|Render a conversation in given context <br/> **Parameters** <br/> - _container_  - (**String/DOMelement** ) Mandatory. A CSS selector or DOM element <br />- _state_  - **Object**  Optional. Object holding the optional parameters<br />- _state.participants_  - **Array**  Optional. Array of participants to start a conversation with.<br />- _state.conversation_  - **Object**  Optional.  Conversation object to render.<br/>- _state.conversationId_  - **String**  Optional.  Id/Uri of the group conversation to render.<br/> Use only one of participants, conversation or conversationId.<br/>- _modalities_  - **Array**  Optional. Array of modalities to start.<br />|[Promise]( http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.promise.html)|
 
 ### Examples
 
-The following examples show the most common uses of the  **renderConversation** method. 
+The following examples show the most common uses of the **renderConversation** method. 
 
 > [!NOTE] 
 > The HTML container that contains the conversation control must have a width and height set. If width and height are

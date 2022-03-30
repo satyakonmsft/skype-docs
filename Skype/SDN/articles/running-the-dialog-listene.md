@@ -42,7 +42,7 @@ The Dialog Listener setup wizards install, configure, and start the Dialog Liste
   
 2. Locate the Dialog Listener entry. 
     
-   **Figure 1. The Windows services window**
+  **Figure 1. The Windows services window**
 
   
 
@@ -54,7 +54,7 @@ The Dialog Listener setup wizards install, configure, and start the Dialog Liste
   
 3. If Dialog Listener is not already started, right-click the entry to select the **Properties** menu item. Click **Start** to restart the service, then click **OK** after the service is restarted.
     
-   **Figure 2. Dialog listener properties dialog box**
+  **Figure 2. Dialog listener properties dialog box**
 
   
 

@@ -54,7 +54,7 @@ You can configure the Skype for BusinessDialog Listener to query DNS for the loc
     
   
 
-   **Figure 1. New Resource Record dialog box**
+  **Figure 1. New Resource Record dialog box**
 
   
 

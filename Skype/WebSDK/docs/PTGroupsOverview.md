@@ -13,7 +13,7 @@ A group object is the visual metaphor of a person list view. A <a href="http://o
 
 The <a href="http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.application.html" target="">Application</a>.<a href="http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.personsandgroupsmanager.html" target="">PersonsAndGroupsManager</a> object provides access to all<a href="http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.group.html" target="">Group</a> objects. The **PersonsAndGroupsManager.all** property returns a single "all" **group**. The "all" <a href="http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.group.html#groups" target="">Group.groups</a> property returns a collection of **group** objects.
 
-The collection returned by  **.groups** contains a **group** of each type including relationship groups, user-created or a server-created<a href="http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.group.html" target="">Group</a> objects. The server created groups include distribution groups and "frequent persons". User created groups are known as "custom groups" and owned by the signed in user. Custom group membership is maintained by using the Skype for Business client.
+The collection returned by **.groups** contains a **group** of each type including relationship groups, user-created or a server-created<a href="http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.group.html" target="">Group</a> objects. The server created groups include distribution groups and "frequent persons". User created groups are known as "custom groups" and owned by the signed in user. Custom group membership is maintained by using the Skype for Business client.
 
 
 ### Relationships
@@ -32,7 +32,7 @@ A nested distribution group is a distribution group whose parent is a distributi
 
 The scenario shown by figure 1 is represented in the Skype Web SDK object model by figure 2. The red connector in the diagram represents the nested relationship between parent and child person groups.
 
-The groups collection on the  **application.PersonsAndGroupsManager.all.groups** object represents person groups that a user has added to her person list. This collection can include custom groups and distribution groups. A collection of **groups** returned in a search query contains only distribution groups. Read<a href="http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.personsandgroupsmanager.html" target="">PersonsAndGroupsManager</a> for information about searching for distribution groups.
+The groups collection on the **application.PersonsAndGroupsManager.all.groups** object represents person groups that a user has added to her person list. This collection can include custom groups and distribution groups. A collection of **groups** returned in a search query contains only distribution groups. Read<a href="http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.personsandgroupsmanager.html" target="">PersonsAndGroupsManager</a> for information about searching for distribution groups.
 
 
 **Figure 2. Group recursion to represent nested distribution groups**

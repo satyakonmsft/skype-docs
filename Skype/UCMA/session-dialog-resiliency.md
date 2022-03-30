@@ -24,7 +24,7 @@ UCMA 5.0 can heal a route in either of two ways:
 
 - When the route is broken, UCMA 5.0 continually sends route-healing UPDATEs, which will heal the route (and causes a substate change on success (200-OK reply). The following illustration shows the message flow for this case.
     
-  **UCMA heals the route in a long-lived failure**
+ **UCMA heals the route in a long-lived failure**
     
   ![Dialog resiliency 2a](images/Dn465939.UCMA-DialogResiliency2a(Office.16).png "Dialog resiliency 2a")
 

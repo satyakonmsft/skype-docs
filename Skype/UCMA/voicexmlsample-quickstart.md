@@ -40,7 +40,7 @@ As events are raised by the **Browser** object, they are recorded in the Event N
 
 - **Problem** - Files referenced from within a VoiceXML document might result in the browser object exiting with error.badfetch.
     
-  **Solution** - To reference files from within a VoiceXML document, insure that one of the following is true:
+ **Solution** - To reference files from within a VoiceXML document, insure that one of the following is true:
     
   - The base directory is set using an **xml:base** attribute inside the \<**vxml** ..\> element. For example, xml:base="C:\\Grammars", and ensure that the referenced files are in that directory.
     
@@ -50,7 +50,7 @@ As events are raised by the **Browser** object, they are recorded in the Event N
 
 - **Problem** - Cannot access VoiceXML documents or other files from a Web server.
     
-  **Solution**: To access VoiceXml documents, grammar files, or other files from a Web server do the following.:
+ **Solution**: To access VoiceXml documents, grammar files, or other files from a Web server do the following.:
     
   - Using IIS Manager, set up a virtual directory and copy the files to that directory.
     

@@ -25,7 +25,7 @@ In addition to **OfferAnswerException**, the developer should also be aware of t
 
 1.  A **Begin***Xxx* method should throw only [ArgumentException](https://msdn.microsoft.com/en-us/library/3w1b3114) or [InvalidOperationException](https://msdn.microsoft.com/en-us/library/2asft85a).
     
-    **Begin***Xxx* can throw **InvalidOperationException** if an operation is not valid in the current state of the **MediaProvider** subclass implementation. The associated **Call** subclass should catch the exception and take appropriate action, depending on the operation state. Appropriate actions include terminating the call or retrying the operation.
+   **Begin***Xxx* can throw **InvalidOperationException** if an operation is not valid in the current state of the **MediaProvider** subclass implementation. The associated **Call** subclass should catch the exception and take appropriate action, depending on the operation state. Appropriate actions include terminating the call or retrying the operation.
     
     A custom implementation of a **Call** subclass should not receive [ArgumentException](https://msdn.microsoft.com/en-us/library/3w1b3114) in general, because **Call** never passes a null value of **OfferAnswerContext** or **CallContext**. The **MediaProvider** can very well assert the value on any API where **OfferAnswerContext** is passed. The **Call** class has special logic for handling an **OfferAnswerException** exception, which is shown in the previous section of this topic.
 
