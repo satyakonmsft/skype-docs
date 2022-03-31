@@ -1,6 +1,7 @@
 ---
 title: 'Schema map (Skype for Business SDN Interface 2.2, Schema "D")'
 ms.assetid: ebeb9ba9-4132-4595-5f6c-2758df99d5cf
+description: 'This topic shows the schema definition for SDNInterface.Schema.D.xsd.'
 ms.date: 10/08/2015
 ---
 
