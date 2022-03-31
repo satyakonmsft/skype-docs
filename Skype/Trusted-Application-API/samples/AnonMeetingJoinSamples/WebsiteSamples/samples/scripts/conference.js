@@ -306,7 +306,7 @@ $(function () {
         }
 
         function handleMeetingStartError(error) {
-            console.error('An error occured joining the conversation:', error);
+            console.error('An error occurred joining the conversation:', error);
             if (error.code && error.code == 'PluginNotInstalled') {
                 console.log('You can install the plugin from:');
                 console.log('(Windows) https://swx.cdn.skype.com/s4b-plugin/16.2.0.67/SkypeMeetingsApp.msi');
@@ -363,7 +363,7 @@ $(function () {
             conversation.leave().then(function () {
                 console.log('The conversation has ended.');
             }, function (error) {
-                console.error('An error occured ending the conversation:', error);
+                console.error('An error occurred ending the conversation:', error);
             }).then(function () {
                 reset();
             });

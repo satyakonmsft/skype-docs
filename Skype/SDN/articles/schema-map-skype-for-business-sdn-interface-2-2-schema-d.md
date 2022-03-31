@@ -1,9 +1,9 @@
 ---
-title: Schema map (Skype for Business SDN Interface 2.2, Schema "D")
+title: 'Schema map (Skype for Business SDN Interface 2.2, Schema "D")'
 ms.assetid: ebeb9ba9-4132-4595-5f6c-2758df99d5cf
+description: 'This topic shows the schema definition for SDNInterface.Schema.D.xsd.'
 ms.date: 10/08/2015
 ---
-
 
 # Schema map (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -193,12 +193,18 @@ This topic shows the schema definition for **SDNInterface.Schema.D.xsd**.
       </xs:element>
       <xs:element minOccurs="0" name="DSCPInbound" type="xs:byte">
         <xs:annotation>
-          <xs:documentation>QoS category marking when the stream is received on this endpoint. This field is populated only from Skype for Business clients newer than Skype for Business 2013. </xs:documentation>
+          <xs:documentation>
+            QoS category marking when the stream is received on this endpoint. 
+            This field is populated only from Skype for Business clients newer than Skype for Business 2013. 
+          </xs:documentation>
         </xs:annotation>
       </xs:element>
       <xs:element minOccurs="0" name="DSCPOutbound" type="xs:byte">
         <xs:annotation>
-          <xs:documentation>QoS category marking used on send the stream from this endpoint. This field is populated only from Skype for Business clients newer than Skype for Business 2013.</xs:documentation>
+          <xs:documentation>
+            QoS category marking used on send the stream from this endpoint. 
+            This field is populated only from Skype for Business clients newer than Skype for Business 2013.
+          </xs:documentation>
         </xs:annotation>
       </xs:element>
       <xs:element minOccurs="0" name="LinkSpeed" type="xs:double">
@@ -303,7 +309,10 @@ This topic shows the schema definition for **SDNInterface.Schema.D.xsd**.
       </xs:element>
       <xs:element name="IncallEnabled" minOccurs="0" type="xs:boolean">
         <xs:annotation>
-          <xs:documentation>Whether the endpoint (Skype for Business client) is capable to send incall quality update messages. This flag does not indicate whether the client is configured to send incall QoE reports.</xs:documentation>
+          <xs:documentation>
+            Whether the endpoint (Skype for Business client) is capable to send incall quality update messages. 
+            This flag does not indicate whether the client is configured to send incall QoE reports.
+          </xs:documentation>
         </xs:annotation>
       </xs:element>
       <!-- 2.2 -->
@@ -414,7 +423,10 @@ This topic shows the schema definition for **SDNInterface.Schema.D.xsd**.
       </xs:element>
       <xs:element name="IncallEnabled" minOccurs="0" type="xs:boolean">
         <xs:annotation>
-          <xs:documentation>Whether the endpoint (Skype for Business client) is capable to send incall quality update messages. This flag does not indicate whether the client is configured to send incall QoE reports.</xs:documentation>
+          <xs:documentation>
+            Whether the endpoint (Skype for Business client) is capable to send incall quality update messages. 
+            This flag does not indicate whether the client is configured to send incall QoE reports.
+          </xs:documentation>
         </xs:annotation>
       </xs:element>
 <!-- 2.2 -->      
@@ -494,7 +506,7 @@ This topic shows the schema definition for **SDNInterface.Schema.D.xsd**.
         <xs:annotation>
           <xs:documentation>
             Indicates that this endpoint is of the Skype for Business Room System type or not,
-            when the sendmeetingroominfo option is set to True in the Dialog Listener configeration.
+            when the sendmeetingroominfo option is set to True in the Dialog Listener configuration.
           </xs:documentation>
         </xs:annotation>
       </xs:element>
@@ -505,14 +517,17 @@ This topic shows the schema definition for **SDNInterface.Schema.D.xsd**.
       </xs:element>
       <xs:element name="IncallEnabled" minOccurs="0" type="xs:boolean">
         <xs:annotation>
-          <xs:documentation>Whether the endpoint (Skype for Business client) is capable to send incall quality update messages. This flag does not indicate whether the client is configured to send incall QoE reports.</xs:documentation>
+          <xs:documentation>
+            Whether the endpoint (Skype for Business client) is capable to send incall quality update messages. 
+            This flag does not indicate whether the client is configured to send incall QoE reports.
+          </xs:documentation>
         </xs:annotation>
       </xs:element>
       <!--<xs:any namespace="##other" processContents="lax"/>-->
 <!-- 2.2 -->
       <xs:element name="TenantId" minOccurs="0" type="xs:string">
         <xs:annotation>
-          <xs:documentation>Identifier for the tenanat that this endpoing belongs to.</xs:documentation>
+          <xs:documentation>Identifier for the tenant that this endpoint belongs to.</xs:documentation>
         </xs:annotation>
       </xs:element>
       <xs:element name="Trunk" minOccurs="0" type="xs:string">
@@ -540,7 +555,6 @@ This topic shows the schema definition for **SDNInterface.Schema.D.xsd**.
           <xs:documentation>P-ASSERTED Identity.</xs:documentation>
         </xs:annotation>
       </xs:element>
-
     </xs:sequence>
   </xs:complexType>
 
@@ -616,13 +630,16 @@ This topic shows the schema definition for **SDNInterface.Schema.D.xsd**.
       </xs:element>
       <xs:element name="IncallEnabled" minOccurs="0" type="xs:boolean">
         <xs:annotation>
-          <xs:documentation>Whether the endpoint (Skype for Business client) is capable to send incall quality update messages. This flag does not indicate whether the client is configured to send incall QoE reports.</xs:documentation>
+          <xs:documentation>
+            Whether the endpoint (Skype for Business client) is capable to send incall quality update messages. 
+            This flag does not indicate whether the client is configured to send incall QoE reports.
+          </xs:documentation>
         </xs:annotation>
       </xs:element>
       <!-- 2.2 -->
       <xs:element name="TenantId" minOccurs="0" type="xs:string">
         <xs:annotation>
-          <xs:documentation>Identifier for the tenanat that this endpoing belongs to.</xs:documentation>
+          <xs:documentation>Identifier for the tenant that this endpoint belongs to.</xs:documentation>
         </xs:annotation>
       </xs:element>
       <xs:element name="Trunk" minOccurs="0" type="xs:string">
@@ -884,7 +901,10 @@ This topic shows the schema definition for **SDNInterface.Schema.D.xsd**.
         </xs:element>
         <xs:element name="RatioConcealedSamplesAvg" type="NonNegativeDouble">
           <xs:annotation>
-            <xs:documentation>Ratio of the number of audio frames with samples generated by packet loss concealment to the total number of audio frames. This metric is reported for audio streams when available.</xs:documentation>
+            <xs:documentation>
+              Ratio of the number of audio frames with samples generated by packet loss concealment 
+              to the total number of audio frames. This metric is reported for audio streams when available.
+            </xs:documentation>
           </xs:annotation>
         </xs:element>
         <xs:element name="EchoPercentMicIn" type="DoubleBetween0And100">
@@ -956,7 +976,6 @@ This topic shows the schema definition for **SDNInterface.Schema.D.xsd**.
               the average density of packet Loss during bursts of losses during the call.
               This field MUST be populated and MUST be set to
               zero if no packets have been received.
-
             </xs:documentation>
           </xs:annotation>
         </xs:element>
@@ -1099,8 +1118,8 @@ This topic shows the schema definition for **SDNInterface.Schema.D.xsd**.
           <xs:annotation>
             <xs:documentation>
               Percentage of sessions where the insufficient CPU event was fired when
-              CPU cycles are insufficient for processing with the current modalities and applications,  establish
-              causeing distortions in the audio channel.
+              CPU cycles are insufficient for processing with the current modalities and applications, establish
+              causing distortions in the audio channel.
             </xs:documentation>
           </xs:annotation>
         </xs:element>
@@ -1123,9 +1142,8 @@ This topic shows the schema definition for **SDNInterface.Schema.D.xsd**.
         <xs:element name="DeviceClippingEventRatio" type="DoubleBetween0And100">
           <xs:annotation>
             <xs:documentation>
-              Percentage of sessions the DeviceClipping event was fired
-
-              when a speaker clips the microphone, causing the remote listener receives clipping-induced distortions. It is important to avoid the microphone clipping.
+              Percentage of sessions the DeviceClipping event was fired when a speaker clips the microphone, 
+              causing the remote listener receives clipping-induced distortions. It is important to avoid the microphone clipping.
             </xs:documentation>
           </xs:annotation>
         </xs:element>
@@ -1163,7 +1181,6 @@ This topic shows the schema definition for **SDNInterface.Schema.D.xsd**.
           <xs:annotation>
             <xs:documentation>
               Speaking device clock drift rate, relative to CPU clock.
-
               Average error of microphone-captured-stream time stamp, in milliseconds, for the last 20 seconds of a call.
             </xs:documentation>
           </xs:annotation>
@@ -1236,7 +1253,7 @@ This topic shows the schema definition for **SDNInterface.Schema.D.xsd**.
           </xs:annotation>
         </xs:element>
 
-        <!-- Attention: this field is obsolete and won't be filled anyomre. The content is the same as above VideoLocalFrameLossPercentageAvg -->
+        <!-- Attention: this field is obsolete and won't be filled anymore. The content is the same as above VideoLocalFrameLossPercentageAvg -->
         <xs:element name="LocalFrameLossPercentageAvg" type="DoubleBetween0And100">
           <xs:annotation>
             <xs:documentation>
@@ -1348,7 +1365,9 @@ This topic shows the schema definition for **SDNInterface.Schema.D.xsd**.
         <xs:element minOccurs="0" name="AppliedBandwidthLimit" type="xs:unsignedInt">
           <xs:annotation>
             <xs:documentation>
-              This is the actual bandwidth applied to the given send side stream given various policy settings (TURN, API, SDP, Policy Server, and so on). This is not to be confused with the effective bandwidth because there can be a lower effective bandwidth based on the bandwidth estimate. This is basically the maximum bandwidth the send stream can take barring limits imposed by the bandwidth estimate.
+              This is the actual bandwidth applied to the given send side stream given various policy settings (TURN, API, SDP, Policy Server, and so on).
+              This is not to be confused with the effective bandwidth because there can be a lower effective bandwidth based on the bandwidth estimate.
+              This is basically the maximum bandwidth the send stream can take barring limits imposed by the bandwidth estimate.
             </xs:documentation>
           </xs:annotation>
         </xs:element>
@@ -1469,12 +1488,16 @@ This topic shows the schema definition for **SDNInterface.Schema.D.xsd**.
     <xs:sequence>
       <xs:element name="CallId" type="xs:string">
         <xs:annotation>
-          <xs:documentation>Unique identifier for the SIP call. This field should be used to correlate messages referring to the same call.</xs:documentation>
+          <xs:documentation>
+            Unique identifier for the SIP call. This field should be used to correlate messages referring to the same call.
+          </xs:documentation>
         </xs:annotation>
       </xs:element>
       <xs:element minOccurs="0" name="CorrelationId" type="xs:string">
         <xs:annotation>
-          <xs:documentation>Identifier to correlate two SIP calls where mediation server is involved. Both SIP calls belong to the same conversation.</xs:documentation>
+          <xs:documentation>
+            Identifier to correlate two SIP calls where mediation server is involved. Both SIP calls belong to the same conversation.
+          </xs:documentation>
         </xs:annotation>
       </xs:element>
       <xs:element minOccurs="0" name="CSEQ" type="xs:unsignedInt">
@@ -1506,7 +1529,10 @@ This topic shows the schema definition for **SDNInterface.Schema.D.xsd**.
       </xs:element>
       <xs:element minOccurs="0" name="Connectivity" type="ConnectivityModalities">
         <xs:annotation>
-          <xs:documentation>(Obsolete) The inclusion of Relay Ip/port indicates that a particular endpoint uses a media relay (edge server) and if not access the remote address directly. It is provided only in QualityUpdate events.</xs:documentation>
+          <xs:documentation>
+            **(Obsolete)** The inclusion of Relay Ip/port indicates that a particular endpoint uses a media relay (edge server) 
+            and if not access the remote address directly. It is provided only in QualityUpdate events.
+          </xs:documentation>
         </xs:annotation>
       </xs:element>
       <xs:element minOccurs="0" name="StartTime" type="xs:dateTime">
@@ -1539,7 +1565,10 @@ This topic shows the schema definition for **SDNInterface.Schema.D.xsd**.
       </xs:element>
       <xs:element minOccurs="0" name="SourcePool" type="xs:string">
         <xs:annotation>
-          <xs:documentation>(Deprecated - use below Pools instead) Name of the Skype for Business pool this message originated. If a QualityUpdate message is merged and originated from two pools only one is included here. </xs:documentation>
+          <xs:documentation>
+            **(Deprecated - use below Pools instead)**
+            Name of the Skype for Business pool this message originated. If a QualityUpdate message is merged and originated from two pools only one is included here.
+          </xs:documentation>
         </xs:annotation>
       </xs:element>
       <xs:element name="FrontEnds" minOccurs="0" type="xs:string">
@@ -1721,7 +1750,7 @@ This topic shows the schema definition for **SDNInterface.Schema.D.xsd**.
         <xs:element name="InCallQuality" type="QualityType">
           <xs:annotation>
             <xs:documentation>
-              Indicates that a significant quality related event occured in the client.
+              Indicates that a significant quality related event occurred in the client.
               Either the quality dropped into another level or improved. There are 3 levels: Good, Poor, Bad.
               The media stack determines the quality level. Furthermore, this event is also sent when a video stream is deescalated.
               Even in an issue free network at least one IncallQuality message is sent.
@@ -1879,5 +1908,3 @@ This topic shows the schema definition for **SDNInterface.Schema.D.xsd**.
   </xs:element>
 </xs:schema>
 ```
-
-

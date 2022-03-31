@@ -1,3 +1,8 @@
+---
+title: 'Outgoing P2P/PSTN Call'
+description: 'Learn to start an outgoing P2P/PSTN call'
+ms.date: 03/30/2022
+---
 
 # Outgoing P2P/PSTN Call
 
@@ -5,7 +10,7 @@
 
 [!INCLUDE[ChromeWarning](includes/P2PChromeWarning.md)]
 
-## Starting a Call
+## Start a call
 
 In order to make an audio call we need to:
 
@@ -23,7 +28,8 @@ In order to make an audio call we need to:
     conversation.audioService.start();
     ```
 
-## Conversation State
+## Conversation state
+
 We can subscribe to the conversation state to get information about the overall state of the conversation.
 If a conversation's state is `Connected`, it means that we are receiving live updates about state changes within the
 conversation, and will receive updates when the state of any active modality in the conversation changes, or
@@ -113,6 +119,6 @@ conversation.participants.added(function (participant) {
 conversation.audioService.start().then(function() {
     console.log('The call has been started successfully');
 }, function (error) {
-    console.log('An error occured starting the call', error);
+    console.log('An error occurred starting the call', error);
 });
 ```
