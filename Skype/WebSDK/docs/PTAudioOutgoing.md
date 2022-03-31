@@ -1,6 +1,6 @@
 ---
 title: 'Outgoing P2P/PSTN Call'
-description: 'Learn to start an outgoing P2P/PSTN call"
+description: 'Learn to start an outgoing P2P/PSTN call'
 ms.date: 03/30/2022
 ---
 
