@@ -1,3 +1,8 @@
+---
+title: P2P Escalation
+description: Learn how to escalate a P2P call to a group call
+ms.date: 03/30/2022
+---
 
 # P2P Escalation
 
@@ -6,10 +11,9 @@
 [!INCLUDE[ChromeWarning](includes/P2PChromeWarning.md)]
 
 
-## Escalating a P2P Call to a Group Call
+## Escalate a P2P call to a group call
 
-To start off we need to start a P2P Outgoing call, as shown in the **Outgoing P2P** sample.
-Once the call is established, we can add a participant to the conversation which escalates the P2P call to a group call.
+To start off we need to start a P2P Outgoing call, as shown in the **Outgoing P2P** sample. Once the call is established, we can add a participant to the conversation which escalates the P2P call to a group call.
 
 In the case of a peer-to-peer, P2P, conversation the server will escalate it to a conference.
 
@@ -21,8 +25,8 @@ conversation.participants.add('sip:xxx').then(function() {
 });
 ```
 
-## Ending a Call
-To end the call, simply leave the conversation
+## End a call
+To end the call, simply leave the conversation.
 
 ```js
 conversation.leave().then(function () {
@@ -32,7 +36,7 @@ conversation.leave().then(function () {
 });
 ```
 
-## Complete Code Sample
+## Complete code sample
 Here is the complete code sample:
 
 ```js
