@@ -1,6 +1,7 @@
 ---
 title: Unattended installation of SDN Manager and Dialog Listener
 description: Describes the parameters that are used for an unattended installation.
+ms.date: 03/30/2022
 ms.assetid: f2eba9a3-9888-4a1b-b689-567a83ebcb90
 ---
 
@@ -9,7 +10,7 @@ ms.assetid: f2eba9a3-9888-4a1b-b689-567a83ebcb90
 **Applies to**: Lync Server 2010 | Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 
 In production, you often have to install the SDN Manager and Dialog Listener using installation scripts, and therefore in an unattended mode. This article describes the parameters that are used for an unattended installation.
-  
+
 ## Unattended installation of the SDN Manager
 
 <a name="bk_addresources"> </a>
@@ -20,11 +21,11 @@ The following table lists installation parameters for an unattended installation
 > Using unattended installation is an advanced feature. Not all parameters may be validated or report detailed errors. Use a regular installation and log on to investigate any issues you may experience.
 > For example, include:
 > `msiexec /lv* install.log /i SkypeForBusinessSDNManager.msi <your parameters>`
-  
+
 Follow the guidelines for an unattended install:
 
 - DOMAIN and COMPUTERNAME are required for creating SQL Login and User objects for the local machine.
-  
+
 - USE_SQL_AUTH=1 is necessary to declare that sql credentials need to be generated (0 is default).
 
 - SQLUSER and SQLPASSWORD are required if USE_SQL_AUTH=1, otherwise ignored.
@@ -68,19 +69,19 @@ Follow the guidelines for an unattended install:
 |**Parameter**|**Description**|
 |:-----|:-----|
 |SETUPDB |Setting this parameter to 1 causes the installer to create the SDN ManagerSDN Manager database. This parameter must be set (SETUPDB=1) for the first installation when a database for call state or settings should be created. |
-|REDIS_CONNECTSTRING |The connect string to access a REDIS cache server. For example, to connect to Azure the connect string might appear as follows:                     `myname.redis.cache.windows.net,ssl=true,password=VeryLongKeyCopiedFromPortal`For more information, see [How to Use Azure Redis Cache](https://azure.microsoft.com/documentation/articles/cache-dotnet-how-to-use-azure-redis-cache/)|
+|REDIS_CONNECTSTRING |The connect string to access a REDIS cache server. For example, to connect to Azure the connect string might appear as follows: `myname.redis.cache.windows.net,ssl=true,password=VeryLongKeyCopiedFromPortal`</br>For more information, see [How to Use Azure Redis Cache](https://azure.microsoft.com/documentation/articles/cache-dotnet-how-to-use-azure-redis-cache/)|
 |REDIS_PASSWORD |Password to access the REDIS server. For Microsoft Azure Redis Cache, enter the key provided on the Azure Management panel. |
 |USE_DAPI |When set to true ("USE_DAPI=True"), the text specified for REDIS_PASSWORD will be persisted in the SDNManager.exe.config file as a DPAPI encrypted string, and the SDNManager.exe.config file will contain "<add key="usedapi" value="True"/>". Setting is ignored if TOPOLOGY is not '3' - REDIS only. |
 
 > [!NOTE]
 > Most settings provided during the setup can be modified after installation by editing the SDNManager.exe.config file.
-  
+
 The USE_DAPI parameter is used to secure the Redis password contained in the SDNManager.exe.config file with DPAPI encryption, and corresponds to the checkbox in figure 1:
-  
+
 **Figure 1. Skype for Business SDN Manager Setup**
 
 ![Skype for Business SDN Manager REDIS Settings](../images/18aa5963-b41b-449e-978f-4c8b91ef2520.png)
-  
+
 ## Example unattended installations of the SDN Manager
 
 <a name="bk_addresources"> </a>
@@ -88,13 +89,13 @@ The USE_DAPI parameter is used to secure the Redis password contained in the SDN
 **Database install**
 
 ```powershell
-msiexec /i SkypeForBusinessSDNManager.msi /quiet  /lv* install.log LOGPATH=c:\\LogDir TOPOLOGY=2 DATABASE_SERVER=mysqlserver DEBUGLOGGING=All SETUPDB=1 SQL_ADMIN_USER=sa SQL_ADMIN_PASSWORD=mypwd SQLUSER=simpleuser SQLPASSWORD=simplepassword DOMAIN=contoso COMPUTERNAME=thiscomputername USE_SQL_AUTH=1 DATABASE_NAME=sdndb
+msiexec /i SkypeForBusinessSDNManager.msi /quiet /lv* install.log LOGPATH=c:\\LogDir TOPOLOGY=2 DATABASE_SERVER=mysqlserver DEBUGLOGGING=All SETUPDB=1 SQL_ADMIN_USER=sa SQL_ADMIN_PASSWORD=mypwd SQLUSER=simpleuser SQLPASSWORD=simplepassword DOMAIN=contoso COMPUTERNAME=thiscomputername USE_SQL_AUTH=1 DATABASE_NAME=sdndb
 ```
 
 **REDIS install**
 
 ```powershell
-msiexec /i SkypeForBusinessSDNManager.msi /quiet  /lv* install.log LOGPATH=c:\\LogDir TOPOLOGY=3 REDIS_CONNECTSTRING=redis.contoso.com,ssl=true REDIS_PASSWORD=myredispwd 
+msiexec /i SkypeForBusinessSDNManager.msi /quiet /lv* install.log LOGPATH=c:\\LogDir TOPOLOGY=3 REDIS_CONNECTSTRING=redis.contoso.com,ssl=true REDIS_PASSWORD=myredispwd 
 ```
 
 ## Unattended installation of the Dialog Listener
@@ -106,7 +107,7 @@ Following are unattended installation parameters for the Dialog Listener.
 |**Parameter**|**Description**|
 |:-----|:-----|
 |INSTALLDIR |Specifies the installation destination for the binaries. |
-|CONFIGURATIONURI |URI to locate the SDN Manager or pool that serves the configuration service  `http://localhost:9333/DL`. |
+|CONFIGURATIONURI |URI to locate the SDN Manager or pool that serves the configuration service `http://localhost:9333/DL`. |
 |ACCOUNTYPE |Type of account to run Dialog Listener: "0" for Network Service account and "1" for a user account. |
 |APPLIED_SERVICE_USERNAME |Domain/username for the Dialog Listener Windows Service account. |
 |APPLIED_SERVICE_PASSWORD |Password for the Dialog Listener Windows Service account. |
@@ -124,7 +125,7 @@ Following are unattended installation parameters for the Dialog Listener.
 An installation using the SKIPREGISTRATION=1 option offers an interesting alternative installation. This script executed has three major purposes: Perform the registration of Skype for Business SDN Interface with Skype for Business, so that it forwards request and response messages to the Dialog Listener service, attempt to activate sending of Incall Quality messages (if available), and to start the service itself.
 
 The registration and activation are only required once for the entire pool and the Dialog Listener Windows service can be started manually as well as using several other options. As the script also uses some lengthy verifications whether the Skype for Business Server is ready and set up correctly, this step could be skipped, speeding up deployment and specifically upgrade processes for experienced administrators.
-  
+
 ## Doing an unattended uninstall
 
 <a name="bk_addresources"> </a>
@@ -137,7 +138,7 @@ To do an unattended uninstall, do the following:
 
 > [!NOTE]
 > The product code for the Dialog Listener has changed since the previous release.
-  
+
 ## See also
 
 <a name="bk_addresources"> </a>

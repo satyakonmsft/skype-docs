@@ -76,7 +76,7 @@ Elements and attributes
 <tr class="odd">
 <td><p><a href="incallquality-element-messagetype-complextype-skype-for-business-sdn-interface-2-2-schema-c.md">InCallQuality</a></p></td>
 <td><p><a href="qualitytype-complextype-skype-for-business-sdn-interface-2-2-schema-c.md">QualityType</a></p></td>
-<td><p>Indicates that a significant quality related event occured in the client. Either the quality dropped into another level or improved. There are 3 levels: Good, Poor, Bad. The media stack determines the quality level. Furthermore, this event is also sent when a video stream is deescalated. Even in an issue free network at least one IncallQuality message is sent.</p></td>
+<td><p>Indicates that a significant quality related event occurred in the client. Either the quality dropped into another level or improved. There are 3 levels: Good, Poor, Bad. The media stack determines the quality level. Furthermore, this event is also sent when a video stream is deescalated. Even in an issue free network at least one IncallQuality message is sent.</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="qualityupdate-element-messagetype-complextype-skype-for-business-sdn-interface-2-2-schema-c.md">QualityUpdate</a></p></td>

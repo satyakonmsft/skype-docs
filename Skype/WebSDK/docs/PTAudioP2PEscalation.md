@@ -59,6 +59,6 @@ conversation.participants.added(function (participant) {
 conversation.audioService.start().then(function() {
     console.log('The call has been started successfully');
 }, function (error) {
-    console.log('An error occured starting the call', error);
+    console.log('An error occurred starting the call', error);
 });
 ```

@@ -173,7 +173,7 @@ The **listener** settings group contains settings for the Dialog Listener runnin
 | `submitqueuelen`|Sets the maximum unanswered and waiting messages to the SDN Manager. Change this value only if network conditions require a longer queue length caused by fluctuating delays in message deliveries to the SDN Manager instance or pool. |
 | `maxretry`|Specifies the maximum number of retransmission attempts before a message is dropped. |
 | `maxdelaylimit`|Specifies the number of transmission failures before slowing down the transmission of call and quality messages. |
-| `maxbackoff`|Specifies the maximum number of seconds to delay message delivery upon transmission errors. The delay starts at one second and increments another second with every failed delivery up to the specified  `maxbackoff` setting.|
+| `maxbackoff`|Specifies the maximum number of seconds to delay message delivery upon transmission errors. The delay starts at one second and increments another second with every failed delivery up to the specified `maxbackoff` setting.|
 | `maxopen`|Specifies the maximum number of messages sent concurrently. |
 | `maxretrybeforefailover`|Specifies the maximum number of message transmission failures before attempting to fail over to the alternative SDN Manager instance or pool, if configured. |
 
@@ -193,7 +193,7 @@ The **subscriber** settings group describes the behavior that each subscriber ex
 | `tenantfilters`|A comma-separated list of TenantIds as used in Skype for Business Online, for which the subscriber receives call and stream quality data. |
 | `trunkfilters`|A comma-separated list of SIP trunk names defined in Skype for Business, for which the subscriber receives call and stream quality data. |
 | `quality`|Boolean that specifies whether to send the subscriber QualityUpdate and InCallQuality messages. **True** to send messages; **False** if no messages are to be sent.|
-| `signaling`|Boolean that specifies whether to send  `<Invite>`,  `<Error>` and `<Bye>` messages to the subscriber. **True** to send messages.|
+| `signaling`|Boolean that specifies whether to send `<Invite>`, `<Error>` and `<Bye>` messages to the subscriber. **True** to send messages.|
 | `sendrawsdp`|Set value to **True** to forward SDP information to the subscriber (using the `<RawSDP>` tag). Set to **False** to prevent sending raw SDP content to this subscriber.|
 | `maxretry`|Specifies the maximum number of retransmission attempts before a message is dropped. |
 | `maxdelaylimit`|Specifies the number of transmission failures before slowing down the transmission of call and quality messages. |
