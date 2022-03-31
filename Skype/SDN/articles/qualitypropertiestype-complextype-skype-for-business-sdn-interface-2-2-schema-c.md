@@ -137,7 +137,7 @@ Elements and attributes
 <tr class="even">
 <td><p><a href="cpuinsufficienteventratio-element-qualitypropertiestype-complextype-skype-sdn-2-2-c.md">CPUInsufficientEventRatio</a></p></td>
 <td><p>Not defined</p></td>
-<td><p>Percentage of sessions where the insufficient CPU event was fired when CPU cycles are insufficient for processing with the current modalities and applications, establish causeing distortions in the audio channel.</p></td>
+<td><p>Percentage of sessions where the insufficient CPU event was fired when CPU cycles are insufficient for processing with the current modalities and applications, establish causing distortions in the audio channel.</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="degradationavg-element-qualitypropertiestype-complextype-skype-sdn-2-2-c.md">DegradationAvg</a></p></td>

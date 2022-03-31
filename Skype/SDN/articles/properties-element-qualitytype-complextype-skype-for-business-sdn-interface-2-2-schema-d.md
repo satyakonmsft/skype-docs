@@ -77,7 +77,7 @@ Elements and attributes
 <tr class="odd">
 <td><p><a href="incallquality-element-messagetype-complextype-skype-for-business-sdn-interface-2-2-schema-d.md">InCallQuality</a></p></td>
 <td><p><a href="qualitytype-complextype-skype-for-business-sdn-interface-2-2-schema-d.md">QualityType</a></p></td>
-<td><p>Indicates that a significant quality related event occured in the client. Either the quality dropped into another level or improved. There are 3 levels: Good, Poor, Bad. The media stack determines the quality level. Furthermore, this event is also sent when a video stream is deescalated. Even in an issue free network at least one IncallQuality message is sent.</p></td>
+<td><p>Indicates that a significant quality related event occurred in the client. Either the quality dropped into another level or improved. There are 3 levels: Good, Poor, Bad. The media stack determines the quality level. Furthermore, this event is also sent when a video stream is deescalated. Even in an issue free network at least one IncallQuality message is sent.</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="qualityupdate-element-messagetype-complextype-skype-for-business-sdn-interface-2-2-schema-d.md">QualityUpdate</a></p></td>
@@ -172,7 +172,7 @@ Elements and attributes
 <tr class="even">
 <td><p><a href="cpuinsufficienteventratio-element-qualitypropertiestype-complextype-skype-sdn-2-2-d.md">CPUInsufficientEventRatio</a></p></td>
 <td><p><a href="doublebetween0and100-simpletype-skype-for-business-sdn-interface-2-2-schema-d.md">DoubleBetween0And100</a></p></td>
-<td><p>Percentage of sessions where the insufficient CPU event was fired when CPU cycles are insufficient for processing with the current modalities and applications, establish causeing distortions in the audio channel.</p></td>
+<td><p>Percentage of sessions where the insufficient CPU event was fired when CPU cycles are insufficient for processing with the current modalities and applications, establish causing distortions in the audio channel.</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="degradationavg-element-qualitypropertiestype-complextype-skype-sdn-2-2-d.md">DegradationAvg</a></p></td>

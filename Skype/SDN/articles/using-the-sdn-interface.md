@@ -1,6 +1,7 @@
 ---
 title: Using the Skype for Business SDN Interface
 description: Learn how to parse Skype for Business call and quality data
+ms.date: 03/30/2022
 ms.assetid: 542be3ea-3144-4e21-b320-c479cb0397bd
 ---
 
@@ -72,15 +73,15 @@ The following are examples of SDN Interface messages.
 
 ```
 
-The XML output from the SDN Manager consists of a set of messages that have  `<LyncDiagnostics>` as their root element. Each message corresponds to a snapshot of the data streams in a call. A `<LyncDiagnostics>` element contains one `<ConnectionInfo>` child element and one or more of the `<Invite>`,  `<Start>`,  `<update>`,  `<Error>`,  `<InCallQuality>`,  `<Ended>`,  `<Bye>` and `<QualityUpdate>` elements. Optionally, a `<RawSDP>` element might be present to contain the SDP content of the SIP message that triggered this SDN message. These child elements fall into the following groups:
+The XML output from the SDN Manager consists of a set of messages that have `<LyncDiagnostics>` as their root element. Each message corresponds to a snapshot of the data streams in a call. A `<LyncDiagnostics>` element contains one `<ConnectionInfo>` child element and one or more of the `<Invite>`, `<Start>`, `<update>`, `<Error>`, `<InCallQuality>`, `<Ended>`, `<Bye>` and `<QualityUpdate>` elements. Optionally, a `<RawSDP>` element might be present to contain the SDP content of the SIP message that triggered this SDN message. These child elements fall into the following groups:
   
-1. The first group, including  `<ConnectionInfo>`, and  `<RawSDP>`, describe attributes of the overall state of the call and connection between the endpoints involving the media streams. The group includes a call dialog identifier ( `<CallId>`) and conversation identifier ( `<ConversationId>`) among others, which can be used to correlate this call with other calls.
+1. The first group, including `<ConnectionInfo>`, and `<RawSDP>`, describe attributes of the overall state of the call and connection between the endpoints involving the media streams. The group includes a call dialog identifier ( `<CallId>`) and conversation identifier ( `<ConversationId>`) among others, which can be used to correlate this call with other calls.
 
-2. The second group includes  `<Invite>`,  `<Error>`, and  `<Bye>`, which are used to forward signaling events about the overall call. These elements are optional.
+2. The second group includes `<Invite>`, `<Error>`, and `<Bye>`, which are used to forward signaling events about the overall call. These elements are optional.
 
-3. The third group includes  `<Start>`,  `<Update>`, and  `<Ended>`. They describe the individual states of the call media streams in real time.
+3. The third group includes `<Start>`, `<Update>`, and `<Ended>`. They describe the individual states of the call media streams in real time.
 
-4. The last group, including  `<InCallQuality>` and `<QualityUpdate>`, provides insight into the quality of individual streams of the call.
+4. The last group, including `<InCallQuality>` and `<QualityUpdate>`, provides insight into the quality of individual streams of the call.
 
 The **From** and **To** sections contain information related to the endpoints with the IP and Ports being most relevant for identifying the data streams (RTP). A quality update section provides numerous properties related to the end points and streams, as shown in the preceding code example. In the current Schema D and in most cases, only the first pair of From/To contains a complete set, while further instances only contain the data that may be different for the respective end points.
   

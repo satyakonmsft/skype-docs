@@ -56,7 +56,7 @@ namespace Microsoft.SfB.PlatformService.SDK.Samples.FrontEnd
             catch (Exception ex)
             {
                 Logger.Instance.Error(ex, "Fail to parse incoming http message");
-                return CreateHttpResponse(HttpStatusCode.InternalServerError, loggingContext, "{\"Error\":\"Internal error occured.!\"}");
+                return CreateHttpResponse(HttpStatusCode.InternalServerError, loggingContext, "{\"Error\":\"Internal error occurred.!\"}");
             }
 
             if (callbackContext.InstanceId == null)

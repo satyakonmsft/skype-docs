@@ -1,9 +1,9 @@
 ---
 title: Schema map (Skype for Business SDN Interface 2.2, Schema "C")
+description: 'This topic shows the schema definition for **SDNInterface.Schema.C.xsd**.'
 ms.assetid: 74a95f25-c585-5b08-4d14-e3152a7207b9
 ms.date: 10/08/2015
 ---
-
 
 # Schema map (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -621,94 +621,91 @@ Device driver name and version of the capture device used to produce the media o
         <xs:element name="RenderDevice">
           <xs:annotation>
             <xs:documentation>
-The name of a render device used to provide the media to for this stream. This device is in the TO endpoint and usually represents a speaker.                  
+              The name of a render device used to provide the media to for this stream. This device is in the TO endpoint and usually represents a speaker.
             </xs:documentation>
           </xs:annotation>
         </xs:element>
         <xs:element name="RenderDeviceDriver">
           <xs:annotation>
             <xs:documentation>
-Device driver name and version of the render device used to consume the media of this call                    
+              Device driver name and version of the render device used to consume the media of this call.
             </xs:documentation>
           </xs:annotation>
         </xs:element>
         <xs:element name="CPUInsufficientEventRatio">
           <xs:annotation>
             <xs:documentation>
-Percentage of sessions where the insufficient CPU event was fired when 
-CPU cycles are insufficient for processing with the current modalities and applications,  establish  
-causeing distortions in the audio channel.
+              Percentage of sessions where the insufficient CPU event was fired when 
+              CPU cycles are insufficient for processing with the current modalities and applications establish 
+              causing distortions in the audio channel.
             </xs:documentation>
           </xs:annotation>
         </xs:element>
         <xs:element name="DeviceCaptureNotFunctioningEventRatio">
           <xs:annotation>
             <xs:documentation>
-Percentage of sessions the DeviceCaptureNotFunctioning event was fired when 
-the capture device currently being used for the session is not functioning correctly and, possibly, preventing one-way audio from working correctly.
+              Percentage of sessions the DeviceCaptureNotFunctioning event was fired when 
+              the capture device currently being used for the session is not functioning correctly and, possibly, preventing one-way audio from working correctly.
             </xs:documentation>
           </xs:annotation>
         </xs:element>
         <xs:element name="DeviceRenderNotFunctioningEventRatio">
           <xs:annotation>
             <xs:documentation>
-Percentage of sessions the DeviceRenderNotFunctioning event was fired when 
-the render device currently being used for the session is not functioning correctly and, possibly, causing one-way audio issues.
+              Percentage of sessions the DeviceRenderNotFunctioning event was fired when 
+              the render device currently being used for the session is not functioning correctly and, possibly, causing one-way audio issues.
             </xs:documentation>
           </xs:annotation>
         </xs:element>
         <xs:element name="DeviceClippingEventRatio">
           <xs:annotation>
             <xs:documentation>
-Percentage of sessions the DeviceClipping event was fired
-
-when a speaker clips the microphone, causing the remote listener receives clipping-induced distortions. It is important to avoid the microphone clipping.
+              Percentage of sessions the DeviceClipping event was fired when a speaker clips the microphone,
+              causing the remote listener receives clipping-induced distortions. It is important to avoid the microphone clipping.
             </xs:documentation>
           </xs:annotation>
         </xs:element>
         <xs:element name="DeviceHowlingEventCount">
           <xs:annotation>
             <xs:documentation>
-Number of times during a session the DeviceHowlingEvent event was fired when audio feedback loop, caused by multiple endpoints sharing the audio path, is detected.
+              Number of times during a session the DeviceHowlingEvent event was fired when audio feedback loop, caused by multiple endpoints sharing the audio path, is detected.
             </xs:documentation>
           </xs:annotation>
         </xs:element>
         <xs:element name="NetworkDelayEventRatio">
           <xs:annotation>
             <xs:documentation>
-Percentage of sessions the the NetworkDelayEvent event was fired when network latency is severe and impacting the experience by preventing interactive communication
+              Percentage of sessions the the NetworkDelayEvent event was fired when network latency is severe and impacting the experience by preventing interactive communication
             </xs:documentation>
           </xs:annotation>
         </xs:element>
         <xs:element name="DeviceNearEndToEchoRatioEventRatio">
           <xs:annotation>
             <xs:documentation>
-Percentage of sessions the DeviceNearEndToEcho event was fired when the user speech is too low compared to the echo being captured 
-which impacts the users experience because it limits how easy it is to interrupt a user. 
-The situation can be improved by reducing speaker volume or moving the microphone closer to the speaker.
+              Percentage of sessions the DeviceNearEndToEcho event was fired when the user speech is too low compared to the echo being captured 
+              which impacts the users experience because it limits how easy it is to interrupt a user. 
+              The situation can be improved by reducing speaker volume or moving the microphone closer to the speaker.
             </xs:documentation>
           </xs:annotation>
         </xs:element>
         <xs:element name="DeviceEchoEventRatio">
           <xs:annotation>
             <xs:documentation>
-Percentage of sessions the DeviceEchoEvent event was fired when a device or setup is causing echo beyond the compensatory ability of the system.
+              Percentage of sessions the DeviceEchoEvent event was fired when a device or setup is causing echo beyond the compensatory ability of the system.
             </xs:documentation>
           </xs:annotation>
         </xs:element>
         <xs:element name="AudioTimestampErrorMicMs">
           <xs:annotation>
             <xs:documentation>
-Speaking device clock drift rate, relative to CPU clock.
-
-Average error of microphone-captured-stream time stamp, in milliseconds, for the last 20 seconds of a call.
+              Speaking device clock drift rate, relative to CPU clock. Average error of microphone-captured-stream time stamp, in milliseconds, for the last 20 seconds of a call.
             </xs:documentation>
           </xs:annotation>
         </xs:element>
         <xs:element name="AudioTimestampErrorSpkMs">
           <xs:annotation>
             <xs:documentation>
-Average error of speech render stream time stamp, in milliseconds, or the last 20 seconds of the call.
+              Average error of speech render stream time stamp, in milliseconds, or the last 20 seconds of the call.
             </xs:documentation>
           </xs:annotation>
         </xs:element>
@@ -749,7 +746,7 @@ Average error of speech render stream time stamp, in milliseconds, or the last 2
           <xs:annotation>
             <xs:documentation>
               Percentage of time of the call where frame rate is less than 7.5 frames per second.
-              This metric is reported for video streams when available.  (percent)
+              This metric is reported for video streams when available. (percent)
             </xs:documentation>
           </xs:annotation>
         </xs:element>
@@ -758,7 +755,7 @@ Average error of speech render stream time stamp, in milliseconds, or the last 2
             <xs:documentation>
               Percentage of time of the call where resolution is low.
               Threshold is 120 pixels for smaller dimension.
-              This metric is reported for video streams when available.  (percent)
+              This metric is reported for video streams when available. (percent)
             </xs:documentation>
           </xs:annotation>
         </xs:element>
@@ -772,7 +769,7 @@ Average error of speech render stream time stamp, in milliseconds, or the last 2
           </xs:annotation>
         </xs:element>
 
-        <!-- Attention: this field is obsolete and won't be filled anyomre. The content is the same as above VideoLocalFrameLossPercentageAvg -->
+        <!-- Attention: this field is obsolete and won't be filled anymore. The content is the same as above VideoLocalFrameLossPercentageAvg -->
         <xs:element name="LocalFrameLossPercentageAvg" type="xs:string">
           <xs:annotation>
             <xs:documentation>
@@ -825,7 +822,7 @@ Average error of speech render stream time stamp, in milliseconds, or the last 2
             <xs:documentation>
               Total one-way burst density involving unsteady transmission. 
               An unsteady transmission is one where data flows in random bursts as opposed to a steady stream.
-              This metric measures data flow between the client and the server and  
+              This metric measures data flow between the client and the server and 
               is only reported for application sharing streams using Skype for Business 2013.
             </xs:documentation>
           </xs:annotation>
@@ -884,8 +881,10 @@ Average error of speech render stream time stamp, in milliseconds, or the last 2
         <xs:element minOccurs="0" name="AppliedBandwidthLimit" type="xs:unsignedInt">
           <xs:annotation>
             <xs:documentation>
-              This is the actual bandwidth applied to the given send side stream given various policy settings (TURN, API, SDP, Policy Server, and so on). This is not to be confused with the effective bandwidth because there can be a lower effective bandwidth based on the bandwidth estimate. This is basically the maximum bandwidth the send stream can take barring limits imposed by the bandwidth estimate.              
-              </xs:documentation>
+              This is the actual bandwidth applied to the given send side stream given various policy settings (TURN, API, SDP, Policy Server, and so on). 
+              This is not to be confused with the effective bandwidth because there can be a lower effective bandwidth based on the bandwidth estimate.
+              This is basically the maximum bandwidth the send stream can take barring limits imposed by the bandwidth estimate. 
+            </xs:documentation>
           </xs:annotation>
         </xs:element>
       </xs:choice>
@@ -983,7 +982,7 @@ Average error of speech render stream time stamp, in milliseconds, or the last 2
       </xs:element>
       <xs:element minOccurs="0" name="StartTime" type="xs:dateTime">
         <xs:annotation>
-          <xs:documentation>Denotes the time when the conversation started.  It is provided only in QualityUpdate events.</xs:documentation>
+          <xs:documentation>Denotes the time when the conversation started. It is provided only in QualityUpdate events.</xs:documentation>
         </xs:annotation>
       </xs:element>
       <xs:element minOccurs="0" name="EndTime" type="xs:dateTime">
@@ -1009,7 +1008,10 @@ Average error of speech render stream time stamp, in milliseconds, or the last 2
       </xs:element>
       <xs:element minOccurs="0" name="SourcePool" type="xs:string">
         <xs:annotation>
-          <xs:documentation>Name of the Skype for Business pool this message originated. If a QualityUpdate message is merged and originated from two pools only one is included here. Currently, the FQDN of one sourcepool is provided, expect a comma delimited list in future releases.</xs:documentation>
+          <xs:documentation>Name of the Skype for Business pool this message originated.
+              If a QualityUpdate message is merged and originated from two pools only one is included here.
+              Currently, the FQDN of one sourcepool is provided, expect a comma delimited list in future releases.
+          </xs:documentation>
         </xs:annotation>
       </xs:element>
       <!--<xs:any namespace="##other" processContents="lax"/>-->
@@ -1176,7 +1178,7 @@ Average error of speech render stream time stamp, in milliseconds, or the last 2
         <xs:element name="InCallQuality" type="QualityType">
           <xs:annotation>
             <xs:documentation>
-              Indicates that a significant quality related event occured in the client.
+              Indicates that a significant quality related event occurred in the client.
               Either the quality dropped into another level or improved. There are 3 levels: Good, Poor, Bad.
               The media stack determines the quality level. Furthermore, this event is also sent when a video stream is deescalated.
               Even in an issue free network at least one IncallQuality message is sent.
@@ -1233,7 +1235,7 @@ Average error of speech render stream time stamp, in milliseconds, or the last 2
         </xs:annotation>
       </xs:element>
       
-      <xs:element minOccurs="0" name="Properties" type="MessageProperties">  <!-- for Error and ended -->
+      <xs:element minOccurs="0" name="Properties" type="MessageProperties"> <!-- for Error and ended -->
         <xs:annotation>
           <xs:documentation>Details of the Error or reason for ending the streams.</xs:documentation>
         </xs:annotation>
@@ -1302,5 +1304,3 @@ Average error of speech render stream time stamp, in milliseconds, or the last 2
   </xs:element>
 </xs:schema>
 ```
-
-

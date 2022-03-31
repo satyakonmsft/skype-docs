@@ -12,7 +12,7 @@ ms.assetid: 1dee6627-bd71-46e9-adb8-f2166fd8a97e
 You can configure the Skype for BusinessDialog Listener to query DNS for the location of the single host or pool of SDN Manager service, if the DNS service location record was created properly. This article explains how to create the service location records. You must have domain administrator privileges to do this.
   
 > [!NOTE]
-> When DNS service location records are used by the Dialog Listener by setting  `checkdns=true` in the configuration file, any configured value for the parameter _configurationserviceuri_ is ignored. The URI specified in the service location record is used instead.
+> When DNS service location records are used by the Dialog Listener by setting `checkdns=true` in the configuration file, any configured value for the parameter _configurationserviceuri_ is ignored. The URI specified in the service location record is used instead.
   
 ## To set up the DNS service location record
 
