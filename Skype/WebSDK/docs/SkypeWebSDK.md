@@ -29,7 +29,7 @@ The table below maps SfB Web SDK sub-systems to Graph and ACS capabilities.
 | [Local user](./localuser.md) | Use the **mePerson** object to represent the currently signed-in user. | [Graph User APIs](/graph/api/user-get.md)  |
 | [Conversations](./conversations.md) | Use conversation services to determine the ways for communication between persons. | [ACS Calling SDK for voice/video](/azure/communication-services/concepts/sdk-options.md) and [Graph for chat](/graph/api/resources/chat.md) |
 | [Listening for and generating presence events](./presenceevents.md) | Use events to get a person's current presence. | [Graph Presence APIs](/graph/api/resources/presence.md)  |
-| [Persons](./persons.md) | Use person objects to represent individual users. |  [Graph User APIs](/graph/api/user-get)  |
+| [Persons](./persons.md) | Use person objects to represent individual users. | [Graph User APIs](/graph/api/user-get)  |
 | [Devices](./devices.md) | Select Cameras, Microphones, and Speakers to use for audio and video conversations. | [ACS Calling SDK](/azure/communication-services/how-tos/calling-sdk/manage-video#device-management.md)  |
 
 Azure Communication Service SDKs are designed with a substantially different API model than SfB Web, and we do not host the SDK on a content delivery network (CDN). Your web application hosts the SDK, and you have the choice of using one of several SDKs listed below. The core Calling and Chat SDKs have essentially no GUI and allow for robust customization of the end-user experience. But for most SfB Web SDK implementations, using the open-source composites is recommended to reduce the amount of UI development required by replacing SfB.

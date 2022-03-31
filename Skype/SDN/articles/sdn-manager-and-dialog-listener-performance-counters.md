@@ -1,31 +1,21 @@
 ---
 title: SDN Manager and Dialog Listener performance counters
- 
+description:  The SDN Manager and Dialog Listener provide performance counters that you can access using Perfmon. The performance counters are described in the following table and may be accessed using [Perfmon](https://technet.microsoft.com/library/bb490957.aspx).
 ms.assetid: 66a0c1f3-32a4-4e59-9646-824f28d332d0
 ---
 
 
 # SDN Manager and Dialog Listener performance counters
 
-
-  
-    
-    
-
  **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 
-The SDN Manager and Dialog Listener provide performance counters that you can access using Perfmon. The performance counters are described in the following table and may be accessed using  [Perfmon](https://technet.microsoft.com/library/bb490957.aspx). 
-
+The SDN Manager and Dialog Listener provide performance counters that you can access using Perfmon. The performance counters are described in the following table and may be accessed using [Perfmon](https://technet.microsoft.com/library/bb490957.aspx).
 
 **Figure 1. Performance counters for Dialog Listener and SDN Manager**
 
-
 ![Performance counters dialog box](../images/09efa1dc-2a94-4949-acd9-fe421f63a668.png)
   
-
 ## SDN Manager performance counters
-
-
 
 |**Performance counter**|**Description**|
 |:-----|:-----|
@@ -49,13 +39,10 @@ The SDN Manager and Dialog Listener provide performance counters that you can ac
 |# calls completed/sec |Rate of calls completed per second. |
 |# calls timed out/sec |Rate of calls timing out per second. |
 |# messages timed out |(for version 2.4) Number of messages that failed transmission because of timeout. |
-   
 
 ## Dialog Listener performance counters
 
-
 ****
-
 
 |**Performance counter**|**Description**|
 |:-----|:-----|
@@ -71,5 +58,3 @@ The SDN Manager and Dialog Listener provide performance counters that you can ac
 |# messages attempted to send overall |Number of messages overall attempted to send. |
 | Average message delivery time|Time in ms from attempting to send a message to actually receive a delivery confirmation (including resending attempts). |
 |# messages timed out |(for version 2.4.1) Number of messages that failed transmission because of timeout. |
-   
-

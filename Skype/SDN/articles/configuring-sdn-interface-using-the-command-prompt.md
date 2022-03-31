@@ -1,6 +1,6 @@
 ---
 title: Configure SDN Interface using the command prompt
-description: Learn how to access and modify settings uysed by the Dialog Listener and SDN manager using the command prompt.
+description: Learn how to access and modify settings used by the Dialog Listener and SDN manager using the command prompt.
 ms.date: 03/30/2022
 ms.assetid: b411b6d6-4597-416f-8a68-292527d3f226
 ---
@@ -81,12 +81,12 @@ Copyright (C) Microsoft Corporation.  All rights reserved.
              ....   Remove or reset a settings group
                     in the SDN Manager service (referred to by the url
                     or the local service) using the client certificate thumbprint.
-    /e filename  [http(s)://site] [thumbprint]
+    /e filename [http(s)://site] [thumbprint]
              ....   Send content of the file as messages to the
                     SDN Manager service (referred to by the url or the local service)
                     using the client certificate thumbprint
                     and process these messages.
-    /et filename  [http(s)://site] [thumbprint]
+    /et filename [http(s)://site] [thumbprint]
              ....   Send content of file as messages to the
                     SDN Manager service (referred to by the url or the local service)
                     using the client certificate thumbprint
@@ -186,7 +186,7 @@ The **subscriber** settings group describes the behavior that each subscriber ex
 |**Setting**|**Description**|
 |:-----|:-----|
 | `submituri`|Specifies the URI of the receiver (network controller, network management system, or ITPro tool) that receives media stream and stream quality data. |
-| `outputschema`|Specifies the format of the output messages. Choose "C" for generating the same message structure as in Lync SDN Interface 2.1 and 2.1.1. Select "D" (the default) for the new expanded structure introduced with Skype for Business SDN Interface 2.2. Both schemas are documented in  [Skype for Business SDN Interface schema reference](https://msdn.microsoft.com/library/b64912bd-27b1-40c6-99ab-8984f8706bd3.aspx). |
+| `outputschema`|Specifies the format of the output messages. Choose "C" for generating the same message structure as in Lync SDN Interface 2.1 and 2.1.1. Select "D" (the default) for the new expanded structure introduced with Skype for Business SDN Interface 2.2. Both schemas are documented in [Skype for Business SDN Interface schema reference](https://msdn.microsoft.com/library/b64912bd-27b1-40c6-99ab-8984f8706bd3.aspx). |
 | `clientcertificateid`|If a HTTPS connection is used to connect to the recipients, this parameter contains the thumbprint of the client certificate for authenticating requests to the server. |
 | `domainfilters`|A comma-separated list of partial domain names for users. This subscriber receives call and quality messages for users that are in the specified domains. If no domain name is specified, no messages are filtered. |
 | `subnetfilters`|A comma-separated list of subnets (IP4 or IPv6). The subscriber receives data about calls originating or being received in one of these subnets. To specify a subnet, use the format: `196.168.0.0/16` or `2001:4898::dc76:194f%32`. |
@@ -201,7 +201,7 @@ The **subscriber** settings group describes the behavior that each subscriber ex
 | `maxopen`|Specifies the maximum number of messages sent concurrently to the subscriber. |
 | `submitqueuelen`|Specifies the maximum unanswered and waiting messages to send to this recipient. Change this value only if network conditions require a longer queue length caused by fluctuating delays in messages delivered to the subscriber. |
 | `obfuscationseed`|Specifies an individual seed used for the obfuscation of SIP aliases and telephone numbers if the manager setting hidepii is set to true. |
-| `schemaextension`|Boolean value, when 'True' (the default) additional fields are presented to the subscriber. (See  [Schema Extensions](schema-extensions.md)) |
+| `schemaextension`|Boolean value, when 'True' (the default) additional fields are presented to the subscriber. (See [Schema Extensions](schema-extensions.md)) |
 
 ## See also
 
