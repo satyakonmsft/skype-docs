@@ -1,6 +1,6 @@
-v0.2.0
+# v0.2.0
 
-# `<zero-md>`
+## `<zero-md>`
 
 Ridiculously simple markdown displayer - a Polymer 1.1+ web component to load
 and display an external MD file.
