@@ -1601,7 +1601,7 @@
             - name: Visual IVR (sample)
               href: UCMA/visual-ivr-sample.md
       - name: UCMA 5.0 API reference
-        href: /dotnet/api/microsoft.rtc.collaboration?view=ucma-api-5.0              
+        href: /dotnet/api/microsoft.rtc.collaboration              
     - name: Skype for Business SDN Interface
       items:
       - name: Overview
