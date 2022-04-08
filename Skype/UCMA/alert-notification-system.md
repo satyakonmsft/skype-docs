@@ -67,7 +67,7 @@ The general call flow typical of an alert notification system application is as 
     
   - The [Player](/dotnet/api/microsoft.rtc.collaboration.audiovideo.player), [Recorder](/dotnet/api/microsoft.rtc.collaboration.audiovideo.recorder), and [ToneController](/dotnet/api/microsoft.rtc.collaboration.audiovideo.tonecontroller) classes can be used to implement an IVR workflow that involves playing prerecorded prompts, handling DTMF tones, and recording audio.
     
-  - The [Browser](/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml.browser?view=ucma-voice) class can interpret VoiceXML code to implement workflow logic that involves TTS or speech recognition.
+  - The [Browser](/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml.browser) class can interpret VoiceXML code to implement workflow logic that involves TTS or speech recognition.
     
   - The Connector objects (the [SpeechRecognitionConnector](/dotnet/api/microsoft.rtc.collaboration.audiovideo.speechrecognitionconnector) and [SpeechSynthesisConnector](/dotnet/api/microsoft.rtc.collaboration.audiovideo.speechsynthesisconnector) classes) can be used to implement an application that involves TTS or speech recognition.
   
