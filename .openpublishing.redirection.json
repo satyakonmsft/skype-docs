@@ -1,6 +1,5 @@
 {
     "redirections": [
-        {},
         {
             "source_path": "Skype/SDN/articles/index.md",
             "redirect_url": "skype-for-business-software-defined-networking-sdn-interface",
