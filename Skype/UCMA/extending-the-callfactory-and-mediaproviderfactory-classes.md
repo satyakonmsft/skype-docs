@@ -104,7 +104,7 @@ The **Create** method is called when a request is matched with the extension, an
 
 After the factories and the **Call** and **MediaProvider** subclasses are created, they can be packaged in a DLL and installed on a system for use by other application writers. Application writers can then use the process described in the previous section (Registering and Unregistering Platform Extensions) to install the platform extensions when the application starts up.
 
-## Managing media types
+## Managing media types for custom call and MediaProvider subclasses
 
 When you configure platform extensions, ensure that there is no overlap between the supported media types. For example, the default audio extension also supports video. If you remove it to add an alternate audio/only extension, you will lose the video support of the default extension in the process. You will need to install a video-only extension if you want to use your custom audio extensions with video.
 

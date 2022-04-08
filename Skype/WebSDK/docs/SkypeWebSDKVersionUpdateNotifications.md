@@ -75,7 +75,7 @@
 **Bugs fixed in the new public preview build:**
 * Fix bug in hold/resume video in group converstations
 
-## Skype Web SDK Version Update 5/29/17
+## Skype Web SDK Version Update 6/8/17
 
 | Product        | New version           | Last updated  |Previous version
 | ------------- |:-------------:| :-----:|:----------:|

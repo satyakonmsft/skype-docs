@@ -1,3 +1,8 @@
+---
+title: README file for zero-md v0.2.0
+description: README file for zero-md v0.2.0.
+---
+
 # v0.2.0
 
 ## `<zero-md>`
@@ -303,7 +308,9 @@ comprehensive example demonstrating the various markdown input methods,
 
 **Install through Bower**
 
-    bower install --save zerodevx/zero-md#^0.2.0
+```
+bower install --save zerodevx/zero-md#^0.2.0
+```
 
 Alternatively, download the project as a ZIP file and unpack into your
 components directory. Note that `<zero-md>` depends on:
