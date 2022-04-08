@@ -1,3 +1,8 @@
+---
+title: Skype Web SDK version update notifications
+description: Version update notifications for Skype Web SDK.
+---
+
 # Skype Web SDK version update notifications
 
 ## Skype Web SDK Version Update 07/27/18

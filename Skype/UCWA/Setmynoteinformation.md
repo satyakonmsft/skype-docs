@@ -1,3 +1,7 @@
+---
+title: Skype Web SDK version update notifications for Skype for Business 2015
+description: Version update notifications for Skype Web SDK.
+---
 
 # Set my note information
 Set the **me** user's note information.

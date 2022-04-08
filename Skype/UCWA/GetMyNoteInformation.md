@@ -1,3 +1,7 @@
+---
+title: Get my note information
+description: Getting a user's note involves resource navigation from application to me to note.
+---
 
 # Get my note information
 Get the **me** user's note information.

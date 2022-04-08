@@ -1,3 +1,7 @@
+---
+title: Schedule an online meeting for Skype for Business 2015
+description: Scheduling a meeting involves resource navigation from application to myOnlineMeetings.
+---
 
 # Schedule an online meeting
 Schedule a "meet now" online meeting.

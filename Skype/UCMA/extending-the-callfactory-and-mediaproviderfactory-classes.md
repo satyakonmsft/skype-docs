@@ -1,6 +1,7 @@
 ﻿---
 title: Extending the CallFactory and MediaProviderFactory classes
 TOCTitle: Extending the CallFactory and MediaProviderFactory classes
+description: The skills required for creating the factory classes are more extensive than those required for registering these classes with the platform.
 ms:assetid: 5e604df7-b1ed-4dfe-af25-6577f449af5f
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466109(v=office.16)
 ms:contentKeyID: 65240026
@@ -29,8 +30,8 @@ The following methods are available for installing and uninstalling custom exten
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

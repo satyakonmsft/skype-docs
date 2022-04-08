@@ -1,3 +1,7 @@
+---
+title: Reset my presence information for Skype for Business 2015
+description: Resetting a **me** user's presence involves finding the embedded resource in the returned application resource, and then finding the link to the presence.
+---
 
 # Reset my presence information
 Reset the presence of the **me** user.

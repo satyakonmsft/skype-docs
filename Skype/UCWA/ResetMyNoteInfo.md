@@ -1,3 +1,7 @@
+---
+title: Reset my note information for Skype for Business 2015
+description: Resetting a me user's note involves resource navigation from application to me to note.
+---
 
 # Reset my note information
 Reset the **me** user's note information.

@@ -1,3 +1,7 @@
+---
+title: Get my presence information
+description: Getting a user's presence involves resource navigation from application to me to presence.
+---
 
 # Get my presence information
 Get the presence of the **me** user.
