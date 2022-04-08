@@ -1,0 +1,500 @@
+{
+    "redirections": [
+        {},
+        {
+            "source_path": "Skype/SDN/articles/index.md",
+            "redirect_url": "skype-for-business-software-defined-networking-sdn-interface",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/TOC-OLD.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/skypedeveloperplatform",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/UCMA/index.md",
+            "redirect_url": "unified-communications-managed-api-ucma-5-0-sdk-documentation",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/AddParticipants.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/addparticipants",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/AddRemoveConversationAudio.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/addremoveconversationaudio",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/AddRemoveConversationVideo.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/addremoveconversationvideo",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/AnonJoinOnLine.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptmeetingsanonjoinonline",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/AnonJoinOnPrem.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptmeetingsanonjoinonprem",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/AnonymousMeetingJoin.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/anonymousmeetingjoin",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/APIProductKeys.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/apiproductkeys",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/Architecture.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/architecture",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/ConversationControl.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/conversationcontrol",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/Conversations.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/conversations",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/CoreCapabilities.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/corecapabilities",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/DevelopApplications.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/developapplications",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/DevelopForSkypeforBusiness.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/developforskypeforbusiness",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/DevelopWebSDKappsForSfBOnline.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/developwebsdkappsforsfbonline",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/Devices.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/devices",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/DownloadRunSamples.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/downloadrunsamples",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/GeneralReference.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/generalreference",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/GetAPIEntrySignIn.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/getapientrysignin",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/GettingStarted.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/gettingstarted",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/Groups.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/groups",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/JoinMeeting.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/joinmeeting",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/JoinVideoMeetingDisplayVideo.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/joinvideomeetingdisplayvideo",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/ListenForAvailability.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/listenforavailability",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/LocalUser.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/localuser",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/ManageDevices.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/managedevices",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/ManagePersonsAndGroups.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/managepersonsandgroups",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/ObjectModel.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/objectmodel",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PersonLists.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/personlists",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/Persons.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/persons",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/Presence.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/presence",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PresenceEvents.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/presenceevents",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/ProgrammingTasks.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/programmingtasks",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PropertyModel.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/propertymodel",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTAudio.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptaudio",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTAudioCallTransfer.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptaudiocalltransfer",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTAudioGroup.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptaudiogroup",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTAudioHoldResume.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptaudioholdresume",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTAudioIncoming.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptaudioincoming",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTAudioMute.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptaudiomute",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTAudioOutgoing.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptaudiooutgoing",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTAudioP2PEscalation.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptaudiop2pescalation",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTAudioPhoneAudio.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptaudiophoneaudio",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTAuth.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptauth",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTAuthAzureAD.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptauthazuread",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTAuthPassword.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptauthpassword",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTAuthSignOut.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptauthsignout",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTAuthWebTicket.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptauthwebticket",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTAuthWindowsAuth.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptauthwindowsauth",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTChat.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptchat",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTChatGroup.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptchatgroup",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTChatIncomingP2P.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptchatincomingp2p",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTChatOutgoingP2P.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptchatoutgoingp2p",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTChatP2PEscalation.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptchatp2pescalation",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTContacts.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptcontacts",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTContactsAll.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptcontactsall",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTContactsContactCard.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptcontactscontactcard",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTContactsSearch.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptcontactssearch",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTDevicesManagerManageDevices.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptdevicesmanagermanagedevices",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTGroups.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptgroups",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTGroupsAddContact.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptgroupsaddcontact",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTGroupsAddGroup.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptgroupsaddgroup",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTGroupsAll.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptgroupsall",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTGroupsOverview.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptgroupsoverview",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTGroupsRemoveContact.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptgroupsremovecontact",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTGroupsRemoveGroup.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptgroupsremovegroup",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTGroupsRenameGroup.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptgroupsrenamegroup",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTHistory.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/pthistory",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTHistoryConversation.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/pthistoryconversation",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTLocalUser.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptlocaluser",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTLocalUserDashboard.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptlocaluserdashboard",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTLocalUserLocation.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptlocaluserlocation",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTLocalUserNote.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptlocalusernote",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTLocalUserStatus.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptlocaluserstatus",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTUIControls.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptuicontrols",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTUIControlsConversationControl.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptuicontrolsconversationcontrol",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTVideo.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptvideo",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTVideoAddVideo.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptvideoaddvideo",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTVideoGroup.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptvideogroup",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTVideoIncomingP2P.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptvideoincomingp2p",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTVideoOutgoingP2P.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptvideooutgoingp2p",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/PTVideoP2PEscalation.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ptvideop2pescalation",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/ReleaseNotes.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/releasenotes",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/RespondToInvitation.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/respondtoinvitation",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/ReusingUcwaFqdn.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/reusingucwafqdn",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/SaveRestoreSnapshot.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/saverestoresnapshot",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/ScheduleMeeting.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/schedulemeeting",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/SearchForPersonsAndGroups.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/searchforpersonsandgroups",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/SendReceiveText.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/sendreceivetext",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/ShowPersonInfo.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/showpersoninfo",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/SkypeWebSDK.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/skypewebsdk",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/SkypeWebSDKVersionUpdateNotifications.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/skypewebsdkversionupdatenotifications",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/StartConversation.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/startconversation",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/SwitchConversationVideoStreams.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/switchconversationvideostreams",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/TermsOfService.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/termsofservice",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/UCWeb_16Con.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/ucweb_16con",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "Skype/WebSDK/UseConversationControl.md",
+            "redirect_url": "https://docs.microsoft.com/skype-sdk/websdk/docs/useconversationcontrol",
+            "redirect_document_id": false
+        }
+    ]
+}
