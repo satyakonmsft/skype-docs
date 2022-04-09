@@ -1,3 +1,8 @@
+---
+title: Subscribe to the presence of selected contacts for Business 2015
+description: Subscribe to the presence of selected members of a contact group.
+---
+
 
 # Subscribe to the presence of selected contacts
 Subscribe to the presence of selected members of a contact group.
