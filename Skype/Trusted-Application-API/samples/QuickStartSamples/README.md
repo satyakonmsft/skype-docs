@@ -1,3 +1,7 @@
+---
+title: Trusted Application API README
+description: README file for Trusted Application API, which is in Developer Preview and not licensed for production usage.
+---
 # Introduction
 
 > [!NOTE] 
@@ -74,19 +78,23 @@ with no public IP address, you need to perform these steps before running the pr
 
 2. Assuming you have set <code>LocalServerListeningAddress</code> to <code>http://localhost:9000</code>, you can start ngrok with these parameters :
 
-        ngrok.exe http 9000 -host-header="localhost:9000"
+```
+ngrok.exe http 9000 -host-header="localhost:9000"
+```
 
 3. Copy the value of **HTTPS** <code>Forwarding</code> from ngrok's output into <code>MyCallbackUri</code> key in the sample's <code>app.config</code> file and add <code>/callback</code> to it.
     That is, if this is the output of ngrok:
 
-        ngrok by @inconshreveable                                                                               (Ctrl+C to quit)
-        Session Status                online
-        Update                        update available (version 2.2.3, Ctrl-U to update)
-        Version                       2.1.18
-        Region                        United States (us)
-        Web Interface                 http://127.0.0.1:4040
-        Forwarding                    http://6afb33d7.ngrok.io -> localhost:9000
-        Forwarding                    https://6afb33d7.ngrok.io -> localhost:9000
-        Connections                   ttl     opn     rt1     rt5     p50     p90
-                                      68      0       0.00    0.00    1.31    100.31
+```
+ngrok by @inconshreveable                                                                               (Ctrl+C to quit)
+Session Status                online
+Update                        update available (version 2.2.3, Ctrl-U to update)
+Version                       2.1.18
+Region                        United States (us)
+Web Interface                 http://127.0.0.1:4040
+Forwarding                    http://6afb33d7.ngrok.io -> localhost:9000
+Forwarding                    https://6afb33d7.ngrok.io -> localhost:9000
+Connections                   ttl     opn     rt1     rt5     p50     p90
+                              68      0       0.00    0.00    1.31    100.31
+```
     Then set <code>MyCallbackUri</code> to <code>https://6afb33d7.ngrok.io/callback</code>

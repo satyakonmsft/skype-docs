@@ -70,16 +70,16 @@ The following bugs have been fixed in SDN 3.0:
 
 ```powershell
 msiexec /i SkypeForBusinessSDNManager.msi /quiet /lv* install.log LOGPATH=c:\\Temp TOPOLOGY=2 DATABASE_SERVER=dblneprod
-  ```
+```
 
   Result:
 
-  ```powershell
+```powershell
   MSI (s) (18:80) [14:02:27:052]: Invoking remote custom action. DLL: C:\\Windows\\Installer\\MSI1D29.tmp, Entrypoint: ExecuteSqlStrings
 ExecuteSqlStrings:  Error 0x80040e14: failed to execute SQL string, error: An object or column name is missing or empty. For SELECT INTO statements, verify each column has a name. For other statements, look for empty alias names. Aliases defined as "" or are not allowed. Change the alias to a valid name., SQL key: CreateUserScript25 SQL string: BEGIN TRY CREATE USER  FROM LOGIN$ END TRY BEGIN CATCH END CATCH
 MSI (s) (18!10) [14:02:27:364]: Product: Microsoft Skype for Business SDN Manager -- Error 26204. Error -2147217900: failed to execute SQL string, error detail: An object or column name is missing or empty. For SELECT INTO statements, verify each column has a name. For other statements, look for empty alias names. Aliases defined as "" or [] are not allowed. Change the alias to a valid name., SQL key: CreateUserScript25 SQL string: BEGIN TRY CREATE USER [] FROM LOGIN[\\$] END TRY BEGIN CATCH END CATCH
 
-  ```
+```
 
   Expected:
 
