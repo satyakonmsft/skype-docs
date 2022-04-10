@@ -1,6 +1,6 @@
 ---
 title: Setting up a Redis cache system
-description: 
+description: Microsoft Azure offers a Redis service to which you can connect; however, you can also run Redis on Windows or on other operating systems.
 ms.assetid: 6266c208-25a0-4f59-a66d-990cfda79052
 ---
 
