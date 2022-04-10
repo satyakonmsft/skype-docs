@@ -1,10 +1,10 @@
 ---
-title: Skype for Business SDN Interface Release Notes - Skype for Business 2015
+title: Release Notes for Skype for Business SDN Interface
 description: Release notes for the Skype for Business SDN - applies to Lync Server 2013 \ Skype for Business 2015.
 ms.assetid: 726f613b-4639-4433-85db-50a572778ab8
 ---
 
-# Skype for Business SDN Interface Release Notes
+# Release Notes for Skype for Business SDN Interface
 
  **Applies to**: Lync Server 2013 \| Skype for Business 2015
 
