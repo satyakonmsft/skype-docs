@@ -1,3 +1,7 @@
+---
+title: webcomponents.js README
+description: README file for webcomponents.js, a suite of polyfills supporting the Web Components specs
+---
 webcomponents.js
 ================
 

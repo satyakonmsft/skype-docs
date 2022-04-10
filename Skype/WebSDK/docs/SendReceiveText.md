@@ -1,3 +1,7 @@
+---
+title: Send and receive text in a conversation
+description: Receiving messages in a conversation involves getting a conversation object and conversation instant message modality. When the conversation is connected, listen for new messages.
+---
 
 # Send and receive text in a conversation
 
