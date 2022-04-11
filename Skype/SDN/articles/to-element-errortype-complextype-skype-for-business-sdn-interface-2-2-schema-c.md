@@ -11,9 +11,9 @@ dev_langs:
 - xml
 ---
 
-# To element 
+# To element (ErrorType complexType)
 
-(ErrorType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
+(Skype for Business SDN Interface 2.2, Schema "C")
 
 Endpoint involved in the ended SIP call.
 
