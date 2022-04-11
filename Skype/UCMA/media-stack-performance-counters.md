@@ -2,6 +2,7 @@
 title: Media stack performance counters
 TOCTitle: Media stack performance counters
 ms:assetid: c2476bf2-bb17-4f28-b69b-060fb21924e9
+description: Media stack performance counters are shipped with Skype for Business Server. They are not available on clients.
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466085(v=office.16)
 ms:contentKeyID: 65240039
 ms.date: 07/27/2015

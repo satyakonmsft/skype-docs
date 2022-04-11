@@ -2,6 +2,7 @@
 title: Operations performance counters
 TOCTitle: Operations performance counters
 ms:assetid: 236d3a62-080c-4138-b281-1f4ce7373b85
+description: Operations performance counters are monitored by Microsoft Operations Manager (MOM) packs that check for specific threshold values.
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466087(v=office.16)
 ms:contentKeyID: 65240040
 ms.date: 07/27/2015
