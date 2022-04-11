@@ -1,5 +1,5 @@
 ---
-Title: batching requests resource for skype for business 2015
+title: batching requests resource for skype for business 2015
 ---
 # Batching requests
 Learn how the **batch** resource can be used to package multiple HTTP requests into a single request.
