@@ -1,15 +1,18 @@
+---
+title: contactPhoto
+description: The photo of a contact
+ms.date: 04/11/2022
+---
 # contactPhoto
 
  _**Applies to:** Skype for Business 2015_
 
-The photo of a contact.
-            
+The photo of a contact.            
 
 ## Web Link
 <a name = "sectionSection0"> </a>
 
 For more on web links, see [Web links](WebLinks.md).
-
 
 |**Name**|**Description**|
 |:-----|:-----|
@@ -18,13 +21,9 @@ For more on web links, see [Web links](WebLinks.md).
 
 ### Properties
 
-
-
 None
 
 ### Links
-
-
 
 This resource can have the following relationships.
 
@@ -34,8 +33,6 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
@@ -43,43 +40,27 @@ The user must have at least one of these scopes for operations on the resource t
 
 ## Operations
 
-
-
 <a name="sectionSection2"></a>
 
 ### GET
-
-
-
 
 Operation description coming soon...
 
 #### Query parameters
 
-
-
-
 |**Name**|**Description**|**Required?**|
 |:-----|:-----|:-----|
 |size|The desired size of the photo.The string should be in a format similar to "HR{length}X{width}" e.g. "HR64X64".If no size is provided, the default is HR48X48.For more information about photo sizes, see http://msdn.microsoft.com/library/exchange/jj190905(v=exchg.150).aspx.|No|
 
-
 #### Request body
-
-
 
 None
 
-
 #### Response body
-
-
 
 The response from a GET request contains the properties and links shown in the Properties and Links sections at the top of this page.
 
 #### Synchronous errors
-
-
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
@@ -97,14 +78,9 @@ The errors below (if any) are specific to this resource. Generic errors that can
 
 #### Examples
 
-
-
 Only server-supplied query parameters, if any, are shown in the request sample.
 
 #### JSON Request
-
-
-
 
 ```
 Get https://fe1.contoso.com:443/ucwa/v1/applications/192/people/282/contactPhoto?participantHash=23456 HTTP/1.1
@@ -114,10 +90,7 @@ Accept: image/jpeg
 
 ```
 
-
 #### JSON Response
-
-
 
 This sample is given only as an illustration of response syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 ```
@@ -127,11 +100,7 @@ Content-Length: 19
 SomeBinaryPhotoData
 ```
 
-
 #### XML Request
-
-
-
 
 ```
 Get https://fe1.contoso.com:443/ucwa/v1/applications/192/people/282/contactPhoto?participantHash=23456 HTTP/1.1
@@ -141,10 +110,7 @@ Accept: image/jpeg
 
 ```
 
-
 #### XML Response
-
-
 
 This sample is given only as an illustration of response syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 ```
@@ -153,5 +119,3 @@ Content-Type: image/jpeg
 Content-Length: 19
 
 ```
-
-
