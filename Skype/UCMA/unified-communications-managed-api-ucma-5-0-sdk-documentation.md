@@ -61,7 +61,7 @@ The following are the most important attributes of UCMA 5.0:
 
 ## See also
 
-- [Microsoft.Rtc.Collaboration.AudioVideo Namespace](/dotnet/api/microsoft.rtc.collaboration.audiovideo?view=ucma-api)
+- [Microsoft.Rtc.Collaboration.AudioVideo Namespace](/dotnet/api/microsoft.rtc.collaboration.audiovideo?)
 - [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml?)
 - [Microsoft.Rtc.Collaboration.ComponentModel Namespace](/dotnet/api/microsoft.rtc.collaboration.componentmodel?)
 - [Microsoft.Rtc.Collaboration.ConferenceManagement Namespace](/dotnet/api/microsoft.rtc.collaboration.conferencemanagement?)
