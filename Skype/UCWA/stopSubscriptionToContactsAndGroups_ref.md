@@ -1,3 +1,6 @@
+---
+Title: StopSubscriptionToContactsAndGroup for Skype for Business 2015
+---
 # stopSubscriptionToContactsAndGroups
 
  _**Applies to:** Skype for Business 2015_

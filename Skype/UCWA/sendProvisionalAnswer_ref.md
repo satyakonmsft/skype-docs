@@ -1,3 +1,6 @@
+---
+Title: SendProvisionalAnswer resource for Skype for Business 2015
+---
 # sendProvisionalAnswer
 
  _**Applies to:** Skype for Business 2015_

@@ -1,3 +1,6 @@
+---
+Title: ConversationLogTranscripts for Skype for Business 2015
+---
 # conversationLogTranscripts
 
  _**Applies to:** Skype for Business 2015_

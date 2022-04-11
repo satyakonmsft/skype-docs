@@ -1,4 +1,6 @@
-
+---
+Title: LargeMeetingMode for Skype for Business 2015
+---
 # LargeMeetingMode
 
 

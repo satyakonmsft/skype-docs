@@ -1,4 +1,6 @@
-
+---
+Title: ClientNetworkType location for Skype for Business 2015
+---
 # ClientNetworkType
 
 

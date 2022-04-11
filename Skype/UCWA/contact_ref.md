@@ -1,3 +1,6 @@
+---
+Title: Contact resource for Skype for Business 2015
+---
 # contact
 
  _**Applies to:** Skype for Business 2015_

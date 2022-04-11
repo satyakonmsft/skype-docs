@@ -1,4 +1,6 @@
-
+---
+Title: VideoSourcesAllowed participants for Skype for Business 2015 
+---
 # VideoSourcesAllowed
 
 

@@ -1,3 +1,6 @@
+---
+Title: Link resource to answer the negotiation
+---
 # answer
 
  _**Applies to:** Skype for Business 2015_

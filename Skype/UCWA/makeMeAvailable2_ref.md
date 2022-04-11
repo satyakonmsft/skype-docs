@@ -1,3 +1,6 @@
+---
+Title: MakeMeAvailable2 for Skype for Business 2015
+---
 # makeMeAvailable2
 
  _**Applies to:** Skype for Business 2015_

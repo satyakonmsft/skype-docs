@@ -1,3 +1,6 @@
+---
+Title: ReplayMessage reference for Skype for Business 2015
+---
 # replayMessage
 
  _**Applies to:** Skype for Business 2015_

@@ -1,4 +1,6 @@
-
+---
+Title: LocationRequiredEnum for Skype for Business 2015
+---
 # LocationRequiredEnum
 
 
