@@ -28,8 +28,8 @@ The values associated with this registry subkey appear in the following table.
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

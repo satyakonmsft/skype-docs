@@ -17,8 +17,8 @@ Many of the more important architectural components of Microsoft Unified Communi
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

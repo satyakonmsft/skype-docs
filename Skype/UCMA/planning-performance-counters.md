@@ -164,7 +164,7 @@ The Planning performance counters can be used for performance analysis, modeling
 <table>
 <colgroup>
 <col style="width: 50%" />
-<col style="width: 50%" />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -211,8 +211,8 @@ The Planning performance counters can be used for performance analysis, modeling
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -259,8 +259,8 @@ The Planning performance counters can be used for performance analysis, modeling
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -307,8 +307,8 @@ The Planning performance counters can be used for performance analysis, modeling
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -355,8 +355,8 @@ The Planning performance counters can be used for performance analysis, modeling
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -403,8 +403,8 @@ The Planning performance counters can be used for performance analysis, modeling
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">

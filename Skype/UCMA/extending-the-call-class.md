@@ -29,8 +29,8 @@ A class derived from the **Call** class must provide definitions for the two abs
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -58,7 +58,7 @@ A class derived from the **Call** class must also provide definitions for three 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
+<col />
 <col style="width: 50%" />
 </colgroup>
 <thead>

@@ -19,8 +19,8 @@ Operations performance counters are monitored by Microsoft Operations Manager (M
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -82,8 +82,8 @@ Operations performance counters are monitored by Microsoft Operations Manager (M
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -130,8 +130,8 @@ Operations performance counters are monitored by Microsoft Operations Manager (M
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -178,8 +178,8 @@ Operations performance counters are monitored by Microsoft Operations Manager (M
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">

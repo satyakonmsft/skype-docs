@@ -23,8 +23,8 @@ The values of the [PrivacyModePreference](https://msdn.microsoft.com/library/hh3
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -53,8 +53,8 @@ The values of the [PrivacyMode](https://msdn.microsoft.com/library/hh382900\(v=o
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
