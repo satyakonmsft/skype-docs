@@ -28,7 +28,7 @@ The application initializes the platform, and logs in on behalf of a user. The s
 
   - Instant messaging message usage, including replying to incoming messages
 
-  - [InstantMessagingFlow](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.instantmessagingflow?view=ucma-api) handling and control
+  - [InstantMessagingFlow](/dotnet/api/microsoft.rtc.collaboration.instantmessagingflow?view=ucma-api) handling and control
 
 ## Prerequisites
 

@@ -20,7 +20,7 @@ An application can be deactivated by following the steps in the following proced
     
 2. On the **Start** menu, select **All Programs**, select **Skype for Business Server 2015**, and then click **Skype for Business Server Management Shell**.
 
-3. Remove the Active Directory contacts and [ApplicationEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.applicationendpoint?view=ucma-api) instances that you no longer need by running the following PowerShell cmdlet:
+3. Remove the Active Directory contacts and [ApplicationEndpoint](/dotnet/api/microsoft.rtc.collaboration.applicationendpoint?view=ucma-api) instances that you no longer need by running the following PowerShell cmdlet:
 
    ```powershell
     Remove-CsTrustedApplicationEndpoint -Identity sip:ExternalApp@mydomain.com
