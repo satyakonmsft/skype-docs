@@ -68,7 +68,7 @@ You can simply run/debug the samples from your visual studio
 
 ## Running samples on a machine which is not publicly accessible
 
-Most of the samples in this directory use [owin to self host](https://docs.microsoft.com/aspnet/web-api/overview/hosting-aspnet-web-api/use-owin-to-self-host-web-api)
+Most of the samples in this directory use [owin to self host](/aspnet/web-api/overview/hosting-aspnet-web-api/use-owin-to-self-host-web-api)
 callback controller. Callback is required to receive notifications/events from Skype for Business's Trusted Application APIs. This means your application needs to have a
 public IP address for you to receive these notifications. You can, of course, deploy your application on Azure but to develop and debug applications, you can also use ngrok.
 Ngrok is used to expose your local server to the internet. Visit [ngrok's official website](https://ngrok.com) to see on how it works. To run these samples on a machine
