@@ -1,6 +1,7 @@
 ﻿---
 title: To element (ErrorType complexType) 
 TOCTitle: To element (ErrorType complexType)
+description: Element information for To element.
 ms:assetid: 1701fbd4-2cc8-8332-75b9-fd6b37dc1d18
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429329(v=office.16)
 ms:contentKeyID: 68250772
@@ -25,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col>
+<col>
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col>
+<col>
+<col>
 </colgroup>
 <thead>
 <tr class="header">
@@ -86,9 +87,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col>
+<col>
+<col>
 </colgroup>
 <thead>
 <tr class="header">

@@ -1,6 +1,7 @@
 ﻿---
 title: MSDiagnosticsClient element (EndedProperties complexType) 
 TOCTitle: MSDiagnosticsClient element (EndedProperties complexType)
+description: Element info about the error related to and reported by the client.
 ms:assetid: 4611fb54-c4fe-605d-0554-b3f47b16c7d3
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170923(v=office.16)
 ms:contentKeyID: 65855497
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col>
+<col>
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col>
+<col>
+<col>
 </colgroup>
 <thead>
 <tr class="header">

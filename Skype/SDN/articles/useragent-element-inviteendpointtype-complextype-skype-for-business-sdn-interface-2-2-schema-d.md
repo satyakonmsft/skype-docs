@@ -1,6 +1,7 @@
 ﻿---
 title: UserAgent element (InviteEndPointType complexType) 
 TOCTitle: UserAgent element (InviteEndPointType complexType)
+description: Element information for the UserAgent element.
 ms:assetid: 7d15d5b9-2565-f68f-aaef-380e442b7aed
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171026(v=office.16)
 ms:contentKeyID: 65855599
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col>
+<col>
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col>
+<col>
+<col>
 </colgroup>
 <thead>
 <tr class="header">
@@ -96,11 +97,11 @@ None.
 
 <table>
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
+<col>
+<col>
+<col>
+<col>
+<col>
 </colgroup>
 <thead>
 <tr class="header">
