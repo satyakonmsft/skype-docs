@@ -1,4 +1,5 @@
 ﻿---
+description: Learn how to use the UserEndpoint and ApplicationEndpoint classes. 
 title: User endpoints and application endpoints
 TOCTitle: User endpoints and application endpoints
 ms:assetid: f032f3b0-9dd1-4472-b615-75b83fd6c40f
