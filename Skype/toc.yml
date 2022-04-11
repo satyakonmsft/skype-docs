@@ -1601,7 +1601,7 @@
             - name: Visual IVR (sample)
               href: UCMA/visual-ivr-sample.md
       - name: UCMA 5.0 API reference
-        href: https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration?view=ucma-api-5.0              
+        href: /dotnet/api/microsoft.rtc.collaboration              
     - name: Skype for Business SDN Interface
       items:
       - name: Overview
@@ -2685,8 +2685,8 @@
   - name: Lync
     items:
     - name: Lync 2013
-      href: https://docs.microsoft.com/lync/lync-2013
+      href: /lync/lync-2013
     - name: Lync 2010
-      href: https://docs.microsoft.com/previous-versions/office/developer/lync-2010/hh467893(v=office.14)
+      href: /previous-versions/office/developer/lync-2010/hh467893(v=office.14)
     - name: Lync previous versions
-      href: https://docs.microsoft.com/previous-versions/office/
+      href: /previous-versions/office/
