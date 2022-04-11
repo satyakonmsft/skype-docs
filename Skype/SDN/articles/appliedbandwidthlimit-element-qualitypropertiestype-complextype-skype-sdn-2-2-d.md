@@ -23,8 +23,7 @@ This is the actual bandwidth applied to the given send side stream given various
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -59,9 +58,7 @@ This is the actual bandwidth applied to the given send side stream given various
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+
 </colgroup>
 <thead>
 <tr class="header">
