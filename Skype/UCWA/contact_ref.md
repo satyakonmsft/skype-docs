@@ -1,5 +1,6 @@
 ---
-Title: Contact resource for Skype for Business 2015
+title: Contact resource for Skype for Business
+description: "Contact represents a person or service that the user can communicate and collaborate with. A contact can be referenced by a participant or in the context of communication."
 ---
 # contact
 
@@ -63,7 +64,6 @@ This resource can have the following relationships.
 |contactSupportedModalities|Represents the communication modalities supported by a contact.|
 
 ### Azure Active Directory scopes for online applications
-
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.

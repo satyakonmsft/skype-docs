@@ -1,5 +1,6 @@
 ---
-Title: VideoSourcesAllowed participants for Skype for Business 2015 
+title: VideoSourcesAllowed participants for Skype for Business 2015
+description: "VideoSourceAllowed indicates which participants are allowed to contribute video sources in an online meeting."  
 ---
 # VideoSourcesAllowed
 

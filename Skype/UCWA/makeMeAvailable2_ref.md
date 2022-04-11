@@ -1,5 +1,6 @@
 ---
-Title: MakeMeAvailable2 for Skype for Business 2015
+title: MakeMeAvailable2 for Skype for Business 2015
+description: "This resource allows users to share their availability and lets them receive incoming invitations for the modalities of their choice."
 ---
 # makeMeAvailable2
 
@@ -36,7 +37,6 @@ None
 None
 
 ### Azure Active Directory scopes for online applications
-
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.

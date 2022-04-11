@@ -1,5 +1,6 @@
 ---
-Title: UnmuteAudio reference for Skype for Business 2015
+title: UnmuteAudio reference for Skype for Business 2015
+description: "This resource indicates that the user has permissions to unmute the audio of the associated participant."
 ---
 # unmuteAudio
 
@@ -38,7 +39,6 @@ None
 None
 
 ### Azure Active Directory scopes for online applications
-
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.

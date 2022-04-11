@@ -1,5 +1,7 @@
 ---
-Title: ReplayMessage reference for Skype for Business 2015
+title: ReplayMessage reference for Skype for Business 2015
+description: "Client would use replayMessage as a resource to trigger a notification 
+from an application endpoint to current UCWA application instance."
 ---
 # replayMessage
 
@@ -33,7 +35,6 @@ None
 None
 
 ### Azure Active Directory scopes for online applications
-
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.

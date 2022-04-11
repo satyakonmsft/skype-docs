@@ -1,5 +1,6 @@
 ---
-Title: Receive an IM task for Skype for Business 2015
+title: Receive an IM task for Skype for Business 2015
+description: "The task describes the steps that are necessary for one user (ToshM@contoso.com) to receive an instant message from another user, LeneA@contoso.com."
 ---
 # Receive an IM
 

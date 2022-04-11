@@ -1,5 +1,6 @@
 ---
-Title: Me Tasks for Skype for Business 2015
+title: Me Tasks for Skype for Business 2015
+description: "Refers to topics showing code samples that use UCWA 2.0 to perform tasks related to **me** user, the currently logged-on user". 
 ---
 # Me tasks
 Look in this section for examples of tasks that are related to the **me** user.

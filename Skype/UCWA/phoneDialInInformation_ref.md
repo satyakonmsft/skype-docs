@@ -1,5 +1,6 @@
 ---
-Title: PhoneDialInInformation for Skype for Business 2015
+title: PhoneDialInInformation for Skype for Business 2015
+description: "phoneDialInInformation represents phone access information for an onlineMeeting. Web links include rel and href."
 ---
 # phoneDialInInformation
 
@@ -47,7 +48,6 @@ This resource can have the following relationships.
 |dialInRegion|Represents access information for phone users who wish to join an [onlineMeeting](onlineMeeting_ref.md).|
 
 ### Azure Active Directory scopes for online applications
-
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.

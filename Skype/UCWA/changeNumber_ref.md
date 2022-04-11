@@ -1,5 +1,6 @@
 ---
-Title: ChangeNumber resource for Skype for Business 2015
+title: ChangeNumber resource for Skype for Business 2015
+description: "changeNumber Changes or clears the number stored in the corresponding [phone](phone_ref.md) resource." 
 ---
 # changeNumber
 
@@ -38,7 +39,6 @@ None
 None
 
 ### Azure Active Directory scopes for online applications
-
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.

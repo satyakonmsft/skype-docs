@@ -1,5 +1,6 @@
 ---
-Title: UCWA 2.0 general reference for Skype for Skype for Business 2015 and Skype for Business Online
+title: UCWA 2.0 general reference for Skype for Skype for Business 2015 and Skype for Business Online
+description: "UCWA 2.0 is a REST API that exposes Skype for Business Server 2015 instant messaging (IM) and presence capabilities."
 ---
 # UCWA 2.0 general reference
 Conceptual topics that describe the features and operation of the Microsoft Unified Communications Web API 2.0.

@@ -1,5 +1,6 @@
 ---
-Title: Memberships resource for Skype for Business 2015
+title: Memberships resource for Skype for Business 2015
+description: "The article describes the memberships resource. Web Links include are rel and href. The user must have at least one of scopes for operations on the resource to be allowed." 
 ---
 # memberships
 
@@ -38,7 +39,6 @@ This resource can have the following relationships.
 |presenceSubscriptionMembership|Represents the [presenceSubscription](presenceSubscription_ref.md) membership of a single [contact](contact_ref.md).|
 
 ### Azure Active Directory scopes for online applications
-
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.

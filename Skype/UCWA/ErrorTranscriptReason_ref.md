@@ -1,5 +1,6 @@
 ---
-Title: ErrorTranscriptReason for Skype for Business 2015
+title: error transcript reason for skype for business 2015
+description: "This represents the type of error transcript reason. TranscriptionFaild is the name of the property."
 ---
 # ErrorTranscriptReason
 

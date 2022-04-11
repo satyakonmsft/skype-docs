@@ -1,5 +1,6 @@
 ---
-Title: StopSubscriptionToContactsAndGroup for Skype for Business 2015
+title: StopSubscriptionToContactsAndGroup for Skype for Business 2015
+description: "StopSubscriptionToContactsAndGroups stops the subscription to a user's contacts and groups. Properties values are rel and href."
 ---
 # stopSubscriptionToContactsAndGroups
 
@@ -38,7 +39,6 @@ None
 None
 
 ### Azure Active Directory scopes for online applications
-
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.

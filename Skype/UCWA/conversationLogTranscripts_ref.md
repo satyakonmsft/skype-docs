@@ -1,5 +1,5 @@
 ---
-Title: ConversationLogTranscripts for Skype for Business 2015
+Title: conversationLogTranscripts for Skype for Business 2015
 ---
 # conversationLogTranscripts
 
@@ -39,7 +39,6 @@ This resource can have the following relationships.
 |conversationLogTranscript|Represents a transcript within a [conversationLog](conversationLog_ref.md).|
 
 ### Azure Active Directory scopes for online applications
-
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.

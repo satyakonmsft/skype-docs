@@ -1,5 +1,6 @@
 ---
-Title: Link resource to answer the negotiation
+title: Link resource to answer the negotiation
+description: "Answer represents a link resource to answer the negotiation. Web link properties are rel and href."
 ---
 # answer
 
@@ -33,7 +34,6 @@ None
 None
 
 ### Azure Active Directory scopes for online applications
-
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.

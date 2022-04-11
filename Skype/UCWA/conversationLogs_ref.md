@@ -1,5 +1,6 @@
 ---
-Title: ConversationLogs for Skype for Business 2015
+title: ConversationLogs for Skype for Business 2015
+description: "conversationLogs represents the user's past conversation logs which includes both peer-to-peers and conferences."
 ---
 # conversationLogs
 
@@ -38,7 +39,6 @@ This resource can have the following relationships.
 |conversationLog|Represents the user's view of an instance of past conversation.|
 
 ### Azure Active Directory scopes for online applications
-
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.

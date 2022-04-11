@@ -1,5 +1,6 @@
 ---
-Title: LocationRequiredEnum for Skype for Business 2015
+title: LocationRequiredEnum for Skype for Business 2015
+description: "LocationRequiredEnum is an enumeration of location required values. The values include Disclaimer, No, and Yes."
 ---
 # LocationRequiredEnum
 

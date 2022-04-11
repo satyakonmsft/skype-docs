@@ -1,5 +1,6 @@
 ---
-Title: PhoneAudio reference for Skype for Business 2015
+title: PhoneAudio reference for Skype for Business 2015
+description: "PhoneAudio represents the phone audio modality in a conversation. It refers to communication that is delivered via a public switched telephone network (PSTN)." 
 ---
 # phoneAudio
 
@@ -51,7 +52,6 @@ This resource can have the following relationships.
 ### Azure Active Directory scopes for online applications
 
 
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
@@ -62,7 +62,6 @@ The user must have at least one of these scopes for operations on the resource t
 <a name="sectionSection2"></a>
 
 ### Updated
-
 
 
 |**Resource**|**Priority**|**Sender**|**Reason**|
