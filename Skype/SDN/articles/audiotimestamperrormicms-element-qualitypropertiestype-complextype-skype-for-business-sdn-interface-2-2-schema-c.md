@@ -21,7 +21,7 @@ Speaking device clock drift rate, relative to CPU clock. Average error of microp
 ## Element information
 
 <table>
-<colgroup>
+<colgroup> 
 <col style="width: 50%" />
 <col style="width: 50%" />
 </colgroup>
@@ -57,7 +57,7 @@ Speaking device clock drift rate, relative to CPU clock. Average error of microp
 ### Parent elements
 
 <table>
-<colgroup>
+<colgroup> 
 <col style="width: 33%" />
 <col style="width: 33%" />
 <col style="width: 33%" />
