@@ -26,7 +26,7 @@ The application initializes the platform and logs in on behalf of a user. The sa
 
   - Call forwarding
 
-  - [AudioVideoFlow](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow?view=ucma-api) handling and control
+  - [AudioVideoFlow](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow?view=ucma-api) handling and control
 
 ## Prerequisites
 
