@@ -1,5 +1,5 @@
 ﻿---
-title: MSDiagnostics element, EndedProperties complexType
+title: MSDiagnostics element, EndedProperties complexType, schema C
 TOCTitle: MSDiagnostics element (EndedProperties complexType)
 description: Additional information related to an error.
 ms:assetid: fb7d17c9-7249-7065-43b6-9714daac680b
@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# MSDiagnostics element, EndedProperties complexType
+# MSDiagnostics element, EndedProperties complexType, schema C
 
 (Skype for Business SDN Interface 2.2, Schema "C")
 

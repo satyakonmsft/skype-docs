@@ -1,5 +1,5 @@
 ﻿---
-title: URI element, QualityEndPointType complexType 
+title: URI element, QualityEndPointType complexType, schema D
 TOCTitle: URI element (QualityEndPointType complexType)
 description: Information about the URI element, QualityEndPointType complexType.
 ms:assetid: 5238e325-ef0b-0f9d-9812-c1b9471e2c5c
@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# URI element (QualityEndPointType complexType)
+# URI element, QualityEndPointType complexType, schema D
 
 (Skype for Business SDN Interface 2.2, Schema "D")
 
