@@ -50,8 +50,8 @@ The Skype for Business Server 2015 Logging Tool menu bar consists of the followi
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -103,8 +103,8 @@ The **Flags** pane enables you to set the types of messages that are logged. Any
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -168,8 +168,8 @@ The variables used in log file formatting are shown in the following table.
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
