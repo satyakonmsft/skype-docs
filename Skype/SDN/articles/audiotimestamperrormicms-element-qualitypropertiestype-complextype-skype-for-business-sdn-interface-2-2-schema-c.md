@@ -1,5 +1,5 @@
 ﻿---
-title: AudioTimestampErrorMicMs element (QualityPropertiesType complexType)
+title: AudioTimestampErrorMicMs element (QualityPropertiesType complexType) 
 TOCTitle: AudioTimestampErrorMicMs element
 ms:assetid: 193d8bdb-018b-641f-fb60-8b7caf9b46d1
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404703(v=office.16)
@@ -21,7 +21,7 @@ Speaking device clock drift rate, relative to CPU clock. Average error of microp
 ## Element information
 
 <table>
-<colgroup> 
+<colgroup>
 <col style="width: 50%" />
 <col style="width: 50%" />
 </colgroup>
@@ -57,7 +57,7 @@ Speaking device clock drift rate, relative to CPU clock. Average error of microp
 ### Parent elements
 
 <table>
-<colgroup> 
+<colgroup>
 <col style="width: 33%" />
 <col style="width: 33%" />
 <col style="width: 33%" />
