@@ -1,6 +1,7 @@
 ﻿---
 title: UserAgent element, QualityEndPointType complexType, schema C 
 TOCTitle: UserAgent element (QualityEndPointType complexType)
+description: Skype for Business client and version for schema C.
 ms:assetid: e65f8a8c-10b2-00b4-221b-bd723c697e80
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429334(v=office.16)
 ms:contentKeyID: 68250776

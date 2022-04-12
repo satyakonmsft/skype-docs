@@ -1,6 +1,7 @@
 ﻿---
 title: VideoFrameLossRate element, QualityPropertiesType complexType, schema D 
 TOCTitle: VideoFrameLossRate element
+description: Average fraction of frames lost on the video receiver side as computed over the duration of the session.
 ms:assetid: 1af084d1-4ddf-d7d3-e816-4668be3d737f
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171033(v=office.16)
 ms:contentKeyID: 65855606
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col>
+<col>
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col>
+<col>
+<col>
 </colgroup>
 <thead>
 <tr class="header">
