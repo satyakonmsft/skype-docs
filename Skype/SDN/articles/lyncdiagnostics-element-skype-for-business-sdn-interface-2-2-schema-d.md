@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# LyncDiagnostics element 
+# LyncDiagnostics element, schema D 
 
 (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -147,11 +147,11 @@ None.
 
 <table>
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
+<col>
+<col>
+<col>
+<col>
+<col>
 </colgroup>
 <thead>
 <tr class="header">

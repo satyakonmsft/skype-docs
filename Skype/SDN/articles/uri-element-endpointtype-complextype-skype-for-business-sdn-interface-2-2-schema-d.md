@@ -1,5 +1,5 @@
 ﻿---
-title: URI element (EndPointType complexType) 
+title: URI element, EndPointType complexType, schema D
 TOCTitle: URI element (EndPointType complexType)
 description: 
 ms:assetid: 6e0d9904-2d0c-0215-4c76-43ace2dd85d8
@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# URI element (EndPointType complexType)
+# URI element, EndPointType complexType, schema D
 
 (Skype for Business SDN Interface 2.2, Schema "D")
 

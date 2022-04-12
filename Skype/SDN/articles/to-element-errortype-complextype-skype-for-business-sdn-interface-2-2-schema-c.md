@@ -1,5 +1,5 @@
 ﻿---
-title: To element (ErrorType complexType) 
+title: To element, ErrorType complexType, schema C
 TOCTitle: To element (ErrorType complexType)
 description: Element information for To element.
 ms:assetid: 1701fbd4-2cc8-8332-75b9-fd6b37dc1d18
@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# To element (ErrorType complexType)
+# To element, ErrorType complexType, schema C
 
 (Skype for Business SDN Interface 2.2, Schema "C")
 

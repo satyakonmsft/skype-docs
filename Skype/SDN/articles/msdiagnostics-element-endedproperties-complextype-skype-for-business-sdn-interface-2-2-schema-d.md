@@ -1,5 +1,5 @@
 ﻿---
-title: MSDiagnostics element (EndedProperties complexType) 
+title: MSDiagnostics element, EndedProperties complexType, schema D
 TOCTitle: MSDiagnostics element (EndedProperties complexType)
 ms:assetid: 10cf2941-ef6e-43ba-82a6-8eaece631bd8
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170920(v=office.16)
@@ -10,9 +10,9 @@ dev_langs:
 - xml
 ---
 
-# MSDiagnostics element 
+# MSDiagnostics element, EndedProperties complexType, schema D
 
-(EndedProperties complexType) (Skype for Business SDN Interface 2.2, Schema "D")
+(Skype for Business SDN Interface 2.2, Schema "D")
 
 More info related to the error.
 
