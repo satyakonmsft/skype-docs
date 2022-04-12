@@ -38,9 +38,10 @@ The **cacheLinks** function caches links based on the supplied data.
 
 
 
-| **Parameter** | **Description** |
+|**Parameter** |**Description**|
 |:-----|:-----|
 |data|The data object to be stored in the cache.|
+
  **Syntax**
 
 
