@@ -16,5 +16,5 @@ mtps_version: v=office.16
 
 The sample creates a UCMA "bot" that extends an IVR by adding a graphical selection menu in the Lync Conversation Extension Window, which simplifies navigation before making a call.
 
-For more information, see [Microsoft Lync Dev Center](https://docs.microsoft.com/lync/lync-2013).
+For more information, see [Microsoft Lync Dev Center](/lync/lync-2013).
 

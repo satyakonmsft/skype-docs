@@ -18,11 +18,11 @@ mtps_version: v=office.16
 
 ## Description
 
-This sample shows how to run a Skype for Business Server 2015 VoiceXML Browser object against a VoiceXML page and a Microsoft Unified Communications Managed API 5.0 [AudioVideoCall](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) instance. The major steps are as follows.
+This sample shows how to run a Skype for Business Server 2015 VoiceXML Browser object against a VoiceXML page and a Microsoft Unified Communications Managed API 5.0 [AudioVideoCall](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) instance. The major steps are as follows.
 
-1.  Set up the UCMA 5.0 objects ([CollaborationPlatform](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.collaborationplatform?view=ucma-api) and endpoints).
+1.  Set up the UCMA 5.0 objects ([CollaborationPlatform](/dotnet/api/microsoft.rtc.collaboration.collaborationplatform?view=ucma-api) and endpoints).
 
-2.  Instantiate a [Browser](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml.browser?view=ucma-voice) object.
+2.  Instantiate a [Browser](/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml.browser?view=ucma-voice) object.
 
 3.  Subscribe to **Browser** events.
 
