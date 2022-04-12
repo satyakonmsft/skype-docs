@@ -22,9 +22,6 @@ This is the actual bandwidth applied to the given send side stream given various
 ## Element information
 
 <table>
-<colgroup>
-
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -57,9 +54,6 @@ This is the actual bandwidth applied to the given send side stream given various
 ### Parent elements
 
 <table>
-<colgroup>
-
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
