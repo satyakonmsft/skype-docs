@@ -20,11 +20,11 @@ For information about the third possibility, in which is in coexistence with Lyn
 
 <table>
 <colgroup>
-<col />
-<col />
-<col />
-<col />
-<col />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
 </colgroup>
 <thead>
 <tr class="header">
