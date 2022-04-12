@@ -1,5 +1,5 @@
 ﻿---
-descriptoin: Learn the conceptual details about handling media in audio/video calls. 
+description: Learn the conceptual details about handling media in audio/video calls. 
 title: Media handling - AudioVideo
 TOCTitle: Media handling - AudioVideo
 ms:assetid: 4e4784d8-908d-4371-9bbd-355b6279ac16
