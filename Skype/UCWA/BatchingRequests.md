@@ -1,6 +1,6 @@
 ---
-title: batching requests resource for skype for business 2015
-description: "batch resource can be used to package multiple HTTP requests into a single request".
+title: batching requests for skype for business 2015
+description: "batch resource can be used to package multiple HTTP requests into a single request."
 ---
 # Batching requests
 Learn how the **batch** resource can be used to package multiple HTTP requests into a single request.
