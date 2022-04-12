@@ -1,7 +1,4 @@
----
-title: Reset My Presence Information
-description: Reset the presence of the me user.
----
+
 # Reset my presence information
 Reset the presence of the **me** user.
 

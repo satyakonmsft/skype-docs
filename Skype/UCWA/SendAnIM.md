@@ -1,7 +1,4 @@
----
-title: Send an IM
-description: Send an IM to one of your contacts.
----
+
 # Send an IM
 Send an IM to one of your contacts.
 
