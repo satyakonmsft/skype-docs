@@ -1,16 +1,17 @@
 ﻿---
-title: AudioTimestampErrorSpkMs element (QualityPropertiesType complexType) 
+title: AudioTimestampErrorSpkMs element (QualityPropertiesType complexType) Schema C
 TOCTitle: AudioTimestampErrorSpkMs element
 ms:assetid: 121b8cab-78f9-65c3-10be-347756db6b9c
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404700(v=office.16)
 ms:contentKeyID: 68250618
+description: Average error of speech render stream time stamp, in milliseconds, or the last 20 seconds of the call.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# AudioTimestampErrorSpkMs element 
+# AudioTimestampErrorSpkMs element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -21,10 +22,6 @@ Average error of speech render stream time stamp, in milliseconds, or the last 2
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -57,11 +54,6 @@ Average error of speech render stream time stamp, in milliseconds, or the last 2
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
