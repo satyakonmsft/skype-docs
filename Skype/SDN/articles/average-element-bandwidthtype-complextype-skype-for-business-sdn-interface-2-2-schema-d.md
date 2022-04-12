@@ -1,16 +1,17 @@
 ﻿---
-title: Average element (BandwidthType complexType) 
+title: Average element (BandwidthType complexType) Schema D
 TOCTitle: Average element
 ms:assetid: 15daf053-67d8-973e-1410-27b4fb765405
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149428(v=office.16)
 ms:contentKeyID: 65855708
+description: Estimated average amount of the bandwidth.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# Average element 
+# Average element (Schema D)
 
 (BandwidthType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -20,10 +21,6 @@ Estimated average amount of the bandwidth.
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -56,11 +53,6 @@ Estimated average amount of the bandwidth.
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
