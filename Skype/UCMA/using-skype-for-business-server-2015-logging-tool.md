@@ -1,6 +1,7 @@
 ﻿---
 title: Using Skype for Business Server 2015 Logging Tool
 TOCTitle: Using Skype for Business Server 2015 Logging Tool
+description: How to use Skype for the Business Server 2015 Logging Tool
 ms:assetid: 19906004-90ca-4287-bbe1-4c63983556f6
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466134(v=office.16)
 ms:contentKeyID: 65240058
