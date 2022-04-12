@@ -1,6 +1,6 @@
 ---
 title: PhoneAudio reference for Skype for Business 2015
-description: "PhoneAudio represents the phone audio modality in a conversation. It refers to communication that is delivered via a public switched telephone network (PSTN)." 
+description: "PhoneAudio represents the phone audio modality in a conversation. It refers to communication that is delivered via a public switched telephone network or PSTN." 
 ---
 # phoneAudio
 
@@ -52,11 +52,12 @@ This resource can have the following relationships.
 ### Azure Active Directory scopes for online applications
 
 
+`
 The user must have at least one of these scopes for operations on the resource to be allowed.
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
-|Conversations.Receive|Receive conversation invites|Allows the app to receive instant messages, audio, video, and desktop sharing invitations on-behalf of the signed-in user|
+|Conversations.Receive|Receive conversation invites|Allows the app to receive instant messages, audio, video, and desktop sharing invitations on-behalf of the signed-in user|`
 
 ## Events
 <a name="sectionSection2"></a>
@@ -64,11 +65,12 @@ The user must have at least one of these scopes for operations on the resource t
 ### Updated
 
 
+`
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |phoneAudio|High|conversation|The phoneAudio resource has changed.</p><p></p>|
 Sample of returned event data.
-This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.`
 {
   "_links" : {
     "self" : {
