@@ -1,5 +1,5 @@
 ﻿---
-title: MSDiagnosticsClient element (EndedProperties complexType) 
+title: MSDiagnosticsClient element, EndedProperties complexType, schema D 
 TOCTitle: MSDiagnosticsClient element (EndedProperties complexType)
 description: Element info about the error related to and reported by the client.
 ms:assetid: 4611fb54-c4fe-605d-0554-b3f47b16c7d3
@@ -11,9 +11,9 @@ dev_langs:
 - xml
 ---
 
-# MSDiagnosticsClient element 
+# MSDiagnosticsClient element, EndedProperties complexType, schema D
 
-(EndedProperties complexType) (Skype for Business SDN Interface 2.2, Schema "D")
+(Skype for Business SDN Interface 2.2, Schema "D")
 
 Info about the error related to and reported by the client.
 

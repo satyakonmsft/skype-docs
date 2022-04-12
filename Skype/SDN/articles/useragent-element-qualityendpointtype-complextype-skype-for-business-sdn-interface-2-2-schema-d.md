@@ -1,5 +1,5 @@
 ﻿---
-title: UserAgent element (QualityEndPointType complexType) 
+title: UserAgent element, QualityEndPointType complexType, schema D
 TOCTitle: UserAgent element (QualityEndPointType complexType)
 ms:assetid: 99b61ffb-f775-477f-6ecf-591f3b017eaf
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171023(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# UserAgent element (QualityEndPointType complexType) 
+# UserAgent element, QualityEndPointType complexType, schema D
 
 (Skype for Business SDN Interface 2.2, Schema "D")
 

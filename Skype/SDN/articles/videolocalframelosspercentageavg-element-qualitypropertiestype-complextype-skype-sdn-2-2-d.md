@@ -1,5 +1,5 @@
 ﻿---
-title: VideoLocalFrameLossPercentageAvg element (QualityPropertiesType complexType) 
+title: VideoLocalFrameLossPercentageAvg element, QualityPropertiesType complexType, schema D
 TOCTitle: VideoLocalFrameLossPercentageAvg element
 description: Information about the VideoLocalFrameLossPercentageAvg element.
 ms:assetid: c23227a1-3a58-b0b7-ef01-cd8804169e3f
@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# VideoLocalFrameLossPercentageAvg element (QualityPropertiesType complexType)
+# VideoLocalFrameLossPercentageAvg element, QualityPropertiesType complexType, schema D
 
 (Skype for Business SDN Interface 2.2, Schema "D")
 
