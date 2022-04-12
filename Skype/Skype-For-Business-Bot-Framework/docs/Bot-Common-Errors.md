@@ -1,7 +1,10 @@
-# Skype for Business Bot - common errors
+---
+title: Skype for Business Bot - common errors
+description: This article lists the most common errors encountered during the Skype for Business bot setup and what you can do to solve them.
+ms.date: 04/11/2022
+---
 
-> [!NOTE] 
-> The Skype for Business Bot Framework channel is in Developer Preview.
+# Skype for Business Bot - common errors
 
 This article lists the most common errors encountered during the Skype for Business bot setup and what you can do to solve them.
 
@@ -15,7 +18,7 @@ This article lists the most common errors encountered during the Skype for Busin
 |**+ FullyQualifiedErrorId : Error processing cmdlet request**<br/><br/>"message":"Validation failed on entity"<br/><br/>"type":"System.ArgumentException"<br/><br/>"message":"SipUri cannot be NULL or Empty and it has to be lowercase"<br/><br/>"type":"System.ComponentModel.DataAnnotations.ValidationException"|This error is caused when the  *New-CsOnlineApplicationEndpoint* -Uri sip parameter value has uppercase characters. Use all lowercase for -Uri sip parameter.|
 |**+ FullyQualifiedErrorId : Error processing cmdlet request**<br/><br/>"type":"Microsoft.Rtc.Management.Hosted.PlatformService.ProvisioningLibrary.ApplicationEndpointProvisioningException was thrown."|This error is caused by timing issues in the provisioning. Sometimes this error is also seen with *Set-CsOnlineApplicationEndpoint -Uri*, although the issue resolves itself after a few minutes.<br/><br/>Run `Set-CsOnlineApplicationEndpoint -Uri <app@domain.com>` followed by `Get-CsOnlineApplication -Uri <app@domain.com>` to verify that there are no issues.|
 |**+ FullyQualifiedErrorId : Error processing cmdlet**<br/><br/>**+ FullyQualifiedErrorId : {"odata.error":{"code":"Request_BadRequest","message":{"lang":"en","value":"Property immutableId is invalid."}**|This error is caused by running a cmdlet on a hybrid topology with a federated domain. Workaround is to use a non-federated domain.|
-|Processing data from remote server failed with the following error message: **The user 'usera@contoso.com' does not have permission to manage this tenant.**|To add your bot to Skype for Business, you must sign in as the tenant administrator of a Skype for Business Online environment. For more information, see [About the Skype for Business admin role](https://docs.microsoft.com/skypeforbusiness/skype-for-business-online?redirectSourcePath=%252fen-us%252farticle%252fAbout-the-Skype-for-Business-admin-role-aeb35bda-93fc-49b1-ac2c-c74fbeb737b5).|
+|Processing data from remote server failed with the following error message: **The user 'usera@contoso.com' does not have permission to manage this tenant.**|To add your bot to Skype for Business, you must sign in as the tenant administrator of a Skype for Business Online environment. For more information, see [About the Skype for Business admin role](/skypeforbusiness/skype-for-business-online?redirectSourcePath=%252fen-us%252farticle%252fAbout-the-Skype-for-Business-admin-role-aeb35bda-93fc-49b1-ac2c-c74fbeb737b5).|
 
 
 ## Other common errors
