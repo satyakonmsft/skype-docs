@@ -1,4 +1,5 @@
 ﻿---
+description: Learn about ApplicationEndpoint and UserEndpoint instances in UCMA 5.0. 
 title: Endpoint services (Unified Communications Managed API 5.0)
 TOCTitle: Endpoint services
 ms:assetid: ede76548-3ff1-4c12-a4ca-08f62399be7c
@@ -13,9 +14,9 @@ mtps_version: v=office.16
 
 **Applies to**: Skype for Business 2015
 
-The endpoint (an [ApplicationEndpoint](/dotnet/api/microsoft.rtc.collaboration.applicationendpoint?view=ucma-api) or [UserEndpoint](/dotnet/api/microsoft.rtc.collaboration.userendpoint?view=ucma-api) instance) plays a central role in Microsoft Unified Communications Managed API 5.0 because of the access it provides to the communication and collaboration infrastructure.
+The endpoint (an [ApplicationEndpoint](/dotnet/api/microsoft.rtc.collaboration.applicationendpoint) or [UserEndpoint](/dotnet/api/microsoft.rtc.collaboration.userendpoint?) instance) plays a central role in Microsoft Unified Communications Managed API 5.0 because of the access it provides to the communication and collaboration infrastructure.
 
-After a [CollaborationPlatform](/dotnet/api/microsoft.rtc.collaboration.collaborationplatform?view=ucma-api) instance is created, it can be used to create one or more endpoints. An endpoint can then be used to create a conversation, schedule an upcoming conference, publish presence information to others, subscribe to the presence of other parties, manage your contacts, or collect related contacts into groups.
+After a [CollaborationPlatform](/dotnet/api/microsoft.rtc.collaboration.collaborationplatform) instance is created, it can be used to create one or more endpoints. An endpoint can then be used to create a conversation, schedule an upcoming conference, publish presence information to others, subscribe to the presence of other parties, manage your contacts, or collect related contacts into groups.
 
 ## Communication framework
 
