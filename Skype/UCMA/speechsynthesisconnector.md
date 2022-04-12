@@ -15,7 +15,7 @@ dev_langs:
 
 **Applies to**: Skype for Business 2015
 
-A [SpeechSynthesisConnector](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.speechsynthesisconnector?view=ucma-api) instance provides a **Stream** interface to feed audio data to an attached [AudioVideoFlow](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow?view=ucma-api) instance. The **Stream** can be given to a **SpeechSynthesizer** object (in the **Microsoft.Speech.Synthesis** namespace) as an output destination, in order to play text-to-speech (TTS) over the wire.
+A [SpeechSynthesisConnector](/dotnet/api/microsoft.rtc.collaboration.audiovideo.speechsynthesisconnector?view=ucma-api) instance provides a **Stream** interface to feed audio data to an attached [AudioVideoFlow](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow?view=ucma-api) instance. The **Stream** can be given to a **SpeechSynthesizer** object (in the **Microsoft.Speech.Synthesis** namespace) as an output destination, in order to play text-to-speech (TTS) over the wire.
 
 Before an application can call the [Start](https://msdn.microsoft.com/library/hh383202\(v=office.16\)) method on a **SpeechSynthesisConnector** instance, an **AudioVideoFlow** instance must have been previously attached to the connector, and the **State** of the **AudioVideoFlow** instance must be **Active**. If both conditions are not met, **Start** throws an exception.
 
