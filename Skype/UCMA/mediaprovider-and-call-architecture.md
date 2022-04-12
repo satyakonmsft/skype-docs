@@ -28,8 +28,8 @@ The following table lists the **MediaProvider** properties that define the behav
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -67,8 +67,8 @@ A key role of a class derived from the **MediaProvider** class is to participate
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -123,8 +123,8 @@ The abstract methods shown in the following table must be implemented in a class
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

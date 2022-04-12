@@ -77,9 +77,9 @@ The value of the [State](https://msdn.microsoft.com/library/hh383563\(v=office.1
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
