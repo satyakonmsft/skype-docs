@@ -4,7 +4,7 @@ TOCTitle: AppliedBandwidthLimit element
 ms:assetid: 0816b0a6-636e-ecd0-e69b-183fb8a95fde
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404699(v=office.16)
 ms:contentKeyID: 68250612
-description: This is the actual bandwidth applied to the given send side stream given various policy settings.
+description: This is the actual bandwidth applied to the given send side stream given various policy settings (Schema C).
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
