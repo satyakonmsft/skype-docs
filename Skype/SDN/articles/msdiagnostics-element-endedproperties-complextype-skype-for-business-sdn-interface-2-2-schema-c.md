@@ -1,7 +1,7 @@
 ﻿---
 title: MSDiagnostics element, EndedProperties complexType, schema C
 TOCTitle: MSDiagnostics element (EndedProperties complexType)
-description: Additional information related to an error.
+description: The  MSDiagnostics element contains additional information related to an error.
 ms:assetid: fb7d17c9-7249-7065-43b6-9714daac680b
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404795(v=office.16)
 ms:contentKeyID: 68250705

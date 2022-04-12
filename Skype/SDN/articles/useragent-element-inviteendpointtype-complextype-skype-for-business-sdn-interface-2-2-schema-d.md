@@ -1,7 +1,7 @@
 ﻿---
 title: UserAgent element, InviteEndPointType complexType, schema D 
 TOCTitle: UserAgent element (InviteEndPointType complexType)
-description: Element information for the UserAgent element.
+description: Element information for the UserAgent element, InviteEndPointType complexType, schema D.
 ms:assetid: 7d15d5b9-2565-f68f-aaef-380e442b7aed
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171026(v=office.16)
 ms:contentKeyID: 65855599
@@ -26,10 +26,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -62,11 +58,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

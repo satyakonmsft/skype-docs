@@ -1,7 +1,7 @@
 ﻿---
 title: WifiDriverVersion element, QualityEndPointType complexType, schema C 
 TOCTitle: WifiDriverVersion element
-description: Wifi Driver Version.
+description: Information about the Wifi Driver Version, QualityEndPointType complexType, schema C.
 ms:assetid: 23a7fbdd-3d3e-9e06-282d-7e7d24205ce9
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429343(v=office.16)
 ms:contentKeyID: 68250785
@@ -25,10 +25,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +57,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
