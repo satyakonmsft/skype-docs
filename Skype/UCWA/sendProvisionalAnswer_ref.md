@@ -1,6 +1,6 @@
 ---
 title: SendProvisionalAnswer resource for Skype for Business 2015
-description: "sendProvisionalAnswer indicates a link in an audioVideoInvitation resource that lets the application send an answer for early media negotiation."
+description: "SendProvisionalAnswer indicates a link in an audioVideoInvitation resource that lets the application send an answer for early media negotiation."
 ---
 # sendProvisionalAnswer
 

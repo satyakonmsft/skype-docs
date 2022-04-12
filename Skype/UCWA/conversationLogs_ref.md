@@ -1,6 +1,6 @@
 ---
 title: ConversationLogs for Skype for Business 2015
-description: "conversationLogs represents the user's past conversation logs which includes both peer-to-peers and conferences."
+description: "ConversationLogs represents the user's past conversation logs which includes both peer-to-peers and conferences."
 ---
 # conversationLogs
 

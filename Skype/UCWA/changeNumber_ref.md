@@ -1,6 +1,6 @@
 ---
 title: ChangeNumber resource for Skype for Business 2015
-description: "changeNumber Changes or clears the number stored in the corresponding [phone](phone_ref.md) resource." 
+description: "ChangeNumber Changes or clears the number stored in the corresponding [phone](phone_ref.md) resource." 
 ---
 # changeNumber
 

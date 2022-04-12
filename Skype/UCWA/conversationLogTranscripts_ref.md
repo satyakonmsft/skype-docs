@@ -1,6 +1,6 @@
 ---
-title: conversationLogTranscripts for Skype for Business 2015
-description: "conversationLogTranscripts refers to the archived messages from Exchange. Web links include rel and href."
+title: ConversationLogTranscripts for Skype for Business 2015
+description: "ConversationLogTranscripts refers to the archived messages from Exchange. Web links include rel and href."
 ---
 # conversationLogTranscripts
 

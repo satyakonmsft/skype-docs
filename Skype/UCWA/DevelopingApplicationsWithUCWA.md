@@ -1,6 +1,6 @@
 ---
-title: developing applications with ucwa 2.0
-description: "how to develop applications for on-premises server and online server using the ucwa 2.0."
+title: Developing applications with ucwa 2.0
+description: "How to develop applications for on-premises server and online server using the ucwa 2.0."
 ---
 # Developing applications with UCWA
 

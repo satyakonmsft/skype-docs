@@ -1,6 +1,6 @@
 ---
 title: PhoneDialInInformation for Skype for Business 2015
-description: "phoneDialInInformation represents phone access information for an onlineMeeting. Web links include rel and href."
+description: "PhoneDialInInformation represents phone access information for an onlineMeeting. Web links include rel and href."
 ---
 # phoneDialInInformation
 
