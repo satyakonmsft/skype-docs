@@ -67,6 +67,7 @@ The user must have at least one of these scopes for operations on the resource t
 
 
 
+
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |phoneAudio|High|conversation|The phoneAudio resource has changed.</p><p></p>|
