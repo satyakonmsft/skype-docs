@@ -1,4 +1,7 @@
-
+---
+title: Cache Library
+description: Cache.js is a JavaScript library that helps store and retrieve frequently used resource URLs for later use.
+---
 # Cache library
 Cache.js is a JavaScript library that helps store and retrieve frequently used resource URLs for later use.
 

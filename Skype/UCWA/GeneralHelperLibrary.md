@@ -1,4 +1,7 @@
-
+---
+title: GeneralHelper library
+description: GeneralHelper.js is a JavaScript library of generally useful functions.
+---
 # GeneralHelper library
 GeneralHelper.js is a JavaScript library of generally useful functions.
 

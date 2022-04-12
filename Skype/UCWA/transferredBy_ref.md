@@ -1,3 +1,7 @@
+---
+title: transferredBy
+description: Represents the contact who transferred the call.
+---
 # transferredBy
 
  _**Applies to:** Skype for Business 2015_

@@ -1,3 +1,8 @@
+---
+title: audioVideoPolicies
+description: The AudioVideoPolicies resource captures all audio-video policies that may apply
+to UCWA clients.
+---
 # audioVideoPolicies
 
  _**Applies to:** Skype for Business 2015_

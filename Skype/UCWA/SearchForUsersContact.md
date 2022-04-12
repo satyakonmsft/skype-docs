@@ -1,4 +1,7 @@
-
+---
+title: Search for a User's Contact
+description: Search the me user's contact list for a specific contact.
+---
 # Search for a user's contact
 Search the **me** user's contact list for a specific contact.
 

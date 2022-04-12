@@ -1,3 +1,8 @@
+---
+title: stopAudioVideo
+description: Represents an operation to stop established AudioVideo. This token indicates 
+the user has ability to renegotiate both audio and video.
+---
 # stopAudioVideo
 
  _**Applies to:** Skype for Business 2015_
