@@ -18,8 +18,8 @@ dev_langs:
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -53,8 +53,8 @@ dev_langs:
 <table>
 <colgroup>
 <col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col/>
+<col/>
 </colgroup>
 <thead>
 <tr class="header">

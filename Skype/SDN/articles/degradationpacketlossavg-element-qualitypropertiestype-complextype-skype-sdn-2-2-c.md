@@ -20,7 +20,7 @@ Average fraction of the DegradationAvg that was caused by packet loss. This metr
 ## Element information
 
 <table>
-<colgroup>
+</colgroup>
 </colgroup>
 <tbody>
 <tr class="odd">
