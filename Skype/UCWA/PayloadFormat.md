@@ -1,4 +1,7 @@
-
+---
+title: Payload Format
+description: Request and response payloads can be specified as either JSON or XML.
+---
 # Payload Format
 Request and response payloads can be specified as either JSON or XML.
 

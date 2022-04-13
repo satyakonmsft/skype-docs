@@ -1,3 +1,7 @@
+---
+title: muteAudio
+description: Mutes a participant's audio.
+---
 # muteAudio
 
  _**Applies to:** Skype for Business 2015_

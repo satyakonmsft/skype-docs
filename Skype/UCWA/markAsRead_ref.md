@@ -1,3 +1,7 @@
+---
+title: markAsRead
+description: Marks a conversationLog as read in Exchange.
+---
 # markAsRead
 
  _**Applies to:** Skype for Business 2015_
