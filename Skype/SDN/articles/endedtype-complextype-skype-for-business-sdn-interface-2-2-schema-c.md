@@ -22,7 +22,10 @@ Elements and attributes
 ## Type information
 
 <table>
-
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Namespace</strong></p></td>
@@ -55,6 +58,11 @@ Elements and attributes
 ### Child elements
 
 <table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -90,6 +98,13 @@ Elements and attributes
 ### Attributes
 
 <table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th><p>Attribute</p></th>
