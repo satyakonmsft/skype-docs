@@ -1,3 +1,7 @@
+---
+title: Conversation Log Recipient
+description: Represents a recipient within a conversationLog.
+---
 # conversationLogRecipient
 
  _**Applies to:** Skype for Business 2015_

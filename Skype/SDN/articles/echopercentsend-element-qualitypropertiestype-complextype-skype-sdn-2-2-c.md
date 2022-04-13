@@ -63,7 +63,7 @@ Elements and attributes
 <colgroup>
 <col style="width: 33%" />
 <col style="width: 33%" />
-<col style="width: 33%" />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
