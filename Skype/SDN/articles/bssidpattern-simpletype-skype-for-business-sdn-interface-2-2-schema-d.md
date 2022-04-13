@@ -18,10 +18,6 @@ dev_langs:
 ## Type information
 
 <table>
-<colgroup>
-<col />
-<col />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Base type</strong></p></td>
