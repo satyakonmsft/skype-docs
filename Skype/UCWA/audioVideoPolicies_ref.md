@@ -1,7 +1,6 @@
 ---
 title: audioVideoPolicies
-description: The AudioVideoPolicies resource captures all audio-video policies that may apply
-to UCWA clients.
+description: The AudioVideoPolicies resource captures all audio-video policies that may apply to UCWA clients.
 ---
 # audioVideoPolicies
 
