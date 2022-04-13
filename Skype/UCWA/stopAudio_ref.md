@@ -1,15 +1,13 @@
 ---
 title: stopAudio
-description: Represents an operation to stop established AudioVideo. This token indicates 
-The user has ability to renegotiate only audio.
+description: Represents an operation to stop established AudioVideo. This token indicates the user has ability to renegotiate only audio.
 ---
 # stopAudio
 
  _**Applies to:** Skype for Business 2015_
 
 
-Represents an operation to stop established AudioVideo. This token indicates 
-The user has ability to renegotiate only audio.
+Represents an operation to stop established AudioVideo. This token indicates the user has ability to renegotiate only audio.
             
 
 ## Web Link
