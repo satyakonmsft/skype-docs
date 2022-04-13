@@ -1,11 +1,11 @@
 ---
-title: Upgrading from previous version of the SDN Interface
+title: Upgrading from previous versions of the SDN Interface (Lync Server 2013 | Skype for Business 2015)
 description: This topic covers upgrading Skype for Business SDN Interface from earlier versions to version 3.0.
 ms.assetid: 8d3c28fa-dabe-4a52-9882-a6663ced5217
 ---
 
 
-# Upgrading from previous version of the SDN Interface
+# Upgrading from previous versions of the SDN Interface (Lync Server 2013 | Skype for Business 2015)
 
 
   

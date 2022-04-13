@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# MSDiagnostics element 
+# MSDiagnostics element (ErrorProperties complexType), schema C
 
 (ErrorProperties complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
