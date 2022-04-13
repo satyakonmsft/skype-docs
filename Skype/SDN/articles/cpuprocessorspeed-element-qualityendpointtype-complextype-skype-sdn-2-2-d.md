@@ -20,8 +20,8 @@ Processor speed rating.
 
 <table>
 <colgroup>
-<col style="width: 50%" />
 <col />
+<col style="width: 50%" />
 </colgroup>
 <tbody>
 <tr class="odd">

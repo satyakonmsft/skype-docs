@@ -52,9 +52,9 @@ dev_langs:
 
 <table>
 <colgroup>
-<col />
 <col style="width: 33%" />
-<col style="width: 33%" />
+<col/>
+<col/>
 </colgroup>
 <thead>
 <tr class="header">
