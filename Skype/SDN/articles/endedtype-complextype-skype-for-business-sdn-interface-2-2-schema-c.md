@@ -55,7 +55,6 @@ Elements and attributes
 ### Child elements
 
 <table>
-
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -91,7 +90,6 @@ Elements and attributes
 ### Attributes
 
 <table>
-
 <thead>
 <tr class="header">
 <th><p>Attribute</p></th>
