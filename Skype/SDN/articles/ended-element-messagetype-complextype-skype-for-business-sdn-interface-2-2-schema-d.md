@@ -30,7 +30,6 @@ Elements and attributes
 <col style="width: 50%" />
 </colgroup>
 <tbody>
-<tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
 <td><p><a href="endedtype-complextype-skype-for-business-sdn-interface-2-2-schema-d.md">EndedType</a></p></td>
