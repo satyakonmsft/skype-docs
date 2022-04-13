@@ -20,8 +20,8 @@ Percentage of sessions the DeviceRenderNotFunctioning event was fired when the r
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +56,9 @@ Percentage of sessions the DeviceRenderNotFunctioning event was fired when the r
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

@@ -1,3 +1,7 @@
+---
+title: distributionGroup
+description: Represents a persistent, pre-existing group of contacts.
+---
 # distributionGroup
 
  _**Applies to:** Skype for Business 2015_

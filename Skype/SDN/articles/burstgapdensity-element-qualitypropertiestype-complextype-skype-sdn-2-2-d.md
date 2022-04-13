@@ -20,8 +20,8 @@ Average burst gap density, as specified in \[RFC3611\] section 4.7.2, computed w
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +56,9 @@ Average burst gap density, as specified in \[RFC3611\] section 4.7.2, computed w
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
