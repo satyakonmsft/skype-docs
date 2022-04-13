@@ -1,3 +1,7 @@
+---
+title: turnOffCallForwarding
+description: Turns off call forwarding.
+---
 # turnOffCallForwarding
 
  _**Applies to:** Skype for Business 2015_

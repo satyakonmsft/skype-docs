@@ -1,4 +1,7 @@
-
+---
+title: Versioning
+description: UCWA interfaces uses link-relations to express capabilities supported by the server and client to discover those capabilities - this is in line with HATEOAS (Hypertext as the engine of application state) principle.
+---
 # Versioning
 UCWA interfaces uses link-relations to express capabilities supported by the server and client to discover those capabilities - this is in line with HATEOAS (Hypertext as the engine of application state) principle. New capabilities can be introduced by adding new link-relations, but there will be times when the UCWA platform will have to extend existing link-relations with additional semantics without breaking backward compatibility.
 

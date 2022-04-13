@@ -1,3 +1,7 @@
+---
+title: Reset Contact Privacy Relationship
+description: Resets a contact's privacy relationship.
+---
 # resetContactPrivacyRelationship
 
  _**Applies to:** Skype for Business 2015_
