@@ -1,3 +1,7 @@
+---
+title: subscribedContacts
+description: A collection of contacts for which the logged-on user has created active presence subscriptions.
+---
 # subscribedContacts
 
  _**Applies to:** Skype for Business 2015_

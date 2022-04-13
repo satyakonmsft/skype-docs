@@ -1,3 +1,7 @@
+---
+title: expandDistributionGroup
+description: Expands a distribution group and returns the set of contact resources it contains.
+---
 # expandDistributionGroup
 
  _**Applies to:** Skype for Business 2015_
