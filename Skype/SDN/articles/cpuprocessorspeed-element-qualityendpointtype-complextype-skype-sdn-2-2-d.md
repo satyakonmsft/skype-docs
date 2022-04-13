@@ -21,7 +21,7 @@ Processor speed rating.
 <table>
 <colgroup>
 <col style="width: 50%" />
-<col style="width: 50%" />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +56,9 @@ Processor speed rating.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
