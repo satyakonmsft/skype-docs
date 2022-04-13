@@ -20,8 +20,8 @@ Difference between the OverallAvg value and the maximum possible MOS-LQO for the
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +56,9 @@ Difference between the OverallAvg value and the maximum possible MOS-LQO for the
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
