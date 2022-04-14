@@ -22,6 +22,10 @@ Average error of speech render stream time stamp, in milliseconds, or the last 2
 ## Element information
 
 <table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -54,6 +58,11 @@ Average error of speech render stream time stamp, in milliseconds, or the last 2
 ### Parent elements
 
 <table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
