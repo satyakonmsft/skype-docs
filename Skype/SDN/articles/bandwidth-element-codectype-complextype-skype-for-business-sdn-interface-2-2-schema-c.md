@@ -20,6 +20,7 @@ Average estimated bandwidth.
 ## Element information
 
 <table>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -52,6 +53,7 @@ Average estimated bandwidth.
 ### Parent elements
 
 <table>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
