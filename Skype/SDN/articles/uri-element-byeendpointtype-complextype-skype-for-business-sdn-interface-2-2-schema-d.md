@@ -1,7 +1,7 @@
 ﻿---
 title: URI element (ByeEndPointType complexType) schema D
 TOCTitle: URI element (ByeEndPointType complexType)
-description: Information about the URI element (ByeEndPointType complexType) schema D.
+description: Information about the URI element (ByeEndPointType complexType) schema D. 
 ms:assetid: 53afb829-203a-12fa-bde2-6cd6041c1064
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171019(v=office.16)
 ms:contentKeyID: 65855592
