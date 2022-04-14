@@ -21,8 +21,8 @@ For UCMA 3.0, the [AudioVideoCallEstablishOptions](https://msdn.microsoft.com/li
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -62,8 +62,8 @@ The following table lists the public methods on the **AudioVideoMcuRouting** cla
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -94,8 +94,8 @@ The following table lists the members of the **IncomingAudioRoute** class.
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -122,8 +122,8 @@ The following table lists the members of the **OutgoingAudioRoute** class.
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -162,8 +162,8 @@ The [ConferenceCommandOptions](https://msdn.microsoft.com/library/hh382976\(v=of
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -195,8 +195,8 @@ The classes derived from the **ConferenceCommandOptions** class can be used for 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -263,8 +263,8 @@ The methods shown in the following table use the classes listed in the previous 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
