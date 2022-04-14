@@ -17,9 +17,9 @@ DefaultScale for all Incoming Messages performance counters is 0, which means th
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
