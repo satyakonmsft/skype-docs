@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Bandwidth element (Schema C)
+# Bandwidth element (CodecType complexType) Schema C
 
 (CodecType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
