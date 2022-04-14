@@ -1,5 +1,5 @@
 ﻿---
-title: Contact element (EndPointType complexType) 
+title: Contact element (EndPointType complexType) (Schema D)
 TOCTitle: Contact element (EndPointType complexType)
 ms:assetid: 68bbbc3a-ea93-5c31-6191-3c8c6598e3f6
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149457(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Contact element 
+# Contact element (Schema D)
 
 (EndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

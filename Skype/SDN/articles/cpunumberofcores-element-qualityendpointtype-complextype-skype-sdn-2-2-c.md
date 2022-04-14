@@ -1,5 +1,5 @@
 ﻿---
-title: CPUNumberOfCores element (QualityEndPointType complexType) 
+title: CPUNumberOfCores element (QualityEndPointType complexType) (Schema C)
 TOCTitle: CPUNumberOfCores element
 ms:assetid: 552be1cb-1e5c-3b3a-a0fb-d1799d44fa61
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404734(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# CPUNumberOfCores element 
+# CPUNumberOfCores element (Schema C)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
