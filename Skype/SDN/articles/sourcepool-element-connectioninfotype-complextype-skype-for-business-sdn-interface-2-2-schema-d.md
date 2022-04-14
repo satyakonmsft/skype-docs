@@ -1,5 +1,5 @@
 ﻿---
-title: SourcePool element (ConnectionInfoType complexType) 
+title: SourcePool element (ConnectionInfoType complexType) (Schema D)
 TOCTitle: SourcePool element
 ms:assetid: 07174c84-2101-6879-4bc2-0589e3e3be4a
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170995(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# SourcePool element 
+# SourcePool element (Schema D)
 
 (ConnectionInfoType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
