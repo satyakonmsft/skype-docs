@@ -18,8 +18,8 @@ The following table shows the settings that can be configured for IM flows (repr
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -79,8 +79,8 @@ Applications specify their consumption mode using the [InstantMessageConsumption
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
