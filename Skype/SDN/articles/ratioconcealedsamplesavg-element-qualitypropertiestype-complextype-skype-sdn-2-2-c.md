@@ -1,5 +1,5 @@
 ﻿---
-title: RatioConcealedSamplesAvg element (QualityPropertiesType complexType) 
+title: RatioConcealedSamplesAvg element (QualityPropertiesType complexType) (Schema C)
 TOCTitle: RatioConcealedSamplesAvg element
 ms:assetid: 2c5e5872-4c97-6a60-5c25-43d30d2a64d0
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404820(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# RatioConcealedSamplesAvg element 
+# RatioConcealedSamplesAvg element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

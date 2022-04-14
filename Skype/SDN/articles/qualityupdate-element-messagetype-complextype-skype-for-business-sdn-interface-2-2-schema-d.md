@@ -1,5 +1,5 @@
 ﻿---
-title: QualityUpdate element (MessageType complexType) 
+title: QualityUpdate element (MessageType complexType) (Schema D)
 TOCTitle: QualityUpdate element
 ms:assetid: 5949a98c-b419-789f-566c-97b56fca0416
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170952(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# QualityUpdate element 
+# QualityUpdate element (Schema D)
 
 (MessageType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
