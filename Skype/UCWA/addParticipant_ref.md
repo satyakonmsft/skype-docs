@@ -1,3 +1,8 @@
+---
+title: addParticipant
+description: addParticipant invites a contact to participate in a multiparty conversation.
+---
+
 # addParticipant
 
  _**Applies to:** Skype for Business 2015_
@@ -24,19 +29,13 @@ When a conversation is in peer-to-peer mode, addParticipant will first escalate 
 
 ### Properties
 
-
-
 None
 
 ### Links
 
-
-
 None
 
 ### Azure Active Directory scopes for online applications
-
-
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
 |**Scope**|**Permission**|**Description**|
@@ -46,20 +45,14 @@ The user must have at least one of these scopes for operations on the resource t
 
 ## Operations
 
-
-
 <a name="sectionSection2"></a>
 
 ### POST
 
 
-
-
 Starts a [participantInvitation](participantInvitation_ref.md) in the event channel.
 
 #### Request body
-
-
 
 
 |**Name**|**Description**|**Required?**|
@@ -70,13 +63,11 @@ Starts a [participantInvitation](participantInvitation_ref.md) in the event chan
 #### Response body
 
 
-
 |**Item**|**Description**|
 |:-----|:-----|
 |[participantInvitation](ParticipantInvitation_ref.md)|Represents an invitation to an existing [conversation](conversation_ref.md) for an additional participant.|
 
 #### Synchronous errors
-
 
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
@@ -92,11 +83,7 @@ The errors below (if any) are specific to this resource. Generic errors that can
 #### Examples
 
 
-
-
 #### JSON Request
-
-
 
 
 ```
@@ -111,10 +98,7 @@ Content-Length: 78
 }
 ```
 
-
 #### JSON Response
-
-
 
 This sample is given only as an illustration of response syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 ```
@@ -123,10 +107,7 @@ Location: /ucwa/v1/applications/192/communication/invitations/303
 
 ```
 
-
 #### XML Request
-
-
 
 
 ```
@@ -142,16 +123,12 @@ Content-Length: 230
 &lt;/input&gt;
 ```
 
-
 #### XML Response
 
-
-
 This sample is given only as an illustration of response syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+
 ```
 HTTP/1.1 201 Created
 Location: /ucwa/v1/applications/192/communication/invitations/303
 
 ```
-
-

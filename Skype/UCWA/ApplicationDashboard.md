@@ -1,3 +1,7 @@
+---
+title: Application dashboard
+description: The application resource serves as a kind of dashboard that represents a single application of the user.
+---
 
 # Application dashboard
 The **application** resource serves as a kind of dashboard that represents a single application of the user.
@@ -13,8 +17,8 @@ An [application](application_ref.md) resource represents a single application on
 
 The following table contains a representation of the **application** resource.
 
-
 **Property bag**
+
 ```
 "rel" : "application",
 "culture" : "en-us",
@@ -22,6 +26,7 @@ The following table contains a representation of the **application** resource.
 ```
 
 **Links**
+
 ```
 "self" : { 
  "href" : "/ucwa/v1/applications/105" 
@@ -38,6 +43,7 @@ The following table contains a representation of the **application** resource.
 ```
 
 **Embedded resources**
+
 ```
 "communication" : { ... },
 "me" : { ... },
@@ -46,9 +52,7 @@ The following table contains a representation of the **application** resource.
 
 ```
 
-
 The **application** resource can be thought of as a dashboard that shows the communication and collaboration capabilities available to a specific application on a specific server. The embedded resources within an application, shown in the following table, provide a view of these capabilities. The **application** resource also contains links for performing operations in a batch, receiving asynchronous events, and fetching server policies.
-
 
 
 |**Embedded resources**|**Description**|
@@ -69,8 +73,6 @@ An application is created by performing a POST on the [applications](application
 
 It is possible for a server to delete an application without a client sending a DELETE request on the application resource. This might happen for various reasons, and subsequent requests will fail with the relevant error codes. A client application should be prepared to handle the following errors, which may occur during any operation.
 
-
-
 |**HTTP status code**|**UCWA error subcode**|**Description**|
 |:-----|:-----|:-----|
 |404 NotFound|ApplicationNotFound|This implies that the application does not exist on the server any more.|
@@ -78,4 +80,3 @@ It is possible for a server to delete an application without a client sending a 
 |410 Gone|InactiveApplicationExpired|Either the application did not park a pending get for too long; or the application did not report user activity for too long (this only applies if "MakeMeAvailable" was previously invoked).|
 |410 Gone|UserAgentNotAllowed|The UserAgent for the application is no longer supported.|
 If a 404 ApplicationNotFound response is received unexpectedly, the client may possibly recreate the application and resume operations without user intervention. If 410 Gone is received it is best to display an error message to the user including the UCWA 2.0 error subcode, and then wait for the user to explicitly restart the client.
-

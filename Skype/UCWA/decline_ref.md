@@ -1,3 +1,8 @@
+---
+title: decline
+description: decline declines an incoming messagingInvitation, phoneAudioInvitation, or onlineMeetingInvitation.
+---
+
 # decline
 
  _**Applies to:** Skype for Business 2015_
