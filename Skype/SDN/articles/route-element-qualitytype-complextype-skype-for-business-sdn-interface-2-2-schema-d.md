@@ -1,5 +1,5 @@
 ﻿---
-title: Route element (QualityType complexType) 
+title: Route element (QualityType complexType) (Schema D)
 TOCTitle: Route element (QualityType complexType)
 ms:assetid: 8c8b09b2-f976-ac9b-7c94-0daf791d03ee
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170993(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Route element 
+# Route element (QualityType complexType) (Schema D)
 
 (QualityType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
