@@ -1,5 +1,5 @@
 ﻿---
-title: DSCPInbound element (QualityEndPointType complexType) 
+title: DSCPInbound element (QualityEndPointType complexType) Schema D 
 TOCTitle: DSCPInbound element
 ms:assetid: 43df1365-0092-d7cf-daf1-48c6ae037399
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170852(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# DSCPInbound element 
+# DSCPInbound element Schema D
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

@@ -55,9 +55,9 @@ Each of the top-level feature areas described in [Key features of UCMA 5.0](key-
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
