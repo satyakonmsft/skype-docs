@@ -1,5 +1,5 @@
 ﻿---
-title: Properties element (QualityType complexType) 
+title: Properties element (QualityType complexType) (Schema C)
 TOCTitle: Properties element (QualityType complexType)
 ms:assetid: e590f39b-bf81-6bcf-8786-3b390f86e1a9
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404815(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Properties element 
+# Properties element (Schema C)
 
 (QualityType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
