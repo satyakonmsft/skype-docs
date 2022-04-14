@@ -88,7 +88,7 @@ Elements and attributes
 <colgroup>
 <col />
 <col />
-<col ]/>
+<col />
 </colgroup>
 <thead>
 <tr class="header">
