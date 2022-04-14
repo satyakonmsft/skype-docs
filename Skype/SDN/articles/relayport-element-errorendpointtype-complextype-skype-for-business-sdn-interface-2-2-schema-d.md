@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# RelayPort element 
+# RelayPort element (Schema D)
 
 (ErrorEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

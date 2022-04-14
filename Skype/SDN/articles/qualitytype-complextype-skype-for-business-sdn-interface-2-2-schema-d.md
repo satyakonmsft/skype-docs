@@ -1,5 +1,5 @@
 ﻿---
-title: QualityType complexType 
+title: QualityType complexType (Schema D)
 TOCTitle: QualityType complexType
 ms:assetid: 300b4904-2f47-ee80-bc52-0598bbc9dfe7
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171073(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# QualityType complexType 
+# QualityType complexType (Schema D)
 
 (Skype for Business SDN Interface 2.2, Schema "D")
 

@@ -1,5 +1,5 @@
 ﻿---
-title: RelayPort element (QualityEndPointType complexType) 
+title: RelayPort element (QualityEndPointType complexType) (Schema C)
 TOCTitle: RelayPort element (QualityEndPointType complexType)
 ms:assetid: 4c673d9c-1d75-12e4-cebf-be926fd75edc
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404837(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# RelayPort element 
+# RelayPort element (Schema C)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

@@ -1,5 +1,5 @@
 ﻿---
-title: To element (QualityType complexType) 
+title: To element (QualityType complexType) (Schema C)
 TOCTitle: To element (QualityType complexType)
 ms:assetid: d13327fd-b66f-078b-f740-a139fb7d9fe8
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404859(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# To element 
+# To element (Schema C)
 
 (QualityType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

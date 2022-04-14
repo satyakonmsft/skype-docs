@@ -1,5 +1,5 @@
 ﻿---
-title: Protocol element (QualityPropertiesType complexType) 
+title: Protocol element (QualityPropertiesType complexType) (Schema D)
 TOCTitle: Protocol element (QualityPropertiesType complexType)
 ms:assetid: 62976bf7-2fd1-1974-9a8c-565c3142ac3e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170950(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Protocol element 
+# Protocol element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
