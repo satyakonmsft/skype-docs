@@ -2,7 +2,7 @@
 title: README Release Notes
 description: Release Notes for the Trusted Application API
 ---
-# README
+# README Release Notes
 
 Thank you for your interest in Skype for Business developer documentation!
 
