@@ -67,8 +67,8 @@ To delete the published categories, use the [BeginDeletePresence(ICollection\<Pr
     
     <table>
     <colgroup>
-    <col style="width: 50%" />
-    <col style="width: 50%" />
+    <col />
+    <col />
     </colgroup>
     <thead>
     <tr class="header">
@@ -128,8 +128,8 @@ The following table shows the events on the **LocalOwnerPresence** class and the
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -216,9 +216,9 @@ A relationship level between a presentity and a watcher is defined as the highes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
