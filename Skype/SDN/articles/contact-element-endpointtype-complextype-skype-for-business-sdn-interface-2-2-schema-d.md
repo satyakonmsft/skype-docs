@@ -57,8 +57,8 @@ SIP URI of the user as extracted from the Contact header of the underlying SIP m
 <table>
 <colgroup>
 <col />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
