@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Contact element (Schema D)
+# Contact element (InviteEndPointType complexType) (Schema D)
 
 (InviteEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

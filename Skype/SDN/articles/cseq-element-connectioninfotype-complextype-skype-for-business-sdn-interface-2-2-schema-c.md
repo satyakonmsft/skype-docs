@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# CSEQ element (Schema C)
+# CSEQ element (ConnectionInfoType complexType) (Schema C)
 
 (ConnectionInfoType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

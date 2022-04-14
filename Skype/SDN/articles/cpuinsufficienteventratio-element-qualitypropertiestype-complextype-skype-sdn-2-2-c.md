@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# CPUInsufficientEventRatio element (Schema C)
+# CPUInsufficientEventRatio element (QualityPropertiesType complexType) (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

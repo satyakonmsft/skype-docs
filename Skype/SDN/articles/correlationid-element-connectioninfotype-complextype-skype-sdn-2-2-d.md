@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# CorrelationId element (Schema D)
+# CorrelationId element (ConnectionInfoType complexType) (Schema D)
 
 (ConnectionInfoType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

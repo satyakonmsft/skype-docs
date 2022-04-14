@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# ConversationId element (Schema C)
+# ConversationId element (ConnectionInfoType complexType) (Schema C)
 
 (ConnectionInfoType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

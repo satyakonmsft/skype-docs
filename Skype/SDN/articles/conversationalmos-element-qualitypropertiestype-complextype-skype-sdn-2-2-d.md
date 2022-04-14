@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# ConversationalMOS element (Schema D)
+# ConversationalMOS element (QualityPropertiesType complexType) (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

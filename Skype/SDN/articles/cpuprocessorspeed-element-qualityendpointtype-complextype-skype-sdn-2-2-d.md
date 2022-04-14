@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# CPUProcessorSpeed element (Schema D)
+# CPUProcessorSpeed element (QualityEndPointType complexType) (Schema D)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

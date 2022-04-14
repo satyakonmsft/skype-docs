@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# DegradationJitterAvg element (Schema C)
+# DegradationJitterAvg element (QualityPropertiesType complexType) (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
