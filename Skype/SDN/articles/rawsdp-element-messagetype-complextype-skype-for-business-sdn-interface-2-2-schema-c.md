@@ -1,5 +1,5 @@
 ﻿---
-title: RawSDP element (MessageType complexType) 
+title: RawSDP element (MessageType complexType) (Schema C)
 TOCTitle: RawSDP element
 ms:assetid: e26c05ef-e809-02db-70ab-97b552488be0
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404821(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# RawSDP element 
+# RawSDP element (Schema C)
 
 (MessageType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
