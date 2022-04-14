@@ -1,5 +1,5 @@
 ﻿---
-title: RecvNoiseLevel element (QualityPropertiesType complexType) 
+title: RecvNoiseLevel element (QualityPropertiesType complexType) Schema D
 TOCTitle: RecvNoiseLevel element
 ms:assetid: fae4e247-001c-00ff-c6c0-444ca428eb6e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170960(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# RecvNoiseLevel element 
+# RecvNoiseLevel element Schema D
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

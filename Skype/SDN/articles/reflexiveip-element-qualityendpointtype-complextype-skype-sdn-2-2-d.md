@@ -1,5 +1,5 @@
 ﻿---
-title: ReflexiveIP element (QualityEndPointType complexType) 
+title: ReflexiveIP element (QualityEndPointType complexType) Schema D
 TOCTitle: ReflexiveIP element (QualityEndPointType complexType)
 ms:assetid: affbe11f-5e24-ccbe-224d-82e63281852d
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170963(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# ReflexiveIP element 
+# ReflexiveIP element Schema D
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

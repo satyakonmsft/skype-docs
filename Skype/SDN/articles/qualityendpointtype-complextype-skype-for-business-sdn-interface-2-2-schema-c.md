@@ -1,5 +1,5 @@
 ﻿---
-title: QualityEndPointType complexType 
+title: QualityEndPointType complexType (Schema C)
 TOCTitle: QualityEndPointType complexType
 ms:assetid: a7a18f94-9b7b-8138-f44a-679f7667c57a
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429357(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# QualityEndPointType complexType 
+# QualityEndPointType complexType (Schema C)
 
 (Skype for Business SDN Interface 2.2, Schema "C")
 
