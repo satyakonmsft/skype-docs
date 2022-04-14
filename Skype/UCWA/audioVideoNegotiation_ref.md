@@ -1,3 +1,7 @@
+---
+title: audioVideoNegotiation
+description: A resource that provides an outgoing audioVideo call its media answers. This resource appears only in the event channel or in a response to a request. It will not appear in a request.
+---
 # audioVideoNegotiation
 
  _**Applies to:** Skype for Business 2015_
