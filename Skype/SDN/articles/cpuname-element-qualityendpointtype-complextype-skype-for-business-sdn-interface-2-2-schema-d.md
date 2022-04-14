@@ -1,5 +1,5 @@
 ﻿---
-title: CPUName element (QualityEndPointType complexType) 
+title: CPUName element (QualityEndPointType complexType) (Schema D)
 TOCTitle: CPUName element
 ms:assetid: 805f8804-6a83-50e1-bbec-088fd6306934
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149460(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# CPUName element 
+# CPUName element (QualityEndPointType complexType) (Schema D)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -20,8 +20,7 @@ Name of the CPU.
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +55,7 @@ Name of the CPU.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+
 </colgroup>
 <thead>
 <tr class="header">

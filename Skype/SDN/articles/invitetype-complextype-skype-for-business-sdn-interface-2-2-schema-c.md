@@ -1,5 +1,5 @@
 ﻿---
-title: InviteType complexType 
+title: InviteType complexType (Schema C)
 TOCTitle: InviteType complexType
 ms:assetid: faf3beb9-872f-af5d-09d3-dc7c8b26d35f
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429355(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# InviteType complexType 
+# InviteType complexType (Schema C)
 
 (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -23,8 +23,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -57,9 +57,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

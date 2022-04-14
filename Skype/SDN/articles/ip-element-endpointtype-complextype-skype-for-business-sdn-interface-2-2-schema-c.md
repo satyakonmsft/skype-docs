@@ -1,5 +1,5 @@
 ﻿---
-title: IP element (EndPointType complexType) 
+title: IP element (EndPointType complexType) (Schema C)
 TOCTitle: IP element (EndPointType complexType)
 ms:assetid: d4c8caae-c73d-2f5d-f7b9-8c38b0342877
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404780(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# IP element 
+# IP element (Schema C)
 
 (EndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +24,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +57,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

@@ -1,3 +1,7 @@
+---
+title: Participant Panoramic Video
+description: Represents whether a participant is using the panoramic video modality in a conversation.
+---
 # participantPanoramicVideo
 
  _**Applies to:** Skype for Business 2015_

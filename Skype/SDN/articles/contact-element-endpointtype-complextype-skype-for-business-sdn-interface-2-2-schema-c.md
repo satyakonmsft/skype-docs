@@ -1,5 +1,5 @@
 ﻿---
-title: Contact element (EndPointType complexType) 
+title: Contact element (EndPointType complexType) (Schema C)
 TOCTitle: Contact element (EndPointType complexType)
 ms:assetid: fd2b8d77-0b7b-1a34-f966-fdcf4faa16fc
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404728(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Contact element 
+# Contact element (EndPointType complexType) (Schema C)
 
 (EndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -19,10 +19,7 @@ SIP URI of the user as extracted from the Contact header of the underlying SIP m
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -55,11 +52,7 @@ SIP URI of the user as extracted from the Contact header of the underlying SIP m
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

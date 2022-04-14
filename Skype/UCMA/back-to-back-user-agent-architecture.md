@@ -12,7 +12,7 @@ mtps_version: v=office.16
 
 **Applies to**: Skype for Business 2015
 
-The architectural framework behind the back-to-back user agent feature is based on interactions between the [Call](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.call?view=ucma-api) and [MediaProvider](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaprovider?view=ucma-api) abstract classes. Both call legs are associated with the same **BackToBackMediaProvider** instance.
+The architectural framework behind the back-to-back user agent feature is based on interactions between the [Call](/dotnet/api/microsoft.rtc.collaboration.call) and [MediaProvider](/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaprovider) abstract classes. Both call legs are associated with the same **BackToBackMediaProvider** instance.
 
 > [!NOTE]
 > The **BackToBackMediaProvider** class is internal.
@@ -77,9 +77,9 @@ The value of the [State](https://msdn.microsoft.com/library/hh383563\(v=office.1
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

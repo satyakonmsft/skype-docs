@@ -1,6 +1,7 @@
 ﻿---
-title: RDPTileProcessingLatencyAverage element (QualityPropertiesType complexType) 
+title: RDPTileProcessingLatencyAverage element (QualityPropertiesType complexType), schema C
 TOCTitle: RDPTileProcessingLatencyAverage element
+description: More information on the RDPTileProcessingLatencyAverage element, schema C.
 ms:assetid: 3834019a-c55a-a348-f6bd-bd8ff2edaa99
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404822(v=office.16)
 ms:contentKeyID: 68250734
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# RDPTileProcessingLatencyAverage element 
+# RDPTileProcessingLatencyAverage element, schema C
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +26,6 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +60,6 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
 </colgroup>
 <thead>
 <tr class="header">

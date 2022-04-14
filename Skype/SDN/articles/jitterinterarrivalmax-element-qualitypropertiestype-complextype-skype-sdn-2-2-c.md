@@ -1,5 +1,5 @@
 ﻿---
-title: JitterInterArrivalMax element (QualityPropertiesType complexType) 
+title: JitterInterArrivalMax element (QualityPropertiesType complexType) (Schema C)
 TOCTitle: JitterInterArrivalMax element
 ms:assetid: e1b198ae-9856-8c49-160e-4c49b0aef912
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404782(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# JitterInterArrivalMax element 
+# JitterInterArrivalMax element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +24,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +57,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

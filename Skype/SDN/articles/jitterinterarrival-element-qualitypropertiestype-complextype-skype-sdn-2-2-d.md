@@ -1,5 +1,5 @@
 ﻿---
-title: JitterInterArrival element (QualityPropertiesType complexType) 
+title: JitterInterArrival element (QualityPropertiesType complexType) (Schema D)
 TOCTitle: JitterInterArrival element
 ms:assetid: 31844ffc-0d7f-0012-5a0b-c98594657e0c
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170906(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# JitterInterArrival element 
+# JitterInterArrival element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +25,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +58,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
