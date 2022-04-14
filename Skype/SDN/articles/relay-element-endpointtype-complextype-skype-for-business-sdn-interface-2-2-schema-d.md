@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Relay element (Schema D)
+# Relay element (EndPointType complexType) (Schema D)
 
 (EndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

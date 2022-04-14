@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# To element (Schema D)
+# To element (StartOrUpdateType complexType) (Schema D)
 
 (StartOrUpdateType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

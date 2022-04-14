@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# RelayPort element (Schema C)
+# RelayPort element (QualityEndPointType complexType) (Schema C)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
