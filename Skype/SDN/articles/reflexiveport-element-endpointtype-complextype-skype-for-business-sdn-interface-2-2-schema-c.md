@@ -1,5 +1,5 @@
 ﻿---
-title: ReflexivePort element (EndPointType complexType) 
+title: ReflexivePort element (EndPointType complexType) Schema C
 TOCTitle: ReflexivePort element (EndPointType complexType)
 ms:assetid: cae9ecb9-8572-64ea-788c-9297d6fbb739
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404833(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# ReflexivePort element 
+# ReflexivePort element Schema C
 
 (EndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

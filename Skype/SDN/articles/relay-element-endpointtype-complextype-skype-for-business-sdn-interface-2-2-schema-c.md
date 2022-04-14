@@ -1,5 +1,5 @@
 ﻿---
-title: Relay element (EndPointType complexType) 
+title: Relay element (EndPointType complexType) Schema C
 TOCTitle: Relay element (EndPointType complexType)
 ms:assetid: 97761b90-bfe2-66a2-91ac-72bbd82ff86d
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404835(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Relay element 
+# Relay element Schema C
 
 (EndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

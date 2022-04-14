@@ -1,5 +1,5 @@
 ﻿---
-title: RelativeOneWayAverage element (QualityPropertiesType complexType) 
+title: RelativeOneWayAverage element (QualityPropertiesType complexType) Schema D
 TOCTitle: RelativeOneWayAverage element
 ms:assetid: c2169339-f0d9-8b20-426d-0fabc1b0463c
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170974(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# RelativeOneWayAverage element 
+# RelativeOneWayAverage element Schema D
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

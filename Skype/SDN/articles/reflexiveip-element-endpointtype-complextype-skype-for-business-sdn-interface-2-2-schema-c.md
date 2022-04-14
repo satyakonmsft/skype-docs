@@ -1,5 +1,5 @@
 ﻿---
-title: ReflexiveIP element (EndPointType complexType) 
+title: ReflexiveIP element (EndPointType complexType) Schema C
 TOCTitle: ReflexiveIP element (EndPointType complexType)
 ms:assetid: 8708adfb-21e7-41c3-e229-20d8f9b8e71e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404830(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# ReflexiveIP element 
+# ReflexiveIP element Schema C
 
 (EndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
