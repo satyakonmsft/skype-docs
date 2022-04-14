@@ -1,5 +1,5 @@
 ﻿---
-title: QualityType complexType 
+title: QualityType complexType (Schema C)
 TOCTitle: QualityType complexType
 ms:assetid: 0d4e9da0-f04f-12df-22d6-369443e72b03
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429359(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# QualityType complexType 
+# QualityType complexType (Schema C)
 
 (Skype for Business SDN Interface 2.2, Schema "C")
 
