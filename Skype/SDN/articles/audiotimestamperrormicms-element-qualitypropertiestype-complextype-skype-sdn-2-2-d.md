@@ -4,7 +4,6 @@ TOCTitle: AudioTimestampErrorMicMs element
 ms:assetid: 7a2c150d-342d-333b-8898-772018dbc1fe
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149427(v=office.16)
 ms:contentKeyID: 65855376
-description: Speaking device clock drift rate, relative to CPU clock. Average error of microphone-captured-stream time stamp, in milliseconds, for the last 20 seconds of a call.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:

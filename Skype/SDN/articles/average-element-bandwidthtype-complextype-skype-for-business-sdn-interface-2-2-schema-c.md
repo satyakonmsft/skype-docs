@@ -4,7 +4,6 @@ TOCTitle: Average element
 ms:assetid: e63cc213-fccf-588a-8a67-a9f2efd1822a
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404705(v=office.16)
 ms:contentKeyID: 68250613
-description: Estimated average amount of the bandwidth.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
