@@ -1,5 +1,5 @@
 ﻿---
-title: SpoiledTilePercentAverage element (QualityPropertiesType complexType) 
+title: SpoiledTilePercentAverage element (QualityPropertiesType complexType) (Schema D)
 TOCTitle: SpoiledTilePercentAverage element
 ms:assetid: caffd8d9-eb35-5659-0c24-b57439e1c41e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170997(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# SpoiledTilePercentAverage element 
+# SpoiledTilePercentAverage element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
