@@ -1,5 +1,5 @@
 ﻿---
-title: SendListenMOSMin element (QualityPropertiesType complexType) 
+title: SendListenMOSMin element (QualityPropertiesType complexType) (Schema C)
 TOCTitle: SendListenMOSMin element
 ms:assetid: 2794c5ef-43f5-07ea-49b2-d8ec03558323
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404849(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# SendListenMOSMin element 
+# SendListenMOSMin element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

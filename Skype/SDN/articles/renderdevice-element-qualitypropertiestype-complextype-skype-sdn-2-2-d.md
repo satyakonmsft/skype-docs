@@ -1,5 +1,5 @@
 ﻿---
-title: RenderDevice element (QualityPropertiesType complexType) 
+title: RenderDevice element (QualityPropertiesType complexType) (Schema D)
 TOCTitle: RenderDevice element
 ms:assetid: 34614e3c-e11f-adf2-4aa4-655eadf963dc
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170980(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# RenderDevice element 
+# RenderDevice element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
