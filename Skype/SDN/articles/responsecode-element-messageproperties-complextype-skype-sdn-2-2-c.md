@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# ResponseCode element (Schema C)
+# ResponseCode element (MessageProperties complexType) (Schema C)
 
 (MessageProperties complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
