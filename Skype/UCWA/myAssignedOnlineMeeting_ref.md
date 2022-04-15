@@ -1,3 +1,8 @@
+---
+title: myAssignedOnlineMeeting
+description: Represents a user's onlineMeeting that is commonly used for scheduled meetings with other contacts.
+---
+
 # myAssignedOnlineMeeting
 
  _**Applies to:** Skype for Business 2015_
