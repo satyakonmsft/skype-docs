@@ -1,4 +1,7 @@
-
+---
+title: Configuring a topology
+description: Learn how to configure a topology that supports Microsoft Unified Communications Web API 2.0.
+---
 # Configuring a topology
 Learn how to configure a topology that supports Microsoft Unified Communications Web API 2.0.
 
