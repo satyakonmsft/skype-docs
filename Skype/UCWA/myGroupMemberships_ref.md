@@ -1,3 +1,8 @@
+---
+title: myGroupMemberships
+description: A collection of groupMembership resources, each of which uniquely links a contact to a group.
+---
+
 # myGroupMemberships
 
  _**Applies to:** Skype for Business 2015_
