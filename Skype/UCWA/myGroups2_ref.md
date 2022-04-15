@@ -1,3 +1,6 @@
+---
+title: myGroups2 reference
+---
 # myGroups2
 
  _**Applies to:** Skype for Business 2015_
