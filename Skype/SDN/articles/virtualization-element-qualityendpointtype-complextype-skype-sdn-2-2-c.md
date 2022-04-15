@@ -1,5 +1,5 @@
 ﻿---
-title: Virtualization element (QualityEndPointType complexType) 
+title: Virtualization element (QualityEndPointType complexType) (Schema C)
 TOCTitle: Virtualization element
 ms:assetid: d2a1a9f5-97c2-c85a-d172-74ed7a9ebf0f
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429341(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Virtualization element 
+# Virtualization element (Schema C)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

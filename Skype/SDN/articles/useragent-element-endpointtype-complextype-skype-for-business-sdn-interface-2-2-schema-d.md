@@ -1,5 +1,5 @@
 ﻿---
-title: UserAgent element, EndPointType complexType
+title: UserAgent element, EndPointType complexType (Schema D)
 TOCTitle: UserAgent element (EndPointType complexType)
 description: Information on the UserAgent element, EndPointType complexType.
 ms:assetid: a71dec6f-5ec5-f0fa-5220-5905d37a97e0
@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# UserAgent element, EndPointType complexType
+# UserAgent element, EndPointType complexType (Schema D)
 
 (Skype for Business SDN Interface 2.2, Schema "D")
 

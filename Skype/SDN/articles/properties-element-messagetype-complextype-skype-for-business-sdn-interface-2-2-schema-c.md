@@ -1,5 +1,5 @@
 ﻿---
-title: Properties element (MessageType complexType) 
+title: Properties element (MessageType complexType) (Schema C)
 TOCTitle: Properties element (MessageType complexType)
 ms:assetid: 64e8b8be-9078-487d-1470-449b609feb5e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404816(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Properties element 
+# Properties element (Schema C)
 
 (MessageType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

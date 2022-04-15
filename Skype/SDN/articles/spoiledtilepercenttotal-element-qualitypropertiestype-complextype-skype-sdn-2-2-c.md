@@ -1,5 +1,5 @@
 ﻿---
-title: SpoiledTilePercentTotal element (QualityPropertiesType complexType) 
+title: SpoiledTilePercentTotal element (QualityPropertiesType complexType) (Schema C)
 TOCTitle: SpoiledTilePercentTotal element
 ms:assetid: afb634e6-32af-93a8-212b-e20a3a4f7503
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404854(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# SpoiledTilePercentTotal element 
+# SpoiledTilePercentTotal element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

@@ -1,5 +1,5 @@
 ﻿---
-title: ResponseCodeType complexType 
+title: ResponseCodeType complexType (Schema C)
 TOCTitle: ResponseCodeType complexType
 ms:assetid: 02ab835d-40cd-1b62-f3bf-c588f6ea714b
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429360(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# ResponseCodeType complexType 
+# ResponseCodeType complexType (Schema C)
 
 (Skype for Business SDN Interface 2.2, Schema "C")
 
