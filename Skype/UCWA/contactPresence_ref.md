@@ -62,6 +62,7 @@ The user must have at least one of these scopes for operations on the resource t
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |contactPresence|Medium|people|Indicates the contact's presence has changed. The application may decide to fetch the updated information.</p><p></p>|
+
 Sample of returned event data.
 
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.

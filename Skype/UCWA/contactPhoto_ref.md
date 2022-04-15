@@ -1,3 +1,8 @@
+---
+title: contactPhoto
+description: contactPhoto is the photo of a given contact in Skype for Business 2015.
+---
+
 # contactPhoto
 
  _**Applies to:** Skype for Business 2015_
