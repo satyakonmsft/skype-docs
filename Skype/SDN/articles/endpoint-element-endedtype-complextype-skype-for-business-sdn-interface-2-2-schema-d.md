@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# EndPoint element (Schema D) 
+# EndPoint element (Skype for Business SDN Interface 2.2) (Schema D) 
 
 (EndedType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
