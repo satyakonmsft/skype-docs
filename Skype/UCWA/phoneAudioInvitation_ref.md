@@ -1,3 +1,7 @@
+---
+title: phoneAudioInvitation
+description: phoneAudioInvitation represents an invitation to a conversation for the phoneAudio modality.
+---
 # phoneAudioInvitation
 
  _**Applies to:** Skype for Business 2015_

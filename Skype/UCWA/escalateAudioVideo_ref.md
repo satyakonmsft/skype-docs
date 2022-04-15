@@ -1,3 +1,8 @@
+---
+title: escalateAudioVideo
+description: escalateAudioVideo represents an operation to escalate both audio and video modality from P2P to conferencing.
+---
+
 # escalateAudioVideo
 
  _**Applies to:** Skype for Business 2015_
