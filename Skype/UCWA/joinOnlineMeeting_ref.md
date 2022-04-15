@@ -12,7 +12,7 @@ Joins an online meeting.
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -36,10 +36,9 @@ None
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
+
+|Scope|Permission|Description|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
 
@@ -61,7 +60,7 @@ Starts an [onlineMeetingInvitation](onlineMeetingInvitation_ref.md) in the event
 
 
 
-|**Name**|**Description**|**Required?**|
+|Name|Description|Required?|
 |:-----|:-----|:-----|
 |onlineMeetingUri|The URI of the meeting to join.|No|
 
@@ -71,7 +70,7 @@ Starts an [onlineMeetingInvitation](onlineMeetingInvitation_ref.md) in the event
 
 
 
-|**Name**|**Description**|**Required?**|
+|Name|Description|Required?|
 |:-----|:-----|:-----|
 |onlineMeetingUri|The URI of the online meeting the user wishes to join.String|No|
 |operationId|The ID that the application supplies to correlate its request with the corresponding operation started in the event channel.The maximum length is 50 characters. String|No|
@@ -83,7 +82,7 @@ Starts an [onlineMeetingInvitation](onlineMeetingInvitation_ref.md) in the event
 
 
 
-|**Item**|**Description**|
+|Item|Description|
 |:-----|:-----|
 |[onlineMeetingInvitation](OnlineMeetingInvitation_ref.md)|Represents an invitation to a new or existing [onlineMeeting](onlineMeeting_ref.md).|
 
@@ -93,7 +92,7 @@ Starts an [onlineMeetingInvitation](onlineMeetingInvitation_ref.md) in the event
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |NotFound|404|DestinationNotFound|The meeting could not be found.|
 |Forbidden|403|None|The target conference URI does not match the conference URI provisioned in anonymous web ticket.|

@@ -1,3 +1,7 @@
+---
+title: userAcknowledged
+description: userAcknowledged Represents the user acknowledged.
+---
 # userAcknowledged
 
  _**Applies to:** Skype for Business 2015_

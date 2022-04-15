@@ -12,7 +12,7 @@ Represents whether a participant is using the audio modality in a conversation.
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -27,7 +27,7 @@ This resource helps the application track when a participant joins or leaves thi
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |audioDirection|The direction of the participant's audio ([MediaDirectionType](MediaDirectionType_ref.md)): SendReceive,SendOnly,ReceiveOnly, or Inactive.|
 |audioMuted|Whether the participant's audio is muted.|
@@ -39,7 +39,7 @@ This resource helps the application track when a participant joins or leaves thi
 
 This resource can have the following relationships.
 
-|**Link**|**Description**|
+|Link|Description|
 |:-----|:-----|
 |self|The link to the current resource.|
 |muteAudio|Mutes a [participant](participant_ref.md)'s audio.|
@@ -48,10 +48,9 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
+
+|Scope|Permission|Description|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
 |Conversations.Receive|Receive conversation invites|Allows the app to receive instant messages, audio, video, and desktop sharing invitations on-behalf of the signed-in user|
@@ -61,12 +60,11 @@ The user must have at least one of these scopes for operations on the resource t
 
 ### Added
 
-
-
-|**Resource**|**Priority**|**Sender**|**Reason**|
+|Resource|Priority|Sender|Reason|
 |:-----|:-----|:-----|:-----|
 |participantAudio|High|conversation|Indicates that a participant is now using the audio modality. The application can choose to fetch the updated information.</p><p></p>|
 |participantAudio|High|conversation|Indicates that the user is now using the audio modality.</p><p></p>|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
@@ -102,12 +100,11 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 ### Updated
 
-
-
-|**Resource**|**Priority**|**Sender**|**Reason**|
+|Resource|Priority|Sender|Reason|
 |:-----|:-----|:-----|:-----|
 |participantAudio|High|conversation|Indicates that a participant's audio modality has changed. The application can choose to fetch the updated information.</p><p></p>|
 |participantAudio|High|conversation|Indicates that the user's audio modality has changed.</p><p></p>|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
@@ -143,12 +140,11 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 ### Deleted
 
-
-
-|**Resource**|**Priority**|**Sender**|**Reason**|
+|Resource|Priority|Sender|Reason|
 |:-----|:-----|:-----|:-----|
 |participantAudio|High|conversation|Indicates that a participant is no longer using the audio modality. The application can choose to fetch the updated information.</p><p></p>|
 |participantAudio|High|conversation|Indicates that the user is no longer using the audio modality.</p><p></p>|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
@@ -214,7 +210,7 @@ The response from a GET request contains the properties and links shown in the P
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |ServiceFailure|500|InvalidExchangeServerVersion|Invalid exchange server version.The exchange mailbox of the server might have moved to an unsupported version for the required feature.|
 |Conflict|409|AlreadyExists|The already exists error.|
