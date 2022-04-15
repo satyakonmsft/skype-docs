@@ -1,11 +1,11 @@
 ---
-title: New features in Skype for Business SDN Interface (Lync Server 2013 | Skype for Business 2015)
+title: New features in Skype for Business (Lync Server 2013 | Skype for Business 2015)
  
 ms.assetid: a0ef6ad8-c0a2-425f-b236-dc4907efa22b
 ---
 
 
-# New features in Skype for Business SDN Interface (Lync Server 2013 | Skype for Business 2015)
+# New features in Skype for Business (Lync Server 2013 | Skype for Business 2015)
 
 
   
