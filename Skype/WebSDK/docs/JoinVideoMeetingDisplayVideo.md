@@ -1,6 +1,7 @@
 
 # Join a meeting with video and display the video streams
 
+
  _**Applies to:** Skype for Business 2015_
 
 With an existing conversation instance, video can be added or removed.
