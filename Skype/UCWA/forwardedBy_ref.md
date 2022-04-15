@@ -1,3 +1,6 @@
+---
+title: forwardedBy reference
+---
 # forwardedBy
 
  _**Applies to:** Skype for Business 2015_

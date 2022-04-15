@@ -1,3 +1,6 @@
+---
+title: acceptedByContact reference
+---
 # acceptedByContact
 
  _**Applies to:** Skype for Business 2015_

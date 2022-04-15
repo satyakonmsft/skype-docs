@@ -1,4 +1,6 @@
-
+---
+title: Events library
+---
 # Events library
 Events.js is a JavaScript library that helps start and stop the event channel and add event handlers.
 

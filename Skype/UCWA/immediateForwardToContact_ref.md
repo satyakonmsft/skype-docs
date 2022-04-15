@@ -1,3 +1,8 @@
+---
+title: immediateForwardToContact
+description: immediateForwardToContact immediately forwards all incoming calls to a user-provided number or contact.
+---
+
 # immediateForwardToContact
 
  _**Applies to:** Skype for Business 2015_

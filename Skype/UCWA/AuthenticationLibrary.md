@@ -1,4 +1,6 @@
-
+---
+title: Authentication library
+---
 # Authentication library
 Authentication.js is a JavaScript library that helps authenticate the user.
 
