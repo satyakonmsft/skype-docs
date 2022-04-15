@@ -59,6 +59,7 @@ The user must have at least one of these scopes for operations on the resource t
 |:-----|:-----|:-----|:-----|
 |participantMessaging|High|conversation|Indicates that a participant is now using the instant messaging modality.</p><p></p>|
 |participantMessaging|High|conversation|Indicates that the user is now using the instant messaging modality.</p><p></p>|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
@@ -98,6 +99,7 @@ This sample is given only as an illustration of event syntax. The semantic conte
 |:-----|:-----|:-----|:-----|
 |participantMessaging|High|conversation|Indicates that a participant's instant messaging modality has changed.</p><p></p>|
 |participantMessaging|High|conversation|Indicates that the user's instant messaging modality has changed.</p><p></p>|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
