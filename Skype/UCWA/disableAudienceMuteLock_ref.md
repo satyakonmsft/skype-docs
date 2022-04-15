@@ -1,3 +1,8 @@
+---
+title: disableAudienceMuteLock
+description: disableAudienceMuteLock disables the forced mute of attendees in a conversation.
+---
+
 # disableAudienceMuteLock
 
  _**Applies to:** Skype for Business 2015_
