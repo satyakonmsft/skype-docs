@@ -11,7 +11,6 @@ Represents a link resource to a collection for all sessions in an AudioVideo
 
 For more on web links, see [Web links](WebLinks.md).
 
-
 |**Name**|**Description**|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
@@ -19,21 +18,16 @@ For more on web links, see [Web links](WebLinks.md).
 
 ### Properties
 
-
-
 None
 
 ### Links
-
-
 
 None
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
@@ -44,12 +38,12 @@ The user must have at least one of these scopes for operations on the resource t
 
 ### Added
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |audioVideoSession|High|communication|Delivered when an audiovideo session is added.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
   "_links" : {
@@ -77,16 +71,16 @@ This sample is given only as an illustration of event syntax. The semantic conte
   ]
 }
 
-
 ### Updated
-
-
 
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |audioVideoSession|High|communication|Delivered when the audiovideo session is updated.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+
 {
   "_links" : {
     "self" : {
@@ -113,16 +107,16 @@ This sample is given only as an illustration of event syntax. The semantic conte
   ]
 }
 
-
 ### Deleted
-
-
 
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |audioVideoSession|High|communication|Delivered when the audiovideo session is deleted.</p><p></p>|
+
 Sample of returned event data.
+
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+
 {
   "_links" : {
     "self" : {
