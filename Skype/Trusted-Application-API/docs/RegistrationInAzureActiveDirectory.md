@@ -1,4 +1,4 @@
-# Registering your application in Azure AD
+# Registering your application in Azure ActiveDirectory
 
 >NOTE: We have built a quick registration tool for registering Skype for Busines Trusted Applications in Azure and Skype for Business Online, that eliminates the need to register an Application manually in Azure portal.  You can find the portal at https://aka.ms/skypeappregistration
 

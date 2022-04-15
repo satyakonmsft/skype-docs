@@ -2,7 +2,7 @@
 title: Table of Contents for Skype URI
 ---
 <!--This is the start of the TOC-->
-# Table of contents
+# Skype SDK for Android Table of contents
 
 - [Skype Development](SkypeDevelopment.md)
   - [Skype SDK  for Android](SkypeSDKforAndroid.md)
