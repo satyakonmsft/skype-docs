@@ -1,3 +1,8 @@
+---
+title: immediateForwardToDelegates
+description: immediateForwardToDelegates immediately forwards all incoming calls to the user's delegates
+---
+
 # immediateForwardToDelegates
 
  _**Applies to:** Skype for Business 2015_
