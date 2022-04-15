@@ -1,4 +1,6 @@
-
+---
+title: Table of Contents for Skype URI
+---
 <!--This is the start of the TOC-->
 # Skype SDK for Android Table of contents
 
