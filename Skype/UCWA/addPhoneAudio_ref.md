@@ -1,3 +1,6 @@
+---
+title: addPhoneAudio reference
+---
 # addPhoneAudio
 
  _**Applies to:** Skype for Business 2015_
