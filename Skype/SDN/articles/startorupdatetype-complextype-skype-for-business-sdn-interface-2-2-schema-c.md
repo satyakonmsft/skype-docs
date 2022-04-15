@@ -1,5 +1,5 @@
 ﻿---
-title: StartOrUpdateType complexType 
+title: StartOrUpdateType complexType (Schema C)
 TOCTitle: StartOrUpdateType complexType
 ms:assetid: 143b7028-f15a-7428-e01d-e814ab0a1cfd
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429364(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# StartOrUpdateType complexType 
+# StartOrUpdateType complexType (Schema C)
 
 (Skype for Business SDN Interface 2.2, Schema "C")
 

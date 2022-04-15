@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Protocol element (Schema C)
+# Protocol element (QualityPropertiesType complexType) (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
