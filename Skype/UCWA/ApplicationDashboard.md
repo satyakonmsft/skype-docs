@@ -62,6 +62,7 @@ The **application** resource can be thought of as a dashboard that shows the com
 | [onlineMeetings](onlineMeetings_ref.md)|Represents the dashboard for viewing and scheduling online meetings. The **onlineMeetings** resource exposes the meetings and settings available to the user, including the ability to create a new [myOnlineMeeting](myOnlineMeeting_ref.md).|
 | [communication](communication_ref.md)|Represents the dashboard for communication capabilities. The **communication** resource exposes the modalities and settings available to the user, including the ability to join an [onlineMeeting](onlineMeeting_ref.md) or create an ad-hoc **onlineMeeting**.|
 
+
 ## Creating an application
 <a name="sectionSection1"> </a>
 
@@ -73,10 +74,12 @@ An application is created by performing a POST on the [applications](application
 
 It is possible for a server to delete an application without a client sending a DELETE request on the application resource. This might happen for various reasons, and subsequent requests will fail with the relevant error codes. A client application should be prepared to handle the following errors, which may occur during any operation.
 
+
 |**HTTP status code**|**UCWA error subcode**|**Description**|
 |:-----|:-----|:-----|
 |404 NotFound|ApplicationNotFound|This implies that the application does not exist on the server any more.|
 |410 Gone|TooManyApplications|The total number of all applications created by the user exceeded the limit.|
 |410 Gone|InactiveApplicationExpired|Either the application did not park a pending get for too long; or the application did not report user activity for too long (this only applies if "MakeMeAvailable" was previously invoked).|
 |410 Gone|UserAgentNotAllowed|The UserAgent for the application is no longer supported.|
+
 If a 404 ApplicationNotFound response is received unexpectedly, the client may possibly recreate the application and resume operations without user intervention. If 410 Gone is received it is best to display an error message to the user including the UCWA 2.0 error subcode, and then wait for the user to explicitly restart the client.
