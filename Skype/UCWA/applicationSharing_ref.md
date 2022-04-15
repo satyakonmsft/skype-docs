@@ -1,3 +1,6 @@
+---
+title: applicationSharing reference
+---
 # applicationSharing
 
  _**Applies to:** Skype for Business 2015_

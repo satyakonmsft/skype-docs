@@ -1,5 +1,5 @@
 
-# Registering your application in Azure AD
+# Registering your application in Azure AD with the Azure Management Portal
 Learn how to register your application with Azure AD.
 
 

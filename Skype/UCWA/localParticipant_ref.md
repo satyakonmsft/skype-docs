@@ -1,3 +1,7 @@
+---
+title: localParticipant
+description: localParticipant represents the user as a local participant in a specific conversation.
+---
 # localParticipant
 
  _**Applies to:** Skype for Business 2015_
