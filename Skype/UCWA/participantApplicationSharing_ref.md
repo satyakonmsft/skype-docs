@@ -45,9 +45,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
@@ -58,12 +57,11 @@ The user must have at least one of these scopes for operations on the resource t
 
 ### Added
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |participantApplicationSharing|High|conversation|Indicates that a participant is now using the application sharing modality.</p><p></p>|
 |participantApplicationSharing|High|conversation|Indicates that the user is now using the application sharing modality.</p><p></p>|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
@@ -99,14 +97,14 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 ### Updated
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |participantApplicationSharing|High|conversation|Indicates that a participant's application sharing modality has changed.</p><p></p>|
 |participantApplicationSharing|High|conversation|Indicates that the user's application sharing modality has changed.</p><p></p>|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+
 {
   "_links" : {
     "self" : {
@@ -140,12 +138,11 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 ### Deleted
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |participantApplicationSharing|High|conversation|Indicates that a participant is no longer using the application sharing modality.</p><p></p>|
 |participantApplicationSharing|High|conversation|Indicates that the user is no longer using the application sharing modality.</p><p></p>|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
