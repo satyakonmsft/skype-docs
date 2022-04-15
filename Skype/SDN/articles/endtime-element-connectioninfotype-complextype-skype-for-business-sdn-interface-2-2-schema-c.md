@@ -1,5 +1,5 @@
 ﻿---
-title: EndTime element (Schema C) (ConnectionInfoType complexType) 
+title: EndTime element(ConnectionInfoType complexType) (Schema C)
 TOCTitle: EndTime element
 ms:assetid: 06ba3c4a-f7e4-a9fb-eeda-42c53575d17c
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404757(v=office.16)
