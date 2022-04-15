@@ -1,6 +1,6 @@
 ---
 title: conversationLogTranscript
-description: conversationLogTranscript Represents a transcript within a conversationLog.
+description: conversationLogTranscript represents a transcript within a conversationLog.
 ---
 
 # conversationLogTranscript
