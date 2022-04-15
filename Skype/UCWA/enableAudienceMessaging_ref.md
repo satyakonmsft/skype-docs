@@ -1,3 +1,8 @@
+---
+title: enableAudienceMessaging
+description: enableAudienceMessaging enables the messaging modality for all members of a conversation.
+---
+
 # enableAudienceMessaging
 
  _**Applies to:** Skype for Business 2015_
