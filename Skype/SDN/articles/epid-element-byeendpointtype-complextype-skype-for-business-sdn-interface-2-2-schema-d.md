@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# EPId element (Skype for Business SDN Interface 2.2) (Schema D)
+# EPId element (ByeEndPointType complexType) (Schema D)
 
 (ByeEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
