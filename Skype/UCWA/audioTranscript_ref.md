@@ -1,3 +1,6 @@
+---
+title: audioTranscript reference
+---
 # audioTranscript
 
  _**Applies to:** Skype for Business 2015_
