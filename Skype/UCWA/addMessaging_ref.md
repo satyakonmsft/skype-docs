@@ -1,3 +1,6 @@
+---
+title: addMessaging reference
+---
 # addMessaging
 
  _**Applies to:** Skype for Business 2015_

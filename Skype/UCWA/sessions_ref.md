@@ -1,3 +1,8 @@
+---
+title: sessions
+description: A collection of the sessions in audio/video or application sharing call.
+---
+
 # sessions
 
  _**Applies to:** Skype for Business 2015_
