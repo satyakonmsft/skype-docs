@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Wireless element 
+# Wireless element (InviteEndPointType complexType)
 
 (InviteEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

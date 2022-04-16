@@ -1,4 +1,5 @@
 ---
+title: myGroups reference
 description: The myGroups resource is a collection of groups in the contact list of the logged-on user.
 ---
 # myGroups

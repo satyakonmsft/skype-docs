@@ -1,4 +1,6 @@
-
+---
+title: Authentication using Azure AD
+---
 # Authentication using Azure AD
 Learn how a UCWA 2.0 online application authenticates a user with Azure AD to access Skype for Business resources.
 

@@ -1,6 +1,8 @@
 ---
+title: myGroups2 reference
 description: The myGroups2 resource in Skype for Business 2015 is a collection of groups in the contact list of the logged-on user.
 ---
+
 # myGroups2
 
  _**Applies to:** Skype for Business 2015_

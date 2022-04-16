@@ -1,3 +1,7 @@
+---
+title: participantVideo
+description: participantVideo represents whether a participant is using the main video modality in a conversation.
+---
 # participantVideo
 
  _**Applies to:** Skype for Business 2015_
