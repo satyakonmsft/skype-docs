@@ -1,5 +1,6 @@
 ---
 title: addMessaging reference
+description: Starts a messagingInvitation that adds the instant messaging modality to an existing conversation.
 ---
 # addMessaging
 

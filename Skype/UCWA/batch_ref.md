@@ -1,5 +1,6 @@
 ---
 title: batch reference
+description: Initiates an operation that groups multiple, independent HTTP operations into a single HTTP request payload.
 ---
 # batch
 

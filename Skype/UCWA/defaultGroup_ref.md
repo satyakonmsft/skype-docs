@@ -1,5 +1,6 @@
 ---
 title: defaultGroup reference
+description: Represents a persistent, system-created group where a user's contacts are placed by default.
 ---
 # defaultGroup
 

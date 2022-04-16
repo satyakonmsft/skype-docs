@@ -1,5 +1,6 @@
 ---
-title: accept reference
+title: accept reference for Skype for Business 2015
+description: This resource is used to accept an incoming messagingInvitation or onlineMeetingInvitation as part of a new or existing conversation.
 ---
 # accept
 

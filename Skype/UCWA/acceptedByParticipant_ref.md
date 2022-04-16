@@ -1,5 +1,6 @@
 ---
 title: acceptedByParticipant reference
+description: Represents the remote participant who accepted the invitation of the user.
 ---
 # acceptedByParticipant
 

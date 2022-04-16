@@ -1,3 +1,7 @@
+---
+title: audioVideoSessions reference for Skype for Business 2015
+description: This resource represents a link resource to a collection for all sessions in an AudioVideo.
+---
 # audioVideoSessions
 
  _**Applies to:** Skype for Business 2015_

@@ -1,5 +1,6 @@
 ---
 title: addToContactList reference
+description: addToContactList adds a distributionGroup into contact list.
 ---
 # addToContactList
 

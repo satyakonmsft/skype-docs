@@ -1,5 +1,6 @@
 ---
 title: audioVideoInvitation reference
+description: audioVideoInvitation represents an audio-video invitation in Skype for Business 2015.
 ---
 # audioVideoInvitation
 
