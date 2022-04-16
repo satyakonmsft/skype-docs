@@ -1,5 +1,6 @@
 ---
 title: continueVideo reference
+description: This resource continues video modality of a past conversation.
 ---
 # continueVideo
 
