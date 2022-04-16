@@ -1,5 +1,6 @@
 ---
 title: immediateForwardSettings reference
+description: Represents the settings for a user to immediately forward incoming calls to a specified target.
 ---
 # immediateForwardSettings
 
@@ -14,7 +15,6 @@ Represents the settings for a user to immediately forward incoming calls to a sp
 
 For more on web links, see [Web links](WebLinks.md).
 
-
 |**Name**|**Description**|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
@@ -27,15 +27,11 @@ The user's incoming calls can be forwarded to a contact, number, delegates, or v
 
 ### Properties
 
-
-
 |**Name**|**Description**|
 |:-----|:-----|
 |target|The number that calls will be forwarded to.Calls can be forwarded to a Contact, Delegates, or Voicemail.|
 
 ### Links
-
-
 
 This resource can have the following relationships.
 
@@ -50,8 +46,8 @@ This resource can have the following relationships.
 ### Azure Active Directory scopes for online applications
 
 
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |User.ReadWrite|Read/write Skype user information|Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user|
