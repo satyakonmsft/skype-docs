@@ -1,5 +1,5 @@
 ---
-title: mediaPolicies reference
+title: mediaPolicies for Skype for Business 2015
 description: Represents a resource that allows clients to fetch all media-related settings that
 cannot be modeled as capability links or properties of individual resources.
 ---

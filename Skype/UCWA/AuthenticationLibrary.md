@@ -114,6 +114,7 @@ The **setAnonymousJoinUri** function sets an internal variable with the conferen
 |**Parameter**|**Description**|
 |:-----|:-----|
 |conferenceUri|The URI of the conference to join.|
+
  **Returns**: Boolean indicating whether the conference URI was valid and was stored.
 
  **Syntax**
