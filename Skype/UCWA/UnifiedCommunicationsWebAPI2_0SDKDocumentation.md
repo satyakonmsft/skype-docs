@@ -1,5 +1,5 @@
 ---
-title: Unified Communications Web API 2.0 SDK documentation REST API
+title: Unified Communications Web API 2.0 SDK documentation 
 ---
 # Unified Communications Web API 2.0 SDK documentation
 

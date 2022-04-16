@@ -1,7 +1,7 @@
 ---
-title: startMessagingInvitation
+title: startMessaging reference
 ---
-# startMessaging
+# startMessaging reference
 
  _**Applies to:** Skype for Business 2015_
 

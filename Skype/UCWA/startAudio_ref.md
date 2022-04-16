@@ -1,7 +1,7 @@
 ---
-title: startAudio operation 
+title: startAudio reference
 ---
-# startAudio
+# startAudio reference
 
  _**Applies to:** Skype for Business 2015_
 

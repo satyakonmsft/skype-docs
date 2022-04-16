@@ -1,7 +1,7 @@
 ---
-title: Presence resource description 
+title: Presence reference 
 ---
-# presence
+# presence reference
 
  _**Applies to:** Skype for Business 2015_
 

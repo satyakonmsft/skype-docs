@@ -1,7 +1,7 @@
 ---
-title: myPrivacyRelationship resources  
+title: myPrivacyRelationship reference  
 ---
-# myPrivacyRelationship
+# myPrivacyRelationship reference 
 
  _**Applies to:** Skype for Business 2015_
 

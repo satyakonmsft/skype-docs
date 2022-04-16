@@ -1,7 +1,7 @@
 ---
-title: Mime library for parsing MIME messages
+title: Mime library reference
 ---
-# Mime library
+# Mime library reference
 Mime.js is a JavaScript library that helps parse MIME messages.
 
 

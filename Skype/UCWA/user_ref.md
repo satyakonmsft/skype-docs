@@ -1,7 +1,7 @@
 ---
-title: user as the entry point to the API using user credentials
+title: user reference for Skype for Business 2015
 ---
-# user
+# user reference for Skype for Business 2015
 
  _**Applies to:** Skype for Business 2015_
 

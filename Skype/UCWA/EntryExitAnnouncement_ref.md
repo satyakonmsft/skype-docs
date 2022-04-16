@@ -1,7 +1,7 @@
 ---
-title: EntryExitAnnouncement for attendance announcements in an online meeting
+title: EntryExitAnnouncement reference
 ---
-# EntryExitAnnouncement
+# EntryExitAnnouncement reference
 
 
 _** Applies to: **Skype for Business 2015_

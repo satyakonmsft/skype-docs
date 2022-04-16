@@ -1,7 +1,7 @@
 ---
-title: Trace and debug tools Fiddler debugging proxy
+title: Trace and debug tools reference
 ---
-# Trace and debug tools
+# Trace and debug tools reference
 Learn about the Fiddler debugging proxy, the built-in debugging capabilities of popular web browsers.
 
 

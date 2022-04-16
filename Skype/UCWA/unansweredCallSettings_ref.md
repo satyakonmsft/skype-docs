@@ -1,7 +1,7 @@
 ---
-title: unansweredCallSettings resources
+title: unansweredCallSettings reference
 ---
-# unansweredCallSettings
+# unansweredCallSettings reference 
 
  _**Applies to:** Skype for Business 2015_
 

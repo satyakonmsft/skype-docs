@@ -1,7 +1,7 @@
 ---
-title: myOrganizationGroup resources
+title: myOrganizationGroup reference
 ---
-# myOrganizationGroup
+# myOrganizationGroup reference
 
  _**Applies to:** Skype for Business 2015_
 

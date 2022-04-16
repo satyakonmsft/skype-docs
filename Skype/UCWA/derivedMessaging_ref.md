@@ -1,7 +1,7 @@
 ---
-title: derivedMessaging modality in a derivedConversation
+title: derivedMessaging reference
 ---
-# derivedMessaging
+# derivedMessaging reference
 
  _**Applies to:** Skype for Business 2015_
 

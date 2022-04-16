@@ -1,7 +1,7 @@
 ---
-title: admin policies that can apply to a user's application 
+title: Policies reference
 ---
-# policies
+# policies reference 
 
  _**Applies to:** Skype for Business 2015_
 

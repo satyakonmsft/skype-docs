@@ -1,7 +1,7 @@
 ---
-title: startEmergencyCall operation 
+title: startEmergencyCall reference 
 ---
-# startEmergencyCall
+# startEmergencyCall reference
 
  _**Applies to:** Skype for Business 2015_
 

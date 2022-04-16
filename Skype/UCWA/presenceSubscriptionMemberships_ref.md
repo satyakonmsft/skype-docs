@@ -1,7 +1,7 @@
 ---
-title: presenceSubscriptionMemberships resources
+title: presenceSubscriptionMemberships reference
 ---
-# presenceSubscriptionMemberships
+# presenceSubscriptionMemberships reference
 
  _**Applies to:** Skype for Business 2015_
 

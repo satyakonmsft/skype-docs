@@ -1,7 +1,7 @@
 ---
-title:  PreferredAvailability for user's availability values 
+title:  PreferredAvailability reference 
 ---
-# PreferredAvailability
+# PreferredAvailability reference
 
 
 _** Applies to: **Skype for Business 2015_

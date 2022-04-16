@@ -1,7 +1,7 @@
 ---
-title: reportMyNetwork resource
+title: reportMyNetwork reference
 ---
-# reportMyNetwork
+# reportMyNetwork reference
 
  _**Applies to:** Skype for Business 2015_
 
