@@ -1,4 +1,6 @@
-
+---
+title: Registering your application in Azure AD with the Azure Management Portal process
+---
 # Registering your application in Azure AD with the Azure Management Portal
 Learn how to register your application with Azure AD.
 

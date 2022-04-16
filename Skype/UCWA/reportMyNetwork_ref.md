@@ -1,3 +1,6 @@
+---
+title: reportMyNetwork resource
+---
 # reportMyNetwork
 
  _**Applies to:** Skype for Business 2015_

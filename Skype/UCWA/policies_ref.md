@@ -1,3 +1,6 @@
+---
+title: admin policies that can apply to a user's application 
+---
 # policies
 
  _**Applies to:** Skype for Business 2015_

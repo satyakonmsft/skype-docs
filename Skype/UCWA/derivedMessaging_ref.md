@@ -1,3 +1,6 @@
+---
+title: derivedMessaging modality in a derivedConversation
+---
 # derivedMessaging
 
  _**Applies to:** Skype for Business 2015_

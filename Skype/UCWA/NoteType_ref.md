@@ -1,4 +1,6 @@
-
+---
+title: User's NoteType 
+---
 # NoteType
 
 

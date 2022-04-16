@@ -1,3 +1,6 @@
+---
+title: simultaneousRingToTeam resource description
+---
 # simultaneousRingToTeam
 
  _**Applies to:** Skype for Business 2015_

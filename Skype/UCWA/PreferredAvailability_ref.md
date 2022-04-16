@@ -1,4 +1,6 @@
-
+---
+title:  PreferredAvailability for user's availability values 
+---
 # PreferredAvailability
 
 
