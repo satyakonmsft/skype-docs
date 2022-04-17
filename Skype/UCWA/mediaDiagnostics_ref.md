@@ -1,5 +1,6 @@
 ---
 title: mediaDiagnostics reference
+description: Represent a class to help a client to post media related diagnostics information.
 ---
 # mediaDiagnostics
 
@@ -33,15 +34,12 @@ None
 
 ### Links
 
-
-
 None
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |User.ReadWrite|Read/write Skype user information|Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user|

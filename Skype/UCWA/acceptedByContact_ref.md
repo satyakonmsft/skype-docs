@@ -1,5 +1,6 @@
 ---
 title: acceptedByContact reference
+description: Represents the contact who ultimately accepted an incoming invitation.
 ---
 # acceptedByContact
 
@@ -49,7 +50,6 @@ This resource is usually present in an incoming invitation that completes with f
 ### Links
 
 
-
 This resource can have the following relationships.
 
 |**Link**|**Description**|
@@ -64,9 +64,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
