@@ -1,3 +1,8 @@
+---
+title: messagingInvitation
+description: A messagingInvitation represents an invitation to a conversation for the messaging modality.
+---
+
 # messagingInvitation
 
  _**Applies to:** Skype for Business 2015_
