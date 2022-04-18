@@ -1,3 +1,6 @@
+---
+title: Skype for Business 2015 - joinOnlineMeeting
+---
 # joinOnlineMeeting
 
  _**Applies to:** Skype for Business 2015_
