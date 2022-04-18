@@ -1,3 +1,6 @@
+---
+title: Skype for Business 2015 attendees reference
+---
 # attendees
 
  _**Applies to:** Skype for Business 2015_
