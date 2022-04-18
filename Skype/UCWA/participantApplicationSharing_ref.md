@@ -1,3 +1,8 @@
+---
+title: participantApplicationSharing
+description: Represents whether a participant is using the application sharing modality in a conversation.
+---
+
 # participantApplicationSharing
 
  _**Applies to:** Skype for Business 2015_
