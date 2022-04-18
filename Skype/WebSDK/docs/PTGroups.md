@@ -1,5 +1,5 @@
 ---
-title: Currently signed in groups and contacts operations
+title: Skype for Business 2015 currently signed in groups and contacts operations
 description: This section describes the different operations you can perform with the groups and contacts of the currently signed in user.
 ---
 

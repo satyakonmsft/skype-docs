@@ -1,5 +1,5 @@
 ---
-title: Skype for Business 2015 Manage devices
+title: Skype for Business 2015 Manage device lists
 ---
 # Manage devices
 
