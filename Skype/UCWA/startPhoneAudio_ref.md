@@ -1,3 +1,8 @@
+---
+title: startPhoneAudio
+description: Initiates a call-via-work.
+---
+
 # startPhoneAudio
 
  _**Applies to:** Skype for Business 2015_
