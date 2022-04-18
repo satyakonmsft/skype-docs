@@ -1,5 +1,5 @@
 ﻿---
-title: MSDiagnosticsPublic element (EndedProperties complexType) 
+title: MSDiagnosticsPublic element (EndedProperties complexType) Schema C
 TOCTitle: MSDiagnosticsPublic element (EndedProperties complexType)
 ms:assetid: 767ed824-92f1-20fd-6931-0915d2eb3f3c
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404801(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# MSDiagnosticsPublic element 
+# MSDiagnosticsPublic element Schema C
 
 (EndedProperties complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

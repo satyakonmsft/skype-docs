@@ -1,5 +1,5 @@
 ﻿---
-title: MSDiagnosticsPublic element (MessageProperties complexType) 
+title: MSDiagnosticsPublic element (MessageProperties complexType) Schema D
 TOCTitle: MSDiagnosticsPublic element (MessageProperties complexType)
 ms:assetid: 807f4528-0481-ff44-770c-d227b08939e0
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170929(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# MSDiagnosticsPublic element 
+# MSDiagnosticsPublic element Schema D
 
 (MessageProperties complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
