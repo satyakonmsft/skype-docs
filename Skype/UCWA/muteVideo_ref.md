@@ -1,3 +1,8 @@
+---
+title: muteVideo
+description: Mutes a participants video.
+---
+
 # muteVideo
 
  _**Applies to:** Skype for Business 2015_
