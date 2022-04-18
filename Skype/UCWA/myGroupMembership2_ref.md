@@ -1,3 +1,8 @@
+---
+title: myGroupMembership2
+description: Represents the version two of MyGroupMembershipResource, a group membership  of a single contact.
+---
+
 # myGroupMembership2
 
  _**Applies to:** Skype for Business 2015_

@@ -3,6 +3,7 @@ title: messages
 description: A collection of instant message resources.
 ---
 
+
 # messages
 
  _**Applies to:** Skype for Business 2015_
