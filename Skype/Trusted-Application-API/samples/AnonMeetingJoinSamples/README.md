@@ -80,7 +80,7 @@ If you see this error message:
 
 You need to adjust web.config on the Cloud Service to set `customError="off"` per the error message.
 
-1. Enable Remote Desktop on the `FrontEnd` role instance - see [here](https://docs.microsoft.com/azure/cloud-services/cloud-services-role-enable-remote-desktop#remote-into-role-instances) for details
+1. Enable Remote Desktop on the `FrontEnd` role instance - see [here](/azure/cloud-services/cloud-services-role-enable-remote-desktop#remote-into-role-instances) for details
 2. Remote it and start the IIS Manager
 3. Find the Under *Sites*, right-click the configured website (there should only be one) and select *Explore...*.
 4. Edit `web.config` and allow custom errors on remote hosts, as per the error page's instructions.
