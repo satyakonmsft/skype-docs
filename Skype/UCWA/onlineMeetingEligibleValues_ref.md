@@ -1,3 +1,8 @@
+---
+title: onlineMeetingEligibleValues
+description: Represents the eligible values that the application can choose from when scheduling a myOnlineMeeting.
+---
+
 # onlineMeetingEligibleValues
 
  _**Applies to:** Skype for Business 2015_
