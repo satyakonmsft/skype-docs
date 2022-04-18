@@ -1,3 +1,8 @@
+---
+title: Skype for Business
+description: Build integrated communications experiences and solutions to leverage the power and reach of Skype and Skype for Business.
+---
+
 # Skype for Business
 
 Build integrated communications experiences and solutions to leverage the power and reach of Skype and Skype for Business.
