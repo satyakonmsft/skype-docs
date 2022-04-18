@@ -1,4 +1,7 @@
-
+---
+title: Table of contents
+description: Table of contents
+---
 <!--This is the start of the TOC-->
 # Table of contents
 

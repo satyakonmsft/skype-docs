@@ -1,5 +1,6 @@
 ---
 title: PTGroups Add Contact
+description: Learn about adding a contact.
 ---
 # Add Contact
 
