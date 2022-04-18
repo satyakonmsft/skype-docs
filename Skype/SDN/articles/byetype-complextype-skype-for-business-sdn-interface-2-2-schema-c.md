@@ -1,5 +1,5 @@
 ﻿---
-title: ByeType complexType Schema C
+title: ByeType complexType (Schema C)
 TOCTitle: ByeType complexType
 ms:assetid: de32a302-767e-1a49-207d-b0e716f51c7b
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429345(v=office.16)

@@ -1,5 +1,5 @@
 ﻿---
-title: ByeType complexType Schema D
+title: ByeType complexType (Schema D)
 TOCTitle: ByeType complexType
 ms:assetid: 64494012-5ccc-428d-8ba5-a87f987fb734
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171056(v=office.16)

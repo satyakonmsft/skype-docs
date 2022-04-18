@@ -1,5 +1,5 @@
 ﻿---
-title: BurstGapDuration element (QualityPropertiesType complexType) Schema D
+title: BurstGapDuration element (QualityPropertiesType complexType) (Schema D)
 TOCTitle: BurstGapDuration element
 ms:assetid: 2c19dbc8-2283-4475-4a6b-266322ee58f4
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149437(v=office.16)

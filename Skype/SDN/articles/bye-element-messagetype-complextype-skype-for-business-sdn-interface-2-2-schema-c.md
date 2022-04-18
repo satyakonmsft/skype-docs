@@ -1,5 +1,5 @@
 ﻿---
-title: Bye element (MessageType complexType) Schema C
+title: Bye element (MessageType complexType) (Schema C)
 TOCTitle: Bye element
 ms:assetid: b054de95-f996-b81d-703d-ca0bf9870977
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404714(v=office.16)

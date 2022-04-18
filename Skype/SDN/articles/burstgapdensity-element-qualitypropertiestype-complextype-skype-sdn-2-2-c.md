@@ -1,5 +1,5 @@
 ﻿---
-title: BurstGapDensity element (QualityPropertiesType complexType) Schema C
+title: BurstGapDensity element (QualityPropertiesType complexType) (Schema C)
 TOCTitle: BurstGapDensity element
 ms:assetid: 9e5ddec0-966a-5eda-fc7b-a3dfb2f8548e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404713(v=office.16)

@@ -1,5 +1,5 @@
 ﻿---
-title: Callee element (InviteType complexType) Schema C 
+title: Callee element (InviteType complexType) (Schema C) 
 TOCTitle: Callee element
 ms:assetid: dadc7a8c-cc56-dbe1-cfa4-4e44797a8e49
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404716(v=office.16)
