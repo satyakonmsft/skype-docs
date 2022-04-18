@@ -1,5 +1,5 @@
 ---
-title: invitation
+title: Invitation
 description: Represents information in a typical invitation.
 ---
 

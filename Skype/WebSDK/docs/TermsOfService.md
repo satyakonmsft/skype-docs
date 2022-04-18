@@ -1,6 +1,6 @@
 ---
-title: MICROSOFT SOFTWARE LICENSE TERMS
-description: SKYPE WEB SDK
+title: Microsoft software license terms for Skype Web SDK
+description: Agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you.
 ---
 
 # MICROSOFT SOFTWARE LICENSE TERMS

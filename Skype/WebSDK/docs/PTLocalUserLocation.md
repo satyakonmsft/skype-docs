@@ -1,6 +1,6 @@
 ---
-title: Location
-description: Local user - Set Location
+title: Provides access to the Location property 
+description: Makes use of the mePerson object exposed by personsAndGroupsManager to access the location property.
 ---
 # Location
 

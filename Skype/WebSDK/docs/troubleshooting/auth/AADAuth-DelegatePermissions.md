@@ -1,5 +1,5 @@
 ---
-title: AAD Auth Failures - Client requesting resource not in requiredResourceAccess list
+title: AAD Auth Failures
 description: Attempting to use the Azure AD authentication option to sign into the Skype for Business (SfB) Web SDK and you are seeing an AAD error page.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: onlineMeetingExtension
+title: Learn about onlineMeetingExtension
 description: Represents custom data for the associated onlineMeeting that can be used by an application.
 ---
 
