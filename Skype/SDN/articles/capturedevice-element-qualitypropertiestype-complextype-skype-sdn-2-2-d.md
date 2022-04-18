@@ -1,5 +1,5 @@
 ﻿---
-title: CaptureDevice element (QualityPropertiesType complexType) (Schema D)
+title: CaptureDevice element (QualityPropertiesType complexType) Schema D
 TOCTitle: CaptureDevice element
 ms:assetid: 8cd9db98-fec4-f564-7e30-68c8db2605af
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149442(v=office.16)
@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# CaptureDevice element (Schema D)
+# CaptureDevice element Schema D
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

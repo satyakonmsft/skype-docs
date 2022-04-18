@@ -1,5 +1,5 @@
 ﻿---
-title: Caller element (InviteType complexType) (Schema C)
+title: Caller element (InviteType complexType) (Schema D)
 TOCTitle: Caller element
 ms:assetid: 124ca532-e9bb-b512-8cf0-7d19ac08dd2e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149441(v=office.16)
@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Caller element (Schema C)
+# Caller element (Schema D)
 
 (InviteType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
