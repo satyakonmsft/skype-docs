@@ -1,3 +1,8 @@
+---
+title: startAudioOnBehalfOfDelegator
+description: Represents an operation to start Audio call on behalf of the delegator.
+---
+
 # startAudioOnBehalfOfDelegator
 
  _**Applies to:** Skype for Business 2015_
