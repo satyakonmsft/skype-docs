@@ -355,9 +355,10 @@ The **write** function writes object data received by way of the event channel t
 
 
 
-|**Parameter**|**Description**|
-|:-----|:-----|
-|data|The JSON object representation of an event.|
+| **Parameter** | **Description** |
+| ----- | ----- |
+| data | The JSON object representation of an event. |
+
  **Returns:** The data object written to the cache.
 
  **Syntax**
