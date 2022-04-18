@@ -1,3 +1,8 @@
+---
+title: MICROSOFT SOFTWARE LICENSE TERMS
+description: SKYPE WEB SDK
+---
+
 # MICROSOFT SOFTWARE LICENSE TERMS
 ## SKYPE WEB SDK 
 --------------------

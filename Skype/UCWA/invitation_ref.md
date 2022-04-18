@@ -1,3 +1,8 @@
+---
+title: invitation
+description: Represents information in a typical invitation.
+---
+
 # invitation
 
  _**Applies to:** Skype for Business 2015_

@@ -1,3 +1,8 @@
+---
+title: onlineMeetingExtension
+description: Represents custom data for the associated onlineMeeting that can be used by an application.
+---
+
 # onlineMeetingExtension
 
  _**Applies to:** Skype for Business 2015_
