@@ -1,5 +1,6 @@
 ---
 title: derivedPhoneAudio reference
+description: The derivedPhoneAudio resource represents the phoneAudio modality in a derivedConversation.
 ---
 # derivedPhoneAudio
 
@@ -27,13 +28,9 @@ This resource indicates that the [phoneAudio](phoneAudio_ref.md) modality will b
 
 ### Properties
 
-
-
 None
 
 ### Links
-
-
 
 This resource can have the following relationships.
 
@@ -43,9 +40,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
