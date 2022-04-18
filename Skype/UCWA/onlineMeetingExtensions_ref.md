@@ -1,3 +1,8 @@
+---
+title: onlineMeetingExtensions
+description: Represents the set of onlineMeetingExtensions for the associated onlineMeeting.
+---
+
 # onlineMeetingExtensions
 
  _**Applies to:** Skype for Business 2015_
