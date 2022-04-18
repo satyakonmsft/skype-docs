@@ -1,3 +1,8 @@
+---
+title: conversations
+description: Represents the user's ongoing conversation.
+---
+
 # conversations
 
  _**Applies to:** Skype for Business 2015_

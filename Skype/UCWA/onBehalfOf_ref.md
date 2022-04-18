@@ -1,3 +1,8 @@
+---
+title: onBehalfOf
+description: onBehalfOf represents the contact on whose behalf the invitation was received.
+---
+
 # onBehalfOf
 
  _**Applies to:** Skype for Business 2015_
