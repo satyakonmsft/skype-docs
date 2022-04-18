@@ -1,5 +1,5 @@
 ﻿---
-title: ConnectionInfoType complexType 
+title: ConnectionInfoType complexType Schema C
 TOCTitle: ConnectionInfoType complexType
 ms:assetid: 6a3f33fc-c7df-48b2-872f-f3c39f4a8464
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429348(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# ConnectionInfoType complexType 
+# ConnectionInfoType complexType Schema C
 
 (Skype for Business SDN Interface 2.2, Schema "C") 
 
@@ -18,8 +18,8 @@ dev_langs:
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -54,9 +54,9 @@ dev_langs:
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -139,11 +139,11 @@ dev_langs:
 
 <table>
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

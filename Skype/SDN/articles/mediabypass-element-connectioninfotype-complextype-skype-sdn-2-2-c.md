@@ -1,5 +1,5 @@
 ﻿---
-title: MediaBypass element (ConnectionInfoType complexType) 
+title: MediaBypass element (ConnectionInfoType complexType) (Schema C)
 TOCTitle: MediaBypass element
 ms:assetid: e7fad1d2-57f1-97b9-fc6e-dca35c59f299
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404791(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# MediaBypass element 
+# MediaBypass element (Schema C)
 
 (ConnectionInfoType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +24,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +57,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

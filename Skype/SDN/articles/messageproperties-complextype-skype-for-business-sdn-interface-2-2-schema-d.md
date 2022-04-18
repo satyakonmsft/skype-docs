@@ -1,5 +1,5 @@
 ﻿---
-title: MessageProperties complexType 
+title: MessageProperties complexType (Schema D)
 TOCTitle: MessageProperties complexType
 ms:assetid: f7c0c752-ecdc-55bc-dfe0-06998ec1e06f
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171066(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# MessageProperties complexType 
+# MessageProperties complexType (Schema D)
 
 (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -24,8 +24,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -58,9 +58,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

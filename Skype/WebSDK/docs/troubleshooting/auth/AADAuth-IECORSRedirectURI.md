@@ -1,3 +1,6 @@
+---
+title: AAD Auth Failures - Invalid CORS redirect URI in Internet Explorer and Microsoft Edge
+---
 # AAD Auth Failures - Invalid CORS redirect URI in Internet Explorer and Microsoft Edge
 
 _**Applies to:** Skype for Business 2015_
@@ -39,5 +42,5 @@ This failure is inconsistent, and you will not necessarily experience this failu
 ## Related Topics
 
 - [Troubleshooting AAD Auth Failures for Skype Web SDK](./AADAuthFailures.md)
-- [Integrating Applications with Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-integrating-applications)
+- [Integrating Applications with Azure Active Directory](/azure/active-directory/active-directory-integrating-applications)
 - [Authentication in UCWA apps using Azure AD](../../../../UCWA/AuthenticationUsingAzureAD.md)

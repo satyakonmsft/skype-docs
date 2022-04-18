@@ -1,5 +1,5 @@
 ﻿---
-title: UserAgent element (ErrorEndPointType complexType) 
+title: UserAgent element (ErrorEndPointType complexType) (Schema D)
 TOCTitle: UserAgent element (ErrorEndPointType complexType)
 ms:assetid: 3c027501-8a46-98d4-df03-29d8736db129
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171027(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# UserAgent element 
+# UserAgent element (ErrorEndPointType complexType) (Schema D)
 
 (ErrorEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +26,7 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +61,7 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+
 </colgroup>
 <thead>
 <tr class="header">
@@ -91,11 +88,7 @@ None.
 
 <table>
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
+
 </colgroup>
 <thead>
 <tr class="header">

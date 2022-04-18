@@ -1,5 +1,5 @@
 ﻿---
-title: CodecType complexType 
+title: Learn about the CodecType complexType schema C
 TOCTitle: CodecType complexType
 ms:assetid: 061b11a5-2930-6d09-31b0-1a9ed79757d4
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429350(v=office.16)
@@ -10,17 +10,14 @@ dev_langs:
 - xml
 ---
 
-# CodecType complexType 
+# Learn about the CodecType complexType schema C
 
 (Skype for Business SDN Interface 2.2, Schema "C") 
 
 ## Type information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Namespace</strong></p></td>
@@ -53,11 +50,7 @@ dev_langs:
 ### Child elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -83,13 +76,7 @@ dev_langs:
 ### Attributes
 
 <table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Attribute</p></th>

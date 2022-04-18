@@ -1,5 +1,5 @@
 ﻿---
-title: EndPoint element (ErrorType complexType) 
+title: EndPoint element (ErrorType complexType) (Schema C) 
 TOCTitle: EndPoint element (ErrorType complexType)
 ms:assetid: 3f961c3c-ed3a-0a4f-f216-6b9f6ba34ebd
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404755(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# EndPoint element 
+# EndPoint element (SChema C) 
 
 (ErrorType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +24,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +57,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -85,11 +78,7 @@ Elements and attributes
 ### Child elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

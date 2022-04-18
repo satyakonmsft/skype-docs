@@ -1,5 +1,5 @@
 ﻿---
-title: MaxBandwidth element (CodecType complexType) 
+title: MaxBandwidth element (CodecType complexType) (Schema C)
 TOCTitle: MaxBandwidth element
 ms:assetid: c548981f-4a0b-f4cb-cdb8-28cd2b38e303
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404789(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# MaxBandwidth element 
+# MaxBandwidth element (Schema C)
 
 (CodecType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +24,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +57,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

@@ -1,3 +1,6 @@
+---
+title: Skype for Business 2015 - AAD Auth Failures - Implicit OAuth is not enabled for the application
+---
 # AAD Auth Failures - Implicit OAuth is not enabled for the application
 
 _"Response_type 'token' is not enabled for the application_"
@@ -44,4 +47,4 @@ Follow these steps to solve this issue.
 ## Related Topics
 
 - [Troubleshooting AAD Auth Failures for Skype Web SDK](./AADAuthFailures.md)
-- [Integrating Applications with Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-integrating-applications)
+- [Integrating Applications with Azure Active Directory](/azure/active-directory/active-directory-integrating-applications)
