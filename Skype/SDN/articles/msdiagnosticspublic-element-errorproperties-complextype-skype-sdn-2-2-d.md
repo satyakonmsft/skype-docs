@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# MSDiagnosticsPublic element Schema D
+# MSDiagnosticsPublic element (ErrorProperties complexType) Schema D
 
 (ErrorProperties complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

@@ -26,13 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<<<<<<< HEAD
-<col />
-<col />
-=======
 <col>
 <col>
->>>>>>> 0f7ae2fd33f36a6bb6670b6e1fb8009b1fd27649
 </colgroup>
 <tbody>
 <tr class="odd">
