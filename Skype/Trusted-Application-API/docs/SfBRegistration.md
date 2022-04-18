@@ -1,3 +1,6 @@
+---
+title: Registering a Trusted Application in Skype for Business Online
+---
 # Registering a Trusted Application in Skype for Business Online
 
 > [!NOTE] 

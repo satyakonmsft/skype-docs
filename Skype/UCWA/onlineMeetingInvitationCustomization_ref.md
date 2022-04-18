@@ -1,3 +1,8 @@
+---
+title: onlineMeetingInvitationCustomization
+description: Represents the recommended custom values to use when an onlineMeetingInvitation is sent.
+---
+
 # onlineMeetingInvitationCustomization
 
  _**Applies to:** Skype for Business 2015_
