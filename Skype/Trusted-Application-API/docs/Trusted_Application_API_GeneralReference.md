@@ -1,5 +1,5 @@
 ---
-title: Enabling communications services for the cloud
+title: Enabling communication services for the cloud
 ---
 # Enabling communications services for the cloud
 
