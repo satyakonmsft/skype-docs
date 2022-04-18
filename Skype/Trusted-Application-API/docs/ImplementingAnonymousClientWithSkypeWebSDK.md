@@ -1,5 +1,5 @@
 ---
-title: Implementing a Anonymous Client with the Skype Web SDK
+title: Implementing an Anonymous Client with the Skype Web SDK
 ---
 # Implementing a Anonymous Client with the Skype Web SDK
 
