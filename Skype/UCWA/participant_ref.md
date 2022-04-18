@@ -1,6 +1,8 @@
 ---
-title: participant reference
+title: participant
+description: Represents a remote participant in a conversation.
 ---
+
 # participant
 
  _**Applies to:** Skype for Business 2015_
