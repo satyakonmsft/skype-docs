@@ -1,3 +1,8 @@
+---
+title: conversation
+description: conversation represents the local participants perspective on a multi-modal, multi-party communication.
+---
+
 # conversation
 
  _**Applies to:** Skype for Business 2015_
