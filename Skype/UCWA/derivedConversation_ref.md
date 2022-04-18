@@ -1,5 +1,6 @@
 ---
 title: derivedConversation reference
+description: The derivedConversation resource represents a related conversation with a different participant than the one of the original conversation.
 ---
 # derivedConversation
 
@@ -14,7 +15,6 @@ Represents a related conversation with a different [participant](participant_ref
 
 For more on web links, see [Web links](WebLinks.md).
 
-
 |**Name**|**Description**|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
@@ -27,13 +27,9 @@ A derivedConversation is created when a new modality is added to an existing [co
 
 ### Properties
 
-
-
 None
 
 ### Links
-
-
 
 This resource can have the following relationships.
 
@@ -43,9 +39,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
