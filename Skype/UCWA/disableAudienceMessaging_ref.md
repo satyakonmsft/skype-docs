@@ -1,3 +1,7 @@
+---
+title: disableAudienceMessaging
+description: disableAudienceMessaging disables the messaging modality for all members of a conversation.
+---
 # disableAudienceMessaging
 
  _**Applies to:** Skype for Business 2015_

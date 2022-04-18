@@ -1,4 +1,4 @@
-# Third Party Notices
+# Third Party Notices amd Information
 
 "The MIT License (MIT)
 

@@ -1,5 +1,5 @@
 ﻿---
-title: URI element (QualityEndPointType complexType) 
+title: URI element (QualityEndPointType complexType) (Schema C)
 TOCTitle: URI element (QualityEndPointType complexType)
 ms:assetid: d7883d40-b740-81a2-9c5e-de1fc66709e1
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429332(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# URI element 
+# URI element (QualityEndPointType complexType) (Schema C)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
