@@ -1,4 +1,7 @@
-
+---
+title: Status applies to Skype for Business 2015
+description: Represents the status of a job instance.
+---
 # Status : applies to Skype for Business 2015
 
 

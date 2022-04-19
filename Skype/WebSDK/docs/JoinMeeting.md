@@ -1,4 +1,7 @@
-
+---
+title: Join an existing meeting
+description: A user can join an existing meeting with that meeting's URI.
+---
 # Join an existing meeting
 
 

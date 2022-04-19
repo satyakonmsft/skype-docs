@@ -1,3 +1,8 @@
+---
+title: invitations
+description: invitations represents a collection of Invitation entities.
+---
+
 # invitations
 
  _**Applies to:** Skype for Business 2015_

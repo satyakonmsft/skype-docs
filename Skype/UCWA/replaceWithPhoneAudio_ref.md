@@ -1,3 +1,8 @@
+---
+title: replaceWithPhoneAudio
+description: replaceWithPhoneAudio adds phone audio to an existing conversation.
+---
+
 # replaceWithPhoneAudio
 
  _**Applies to:** Skype for Business 2015_
