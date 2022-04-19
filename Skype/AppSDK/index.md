@@ -1,6 +1,6 @@
 ---
 title: Skype for Business App SDK
-description: Find in-depth developer resources, how-to documentation, SDKs and references, and code samples for Skype developer platform verticals.
+description: Find in-depth developer resources, how-to documentation, SDKs and references, and code samples for the Skype developer platform verticals.
 ms.date: 03/30/2020
 ---
 
