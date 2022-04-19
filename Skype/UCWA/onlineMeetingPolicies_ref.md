@@ -1,3 +1,8 @@
+---
+title: onlineMeetingPolicies
+description: onlineMeetingPolicies represents the admin policies for the user's online meetings.
+---
+
 # onlineMeetingPolicies
 
  _**Applies to:** Skype for Business 2015_
