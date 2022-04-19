@@ -1,5 +1,5 @@
 ﻿---
-title: TimeStamp element (ConnectionInfoType complexType) 
+title: TimeStamp element (ConnectionInfoType complexType) (Schema D)
 TOCTitle: TimeStamp element
 ms:assetid: 52b8e204-7243-cbf4-af3c-91fb3ff5a363
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171007(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# TimeStamp element 
+# TimeStamp element (Schema D)
 
 (ConnectionInfoType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
