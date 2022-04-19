@@ -146,6 +146,7 @@ The **injectFrame** function injects an iframe that is located on the domain int
 
 
 
+
 |**Parameter**|**Description**|
 |:-----|:-----|
 |xframe|Absolute URL to the iframe's target.|
