@@ -33,6 +33,7 @@ Uses the HTML 5 **postMessage** function to send a Request object to a remote lo
 
 
 
+
 |**Parameter**|**Description**|
 |:-----|:-----|
 |request|Object containing request data.|
