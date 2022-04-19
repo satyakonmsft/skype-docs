@@ -1,3 +1,8 @@
+---
+title: Learn about myContacts, which is a collection of resources.
+description: A collection of contact resources that belong to the logged-on user.
+---
+
 # myContacts
 
  _**Applies to:** Skype for Business 2015_

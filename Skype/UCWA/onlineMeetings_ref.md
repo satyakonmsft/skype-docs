@@ -1,3 +1,8 @@
+---
+title: onlineMeetings
+description: onlineMeetings represents the dashboard for viewing and scheduling online meetings.
+---
+
 # onlineMeetings
 
  _**Applies to:** Skype for Business 2015_
