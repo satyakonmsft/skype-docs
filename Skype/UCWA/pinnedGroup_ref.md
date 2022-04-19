@@ -1,7 +1,6 @@
 ---
 title: pinnedGroup
-description: pinnedGroup represents a system-created group of contacts that the user pins or that the user frequently
-communicates and collaborates with.
+description: pinnedGroup represents a system-created group of contacts that the user pins or that the user frequently communicates and collaborates with.
 ---
 
 # pinnedGroup
@@ -55,6 +54,7 @@ This resource can have the following relationships.
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
@@ -108,7 +108,7 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
-|pinnedGroup|High|people|Indicates that the pinned group has been updated. The application can decide to fetch the updatedinformation.</p><p></p>|
+|pinnedGroup|High|people|Indicates that the pinned group has been updated. The application can decide to fetch the updated information.</p><p></p>|
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
     {

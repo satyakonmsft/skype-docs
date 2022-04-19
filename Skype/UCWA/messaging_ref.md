@@ -75,6 +75,7 @@ The user must have at least one of these scopes for operations on the resource t
 |messaging|High|conversation|Indicates that the messaging resource has changed. The application can choose to fetch the updated information.</p><p></p>|
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+
     {
       "_links" : {
         "self" : {

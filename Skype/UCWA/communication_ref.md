@@ -75,7 +75,6 @@ This resource can have the following relationships.
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
-
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
@@ -93,32 +92,32 @@ The user must have at least one of these scopes for operations on the resource t
 |communication|Medium|communication|Indicates that the communication resource has been updated.</p><p>For example, this can occur after the application invokes [makeMeAvailable](makeMeAvailable_ref.md).</p>|
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
-{
-  "_links" : {
-    "self" : {
-      "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=1"
-    },
-    "next" : {
-      "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=2"
-    }
-  },
-  "sender" : [
+
     {
-      "rel" : "communication",
-      "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/communication",
-      "events" : [
+      "_links" : {
+        "self" : {
+              "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=1"
+        },
+        "next" : {
+          "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=2"
+        }
+      },
+      "sender" : [
         {
-          "link" : {
-            "rel" : "communication",
-            "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/communication"
-          },
-          "type" : "updated"
+          "rel" : "communication",
+          "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/communication",
+          "events" : [
+            {
+              "link" : {
+                "rel" : "communication",
+                "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/communication"
+              },
+              "type" : "updated"
+            }
+          ]
         }
       ]
     }
-  ]
-}
-
 
 ## Operations
 
