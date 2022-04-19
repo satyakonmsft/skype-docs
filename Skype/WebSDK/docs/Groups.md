@@ -1,6 +1,7 @@
-
-# Distribution Groups in Skype for Business 2015
-
+---
+title: Distribution Groups in Skype for Business 2015
+description:  A Group object can be a collection of individual people or it can be a distribution group that is composed of people and other distribution groups.
+---
 
  _**Applies to:** Skype for Business 2015_
 

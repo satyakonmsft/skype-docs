@@ -1,4 +1,7 @@
-
+---
+title: Skype SDK table of contents
+description: Table of contents for Skype SDK.
+---
 <!--This is the start of the TOC-->
 # Skype Web SDK table of contents
 
