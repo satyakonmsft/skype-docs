@@ -1,4 +1,7 @@
-
+---
+title: Role
+description: A Role is an enumeration that represents the role type of a participant.
+---
 # Role
 
 

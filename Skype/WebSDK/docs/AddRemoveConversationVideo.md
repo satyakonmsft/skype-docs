@@ -1,4 +1,7 @@
-
+---
+title: Add or remove video in a conversation
+description: With an existing conversation instance, video can be added or removed.
+---
 # Add or remove video in a conversation
 
 

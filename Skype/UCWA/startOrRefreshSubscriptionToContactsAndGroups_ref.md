@@ -1,3 +1,8 @@
+---
+title: startOrRefreshSubscriptionToContactsAndGroups
+description: startOrRefreshSubscriptionToContactsAndGroups starts or refreshes the subscription to a user's contacts and groups.
+---
+
 # startOrRefreshSubscriptionToContactsAndGroups
 
  _**Applies to:** Skype for Business 2015_

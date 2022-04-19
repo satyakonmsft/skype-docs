@@ -1,3 +1,8 @@
+---
+title: Contributing
+description: Learn how to contribute to webcomponents.js.
+---
+
 # Contributing
 
 Want to contribute to webcomponents.js? Great!

@@ -1,3 +1,8 @@
+---
+title: Note
+description: Represents the user's personal or out-of-office note.
+---
+
 # note
 
  _**Applies to:** Skype for Business 2015_
