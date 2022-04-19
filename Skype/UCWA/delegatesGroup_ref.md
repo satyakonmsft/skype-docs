@@ -53,9 +53,10 @@ This resource can have the following relationships.
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
-|:-----|:-----|:-----|
-|Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
+
+| **Scope** | **Permission** | **Description** |
+| ----- | ----- | ----- |
+| Contacts.ReadWrite | Read/write Skype user contacts and groups | Allows the app to read and write Skype user contacts and groups |
 
 ## Events
 <a name="sectionSection2"></a>
@@ -64,9 +65,10 @@ The user must have at least one of these scopes for operations on the resource t
 
 
 
-|**Resource**|**Priority**|**Sender**|**Reason**|
-|:-----|:-----|:-----|:-----|
-|contact|Low|people|Indicates that a specific delegate was added to this group. The application can decide to fetchthe updated information.</p><p></p>|
+| **Resource** | **Priority** | **Sender** | **Reason** |
+| ----- | ----- | ----- | ----- |
+| contact | Low | people | Indicates that a specific delegate was added to this group. The application can decide to fetchthe updated information.</p><p></p> |
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
@@ -104,9 +106,10 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 
 
-|**Resource**|**Priority**|**Sender**|**Reason**|
-|:-----|:-----|:-----|:-----|
-|contact|Low|people|Indicates that a specific delegate was deleted from this group. The application can decide tofetch the updated information.</p><p></p>|
+| **Resource** | **Priority** | **Sender** | **Reason** |
+| ----- | ----- | ----- | ----- |
+| contact | Low | people | Indicates that a specific delegate was deleted from this group. The application can decide tofetch the updated information.</p><p></p> |
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {
