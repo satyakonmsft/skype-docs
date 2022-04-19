@@ -38,6 +38,7 @@ This resource can have the following relationships.
 |:-----|:-----|
 |self|The link to the current resource.|
 
+
 ### Azure Active Directory scopes for online applications
 
 

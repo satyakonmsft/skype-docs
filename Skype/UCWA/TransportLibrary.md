@@ -41,6 +41,7 @@ Uses the HTML 5 **postMessage** function to send a Request object to a remote lo
 
 
 
+
 ```
 clientRequest(request )
 ```
@@ -144,6 +145,7 @@ The **injectFrame** function injects an iframe that is located on the domain int
 
 
 
+
 |**Parameter**|**Description**|
 |:-----|:-----|
 |xframe|Absolute URL to the iframe's target.|
@@ -198,7 +200,9 @@ After the iframe is created, an event handler is set up to run after the functio
 ## setAuthorization(accessToken, tokenType)
 <a name="sectionSection4"> </a>
 
+
 The **setAuthorization** function sets the authorization credentials to be used in requests.
+
 
 
 
@@ -268,6 +272,7 @@ After the element and **xframe** are set, the Transport library can attempt to m
 <a name="sectionSection6"> </a>
 
 The **setRequestCallbacks** function sets the request callbacks that are to be executed when requests are started and stopped.
+
 
 
 

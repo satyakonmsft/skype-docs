@@ -47,6 +47,7 @@ This resource can have the following relationships.
 |publishCallQualityFeedback|Represents publishCallQualityFeedback operation.|
 |renegotiations|Represents the collection of renegotiations.|
 
+
 ### Azure Active Directory scopes for online applications
 
 

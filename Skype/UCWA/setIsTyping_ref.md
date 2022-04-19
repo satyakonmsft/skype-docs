@@ -39,6 +39,7 @@ None
 
 None
 
+
 ### Azure Active Directory scopes for online applications
 
 

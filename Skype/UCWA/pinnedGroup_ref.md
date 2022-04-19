@@ -68,38 +68,38 @@ The user must have at least one of these scopes for operations on the resource t
 
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
-|contact|High|people|Indicates that a specific contact was added to this group. The application can decide to fetchthe updated information.</p><p></p>|
+|contact|High|people|Indicates that a specific contact was added to this group. The application can decide to fetch the updated information.</p><p></p>|
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
-{
-  "_links" : {
-    "self" : {
-      "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=1"
-    },
-    "next" : {
-      "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=2"
-    }
-  },
-  "sender" : [
     {
-      "rel" : "people",
-      "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/people",
-      "events" : [
+      "_links" : {
+        "self" : {
+          "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=1"
+        },
+        "next" : {
+          "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=2"
+        }
+      },
+      "sender" : [
         {
-          "link" : {
-            "rel" : "contact",
-            "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/people/282"
-          },
-          "in" : {
-            "rel" : "pinnedGroup",
-            "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/groups/pinnedGroup"
-          },
-          "type" : "added"
+          "rel" : "people",
+          "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/people",
+          "events" : [
+            {
+              "link" : {
+                "rel" : "contact",
+                "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/people/282"
+              },
+              "in" : {
+                "rel" : "pinnedGroup",
+                "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/groups/pinnedGroup"
+              },
+              "type" : "added"
+            }
+          ]
         }
       ]
     }
-  ]
-}
 
 
 ### Updated
@@ -111,31 +111,31 @@ This sample is given only as an illustration of event syntax. The semantic conte
 |pinnedGroup|High|people|Indicates that the pinned group has been updated. The application can decide to fetch the updatedinformation.</p><p></p>|
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
-{
-  "_links" : {
-    "self" : {
-      "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=1"
-    },
-    "next" : {
-      "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=2"
-    }
-  },
-  "sender" : [
     {
-      "rel" : "people",
-      "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/people",
-      "events" : [
+      "_links" : {
+        "self" : {
+          "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=1"
+        },
+        "next" : {
+          "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=2"
+        }
+      },
+      "sender" : [
         {
-          "link" : {
-            "rel" : "pinnedGroup",
-            "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/groups/pinnedGroup"
-          },
-          "type" : "updated"
+          "rel" : "people",
+          "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/people",
+          "events" : [
+            {
+              "link" : {
+                "rel" : "pinnedGroup",
+                "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/groups/pinnedGroup"
+              },
+              "type" : "updated"
+            }
+          ]
         }
       ]
     }
-  ]
-}
 
 
 ### Deleted
