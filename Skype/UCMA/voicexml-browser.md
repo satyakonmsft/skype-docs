@@ -1,5 +1,5 @@
 ﻿---
-decsription: Learn about the VoiceXML browser class for UCMA 5.0.
+description: Learn about the VoiceXML browser class for UCMA 5.0.
 title: VoiceXML browser
 TOCTitle: VoiceXML browser
 ms:assetid: ae93b7b5-3bc4-40a6-bf01-ed80182003b5
