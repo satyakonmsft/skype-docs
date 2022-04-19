@@ -79,7 +79,7 @@ The user must have at least one of these scopes for operations on the resource t
 ### Updated
 
 |**Resource**|**Priority**|**Sender**|**Reason**|
-|:-----|:-----|:-----|:-----|
+|:----- |:----- |:----- |:----- |
 |audioVideo|High|conversation|Indicates that the audio/video modality was updated.</p><p></p>|
 Sample of returned event data.
 
