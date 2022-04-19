@@ -1,5 +1,5 @@
 ﻿---
-title: LocalFrameLossPercentageAvg element (QualityPropertiesType complexType) 
+title: LocalFrameLossPercentageAvg element (QualityPropertiesType complexType) (Schema D)
 TOCTitle: LocalFrameLossPercentageAvg element
 ms:assetid: 9ac8e918-caea-4e80-1ab8-2e78346fd715
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170910(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# LocalFrameLossPercentageAvg element 
+# LocalFrameLossPercentageAvg element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +25,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +58,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

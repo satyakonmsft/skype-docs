@@ -1,16 +1,17 @@
 ﻿---
-title: ByeType complexType 
+title: ByeType complexType (Schema D)
 TOCTitle: ByeType complexType
 ms:assetid: 64494012-5ccc-428d-8ba5-a87f987fb734
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171056(v=office.16)
 ms:contentKeyID: 65855628
+description: Skype for Business SDN Interface 2.2, Schema D
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# ByeType complexType 
+# ByeType complexType (Schema D)
 
 (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -18,8 +19,8 @@ dev_langs:
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -52,9 +53,9 @@ dev_langs:
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

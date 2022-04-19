@@ -1,16 +1,17 @@
 ﻿---
-title: Callee element (InviteType complexType) 
+title: Callee element (InviteType complexType) (Schema C) 
 TOCTitle: Callee element
 ms:assetid: dadc7a8c-cc56-dbe1-cfa4-4e44797a8e49
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404716(v=office.16)
 ms:contentKeyID: 68250629
+description: (InviteType complexType) (Skype for Business SDN Interface 2.2, Schema C)
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# Callee element 
+# Callee element (Schema C)
 
 (InviteType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -20,8 +21,8 @@ Properties of the callee.
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +57,9 @@ Properties of the callee.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -81,9 +82,9 @@ Properties of the callee.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

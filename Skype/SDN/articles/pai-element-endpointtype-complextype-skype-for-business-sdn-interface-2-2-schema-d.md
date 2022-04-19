@@ -1,5 +1,5 @@
 ﻿---
-title: PAI element (EndPointType complexType) 
+title: PAI element (EndPointType complexType) (Schema D)
 TOCTitle: PAI element (EndPointType complexType)
 ms:assetid: 4ebbf27e-b328-26ad-cb65-204d346de9d3
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170934(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# PAI element 
+# PAI element (Schema D)
 
 (EndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

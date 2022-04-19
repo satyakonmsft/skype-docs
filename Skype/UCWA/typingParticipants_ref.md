@@ -1,3 +1,7 @@
+---
+title: typingParticipants
+description: Represents a view of the participants who are currently typing a message in a conversation.
+---
 # typingParticipants
 
  _**Applies to:** Skype for Business 2015_

@@ -1,5 +1,5 @@
 ﻿---
-title: Port element (EndPointType complexType) 
+title: Port element (EndPointType complexType) (Schema C)
 TOCTitle: Port element (EndPointType complexType)
 ms:assetid: 400ae4b6-8fc7-3d5b-1f07-b6b4bf279f53
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404811(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Port element 
+# Port element (Schema C)
 
 (EndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +25,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +61,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
