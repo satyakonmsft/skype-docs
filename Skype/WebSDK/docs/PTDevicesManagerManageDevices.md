@@ -2,8 +2,7 @@
 title: Skype for Business 2015 Manage device lists
 description: Before accessing the device lists in devicesManager, the client must call that respective list's subscribe() function.
 ---
-# Manage devices
-
+# Manage devices (Skype for Business)
 
  _**Applies to:** Skype for Business | Skype for Business 2015_
 
