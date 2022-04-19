@@ -1,5 +1,5 @@
 ﻿---
-title: DeviceClippingEventRatio element (QualityPropertiesType complexType) 
+title: Learn about DeviceClippingEventRatio element Schema D
 TOCTitle: DeviceClippingEventRatio element
 ms:assetid: 5c19d36b-dbbd-442c-4dd3-a7d00e9c8109
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149468(v=office.16)

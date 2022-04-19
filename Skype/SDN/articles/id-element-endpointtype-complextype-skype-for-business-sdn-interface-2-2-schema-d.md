@@ -1,5 +1,5 @@
 ﻿---
-title: Id element (EndPointType complexType) 
+title: Learn about Id element (EndPointType complexType) Schema D
 TOCTitle: Id element (EndPointType complexType)
 ms:assetid: b8887338-4ab4-2555-5a72-624f8387e6b0
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170889(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Id element 
+# Learn about Id element (EndPointType complex Type) Skype for Business SDN Interface 2.2, Schema D
 
 (EndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
