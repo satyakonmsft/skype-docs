@@ -1,4 +1,5 @@
 ﻿---
+description: Learn how to use the InstantMessagingFlowTemplate object to provide access to global configuration settings for IM flows.
 title: Using an InstantMessagingFlowTemplate
 TOCTitle: Using an InstantMessagingFlowTemplate
 ms:assetid: 742acc0f-282c-4c39-b37f-cd371d3b84d9
