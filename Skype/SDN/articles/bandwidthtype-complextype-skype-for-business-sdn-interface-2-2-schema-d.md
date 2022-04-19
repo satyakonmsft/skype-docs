@@ -1,5 +1,5 @@
 ﻿---
-title: BandwidthType complexType 
+title: BandwidthType complexType Schema D
 TOCTitle: BandwidthType complexType
 ms:assetid: a1e91fc5-070b-be19-ee72-96940ee01137
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171054(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# BandwidthType complexType 
+# BandwidthType complexType (Schema D)
 
 (Skype for Business SDN Interface 2.2, Schema "D")
  
@@ -18,10 +18,7 @@ dev_langs:
 ## Type information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Namespace</strong></p></td>
@@ -54,11 +51,7 @@ dev_langs:
 ### Child elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -84,13 +77,7 @@ dev_langs:
 ### Attributes
 
 <table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Attribute</p></th>

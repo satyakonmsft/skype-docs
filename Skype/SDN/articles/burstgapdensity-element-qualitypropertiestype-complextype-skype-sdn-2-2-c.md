@@ -1,16 +1,17 @@
 ﻿---
-title: BurstGapDensity element (QualityPropertiesType complexType) 
+title: BurstGapDensity element (QualityPropertiesType complexType) (Schema C)
 TOCTitle: BurstGapDensity element
 ms:assetid: 9e5ddec0-966a-5eda-fc7b-a3dfb2f8548e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404713(v=office.16)
 ms:contentKeyID: 68250626
+description: Average burst gap density, as specified in RFC3611 section 4.7.2, computed with a Gmin=16 for the received RTP packets.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# BurstGapDensity element 
+# BurstGapDensity element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -20,8 +21,8 @@ Average burst gap density, as specified in \[RFC3611\] section 4.7.2, computed w
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +57,9 @@ Average burst gap density, as specified in \[RFC3611\] section 4.7.2, computed w
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

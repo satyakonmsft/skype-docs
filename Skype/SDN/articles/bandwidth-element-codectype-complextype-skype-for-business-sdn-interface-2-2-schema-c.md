@@ -1,5 +1,5 @@
 ﻿---
-title: Bandwidth element (CodecType complexType) 
+title: Bandwidth element (CodecType complexType) Schema C 
 TOCTitle: Bandwidth element (CodecType complexType)
 ms:assetid: 2a15bb8d-65ae-90aa-7153-f46d763a81ce
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404701(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Bandwidth element 
+# Bandwidth element (CodecType complexType) Schema C
 
 (CodecType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -20,10 +20,7 @@ Average estimated bandwidth.
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -56,11 +53,7 @@ Average estimated bandwidth.
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

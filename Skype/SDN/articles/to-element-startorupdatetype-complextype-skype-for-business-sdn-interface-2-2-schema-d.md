@@ -1,5 +1,5 @@
 ﻿---
-title: To element (StartOrUpdateType complexType) 
+title: To element (StartOrUpdateType complexType) (Schema D)
 TOCTitle: To element (StartOrUpdateType complexType)
 ms:assetid: ca1f6a62-3421-9d53-7e1d-aaadb55a37cc
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171011(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# To element 
+# To element (StartOrUpdateType complexType) (Schema D)
 
 (StartOrUpdateType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -92,9 +92,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

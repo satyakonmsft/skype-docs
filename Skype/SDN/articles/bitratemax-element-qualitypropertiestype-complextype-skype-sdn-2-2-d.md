@@ -1,5 +1,5 @@
 ﻿---
-title: BitRateMax element (QualityPropertiesType complexType) 
+title: BitRateMax element (QualityPropertiesType complexType) Schema D 
 TOCTitle: BitRateMax element
 ms:assetid: eae51d15-338f-eaac-71cc-a7078b0692dc
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149432(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# BitRateMax element 
+# BitRateMax element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -20,8 +20,8 @@ Maximum bit rate, in bits per second, sent or received for a video stream and co
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +56,9 @@ Maximum bit rate, in bits per second, sent or received for a video stream and co
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
