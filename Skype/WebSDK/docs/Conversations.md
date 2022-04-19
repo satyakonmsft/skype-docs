@@ -1,6 +1,9 @@
+---
+title: Conversations in the Skype for Business 2015 Web SDK
+description: The Skype Web SDK provides the following objects to start or join IM messaging, and to send and receive messages in a conversation.
+---
 
-# Conversations
-
+# Conversations in the Skype for Business 2015 Web SDK
 
  _**Applies to:** Skype for Business 2015_
 
