@@ -4,6 +4,7 @@ TOCTitle: AudioTimestampErrorSpkMs element
 ms:assetid: 121b8cab-78f9-65c3-10be-347756db6b9c
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404700(v=office.16)
 ms:contentKeyID: 68250618
+description:Average error of speech render stream time stamp, in milliseconds, or the last 20 seconds of the call. 
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
@@ -14,7 +15,7 @@ dev_langs:
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
-Average error of speech render stream time stamp, in milliseconds, or the last 20 seconds of the call.
+
 
   
 
