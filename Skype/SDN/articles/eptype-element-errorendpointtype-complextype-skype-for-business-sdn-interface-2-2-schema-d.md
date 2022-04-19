@@ -1,5 +1,5 @@
 ﻿---
-title: EPType element (ErrorEndPointType complexType) (Schema D)
+title: EPType element (ErrorEndPointType complexType) Schema D
 TOCTitle: EPType element (ErrorEndPointType complexType)
 ms:assetid: caf5c120-3bc7-963b-a85b-b2372c62830d
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170865(v=office.16)
@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# EPType element Schema D
+# EPType element (Schema D)
 
 (ErrorEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

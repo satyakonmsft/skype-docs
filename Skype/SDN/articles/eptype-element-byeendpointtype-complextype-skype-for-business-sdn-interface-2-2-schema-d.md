@@ -1,5 +1,5 @@
 ﻿---
-title: EPType element (ByeEndPointType complexType) (Schema D)
+title: EPType element (ByeEndPointType complexType) Schema D
 TOCTitle: EPType element (ByeEndPointType complexType)
 ms:assetid: 8d598236-48ed-358d-b7b2-02e1a9cd390a
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170864(v=office.16)
@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# EPType element Schema D
+# EPType element (Schema D)
 
 (ByeEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

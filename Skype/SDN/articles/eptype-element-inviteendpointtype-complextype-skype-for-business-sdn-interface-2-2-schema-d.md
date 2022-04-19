@@ -1,5 +1,5 @@
 ﻿---
-title: EPType element (InviteEndPointType complexType) (Schema D)
+title: EPType element (InviteEndPointType complexType) Schema D
 TOCTitle: EPType element (InviteEndPointType complexType)
 ms:assetid: ae7b00f8-f3b7-d81b-9260-dffcfc9552ff
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170867(v=office.16)
@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# EPType element Schema D
+# EPType element (Schema D)
 
 (InviteEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
