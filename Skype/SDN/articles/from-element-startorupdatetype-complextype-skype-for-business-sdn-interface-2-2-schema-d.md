@@ -1,16 +1,17 @@
 ﻿---
-title: From element (StartOrUpdateType complexType) 
+title: From element (StartOrUpdateType complexType) Schema D
 TOCTitle: From element (StartOrUpdateType complexType)
 ms:assetid: f4be0fee-085d-4f9c-19fb-50c1018e4f94
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170869(v=office.16)
 ms:contentKeyID: 65855446
+description: The source of the media stream.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# From element 
+# From element (Schema D)
 
 (StartOrUpdateType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
