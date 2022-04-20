@@ -1,6 +1,6 @@
 ﻿---
 title: Learn about the DeviceClippingEventRatio element (QualityPropertiesType complexType) Schema C
-description: Percentage of sessions the DeviceClipping event was fired when a speaker clips the microphone, causing the remote listener receives clipping-induced distortions.
+description: This page describes the percentage of sessions the DeviceClipping event was fired when a speaker clips the microphone causing the remote listener receives clipping-induced distortions.
 TOCTitle: DeviceClippingEventRatio element
 ms:assetid: 0f6035dc-191b-ea50-1358-c7d1062b58ad
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404741(v=office.16)
