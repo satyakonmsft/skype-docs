@@ -1,3 +1,8 @@
+---
+title: audioVideoRenegotiation
+description: audioVideoRenegotiation represents a single re-negotiation entity of a session entity.
+---
+
 # audioVideoRenegotiation
 
  _**Applies to:** Skype for Business 2015_
