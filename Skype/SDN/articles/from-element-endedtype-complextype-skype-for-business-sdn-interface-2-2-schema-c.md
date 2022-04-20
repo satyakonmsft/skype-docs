@@ -1,5 +1,5 @@
 ﻿---
-title: From element (EndedType complexType) (Schema C)
+title: From element (EndedType complexType) Schema C
 TOCTitle: From element (EndedType complexType)
 ms:assetid: 531dbc2f-46b4-0f0d-ca2a-d215a3849db1
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404768(v=office.16)
@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# From element Schema C
+# From element (Schema C)
 
 (EndedType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
