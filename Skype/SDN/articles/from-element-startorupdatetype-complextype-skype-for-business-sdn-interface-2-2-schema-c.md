@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# From element Schema C
+# From element ((Schema C))
 
 (StartOrUpdateType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
