@@ -1,5 +1,6 @@
 ﻿---
 title: Learn about Id element (EndPointType complexType) Schema D
+description: The Id element identifies the EndPointType complex Type in the Skype for Business SDN Interface 2.2, Schema D.
 TOCTitle: Id element (EndPointType complexType)
 ms:assetid: b8887338-4ab4-2555-5a72-624f8387e6b0
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170889(v=office.16)
