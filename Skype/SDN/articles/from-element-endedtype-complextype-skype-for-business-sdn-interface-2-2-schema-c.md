@@ -15,7 +15,7 @@ dev_langs:
 
 (EndedType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
-Endpoint involved in the ended SIP call.
+Endpoint involved in ended SIP call.
 
 **In this article**  
 Element information  
