@@ -1,5 +1,5 @@
 ﻿---
-title: MSDiagnostics element, EndedProperties complexType, schema D
+title: MSDiagnostics element (EndedProperties complexType) Schema D
 TOCTitle: MSDiagnostics element (EndedProperties complexType)
 description: Information for the MSDiagnostics element, EndedProperties complexType, schema D.
 ms:assetid: 10cf2941-ef6e-43ba-82a6-8eaece631bd8
@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# MSDiagnostics element, EndedProperties complexType, schema D
+# MSDiagnostics element (EndedProperties complexType) Schema D
 
 (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,10 +26,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -62,11 +58,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

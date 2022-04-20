@@ -50,9 +50,10 @@ This resource can have the following relationships.
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
-|:-----|:-----|:-----|
-|Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
+
+| **Scope** | **Permission** | **Description** |
+| ----- | ----- | ----- |
+| Contacts.ReadWrite | Read/write Skype user contacts and groups | Allows the app to read and write Skype user contacts and groups |
 
 ## Events
 <a name="sectionSection2"></a>
@@ -61,9 +62,10 @@ The user must have at least one of these scopes for operations on the resource t
 
 
 
-|**Resource**|**Priority**|**Sender**|**Reason**|
-|:-----|:-----|:-----|:-----|
-|contactLocation|Medium|people|Indicates the contact's location has changed. The application may decide to fetch the updated information.</p><p></p>|
+| **Resource** | **Priority** | **Sender** | **Reason** |
+| ----- | ----- | ----- | ----- |
+| contactLocation | Medium | people | Indicates the contact's location has changed. The application may decide to fetch the updated information.</p><p></p> |
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {

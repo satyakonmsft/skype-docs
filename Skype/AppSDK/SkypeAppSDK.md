@@ -1,5 +1,5 @@
 ---
-title: Skype for Business App SDK
+title: Skype for Business App SDK (elementText)
 description: Introduction to the Skype for Business App SDK
 ms.date: 03/28/2022
 ---

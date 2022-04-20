@@ -1,3 +1,8 @@
+---
+title: nextConversationLogTranscripts
+description: The (archived) messages from Exchange.
+---
+
 # nextConversationLogTranscripts
 
  _**Applies to:** Skype for Business 2015_

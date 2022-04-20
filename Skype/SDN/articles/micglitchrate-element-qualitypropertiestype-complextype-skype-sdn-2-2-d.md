@@ -1,5 +1,5 @@
 ﻿---
-title: MicGlitchRate element (QualityPropertiesType complexType) 
+title: MicGlitchRate element (QualityPropertiesType complexType) Schema D
 TOCTitle: MicGlitchRate element
 ms:assetid: 8f4bf090-db78-e182-7b55-c7835518fdc2
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170918(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# MicGlitchRate element 
+# MicGlitchRate element Schema D
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
