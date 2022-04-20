@@ -1,5 +1,5 @@
 ﻿---
-title: From element (StartOrUpdateType complexType) (Schema D)
+title: From element (StartOrUpdateType complexType) (Schema C)
 TOCTitle: From element (StartOrUpdateType complexType)
 ms:assetid: 75f762ae-fe25-fc78-7b61-57d4a6464f20
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404765(v=office.16)
@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# From element Schema D
+# From element Schema C
 
 (StartOrUpdateType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
