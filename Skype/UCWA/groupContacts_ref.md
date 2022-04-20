@@ -106,8 +106,10 @@ This sample is given only as an illustration of event syntax. The semantic conte
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |contact|High|people|Delivered when a contact resource is deleted.</p><p></p>|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+```
 {
   "_links" : {
     "self" : {
@@ -137,7 +139,7 @@ This sample is given only as an illustration of event syntax. The semantic conte
     }
   ]
 }
-
+```
 
 ## Operations
 
