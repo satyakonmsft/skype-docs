@@ -95,33 +95,33 @@ The user must have at least one of these scopes for operations on the resource t
 
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
-
+```
+{
+  "_links" : {
+    "self" : {
+      "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=1"
+    },
+    "next" : {
+     "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=2"
+    }
+  },
+  "sender" : [
     {
-      "_links" : {
-        "self" : {
-          "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=1"
-        },
-        "next" : {
-          "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=2"
-        }
-      },
-      "sender" : [
+      "rel" : "conversation",
+      "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/communication/conversations/137",
+      "events" : [
         {
-          "rel" : "conversation",
-          "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/communication/conversations/137",
-          "events" : [
-            {
-              "link" : {
-                "rel" : "participant",
-                "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/communication/conversations/137/participants/196"
-              },
-              "type" : "added"
-            }
-          ]
+          "link" : {
+            "rel" : "participant",
+            "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/communication/conversations/137/participants/196"
+          },
+          "type" : "added"
         }
       ]
     }
-
+  ]
+}
+```
 
 ### Updated
 
@@ -130,8 +130,10 @@ This sample is given only as an illustration of event syntax. The semantic conte
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |participant|High|conversation|Indicates that the [participant](participant_ref.md) has been updated. The application can choose to retrieve the updated information.</p><p>The application will receive this event when the user's capabilities to admit, promote, or demote a participant have changed. Note that this is the only updated event for a participant.For example, when the user is a leader, the user will lose the capability to admit the participant after the participant is movedfrom being in the lobby to being an attendee.</p>|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+```
 {
   "_links" : {
     "self" : {
@@ -157,7 +159,7 @@ This sample is given only as an illustration of event syntax. The semantic conte
     }
   ]
 }
-
+```
 
 ### Deleted
 
@@ -166,34 +168,36 @@ This sample is given only as an illustration of event syntax. The semantic conte
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |participant|High|conversation|Indicates that the [participant](participant_ref.md) has left a [conversation](conversation_ref.md).</p><p>If an application caches conversation data, the application should remove this participant from its conversation cache.</p>|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+```
+{
+  "_links" : {
+    "self" : {
+      "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=1"
+    },
+    "next" : {
+      "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=2"
+    }
+  },
+  "sender" : [
     {
-      "_links" : {
-        "self" : {
-          "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=1"
-        },
-        "next" : {
-          "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=2"
-        }
-      },
-      "sender" : [
+      "rel" : "conversation",
+      "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/communication/conversations/137",
+      "events" : [
         {
-          "rel" : "conversation",
-          "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/communication/conversations/137",
-          "events" : [
-            {
-              "link" : {
-                "rel" : "participant",
-                "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/communication/conversations/137/participants/196"
-              },
-              "type" : "deleted"
-            }
-          ]
+          "link" : {
+            "rel" : "participant",
+            "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/communication/conversations/137/participants/196"
+          },
+          "type" : "deleted"
         }
       ]
     }
-
+  ]
+}
+```
 
 ## Operations
 

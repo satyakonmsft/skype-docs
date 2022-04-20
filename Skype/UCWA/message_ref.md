@@ -70,35 +70,36 @@ The user must have at least one of these scopes for operations on the resource t
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |message|High|conversation|Delivered when a message is started for an incoming instant message.|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
-
+```
+{
+  "_links" : {
+    "self" : {
+      "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=1"
+    },
+    "next" : {
+      "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=2"
+    }
+  },
+  "sender" : [
     {
-      "_links" : {
-        "self" : {
-          "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=1"
-        },
-        "next" : {
-          "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=2"
-        }
-      },
-      "sender" : [
+      "rel" : "conversation",
+      "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/communication/conversations/137",
+      "events" : [
         {
-          "rel" : "conversation",
-          "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/communication/conversations/137",
-          "events" : [
-            {
-              "link" : {
-                "rel" : "message",
-                "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/communication/conversations/137/messaging/messages/165"
-              },
-              "type" : "started"
-            }
-          ]
+          "link" : {
+            "rel" : "message",
+            "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/communication/conversations/137/messaging/messages/165"
+          },
+          "type" : "started"
         }
       ]
     }
-
+  ]
+}
+```
 
 ## Operations
 

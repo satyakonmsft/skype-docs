@@ -64,39 +64,40 @@ The user must have at least one of these scopes for operations on the resource t
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |participant|High|conversation|Indicates that a [participant](participant_ref.md) was added to the lobby.</p><p></p>|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
-
+```
+{
+  "_links" : {
+    "self" : {
+      "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=1"
+    },
+    "next" : {
+      "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=2"
+    }
+  },
+  "sender" : [
     {
-      "_links" : {
-        "self" : {
-          "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=1"
-        },
-        "next" : {
-          "href" : "http://sample:80/ucwa/v1/applications/appId/events?ack=2"
-        }
-      },
-      "sender" : [
-        {
-          "rel" : "conversation",
+      "rel" : "conversation",
       "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/communication/conversations/137",
-          "events" : [
-            {
-              "link" : {
-                "rel" : "participant",
-                "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/communication/conversations/137/participants/196"
-              },
-              "in" : {
-                "rel" : "lobby",
-                "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/communication/conversations/137/lobby"
-              },
-              "type" : "added"
-            }
-          ]
+      "events" : [
+        {
+          "link" : {
+            "rel" : "participant",
+            "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/communication/conversations/137/participants/196"
+          },
+          "in" : {
+            "rel" : "lobby",
+            "href" : "https://fe1.contoso.com:443/ucwa/v1/applications/192/communication/conversations/137/lobby"
+          },
+          "type" : "added"
         }
       ]
     }
-
+  ]
+}
+```
 
 ### Updated
 
