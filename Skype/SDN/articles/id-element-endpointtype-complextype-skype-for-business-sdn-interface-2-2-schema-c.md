@@ -4,7 +4,7 @@ TOCTitle: Id element (EndPointType complexType)
 ms:assetid: e46e1f1f-441f-9b61-ad6c-bb320c66cd6b
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404773(v=office.16)
 ms:contentKeyID: 68250684
-description: Identifier of the endpoint.
+description: Identifier of the endpoint. (EndPointType complexType)
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
