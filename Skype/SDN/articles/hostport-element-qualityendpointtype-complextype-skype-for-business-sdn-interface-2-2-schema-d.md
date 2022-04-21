@@ -1,16 +1,17 @@
 ﻿---
-title: HostPort element (QualityEndPointType complexType) 
+title: HostPort element (QualityEndPointType complexType) Schema D
 TOCTitle: HostPort element (QualityEndPointType complexType)
 ms:assetid: 9a4a6bd1-b726-6dd6-4bfd-4835d701a1db
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170884(v=office.16)
 ms:contentKeyID: 65855458
+description: Port number of the destination or source of the media stream used by this endpoint.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# HostPort element 
+# HostPort element (QualityEndPointType complexType) (Schema D)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
