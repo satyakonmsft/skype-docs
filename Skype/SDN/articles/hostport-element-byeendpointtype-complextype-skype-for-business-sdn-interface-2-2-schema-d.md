@@ -4,7 +4,7 @@ TOCTitle: HostPort element (ByeEndPointType complexType)
 ms:assetid: 494917c0-3918-1a68-fcc3-d6961e3139c3
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170885(v=office.16)
 ms:contentKeyID: 65855460
-description: Port used on the endpoint's host.
+description: The Port used on the endpoint host.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
