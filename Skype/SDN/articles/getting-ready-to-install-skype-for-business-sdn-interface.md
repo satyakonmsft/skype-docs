@@ -1,9 +1,10 @@
 ﻿---
-title: Getting ready to install Skype for Business SDN Interface
+title: Getting ready for installing Skype for Business SDN Interface
 TOCTitle: Getting ready to install Skype for Business SDN Interface
 ms:assetid: c5b5083a-a25e-4409-a496-2616bb2b15a2
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn785199(v=office.16)
 ms:contentKeyID: 65258661
+description: To ensure that the Software Defined Network (SDN) Interface components are successfully installed and started, do these steps before you run the installation packages.
 ms.date: 02/27/2017
 mtps_version: v=office.16
 ---

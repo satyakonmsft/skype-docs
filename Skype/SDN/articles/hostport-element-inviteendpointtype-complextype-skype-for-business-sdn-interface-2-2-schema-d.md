@@ -1,16 +1,17 @@
 ﻿---
-title: HostPort element (InviteEndPointType complexType) 
+title: HostPort element (InviteEndPointType complexType) Schema D
 TOCTitle: HostPort element (InviteEndPointType complexType)
 ms:assetid: bd3b179d-7d85-28a5-a4a3-ebf4804dc828
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170886(v=office.16)
 ms:contentKeyID: 65855462
+description: The port used on the endpoint's host.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# HostPort element 
+# HostPort element (InviteEndPointType complexType) (Schema D)
 
 (InviteEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
