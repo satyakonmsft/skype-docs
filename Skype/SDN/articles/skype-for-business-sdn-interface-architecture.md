@@ -8,7 +8,7 @@ ms.date: 02/27/2017
 mtps_version: v=office.16
 ---
 
-# Skype for Business SDN Interface architecture
+# Skype for Business SDN Interface architecture (description)
 
 
 _**Applies to:** Lync Server 2013 | Skype for Business 2015_
