@@ -4,7 +4,7 @@ TOCTitle: IncallEnabled element (ByeEndPointType complexType)
 ms:assetid: 2338a323-4fbd-fc9f-1dd7-c9ed0addd8d8
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170895(v=office.16)
 ms:contentKeyID: 65855470
-description: Whether the endpoint (Skype for Business client) is capable to send incall quality update messages. The flag does not indicate whether the client is configured to send incall QoE reports.
+description: Whether the endpoint (Skype for Business client) is capable to send incall quality update messages. This flag does not indicate if the client is configured to send incall QoE reports.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
