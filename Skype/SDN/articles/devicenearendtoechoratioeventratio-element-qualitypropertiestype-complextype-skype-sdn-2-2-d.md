@@ -1,5 +1,5 @@
 ﻿---
-title: DeviceNearEndToEchoRatioEventRatio element (QualityPropertiesType complexType) 
+title: DeviceNearEndToEchoRatioEventRatio element (QualityPropertiesType complexType) Schema D 
 TOCTitle: DeviceNearEndToEchoRatioEventRatio element
 ms:assetid: b4e2936d-fc5e-ebe7-5cea-428495cfafe2
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170851(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# DeviceNearEndToEchoRatioEventRatio element 
+# DeviceNearEndToEchoRatioEventRatio element Schema D 
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -20,8 +20,8 @@ Percentage of sessions the DeviceNearEndToEcho event was fired when the user spe
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +56,9 @@ Percentage of sessions the DeviceNearEndToEcho event was fired when the user spe
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

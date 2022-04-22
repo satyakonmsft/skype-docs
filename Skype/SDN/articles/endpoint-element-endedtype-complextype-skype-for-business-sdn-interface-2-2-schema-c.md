@@ -1,5 +1,5 @@
 ﻿---
-title: EndPoint element (EndedType complexType) 
+title: EndPoint element (EndedType complexType) (Schema C)
 TOCTitle: EndPoint element (EndedType complexType)
 ms:assetid: 8d0c793d-8ff0-7ff5-b521-a911e53a7157
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404758(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# EndPoint element 
+# EndPoint element (EndedType complexType) (Schema C)
 
 (EndedType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +24,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +57,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -85,11 +78,7 @@ Elements and attributes
 ### Child elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

@@ -1,16 +1,17 @@
 ﻿---
-title: BurstGapDuration element (QualityPropertiesType complexType) 
+title: BurstGapDuration element (QualityPropertiesType complexType) (Schema C)
 TOCTitle: BurstGapDuration element
 ms:assetid: a9a78900-88ce-d1b8-49ee-92c19270be0e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404712(v=office.16)
 ms:contentKeyID: 68250625
+description: The Average burst gap duration (in microsecond, ms), as specified in RFC3611 section 4.7.2, computed with a Gmin=16 for the received RTP packets.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# BurstGapDuration element 
+# BurstGapDuration element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -20,8 +21,8 @@ Average burst gap duration (in microsecond, ms), as specified in \[RFC3611\] sec
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +57,9 @@ Average burst gap duration (in microsecond, ms), as specified in \[RFC3611\] sec
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

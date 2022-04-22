@@ -1,5 +1,5 @@
 ﻿---
-title: MSDiagnosticsClient element (MessageProperties complexType) 
+title: MSDiagnosticsClient element (MessageProperties complexType) Schema D
 TOCTitle: MSDiagnosticsClient element (MessageProperties complexType)
 ms:assetid: c728e270-1bef-5175-3ff0-1ea5ce908363
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170924(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# MSDiagnosticsClient element 
+# MSDiagnosticsClient element (MessageProperties complexType) Schema D
 
 (MessageProperties complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

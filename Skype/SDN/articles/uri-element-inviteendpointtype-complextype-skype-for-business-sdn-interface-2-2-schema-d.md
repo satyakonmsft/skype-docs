@@ -1,5 +1,5 @@
 ﻿---
-title: URI element (InviteEndPointType complexType) 
+title: URI element (InviteEndPointType complexType) (Schema D)
 TOCTitle: URI element (InviteEndPointType complexType)
 ms:assetid: a991ef73-fda5-90c5-3959-1ab6d1567797
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171020(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# URI element 
+# URI element (InviteEndPointType complexType) (Schema D)
 
 (InviteEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +25,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +58,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

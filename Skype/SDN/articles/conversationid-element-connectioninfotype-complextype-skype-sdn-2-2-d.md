@@ -1,5 +1,5 @@
 ﻿---
-title: ConversationId element (ConnectionInfoType complexType) 
+title: ConversationId element (ConnectionInfoType complexType) (Schema D)
 TOCTitle: ConversationId element
 ms:assetid: 31565a06-0e5b-9007-0f64-3b7335dea067
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149456(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# ConversationId element 
+# ConversationId element (ConnectionInfoType complexType) (Schema D)
 
 (ConnectionInfoType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -20,8 +20,8 @@ Identifier to correlate different SIP calls involved in the same conversation. I
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +56,9 @@ Identifier to correlate different SIP calls involved in the same conversation. I
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

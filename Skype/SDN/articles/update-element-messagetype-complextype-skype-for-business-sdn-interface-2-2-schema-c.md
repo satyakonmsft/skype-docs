@@ -1,5 +1,5 @@
 ﻿---
-title: Update element (MessageType complexType) 
+title: Update element (MessageType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 TOCTitle: Update element
 ms:assetid: 2f3e99fb-9966-34e0-ea2c-37a1ff7a8b47
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429331(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# Update element 
+# Update element (MessageType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
 (MessageType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +25,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +61,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -86,9 +86,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -121,11 +121,11 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

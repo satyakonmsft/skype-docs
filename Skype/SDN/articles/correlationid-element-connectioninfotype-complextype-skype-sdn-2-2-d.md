@@ -1,5 +1,5 @@
 ﻿---
-title: CorrelationId element (ConnectionInfoType complexType) 
+title: CorrelationId element (ConnectionInfoType complexType) (Schema D)
 TOCTitle: CorrelationId element
 ms:assetid: 118155e4-cf54-47be-c7fd-d81c07e8e2c6
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149459(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# CorrelationId element 
+# CorrelationId element (ConnectionInfoType complexType) (Schema D)
 
 (ConnectionInfoType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -20,8 +20,7 @@ Identifier to correlate two SIP calls where mediation server is involved. Both S
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +55,7 @@ Identifier to correlate two SIP calls where mediation server is involved. Both S
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+
 </colgroup>
 <thead>
 <tr class="header">

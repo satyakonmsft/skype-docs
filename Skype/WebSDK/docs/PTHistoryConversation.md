@@ -1,3 +1,8 @@
+---
+title: Conversations history/logs in the SDK
+description:  Learn about conversations history/logs in the SDK.
+---
+
 # Conversations history/logs in the SDK
 
 ## Enable getting conversation history

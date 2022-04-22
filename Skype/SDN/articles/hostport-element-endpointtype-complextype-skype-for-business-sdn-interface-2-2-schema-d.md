@@ -1,16 +1,17 @@
 ﻿---
-title: HostPort element (EndPointType complexType) 
+title: HostPort element (EndPointType complexType) (Schema D)
 TOCTitle: HostPort element (EndPointType complexType)
 ms:assetid: 7d7e5286-26ff-521e-2bfb-164aa97c9502
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170883(v=office.16)
 ms:contentKeyID: 65855457
+description: Port used on the endpoint's host.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# HostPort element 
+# HostPort element (EndPointType complexType) Schema D
 
 (EndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

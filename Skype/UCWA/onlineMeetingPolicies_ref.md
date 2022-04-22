@@ -1,3 +1,8 @@
+---
+title: onlineMeetingPolicies
+description: onlineMeetingPolicies represents the admin policies for the user's online meetings.
+---
+
 # onlineMeetingPolicies
 
  _**Applies to:** Skype for Business 2015_
@@ -12,7 +17,7 @@ Represents the admin policies for the user's online meetings ([myOnlineMeetings]
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -21,7 +26,7 @@ For more on web links, see [Web links](WebLinks.md).
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |entryExitAnnouncement|The ability to enable or disable attendance announcements.|
 |externalUserMeetingRecording|The ability of external users to record online meetings.|
@@ -36,7 +41,7 @@ For more on web links, see [Web links](WebLinks.md).
 
 This resource can have the following relationships.
 
-|**Link**|**Description**|
+|Link|Description|
 |:-----|:-----|
 |self|The link to the current resource.|
 
@@ -45,7 +50,8 @@ This resource can have the following relationships.
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
+
+|Scope|Permission|Description|
 |:-----|:-----|:-----|
 |User.ReadWrite|Read/write Skype user information|Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user|
 |Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
@@ -85,7 +91,7 @@ The response from a GET request contains the properties and links shown in the P
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |ServiceFailure|500|InvalidExchangeServerVersion|Invalid exchange server version.The exchange mailbox of the server might have moved to an unsupported version for the required feature.|
 |Conflict|409|AlreadyExists|The already exists error.|

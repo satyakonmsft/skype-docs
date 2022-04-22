@@ -1,5 +1,5 @@
 ﻿---
-title: DeviceRenderNotFunctioningEventRatio element (QualityPropertiesType complexType) 
+title: DeviceRenderNotFunctioningEventRatio element (QualityPropertiesType complexType) Schema D 
 TOCTitle: DeviceRenderNotFunctioningEventRatio element
 ms:assetid: 3d8ae530-7988-c4ad-61dc-a65d5aae478b
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170850(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# DeviceRenderNotFunctioningEventRatio element 
+# DeviceRenderNotFunctioningEventRatio element Schema D
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

@@ -1,16 +1,17 @@
 ﻿---
-title: EPId element (QualityEndPointType complexType) 
+title: EPId element (QualityEndPointType complexType) (Schema D)
 TOCTitle: EPId element (QualityEndPointType complexType)
 ms:assetid: ec074634-adc3-5952-9376-ccfd2874ace2
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170859(v=office.16)
 ms:contentKeyID: 65855435
+description: Endpoint Id of the endpoint.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# EPId element 
+# EPId element (Schema D)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

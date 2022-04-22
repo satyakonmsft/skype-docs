@@ -1,5 +1,5 @@
 ﻿---
-title: ConnectionInfo element (MessageType complexType) 
+title: Learn about the ConnectionInfo element (MessageType complexType) schema D
 TOCTitle: ConnectionInfo element
 ms:assetid: f8d90b19-b999-277a-881b-f50ac080f820
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149453(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# ConnectionInfo element 
+# Learn about the ConnectionInfo element (MessageType complexType) schema D
 
 (MessageType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -20,8 +20,8 @@ Connection-related properties regardless of the media stream and end points.
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +56,9 @@ Connection-related properties regardless of the media stream and end points.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -81,9 +81,9 @@ Connection-related properties regardless of the media stream and end points.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -176,11 +176,11 @@ Connection-related properties regardless of the media stream and end points.
 
 <table>
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

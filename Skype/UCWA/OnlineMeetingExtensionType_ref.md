@@ -1,4 +1,7 @@
-
+---
+title: OnlineMeetingExtensionType
+description: An enumeration that indicates the purpose of the associated OnlineMeetingExtension.
+---
 # OnlineMeetingExtensionType
 
 

@@ -1,4 +1,7 @@
-
+---
+title: Cross-domain IFRAME
+description: Learn about how cross-domain iframe can be used to safely circumvent browser restrictions on scripts that process code in a different domain.
+---
 # Cross-domain IFRAME
 Learn about how cross-domain **iframe** can be used to safely circumvent browser restrictions on scripts that process code in a different domain.
 

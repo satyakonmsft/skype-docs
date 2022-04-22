@@ -1,5 +1,5 @@
 ﻿---
-title: ConferenceURI element (ConnectionInfoType complexType) 
+title: Learn about the ConferenceURI element (ConnectionInfoType complexType) schema C 
 TOCTitle: ConferenceURI element
 ms:assetid: 85fa3b82-77cf-ccdd-9be8-1ac66e955545
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404724(v=office.16)
@@ -10,7 +10,7 @@ dev_langs:
 - xml
 ---
 
-# ConferenceURI element 
+# Learn about the ConferenceURI element (ConnectionInfoType complexType) schema C
 
 (ConnectionInfoType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -20,8 +20,8 @@ dev_langs:
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +56,9 @@ dev_langs:
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

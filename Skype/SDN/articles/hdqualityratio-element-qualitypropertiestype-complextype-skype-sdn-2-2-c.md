@@ -1,16 +1,17 @@
 ﻿---
-title: HDQualityRatio element (QualityPropertiesType complexType) 
+title: HDQualityRatio element (QualityPropertiesType complexType) (Schema C)
 TOCTitle: HDQualityRatio element
 ms:assetid: 3b7948f9-7b30-7844-2421-a7ad70374709
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404769(v=office.16)
 ms:contentKeyID: 68250678
+description: Percentage of the duration of a call that is using the HD720 resolution. This metric is reported for video streams when available.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# HDQualityRatio element 
+# HDQualityRatio element Schema C
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +25,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +58,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

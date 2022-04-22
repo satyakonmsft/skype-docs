@@ -1,16 +1,17 @@
 ﻿---
-title: Caller element (InviteType complexType) 
+title: Caller element (InviteType complexType) (Schema C)
 TOCTitle: Caller element
 ms:assetid: bb690f0a-6983-d676-bd58-10a2e4c414b9
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404715(v=office.16)
 ms:contentKeyID: 68250628
+description: Properties of the caller.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# Caller element 
+# Caller element (Schema C)
 
 (InviteType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -20,8 +21,8 @@ Properties of the caller.
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +57,9 @@ Properties of the caller.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -81,9 +82,9 @@ Properties of the caller.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

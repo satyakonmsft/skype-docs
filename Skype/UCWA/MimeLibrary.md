@@ -1,5 +1,7 @@
-
-# Mime library
+---
+title: Mime library reference
+---
+# Mime library reference
 Mime.js is a JavaScript library that helps parse MIME messages.
 
 
@@ -26,9 +28,10 @@ The **processMessage** function begins the processing of data into an array of M
 
 
 
-|**Parameter**|**Description**|
-|:-----|:-----|
-|data|Data containing MIME messages.|
+| **Parameter** | **Description** |
+| ----- | ----- |
+| data | Data containing MIME messages. |
+
  **Returns**: An array of Message objects where each has the following form.
 
 

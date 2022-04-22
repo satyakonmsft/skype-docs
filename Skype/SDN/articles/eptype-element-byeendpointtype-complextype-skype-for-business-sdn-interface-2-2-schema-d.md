@@ -1,16 +1,17 @@
 ﻿---
-title: EPType element (ByeEndPointType complexType) 
+title: EPType element (ByeEndPointType complexType) (Schema D)
 TOCTitle: EPType element (ByeEndPointType complexType)
 ms:assetid: 8d598236-48ed-358d-b7b2-02e1a9cd390a
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170864(v=office.16)
 ms:contentKeyID: 65855440
+description: Indicates that this endpoint is of the Skype for Business Room System type or not.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# EPType element 
+# EPType element (ByeEndPointType complexType) Schema D
 
 (ByeEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

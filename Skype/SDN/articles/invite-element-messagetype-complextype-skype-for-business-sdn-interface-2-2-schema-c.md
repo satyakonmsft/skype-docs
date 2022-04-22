@@ -1,5 +1,5 @@
 ﻿---
-title: Invite element (MessageType complexType) 
+title: Invite element (MessageType complexType) (Schema C)
 TOCTitle: Invite element
 ms:assetid: 4b51e14c-e36f-7ac5-8223-b94c5a54d80e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404776(v=office.16)
@@ -25,8 +25,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +61,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -86,9 +86,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

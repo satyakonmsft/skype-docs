@@ -1,16 +1,17 @@
 ﻿---
-title: From element (ErrorType complexType) 
+title: From element (ErrorType complexType) Schema D
 TOCTitle: From element (ErrorType complexType)
 ms:assetid: c707853f-85d6-ec41-6597-faccb7b2d006
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170874(v=office.16)
 ms:contentKeyID: 65855450
+description: Endpoint which is involved in the ended SIP call.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# From element 
+# From element (ErrorType complexType) (Schema D)
 
 (ErrorType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +26,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +58,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -86,11 +78,6 @@ Elements and attributes
 ### Child elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
