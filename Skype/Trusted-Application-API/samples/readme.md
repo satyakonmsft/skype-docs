@@ -1,3 +1,9 @@
+---
+title: Trusted Application API samples
+description: Two samples that you can clone or download
+ms.date: 04/22/2022
+---
+
 # Trusted Application API samples
 
 > [!NOTE] 
