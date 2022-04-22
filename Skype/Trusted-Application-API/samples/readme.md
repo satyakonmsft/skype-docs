@@ -1,5 +1,5 @@
 ---
-title: Trusted Application API samples - README
+title: Information About Trusted Application API samples - README
 ---
 # Trusted Application API samples
 
