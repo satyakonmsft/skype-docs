@@ -1,5 +1,6 @@
 ---
 title: Submit your questions, bugs, feature requests, and contributions
+description: Describes how the Skype for Business team responds to the developer community and encourages sending questions, bugs, features requests, and contributions.
 ---
 # Submit your questions, bugs, feature requests, and contributions
 
