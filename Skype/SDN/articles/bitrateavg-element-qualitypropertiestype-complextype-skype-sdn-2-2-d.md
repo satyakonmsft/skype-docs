@@ -21,8 +21,6 @@ Average bit rate, in bits per second, sent or received for a video stream and co
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -57,9 +55,6 @@ Average bit rate, in bits per second, sent or received for a video stream and co
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
 </colgroup>
 <thead>
 <tr class="header">
