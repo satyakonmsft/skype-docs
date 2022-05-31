@@ -1,5 +1,6 @@
 ﻿---
 title: Debugging and Troubleshooting the SDN Interface Dialog Listener
+description: Describes how to debug and troubleshoot the SDN Interface Dialog Listener and outlines installation and verifying operations of Dialog Listener.
 TOCTitle: Debugging the SDN Interface Dialog Listener
 ms:assetid: 0dade195-3eee-4b8d-8510-33bd78927442
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn785218(v=office.16)

@@ -1,5 +1,6 @@
 ﻿---
 title: DegradationMax element (QualityPropertiesType complexType) (Schema C)
+description: Describes the Schema C iteration of the DegradationMax element and provides the element's definition, parent elements, and element information.
 TOCTitle: DegradationMax element
 ms:assetid: d125cc87-0dad-f252-89c2-b576b5debbca
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404739(v=office.16)

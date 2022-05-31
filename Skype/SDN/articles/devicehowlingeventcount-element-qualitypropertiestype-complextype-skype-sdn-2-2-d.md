@@ -1,5 +1,6 @@
 ﻿---
 title: DeviceHowlingEventCount element (QualityPropertiesType complexType) Schema D
+description: Describes the Schema D iteration of the DeviceHowlingEventCount element and provides the element's definition, parent elements, and element information.
 TOCTitle: DeviceHowlingEventCount element
 ms:assetid: 09ee9cad-554d-56de-0498-1bc8b1d63f53
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149472(v=office.16)
