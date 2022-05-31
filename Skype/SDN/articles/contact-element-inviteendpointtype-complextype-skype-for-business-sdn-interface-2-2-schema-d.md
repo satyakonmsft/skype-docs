@@ -1,5 +1,6 @@
 ﻿---
 title: Contact element (InviteEndPointType complexType) (Schema D)
+description: Describes the Contact element (InviteEndPointType complexType) and provides the element's definition, parent elements, and element information.
 TOCTitle: Contact element (InviteEndPointType complexType)
 ms:assetid: a4ab18bd-b57f-2249-9d86-b389661cfa1f
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149458(v=office.16)

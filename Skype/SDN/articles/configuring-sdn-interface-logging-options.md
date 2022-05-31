@@ -1,5 +1,6 @@
 ﻿---
 title: Configuring SDN Interface logging options
+description: Describes how to configure SDN Interface logging options and provides logging configuration options for Dialog Listener and the SDN Manager.
 TOCTitle: Configuring SDN Interface logging options
 ms:assetid: 0f604c7d-87a3-4526-b67c-25648c8427e7
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn785206(v=office.16)

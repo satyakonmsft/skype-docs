@@ -1,5 +1,6 @@
 ﻿---
 title: Learn about the connectivity element (ConnectionInfoType complexType) schema C
+description: Describes the Schema C iteration of the connectivity element (ConnectionInfoType complexType) and provides the element's definition and parent elements.
 TOCTitle: Connectivity element
 ms:assetid: 21c70c92-1c97-8a75-5f48-3ef96159d556
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404726(v=office.16)

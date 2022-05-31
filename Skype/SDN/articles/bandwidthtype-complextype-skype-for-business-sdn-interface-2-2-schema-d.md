@@ -1,5 +1,6 @@
 ﻿---
 title: BandwidthType complexType Schema D
+description: Describes the Schema D iteration of the BandwidthType complexType and provides the type's definitions, child elements, and attributes.
 TOCTitle: BandwidthType complexType
 ms:assetid: a1e91fc5-070b-be19-ee72-96940ee01137
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171054(v=office.16)
