@@ -1,5 +1,6 @@
 ﻿---
 title: CPUProcessorSpeed element (QualityEndPointType complexType) (Schema C)
+description: Describes the Schema C iteration of the CPUProcessorSpeed element (QualityEndPointType complexType) and provides the element's definition.
 TOCTitle: CPUProcessorSpeed element
 ms:assetid: 4c75e042-8aad-378d-d1a6-a568d28578ea
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404735(v=office.16)
