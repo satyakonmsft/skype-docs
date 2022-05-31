@@ -1,5 +1,6 @@
 ---
 title: AAD Auth Failures - Incorrectly configured reply URLs for application
+description: Describes the incorrectly configured reply URL error and provides the appropriate solution guidance.
 ---
 # AAD Auth Failures - Incorrectly configured reply URLs for application
 

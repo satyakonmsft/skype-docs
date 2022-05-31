@@ -1,5 +1,6 @@
 ---
 title: Skype 2015 License
+description: Provides the Skype 2015 license and copyright information.
 ---
 # License
 
