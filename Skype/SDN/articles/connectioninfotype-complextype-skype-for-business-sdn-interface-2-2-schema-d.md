@@ -1,5 +1,6 @@
 ﻿---
 title: Learn about the ConnectionInfoType complexType schema D
+description: Describes the Schema D iteration of the ConnectionInfoType complexType and provides the type's definition, elements, and attributes.
 TOCTitle: ConnectionInfoType complexType
 ms:assetid: 14be03ce-c13f-9d1a-4c7b-54821e479ba5
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171059(v=office.16)
