@@ -1,6 +1,6 @@
 ﻿---
 title: AppliedBandwidthLimit element (QualityPropertiesType complexType) Schema D
-description: Describes the Schema D iteration of the AppliedBandwidthLimit element and provide's the element's definition, element information, and parent elements.
+description: Describes the Schema D iteration of the AppliedBandwidthLimit element and provides the element's definition, element information, and parent elements.
 TOCTitle: AppliedBandwidthLimit element
 ms:assetid: 2fc1ead2-c75f-0572-ee7a-2599a189a5ae
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149424(v=office.16)
