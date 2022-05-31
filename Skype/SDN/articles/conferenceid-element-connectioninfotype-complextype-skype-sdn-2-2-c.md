@@ -1,5 +1,5 @@
 ﻿---
-title: ConferenceId element (ConnectionInfoType complexType)
+title: ConferenceId element (ConnectionInfoType complexType) Schema C
 description: Describes the Schema C iteration of the ConferenceId element and provides the element's definition, parent elements, and element information.
 TOCTitle: ConferenceId element
 ms:assetid: e921e563-7184-8669-c9aa-bd532845b797
@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# ConferenceId element 
+# ConferenceId element Schema C
 
 (ConnectionInfoType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
