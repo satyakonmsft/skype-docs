@@ -1,5 +1,6 @@
 ﻿---
 title: Maximum element (BandwidthType complexType) (Schema C)
+description: Describes the Schema C iteration of the Maximum element and provides the element's definition, parent elements, and information.
 TOCTitle: Maximum element
 ms:assetid: 3eea5c54-ce2c-f09b-47c3-1b3d758e6286
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404790(v=office.16)

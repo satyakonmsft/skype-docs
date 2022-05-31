@@ -1,5 +1,6 @@
 ﻿---
 title: LowFrameRateCallPercent element (QualityPropertiesType complexType) (Schema D)
+description: Describes the Schema D iteration of the LowFrameRateCallPercent element and provides the element's definition, parent elements, and information.
 TOCTitle: LowFrameRateCallPercent element
 ms:assetid: 5d24c26b-1f94-3e12-9bd7-e67dd3d60593
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170909(v=office.16)
