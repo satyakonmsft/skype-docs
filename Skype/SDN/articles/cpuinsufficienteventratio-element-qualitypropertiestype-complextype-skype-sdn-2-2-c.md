@@ -7,7 +7,8 @@ ms:mtpsurl: https://msdn.microsoft.com/library/Mt404731(v=office.16)
 ms:contentKeyID: 68250644
 ms.date: 03/30/2022
 mtps_version: v=office.16
-dev_langs: xml
+dev_langs: 
+- xml
 ---
 
 # CPUInsufficientEventRatio element (QualityPropertiesType complexType) (Schema C)
