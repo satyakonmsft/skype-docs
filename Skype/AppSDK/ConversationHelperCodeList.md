@@ -1,5 +1,6 @@
 ---
 title: The ConversationHelper class
+description: Describes the ConversationHelper class and provides the ConversationHelper class code list and syntax.
 ---
 # The ConversationHelper class
 

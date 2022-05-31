@@ -1,5 +1,6 @@
 ﻿---
 title: Bandwidth element (StartPropertiesType complexType) Schema C
+description: Describes the Schema C iteration of the Bandwidth element and provides the element's definition, parent elements, child elements, and attributes.
 TOCTitle: Bandwidth element (StartPropertiesType complexType)
 ms:assetid: c8eb0297-a57c-0f7e-1d2a-c3c37e8cae5e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404706(v=office.16)
