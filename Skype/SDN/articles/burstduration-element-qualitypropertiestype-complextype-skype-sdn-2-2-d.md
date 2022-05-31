@@ -1,6 +1,6 @@
 ﻿---
 title: BurstDuration element (QualityPropertiesType complexType) Schema D
-description: Describes the Schema D iteration of the BurstDuration element and provides the element's definition, parents elements, and element information.
+description: Describes the Schema D iteration of the BurstDuration element and provides the element's definition, parent elements, and element information.
 TOCTitle: BurstDuration element
 ms:assetid: d486a2e7-9431-9d6c-7018-53a7779ada11
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149435(v=office.16)
