@@ -1,8 +1,7 @@
 ---
-title: 'CPUInsufficientEventRatio element (QualityPropertiesType complexType)' (Schema C)
+title: CPUInsufficientEventRatio element (QualityPropertiesType complexType) (Schema C)
 description: Describes the Schema C iteration of the CPUInsufficientEventRatio element (QualityPropertiesType complexType) and provides the element's definition.
 TOCTitle: CPUInsufficientEventRatio element
-description: 'Percentage of sessions where the insufficient CPU event was fired when CPU cycles are insufficient for processing with the current modalities and applications, establish causing distortions in the audio channel.'
 ms:assetid: 5d166bb4-dba8-8ed2-97b1-9060a9d57839
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404731(v=office.16)
 ms:contentKeyID: 68250644

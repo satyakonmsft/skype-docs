@@ -22,7 +22,6 @@ Processor speed rating.
 <table>
 <colgroup>
 <col />
-<col style="width: 50%" />
 </colgroup>
 <tbody>
 <tr class="odd">
