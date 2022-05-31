@@ -1,5 +1,6 @@
 ﻿---
 title: Learn about the CodecType complexType schema D
+description: Describes the Schema D iteration of the CodecType complexType and provides the type's definition, child elements, attributes, and type information.
 TOCTitle: CodecType complexType
 ms:assetid: 890c900f-33ef-f8ad-f909-73824c8126e5
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171057(v=office.16)

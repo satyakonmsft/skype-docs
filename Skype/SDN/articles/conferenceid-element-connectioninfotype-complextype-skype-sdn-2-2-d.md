@@ -1,5 +1,6 @@
 ﻿---
-title: ConferenceId element (ConnectionInfoType complexType) 
+title: ConferenceId element (ConnectionInfoType complexType)
+description: Describes the Schema D iteration of the ConferenceId element and provides the element's definition, parent elements, and element information.
 TOCTitle: ConferenceId element
 ms:assetid: ae7f4c66-3475-fd6a-6c90-484687dad420
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149447(v=office.16)
