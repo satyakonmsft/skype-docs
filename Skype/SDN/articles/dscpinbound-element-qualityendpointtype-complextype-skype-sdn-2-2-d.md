@@ -1,5 +1,6 @@
 ﻿---
-title: DSCPInbound element (QualityEndPointType complexType) Schema D 
+title: DSCPInbound element (QualityEndPointType complexType) Schema D
+description: Describes the Schema D iteration of the DSCPInbound element and provides the element's definition, parent elements, and element information.
 TOCTitle: DSCPInbound element
 ms:assetid: 43df1365-0092-d7cf-daf1-48c6ae037399
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170852(v=office.16)

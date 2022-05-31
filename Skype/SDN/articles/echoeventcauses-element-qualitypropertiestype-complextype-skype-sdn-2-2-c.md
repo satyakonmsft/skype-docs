@@ -1,5 +1,6 @@
 ﻿---
 title: EchoEventCauses element (QualityPropertiesType complexType) Schema C
+description: Describes the Schema C iteration of the EchoEventCauses element and provides the element's definition, parent elements, and element information.
 TOCTitle: EchoEventCauses element
 ms:assetid: 0754245f-61d2-9af9-d11e-d1606b811c39
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404750(v=office.16)

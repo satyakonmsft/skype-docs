@@ -1,5 +1,6 @@
 ﻿---
 title: DynamicCapabilityPercent element (QualityPropertiesType complexType) Schema C
+description: Describes the Schema C iteration of the DynamicCapabilityPercent element and provides the element's definition, parents elements, and element information.
 TOCTitle: DynamicCapabilityPercent element
 ms:assetid: 335706b3-8b4a-1404-5929-47e13fd4f4f7
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404749(v=office.16)

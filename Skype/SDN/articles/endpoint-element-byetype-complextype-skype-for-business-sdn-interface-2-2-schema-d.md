@@ -1,5 +1,6 @@
 ﻿---
 title: EndPoint element (ByeType complexType) (Schema D)
+description: Describes the Schema D iteration of the EndPoint element (ByeType complexType) and provides the element's definition and element information.
 TOCTitle: EndPoint element (ByeType complexType)
 ms:assetid: 0af8801d-8beb-57c7-e2e0-1ec2afe3de13
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170856(v=office.16)

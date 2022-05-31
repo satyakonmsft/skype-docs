@@ -1,5 +1,6 @@
 ﻿---
 title: EndedProperties complexType (Schema D)
+description: Describes the Schema D iteration of the Ended Properties complexType and provides the type's definition, child elements, and type information.
 TOCTitle: EndedProperties complexType
 ms:assetid: 599553a1-17be-d1cb-ed99-4c614acddb87
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171058(v=office.16)
