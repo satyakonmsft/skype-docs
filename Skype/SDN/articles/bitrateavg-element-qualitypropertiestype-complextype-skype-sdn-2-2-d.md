@@ -1,5 +1,6 @@
 ﻿---
 title: BitRateAvg element (QualityPropertiesType complexType) Schema D
+description: Describes the Schema D iteration of the BitRateAvg element and provides the element's definition, parent elements, and element information.
 TOCTitle: BitRateAvg element
 ms:assetid: 3a632c93-613c-f9ee-c30c-9ddf1e2b6711
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149431(v=office.16)

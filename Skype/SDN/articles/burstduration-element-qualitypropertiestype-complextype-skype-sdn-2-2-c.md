@@ -1,5 +1,6 @@
 ﻿---
 title: BurstDuration element (QualityPropertiesType complexType) Schema C
+description: Describes the Schema C iteration of the BurstDuration element and provides the element's definition, parent elements, and element information.
 TOCTitle: BurstDuration element
 ms:assetid: 8b297755-1965-0a73-3295-68b3548f9d07
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404711(v=office.16)

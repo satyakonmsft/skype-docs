@@ -1,5 +1,6 @@
 ﻿---
-title: AppliedBandwidthLimit element (QualityPropertiesType complexType) Schema C 
+title: AppliedBandwidthLimit element (QualityPropertiesType complexType) Schema C
+description: Describes the Schema C iteration of the AppliedBandwidthLimit element and provide's the element's definition, element information, and parent elements.
 TOCTitle: AppliedBandwidthLimit element
 ms:assetid: 0816b0a6-636e-ecd0-e69b-183fb8a95fde
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404699(v=office.16)
