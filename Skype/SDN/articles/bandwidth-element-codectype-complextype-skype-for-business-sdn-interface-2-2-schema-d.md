@@ -1,5 +1,6 @@
 ﻿---
 title: Bandwidth element (CodecType complexType) Schema D
+description: Describes the Schema D iteration of the Bandwidth element (CodecType complexType) and provides the element's definition and parent elements. 
 TOCTitle: Bandwidth element (CodecType complexType)
 ms:assetid: 73e20c7f-93d5-586a-fd1b-f15bb6bd50a0
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149429(v=office.16)

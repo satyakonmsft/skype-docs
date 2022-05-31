@@ -1,5 +1,6 @@
 ﻿---
 title: BurstDensity element (QualityPropertiesType complexType) Schema D
+description: Describes the Schema D iteration of the BurstDensity element and provides the element's definition, parent elements, and element information.
 TOCTitle: BurstDensity element
 ms:assetid: 7e9ced1d-5232-3d1a-e36b-08af16380c27
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149434(v=office.16)
