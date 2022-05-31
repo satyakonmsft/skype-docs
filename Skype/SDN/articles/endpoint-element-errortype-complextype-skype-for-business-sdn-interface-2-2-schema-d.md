@@ -1,6 +1,6 @@
 ﻿---
 title: EndPoint element (ErrorType complexType) (Schema D)
-description: Describes the Schema D iteration of the EndPoint element and provides the element's definition, parent and child elements, and element information.
+description: Describes the Schema D iteration of the EndPoint element and provides the element's definition, parent and child elements, and information.
 TOCTitle: EndPoint element (ErrorType complexType)
 ms:assetid: 22f189f1-1aca-ca6b-8367-8c8a1e4b7827
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170860(v=office.16)

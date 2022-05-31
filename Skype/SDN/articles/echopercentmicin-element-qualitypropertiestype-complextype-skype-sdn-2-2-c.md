@@ -1,6 +1,6 @@
 ﻿---
 title: EchoPercentMicIn element (QualityPropertiesType complexType) Schema C
-description: Describes the Schema C iteration of the EchoPercentMicIn element and provides the element's definition, parent elements, and element information.
+description: Describes the Schema C iteration of the EchoPercentMicIn element and provides the element's definition, parent elements, and information.
 TOCTitle: EchoPercentMicIn element
 ms:assetid: 16e4ae8e-31ed-f754-8805-3adc7a68dd25
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404751(v=office.16)

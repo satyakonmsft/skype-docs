@@ -1,6 +1,6 @@
 ﻿---
 title: DeviceRenderNotFunctioningEventRatio element (QualityPropertiesType complexType) Schema D
-description: Describes the Schema D iteration of the DeviceRenderNotFunctioningEventRatio element and provides the element's definition and element information. 
+description: Describes the Schema D iteration of the DeviceRenderNotFunctioningEventRatio element and provides the element's definition and information. 
 TOCTitle: DeviceRenderNotFunctioningEventRatio element
 ms:assetid: 3d8ae530-7988-c4ad-61dc-a65d5aae478b
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170850(v=office.16)

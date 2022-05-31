@@ -1,6 +1,6 @@
 ﻿---
 title: DSCPInbound element (QualityEndPointType complexType) Schema C
-description: Describes the Schema C iteration of the DSCPInbound element and provides the element's definition, parent elements, and element information.
+description: Describes the Schema C iteration of the DSCPInbound element and provides the element's definition, parent elements, and information.
 TOCTitle: DSCPInbound element
 ms:assetid: 979fdd32-9754-d16e-ca8c-249f44a176df
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404746(v=office.16)

@@ -1,6 +1,6 @@
 ﻿---
 title: EndedType complexType (Schema D)
-description: Describe the Schema D iteration of the EndedType complexType and provides the type's definition, child elements, attributes, and type information.
+description: Describe the Schema D iteration of the EndedType complexType and provides the type's definition, child elements, attributes, and information.
 TOCTitle: EndedType complexType
 ms:assetid: a8a6b72b-fa8b-881c-7e8e-491644b731dc
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171060(v=office.16)

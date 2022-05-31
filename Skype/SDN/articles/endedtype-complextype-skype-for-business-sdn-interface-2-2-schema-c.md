@@ -1,6 +1,6 @@
 ﻿---
 title: EndedType complexType (Schema C)
-description: Describe the Schema C iteration of the EndedType complexType and provides the type's definition, child elements, attributes, and type information.
+description: Describe the Schema C iteration of the EndedType complexType and provides the type's definition, child elements, attributes, and information.
 TOCTitle: EndedType complexType
 ms:assetid: dda03093-dc9d-8c38-9913-a17e91917115
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429351(v=office.16)

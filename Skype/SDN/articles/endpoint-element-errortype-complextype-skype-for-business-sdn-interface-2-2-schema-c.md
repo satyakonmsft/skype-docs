@@ -1,6 +1,6 @@
 ﻿---
 title: EndPoint element (ErrorType complexType) (Schema C)
-description: Describes the Schema C iteration of the EndPoint element and provides the element's definition, parent and child elements, and element information.
+description: Describes the Schema C iteration of the EndPoint element and provides the element's definition, parent and child elements, and information.
 TOCTitle: EndPoint element (ErrorType complexType)
 ms:assetid: 3f961c3c-ed3a-0a4f-f216-6b9f6ba34ebd
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404755(v=office.16)

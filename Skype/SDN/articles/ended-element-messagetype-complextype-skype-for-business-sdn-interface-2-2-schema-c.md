@@ -1,6 +1,6 @@
 ﻿---
 title: Ended element (MessageType complexType) (Schema C)
-description: Describes the Schema C iteration of the Ended element and provides the element's definition, parent and child elements, and element information.
+description: Describes the Schema C iteration of the Ended element and provides the element's definition, parent and child elements, and information.
 TOCTitle: Ended element
 ms:assetid: a5910d3e-5fd6-326e-4fa1-33697da7c879
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404753(v=office.16)

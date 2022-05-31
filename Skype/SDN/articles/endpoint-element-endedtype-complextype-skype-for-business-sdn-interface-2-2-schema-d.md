@@ -1,6 +1,6 @@
 ﻿---
 title: EndPoint element (EndedType complexType) (Schema D)
-description: Describes the Schema D iteration of the EndPoint element (EndedType complexType) and provides the element's definition and element information.
+description: Describes the Schema D iteration of the EndPoint element (EndedType complexType) and provides the element's definition and information.
 TOCTitle: EndPoint element (EndedType complexType)
 ms:assetid: 249bfd8e-46af-5993-57b4-a82fdb9c4d14
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170855(v=office.16)
