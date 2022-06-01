@@ -1,5 +1,6 @@
 ﻿---
 title: Creating an outgoing two-party conversation
+description: Describes how to create an outgoing two-party conversation as it applies to Skype for Business 2015 and provides the syntax for doing so.
 TOCTitle: Creating an outgoing two-party conversation
 ms:assetid: 67b43d59-9f40-4d80-82cf-365acdae078f
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465980(v=office.16)

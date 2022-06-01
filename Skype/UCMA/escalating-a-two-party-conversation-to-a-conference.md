@@ -1,5 +1,6 @@
 ﻿---
 title: Escalating a two-party conversation to a conference
+description: Describes how to escalate a two-party conversation to a conference as it applies to Skype for Business 2015 and provides sample code for doing so.
 TOCTitle: Escalating a two-party conversation to a conference
 ms:assetid: 15038dcf-f491-4212-9d1d-d8c0adb66a5f
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465987(v=office.16)

@@ -1,5 +1,6 @@
 ---
 title: Establishing an outgoing call
+description: Describes how to establish an outgoing call as it relates to Skype for Business 2015 and provides syntax for doing so.
 TOCTitle: Establishing an outgoing call
 ms:assetid: 95252d82-78b0-4ae6-b678-126114b57684
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465988(v=office.16)
