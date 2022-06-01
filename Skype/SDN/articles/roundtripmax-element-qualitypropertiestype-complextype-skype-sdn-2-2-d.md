@@ -1,5 +1,6 @@
 ﻿---
 title: RoundTripMax element, QualityPropertiesType complexType, schema D
+description: An overview of RoundTripMax element, QualityPropertiesType complexType, schema D.
 TOCTitle: RoundTripMax element
 description: Information about the RoundTripMax element (QualityPropertiesType complexType)
 ms:assetid: a66cc5d2-950b-cc8f-8fdf-5bb1d16482f3

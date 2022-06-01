@@ -1,5 +1,6 @@
 ﻿---
 title: Skype for Business SDN Interface architecture
+description: About Skype for Business SDN Interface architecture.
 TOCTitle: Skype for Business SDN Interface architecture
 ms:assetid: c84231e4-5d96-4f1c-8747-a9a56d4794d9
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn785192(v=office.16)

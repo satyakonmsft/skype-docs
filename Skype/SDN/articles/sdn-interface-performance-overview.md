@@ -1,5 +1,6 @@
 ---
 title: SDN Interface Performance Overview
+description: An overview of the SDN Interface Performance, which provides some guidelines on performance benchmarks for Skype for Business SDN Interface.
  
 ms.assetid: 2ba10414-fcc4-40be-b87e-dc52f517c626
 ---
