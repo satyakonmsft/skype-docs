@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# ReflexiveIP element Schema D
+# ReflexiveIP element (ByeEndPointType complexType)
 
 (ByeEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
