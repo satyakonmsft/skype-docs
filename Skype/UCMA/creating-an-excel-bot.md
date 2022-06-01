@@ -1,6 +1,6 @@
 ﻿---
 title: Creating an Excel bot
-description: Describes how to create an excel bot and provides a numbered step procedure for creating a bot and how to make a bot recognize account information.
+description: Describes how to create an Excel bot and provides a numbered step procedure for creating a bot and how to make a bot recognize account information.
 TOCTitle: Creating an Excel bot
 ms:assetid: 10649396-2ea8-43c9-9dc6-bfcb77d6801d
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn454841(v=office.16)
