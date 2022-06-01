@@ -1,5 +1,6 @@
 ﻿---
 title: MSDiagnosticsClient element (EndedProperties complexType) Schema C
+description: Describes the Schema C iteration of the MSDiagnosticsClient element and provides the element's definition, parent elements, and information.
 TOCTitle: MSDiagnosticsClient element (EndedProperties complexType)
 ms:assetid: d2e28911-4b80-ad3a-204a-abc9eb3c18b1
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404798(v=office.16)

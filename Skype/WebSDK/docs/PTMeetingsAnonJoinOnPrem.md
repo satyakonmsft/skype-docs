@@ -1,5 +1,6 @@
 ---
 title: Joining meetings anonymously in onprem toplogies
+description: Describes joining meetings anonymously in onprem topologies and provides a code example for use with the Web SDK.
 ---
 # Joining meetings anonymously in onprem toplogies
 

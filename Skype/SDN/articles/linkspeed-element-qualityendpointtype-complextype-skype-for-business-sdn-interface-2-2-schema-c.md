@@ -1,5 +1,6 @@
 ﻿---
 title: LinkSpeed element (QualityEndPointType complexType) (Schema C)
+description: Describes the Schema C iteration of the LinkSpeed element and provides the element's definition, parent elements, and information.
 TOCTitle: LinkSpeed element
 ms:assetid: 8226e8b3-be51-055d-ef64-0c4b5bde02c0
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404783(v=office.16)

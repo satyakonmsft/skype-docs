@@ -1,5 +1,6 @@
 ﻿---
 title: Learn about the CodecType complexType schema C
+description: Describes the Schema C iteration of the CodecType complexType and provides the type's definition, child elements, attributes, and type information.
 TOCTitle: CodecType complexType
 ms:assetid: 061b11a5-2930-6d09-31b0-1a9ed79757d4
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429350(v=office.16)

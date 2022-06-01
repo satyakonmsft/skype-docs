@@ -1,5 +1,6 @@
 ﻿---
 title: MACAddr element (QualityEndPointType complexType) (Schema D)
+description: Describes the Schema D iteration of the MACAddr element and provides the element's definition, parent elements, element type, namespace, and schema file.
 TOCTitle: MACAddr element
 ms:assetid: 9c2a69f8-bc7c-6bb1-b8c0-a74ad18ca12a
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170912(v=office.16)

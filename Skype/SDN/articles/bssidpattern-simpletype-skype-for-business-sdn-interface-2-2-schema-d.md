@@ -1,5 +1,6 @@
 ﻿---
-title: BSSIDPattern simpleType 
+title: BSSIDPattern simpleType
+description: Describes the BSSIDPattern simpleType and provides the type's definition and a table that outlines the type information.
 TOCTitle: BSSIDPattern simpleType
 ms:assetid: 0b7aa4c4-9022-1da0-6fb3-1a9ff8581415
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171042(v=office.16)

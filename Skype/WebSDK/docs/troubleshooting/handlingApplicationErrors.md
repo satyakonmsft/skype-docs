@@ -1,5 +1,6 @@
 ---
 title: Checking for and handling application errors
+description: Describes how to check and handle application errors, and provides lists of errors and error categories.
 ---
 # Checking for and handling application errors
 

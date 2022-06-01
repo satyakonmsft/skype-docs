@@ -1,5 +1,6 @@
 ﻿---
 title: Learn about the ConferenceURI element (ConnectionInfoType complexType) schema D
+description: Describes the Schema D iteration of the ConferenceURI element and provides the element's definition, parent elements, and element information.
 TOCTitle: ConferenceURI element
 ms:assetid: 9df0b395-0489-b03e-2b31-b97da484d7d9
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149448(v=office.16)

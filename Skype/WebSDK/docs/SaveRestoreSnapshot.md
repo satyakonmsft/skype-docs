@@ -1,5 +1,6 @@
 ---
 title: Save and restore a snapshot of the Application state
+description: Describes how to save and restore a snapshot of the Application state and provides a code example using the Skype Web SDK.
 ---
 # Save and restore a snapshot of the Application state
 

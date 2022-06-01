@@ -1,5 +1,6 @@
 ﻿---
 title: JitterInterArrivalMax element (QualityPropertiesType complexType) (Schema C)
+description: Describes the Schema C iteration of the JitterInterArrivalMax element and provides the element's definition, parent elements, and information.
 TOCTitle: JitterInterArrivalMax element
 ms:assetid: e1b198ae-9856-8c49-160e-4c49b0aef912
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404782(v=office.16)

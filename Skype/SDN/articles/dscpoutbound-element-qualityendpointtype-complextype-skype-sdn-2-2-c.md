@@ -1,5 +1,6 @@
 ﻿---
-title: DSCPOutbound element (QualityEndPointType complexType) Schema C 
+title: DSCPOutbound element (QualityEndPointType complexType) Schema C
+description: Describes the Schema C iteration of the DSCPOutbound element and provides the element's definition, parent elements, and information.
 TOCTitle: DSCPOutbound element
 ms:assetid: bf1cc06d-83fd-d09e-2322-032fbdf21a21
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404747(v=office.16)

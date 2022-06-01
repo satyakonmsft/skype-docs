@@ -1,5 +1,6 @@
 ﻿---
 title: MSDiagnosticsClient element (ErrorProperties complexType) Schema D
+description: Describes the Schema D iteration of the MSDiagnosticsClient element (ErrorProperties complexType) and provides the element's definition and parent elements.
 TOCTitle: MSDiagnosticsClient element (ErrorProperties complexType)
 ms:assetid: 58f48652-28a2-e42d-3d24-159e7ac68de4
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170922(v=office.16)

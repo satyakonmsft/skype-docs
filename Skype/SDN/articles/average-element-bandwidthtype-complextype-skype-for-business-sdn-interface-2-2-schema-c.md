@@ -1,5 +1,6 @@
 ﻿---
 title: Average element (BandwidthType complexType) Schema C
+description: Describes the Schema C iteration of the average element and provides the element's definition, element information, and parent elements.
 TOCTitle: Average element
 ms:assetid: e63cc213-fccf-588a-8a67-a9f2efd1822a
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404705(v=office.16)

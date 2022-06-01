@@ -1,5 +1,6 @@
 ﻿---
 title: BitRateAvg element (QualityPropertiesType complexType) Schema C
+description: Describes the Schema C iteration of the BitRateAvg element and provides the element's definition, parent elements, and element information.
 TOCTitle: BitRateAvg element
 ms:assetid: 65935f6b-1f0f-e4e9-0d68-031d002582df
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404704(v=office.16)

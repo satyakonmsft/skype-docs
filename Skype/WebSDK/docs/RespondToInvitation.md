@@ -1,5 +1,6 @@
 ---
 title: Respond to a conversation invitation
+description: Describes how conversation invitations work and provides code examples for use with the Skype for Business 2015 SDK.
 ---
 # Respond to a conversation invitation
 

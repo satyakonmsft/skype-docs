@@ -1,5 +1,6 @@
 ﻿---
-title: Bandwidth element (CodecType complexType) Schema C 
+title: Bandwidth element (CodecType complexType) Schema C
+description: Describes the Schema C iteration of the Bandwidth element (CodecType complexType) and provides the element's definition and parent elements. 
 TOCTitle: Bandwidth element (CodecType complexType)
 ms:assetid: 2a15bb8d-65ae-90aa-7153-f46d763a81ce
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404701(v=office.16)

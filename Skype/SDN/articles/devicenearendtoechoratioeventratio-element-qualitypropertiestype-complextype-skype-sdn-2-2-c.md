@@ -1,5 +1,6 @@
 ﻿---
 title: DeviceNearEndToEchoRatioEventRatio element (QualityPropertiesType complexType) Schema C
+description: Describes the Schema C iteration of the DeviceNearEndToEchoRatioEventRatio element and provides the element's definition and element information.
 TOCTitle: DeviceNearEndToEchoRatioEventRatio element
 ms:assetid: 53f02a64-558e-169b-0699-d862595bdb22
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404745(v=office.16)

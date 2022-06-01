@@ -1,5 +1,6 @@
 ---
 title: Skype for Business 2015 - AAD Auth Failures - Implicit OAuth is not enabled for the application
+description: Describes the Implicit OAuth is not enabled for the application error and provides the appropriate solution guidance.
 ---
 # AAD Auth Failures - Implicit OAuth is not enabled for the application
 

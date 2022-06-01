@@ -1,6 +1,6 @@
 ---
 title: Dialog Listener configuration file example
- 
+description: Describes and provides a Dialog Listener configuration file example, which applies to Lync Server 2010, Lync Server 2013, and Skype for Business 2015.
 ms.assetid: 6c325272-f444-4b8e-a9ac-80ebec5e2bff
 ---
 

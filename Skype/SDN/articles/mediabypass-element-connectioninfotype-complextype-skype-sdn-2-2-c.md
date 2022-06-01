@@ -1,5 +1,6 @@
 ﻿---
 title: MediaBypass element (ConnectionInfoType complexType) (Schema C)
+description: Describes the Schema C iteration of the MediaBypass element and provides the element's definition, parent elements, and information.
 TOCTitle: MediaBypass element
 ms:assetid: e7fad1d2-57f1-97b9-fc6e-dca35c59f299
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404791(v=office.16)

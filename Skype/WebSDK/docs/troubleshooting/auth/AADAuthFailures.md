@@ -1,5 +1,6 @@
 ---
 title: Troubleshooting Azure AD Authentication Failures for Skype Web SDK
+description: Describes how to troubleshoot Azure AD authentication failures for Skype Web SDK and provides guidance for various errors.
 ---
 # Troubleshooting Azure AD Authentication Failures for Skype Web SDK
 

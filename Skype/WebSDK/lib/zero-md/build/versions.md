@@ -1,5 +1,6 @@
 ---
 title: Build versions
+description: Provides a table of build versions with package name and version columns.
 ---
 # Build versions
 
