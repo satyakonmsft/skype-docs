@@ -1,5 +1,6 @@
 ﻿---
 title: MessageProperties complexType (Schema D)
+description: Describes the Schema D iteration of the MessageProperties complexType and provides the type's definition, child elements, and information.
 TOCTitle: MessageProperties complexType
 ms:assetid: f7c0c752-ecdc-55bc-dfe0-06998ec1e06f
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171066(v=office.16)
