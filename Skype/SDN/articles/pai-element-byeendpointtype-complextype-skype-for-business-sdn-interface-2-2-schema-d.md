@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# PAI element (Schema D)
+# PAI element (ByeEndPointType complexType) (Schema D)
 
 (ByeEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
