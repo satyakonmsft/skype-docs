@@ -1,5 +1,6 @@
 ---
 title: resumePhoneAudio reference
+description: Describes the resumePhoneAudio resource and provides the resource's properties, links, operations, and examples.
 ---
 # resumePhoneAudio
 

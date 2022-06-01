@@ -1,5 +1,6 @@
 ---
 title: removeContactFromAllGroups2 reference
+description: Describes the removeContactFromAllGroups2 object and provides its properties, links, operations, and examples.
 ---
 # removeContactFromAllGroups2
 

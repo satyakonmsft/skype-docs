@@ -1,5 +1,6 @@
 ---
 title: participantAudio reference
+description: Describes participantAudio and provides its properties, links, updates, operations, and synchronous errors.
 ---
 # participantAudio
 
