@@ -1,5 +1,6 @@
 ---
 title: Skype for Business 2015 Group Video Conversation
+description: Describes group video conversations and provides code examples for use with the Skype for Business 2015 Web SDK.
 ---
 # Group Video Conversation
 

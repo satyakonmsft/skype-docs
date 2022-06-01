@@ -1,5 +1,6 @@
 ---
 title: Gathering Logs from a Skype for Business Desktop Client
+description: Describes gathering logs from a Skype for Business desktop client and provides steps on how to collect logs.
 ---
 # Gathering Logs from a Skype for Business Desktop Client
 

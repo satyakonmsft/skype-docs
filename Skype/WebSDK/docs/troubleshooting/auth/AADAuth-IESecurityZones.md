@@ -1,5 +1,6 @@
 ---
 title: Skype for Business 2015 - AAD Auth Failures - Crossing security zones in Internet Explorer and Microsoft Edge
+description: Describes the crossing security zones in Internet Explorer and Microsoft Edge error and provides the appropriate solution guidance.
 ---
 # AAD Auth Failures - Crossing security zones in Internet Explorer and Microsoft Edge
 

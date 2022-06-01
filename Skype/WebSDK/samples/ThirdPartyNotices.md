@@ -1,7 +1,8 @@
 ---
-title: Skype 2015 Third Party Notices amd Information
+title: Skype 2015 Third Party Notices and Information
+description: Provides third party notice and information for Skype, including licenses and additional IP rights grants.
 ---
-# Third Party Notices amd Information
+# Third Party Notices and Information
 
 "The MIT License (MIT)
 

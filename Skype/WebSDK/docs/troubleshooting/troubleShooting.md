@@ -1,5 +1,6 @@
 ---
 title: Troubleshooting Skype for Business Web SDK applications
+description: Provides an overview for troubleshooting Skype for Business web SDK applications and provides links to related documentation.
 ---
 # Troubleshooting Skype for Business Web SDK applications
 
