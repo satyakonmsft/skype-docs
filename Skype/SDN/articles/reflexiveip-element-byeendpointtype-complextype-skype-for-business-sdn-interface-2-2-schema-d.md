@@ -1,5 +1,6 @@
 ﻿---
-title: ReflexiveIP element (ByeEndPointType complexType) 
+title: ReflexiveIP element (ByeEndPointType complexType)
+description: Describes the Schema D iteration of the ReflexiveIP element and provides the element's definition, parent element, and information.
 TOCTitle: ReflexiveIP element (ByeEndPointType complexType)
 ms:assetid: 3cec431c-6a3d-bb5c-a68c-a1b84967d8e0
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170969(v=office.16)
