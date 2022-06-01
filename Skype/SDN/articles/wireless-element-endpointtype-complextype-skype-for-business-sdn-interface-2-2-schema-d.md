@@ -1,5 +1,6 @@
 ﻿---
 title: Wireless element (EndPointType complexType) 
+description: Discusses the attributes of the Wireless element EndPointType complexType Skype for Business SDN Interface 2.2, Schema "D".
 TOCTitle: Wireless element (EndPointType complexType)
 ms:assetid: 8d18a07c-681b-2443-9aee-16c87a425d8e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171037(v=office.16)
