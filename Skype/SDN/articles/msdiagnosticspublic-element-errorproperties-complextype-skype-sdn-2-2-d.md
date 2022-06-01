@@ -1,5 +1,6 @@
 ﻿---
 title: MSDiagnosticsPublic element (ErrorProperties complexType) Schema D
+description: Describes the Schema D iteration of the MSDiagnosticsPublic element (ErrorProperties complexType) and provides the element's definition and parent elements.
 TOCTitle: MSDiagnosticsPublic element (ErrorProperties complexType)
 ms:assetid: c142a790-4e0d-14aa-998e-d88e577878e0
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170925(v=office.16)

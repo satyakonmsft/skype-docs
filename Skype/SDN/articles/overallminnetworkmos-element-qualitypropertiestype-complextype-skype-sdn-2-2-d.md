@@ -1,5 +1,6 @@
 ﻿---
 title: OverallMinNetworkMOS element (QualityPropertiesType complexType) (Schema D)
+description: Describes the Schema D iteration of the OverallMinNetworkMOS element and provides the element's definition, parent elements, and information.
 TOCTitle: OverallMinNetworkMOS element
 ms:assetid: a5010e57-ad91-c3e9-576d-ae5afc0bf4fb
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170930(v=office.16)

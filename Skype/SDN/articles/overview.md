@@ -1,6 +1,6 @@
 ---
 title: Overview of Skype for Business SDN Interface (Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019)
- 
+description: Provides an overview of Skype for Business SDN Interface for Lync Server 2013, Skype for Business 2015, and Skype for Business 2019.
 ms.assetid: 5cd64da2-e0bb-4558-9ccb-6e8fa01663fd
 ---
 

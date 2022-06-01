@@ -1,5 +1,6 @@
 ﻿---
 title: MSDiagnosticsPublic element (EndedProperties complexType) Schema C
+description: Describes the Schema C iteration of the MSDiagnosticsPublic (EndedProperties complexType) element and provides the element's definition and parent elements.
 TOCTitle: MSDiagnosticsPublic element (EndedProperties complexType)
 ms:assetid: 767ed824-92f1-20fd-6931-0915d2eb3f3c
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404801(v=office.16)

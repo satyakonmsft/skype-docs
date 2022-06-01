@@ -1,5 +1,6 @@
 ﻿---
 title: OverallMinNetworkMOS element (QualityPropertiesType complexType) (Schema C)
+description: Describes the Schema C iteration of the OverallMinNetworkMOS element and provides the element's definition, parent elements, and information.
 TOCTitle: OverallMinNetworkMOS element
 ms:assetid: 54fb52db-c10d-2b39-918b-080f083cfa15
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404806(v=office.16)

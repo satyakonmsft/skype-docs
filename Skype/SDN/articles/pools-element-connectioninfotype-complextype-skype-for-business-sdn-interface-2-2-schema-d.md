@@ -1,5 +1,6 @@
 ﻿---
-title: Pools element (ConnectionInfoType complexType) 
+title: Pools element (ConnectionInfoType complexType)
+description: Describes the Pools element and provides the element's definition, parent elements, element type, namespace, and schema file.
 TOCTitle: Pools element
 ms:assetid: df5bbcf3-8eaf-2728-00f3-7aabd0644019
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170941(v=office.16)

@@ -1,5 +1,6 @@
 ﻿---
 title: PacketLossRateMax element (QualityPropertiesType complexType) (Schema C)
+description: Describes the Schema C iteration of the PacketLossRateMax element and provides the element's definition, parent elements, and information.
 TOCTitle: PacketLossRateMax element
 ms:assetid: 36ee4a9c-fd0a-00a8-b712-33c569e9b3c3
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404808(v=office.16)
