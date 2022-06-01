@@ -1,5 +1,6 @@
 ﻿---
 title: CPUName element (QualityEndPointType complexType) (Schema D)
+description: Describes the Schema D iteration of the CPUName element (QualityEndPointType complexType) and provides the element's definition and element information.
 TOCTitle: CPUName element
 ms:assetid: 805f8804-6a83-50e1-bbec-088fd6306934
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149460(v=office.16)

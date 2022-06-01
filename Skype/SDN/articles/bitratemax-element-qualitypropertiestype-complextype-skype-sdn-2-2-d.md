@@ -1,5 +1,6 @@
 ﻿---
-title: BitRateMax element (QualityPropertiesType complexType) Schema D 
+title: BitRateMax element (QualityPropertiesType complexType) Schema D
+description: Describes the Schema D iteration of the BitRateMax element and provides the element's definition, parent elements, child elements, and element information.
 TOCTitle: BitRateMax element
 ms:assetid: eae51d15-338f-eaac-71cc-a7078b0692dc
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149432(v=office.16)

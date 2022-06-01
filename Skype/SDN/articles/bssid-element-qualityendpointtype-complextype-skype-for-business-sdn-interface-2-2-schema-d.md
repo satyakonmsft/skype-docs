@@ -1,5 +1,6 @@
 ﻿---
-title: BSSID element (QualityEndPointType complexType) Schema D 
+title: BSSID element (QualityEndPointType complexType) Schema D
+description: Describes the Schema D iteration of the BSSID element and provides the element's definition, parent elements, and element information.
 TOCTitle: BSSID element
 ms:assetid: 98718345-3dd5-7344-4de0-dd5b49cad0f5
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149433(v=office.16)

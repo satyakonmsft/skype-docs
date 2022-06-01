@@ -1,5 +1,6 @@
 ---
 title: Video codec license terms
+description: Describes and provides the video codec license terms that must be agreed upon before installation of the Skype for Business App SDK.
 ---
 # Video codec license terms
 

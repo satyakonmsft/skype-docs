@@ -1,5 +1,6 @@
 ﻿---
 title: DSCPOutbound element (QualityEndPointType complexType) Schema D 
+description: Describes the Schema D iteration of the DSCPOutbound element and provides the element's definition, parent elements, and information.
 TOCTitle: DSCPOutbound element
 ms:assetid: 7f6f3e28-a23a-7005-b429-adccc882b3ab
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170846(v=office.16)

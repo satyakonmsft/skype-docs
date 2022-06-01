@@ -1,5 +1,6 @@
 ﻿---
-title: BandwidthDataType simpleType 
+title: BandwidthDataType simpleType
+description: Describes the BandwidthDataType simpleType and provides the type's definition and a table that outlines the type information.
 TOCTitle: BandwidthDataType simpleType
 ms:assetid: 58c03120-8c23-de41-406d-4e5f74129b1b
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171043(v=office.16)

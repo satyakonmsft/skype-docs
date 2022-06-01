@@ -1,5 +1,6 @@
 ﻿---
 title: Contact element (QualityEndPointType complexType) (Schema D)
+description: Describes the Schema D iteration of the Contact element (QualityEndPointType complexType) and provides the element's definition and element information.
 TOCTitle: Contact element (QualityEndPointType complexType)
 ms:assetid: 1f09f5fc-faf7-aec6-1ec9-f127188f1aa2
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149454(v=office.16)

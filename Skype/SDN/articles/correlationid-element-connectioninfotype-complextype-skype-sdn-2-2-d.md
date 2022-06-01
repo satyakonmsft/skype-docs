@@ -1,5 +1,6 @@
 ﻿---
 title: CorrelationId element (ConnectionInfoType complexType) (Schema D)
+description: Describes the Schema D iteration of the CorrelationId element (ConnectionInfoType complexType) and provides the element's definition and element information.
 TOCTitle: CorrelationId element
 ms:assetid: 118155e4-cf54-47be-c7fd-d81c07e8e2c6
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149459(v=office.16)

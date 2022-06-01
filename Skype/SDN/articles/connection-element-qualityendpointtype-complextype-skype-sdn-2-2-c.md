@@ -1,5 +1,6 @@
 ﻿---
-title: Learn about the connection element (QualityEndPointType complexType) schema C 
+title: Learn about the connection element (QualityEndPointType complexType) schema C
+description: Describes the schema C iteration of the QualityEndPointType complexType connection element and provides the element's definition and parent elements.
 TOCTitle: Connection element
 ms:assetid: 468436d2-f6ec-74b5-04d1-ddc7b54cee3a
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404723(v=office.16)

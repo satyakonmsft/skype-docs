@@ -1,5 +1,6 @@
 ﻿---
 title: ConnectionInfoType complexType Schema C
+description: Describes the Schema C iteration of the ConnectionInfoType complexType and provides the type's definition, elements, and attributes.
 TOCTitle: ConnectionInfoType complexType
 ms:assetid: 6a3f33fc-c7df-48b2-872f-f3c39f4a8464
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429348(v=office.16)

@@ -1,5 +1,6 @@
 ﻿---
 title: Contact element (ByeEndPointType complexType) (Schema D)
+description: Describes the Schema D iteration of the Contact element (ByeEndPointType complexType) and provides the element's definition and parent elements.
 TOCTitle: Contact element (ByeEndPointType complexType)
 ms:assetid: 9a724a72-cf75-d6a3-0ebf-65ef1eaead83
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149451(v=office.16)
