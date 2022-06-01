@@ -1,5 +1,6 @@
 ﻿---
 title: UserAgent element (ErrorEndPointType complexType) (Schema D)
+description: Discusses the use of the UserAgent element ErrorEndPointType complexType Schema D Skype for Business SDN Interface 2.2.
 TOCTitle: UserAgent element (ErrorEndPointType complexType)
 ms:assetid: 3c027501-8a46-98d4-df03-29d8736db129
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171027(v=office.16)
