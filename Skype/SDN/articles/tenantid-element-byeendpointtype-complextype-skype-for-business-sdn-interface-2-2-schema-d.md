@@ -1,5 +1,6 @@
 ﻿---
 title: TenantId element (ByeEndPointType complexType) (Schema D)
+description: An overview of the TenantId element (ByeEndPointType complexType) (Schema D).
 TOCTitle: TenantId element (ByeEndPointType complexType)
 ms:assetid: f70e8304-6f2a-5ba6-aa52-7b05f280a979
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171004(v=office.16)

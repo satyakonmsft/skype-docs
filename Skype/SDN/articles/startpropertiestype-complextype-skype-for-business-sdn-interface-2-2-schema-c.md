@@ -1,5 +1,6 @@
 ﻿---
 title: StartPropertiesType complexType (Schema C)
+description: Overview of the StartPropertiesType complexType (Schema C).
 TOCTitle: StartPropertiesType complexType
 ms:assetid: 940a26b6-b0d5-28bf-416b-ff5109f1027d
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429363(v=office.16)

@@ -1,5 +1,6 @@
 ---
 title: Subscriber Obfuscation
+description: Learn how to set an individual obfuscation seed for a subscriber.
  
 ms.assetid: d7fee767-9dbb-4ec0-9d20-3de741e79079
 ---
