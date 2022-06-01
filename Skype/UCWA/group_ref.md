@@ -44,6 +44,7 @@ This resource can have the following relationships.
 ### Azure Active Directory scopes for online applications
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
@@ -55,9 +56,12 @@ The user must have at least one of these scopes for operations on the resource t
 
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
-|contact|High|people|Indicates that a specific contact was added to this group. The application can decide to fetchthe updated information.</p><p></p>|
-Sample of returned event data.
-This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+|contact|High|people|Indicates that a specific contact was added to this group. The application can decide to fetchthe updated information.|
+
+Sample of returned event data. This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+
+```
+
 {
   "_links" : {
     "self" : {
@@ -88,13 +92,17 @@ This sample is given only as an illustration of event syntax. The semantic conte
   ]
 }
 
+```
+
 ### Updated
 
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
-|group|High|people|Indicates that the group has been updated. The application can decide to fetch the updatedinformation.</p><p></p>|
-Sample of returned event data.
-This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+|group|High|people|Indicates that the group has been updated. The application can decide to fetch the updatedinformation.|
+
+Sample of returned event data. This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+
+```
 {
   "_links" : {
     "self" : {
@@ -121,13 +129,18 @@ This sample is given only as an illustration of event syntax. The semantic conte
   ]
 }
 
+```
+
 ### Deleted
 
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
-|contact|High|people|Indicates that a specific contact was deleted from this group. The application can decide tofetch the updated information.</p><p></p>|
-Sample of returned event data.
-This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+|contact|High|people|Indicates that a specific contact was deleted from this group. The application can decide tofetch the updated information.|
+
+Sample of returned event data. This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+
+```
+
 {
   "_links" : {
     "self" : {
@@ -158,6 +171,7 @@ This sample is given only as an illustration of event syntax. The semantic conte
   ]
 }
 
+```
 
 ## Operations
 
@@ -188,9 +202,6 @@ The errors below (if any) are specific to this resource. Generic errors that can
 |Conflict|409|TooManyGroups|The too many groups error.|
 |Conflict|409|None|Un-supported Service/Resource/API error.|
 |Gone|410|CannotRedirect|Cannot redirect since there is no back up pool configured.|
-
-#### Examples
-
 
 #### JSON Request
 
