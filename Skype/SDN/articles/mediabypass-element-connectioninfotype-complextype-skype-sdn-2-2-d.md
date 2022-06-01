@@ -1,5 +1,6 @@
 ﻿---
 title: MediaBypass element (ConnectionInfoType complexType) (Schema D)
+description: Describes the Schema D iteration of the MediaBypass element and provides the element's definition, parent elements, and information.
 TOCTitle: MediaBypass element
 ms:assetid: 7c1d44fa-8a19-d2b9-a8b0-d0fecd74e4fa
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170916(v=office.16)

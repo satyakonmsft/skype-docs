@@ -1,5 +1,6 @@
 ﻿---
 title: LocalFrameLossPercentageAvg element (QualityPropertiesType complexType) (Schema C)
+description: Describes the Schema C iteration of the LocalFrameLossPercentageAvg element and provides the element's definition, parent elements, and information.
 TOCTitle: LocalFrameLossPercentageAvg element
 ms:assetid: 1af349ff-e324-8424-1460-7a08ab9b2418
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404784(v=office.16)

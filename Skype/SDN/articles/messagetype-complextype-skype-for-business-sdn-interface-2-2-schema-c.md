@@ -1,5 +1,6 @@
 ﻿---
 title: MessageType complexType (Schema C)
+description: Describes the Schema C iteration of the MessageType complexType and provides the type's definition, child elements, attributes, and information.
 TOCTitle: MessageType complexType
 ms:assetid: 7a2c3f02-9365-ccb8-4745-1d778b31e28e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429358(v=office.16)

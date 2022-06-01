@@ -1,5 +1,6 @@
 ﻿---
 title: MessageProperties complexType (Schema C)
+description: Describes the Schema C iteration of the MessageProperties complexType and provides the type's definition, child elements, and information.
 TOCTitle: MessageProperties complexType
 ms:assetid: c077e1bb-e248-d481-726c-9516eacfd2f7
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429356(v=office.16)
