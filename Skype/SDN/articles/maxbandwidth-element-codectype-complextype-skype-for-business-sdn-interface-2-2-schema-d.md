@@ -1,5 +1,6 @@
 ﻿---
 title: MaxBandwidth element (CodecType complexType) (Schema D)
+description: Describes the Schema D iteration of the MaxBandwidth element and provides the element's definition, parent elements, and information.
 TOCTitle: MaxBandwidth element
 ms:assetid: 2c37df4e-39d9-abbc-4b1a-4e9098947437
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170914(v=office.16)

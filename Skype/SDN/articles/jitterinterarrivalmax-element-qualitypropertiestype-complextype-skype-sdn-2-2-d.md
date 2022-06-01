@@ -1,5 +1,6 @@
 ﻿---
 title: JitterInterArrivalMax element (QualityPropertiesType complexType) (Schema D)
+description: Describes the Schema D iteration of the JitterInterArrivalMax element and provides the element's definition, parent elements, and information.
 TOCTitle: JitterInterArrivalMax element
 ms:assetid: 8e8096ad-ae59-0daa-98e9-b69707349a92
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170907(v=office.16)
