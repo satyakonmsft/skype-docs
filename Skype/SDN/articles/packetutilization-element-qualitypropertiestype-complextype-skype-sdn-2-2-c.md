@@ -1,5 +1,6 @@
 ﻿---
 title: PacketUtilization element (QualityPropertiesType complexType) (Schema C)
+description: Describes the Schema C iteration of the PacketUtilization element and provides the element's definition, parent elements, and information.
 TOCTitle: PacketUtilization element
 ms:assetid: 89d76513-d3bf-ba22-e97d-25d9a1d01978
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404809(v=office.16)

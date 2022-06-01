@@ -1,5 +1,6 @@
 ﻿---
 title: OS element (QualityEndPointType complexType) (Schema C)
+description: Describes the Schema C iteration of the OS element and provides the element's definition, parent elements, and information.
 TOCTitle: OS element
 ms:assetid: 7223101f-d594-7076-3308-f9d35885c909
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404802(v=office.16)
