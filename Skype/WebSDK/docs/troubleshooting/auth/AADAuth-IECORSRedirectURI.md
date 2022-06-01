@@ -1,5 +1,6 @@
 ---
 title: AAD Auth Failures - Invalid CORS redirect URI in Internet Explorer and Microsoft Edge
+description: Describes the invalid CORS redirect URI in Internet Explorer and Microsoft Edge error and provides the appropriate solution guidance.
 ---
 # AAD Auth Failures - Invalid CORS redirect URI in Internet Explorer and Microsoft Edge
 

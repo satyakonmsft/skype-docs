@@ -1,5 +1,6 @@
 ---
 title: Skype Business Online Providing a conference URI to join a meeting 
+description: Describes how to provide a conference URI to join a meeting and outlines the prerequisites and permissions needed.
 ---
 # Prerequisites
 - Bootstrap Skype Web SDK

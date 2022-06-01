@@ -1,5 +1,6 @@
 ---
 title: Skype for Business 2015 - Outgoing P2P Video Conversation
+description: Describes outgoing P2P video conversation and provides code examples for use with the Skype for Business 2015 Web SDK.
 ---
 # Outgoing P2P Video Conversation
 

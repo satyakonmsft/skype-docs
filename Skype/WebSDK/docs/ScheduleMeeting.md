@@ -1,5 +1,6 @@
 ---
 title: Skype for Business 2015 Scheduling an online meeting
+description: Describes how to schedule an online meeting using the Skype for Business 2015 SDK, and provides the meeting properties.
 ---
 # Scheduling an online meeting
 

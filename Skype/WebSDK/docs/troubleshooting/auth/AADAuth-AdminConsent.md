@@ -1,5 +1,6 @@
 ---
 title: AAD Auth Failures - Administrator has not provided consent to use SfB Web APIs
+description: Describes the Administrator has not provided consent to use SfB Web APIs error and provides the appropriate solution guidance.
 ---
 # AAD Auth Failures - Administrator has not provided consent to use SfB Web APIs
 
