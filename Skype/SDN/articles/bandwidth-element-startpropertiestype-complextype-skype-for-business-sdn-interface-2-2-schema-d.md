@@ -1,5 +1,6 @@
 ﻿---
-title: Bandwidth element (StartPropertiesType complexType) Schema D 
+title: Bandwidth element (StartPropertiesType complexType) Schema D
+description: Describes the Schema D iteration of the Bandwidth element and provides the element's definition, parent elements, child elements, and attributes.
 TOCTitle: Bandwidth element (StartPropertiesType complexType)
 ms:assetid: 58a54ad9-047f-139f-0609-d42c27d00f76
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149430(v=office.16)

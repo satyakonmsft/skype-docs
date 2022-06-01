@@ -1,5 +1,6 @@
 ﻿---
 title: CSEQ element (ConnectionInfoType complexType) (Schema C)
+description: Describes the Schema C iteration of the CSEQ element (ConnectionInfoTypo complexType) and provides the element's definition and element information.
 TOCTitle: CSEQ element
 ms:assetid: 41a5392e-80d7-faa9-74a6-270bb6e23bf5
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404736(v=office.16)

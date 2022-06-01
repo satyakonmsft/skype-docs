@@ -1,5 +1,6 @@
 ﻿---
 title: Configuring SDN Interface Dialog Listener
+description: Describes how to configure SDN Interface Dialog Listener and outlines how to edit the DialogListener.exe.config file.
 TOCTitle: Configuring SDN Interface Dialog Listener
 ms:assetid: e66f9787-ab6b-4a77-8895-0ae39a3a5ee1
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn785209(v=office.16)

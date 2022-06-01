@@ -1,5 +1,6 @@
 ﻿---
 title: AudioTimestampErrorMicMs element (QualityPropertiesType complexType) Schema D
+description: Describes the Schema D iteration of the AudioTimestampErrorMicMs element and provides the element's definition, element information, and parent elements.
 TOCTitle: AudioTimestampErrorMicMs element
 ms:assetid: 7a2c150d-342d-333b-8898-772018dbc1fe
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149427(v=office.16)

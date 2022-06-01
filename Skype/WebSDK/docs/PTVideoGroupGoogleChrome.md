@@ -1,5 +1,6 @@
 ---
 title: Skype for Business 2015 - Group Video in Google Chrome
+description: Describes group video in Google Chrome and provides code examples for use with the Skype for Business 2015 Web SDK.
 ---
 # Group Video in Google Chrome
 

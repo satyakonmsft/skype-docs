@@ -1,5 +1,6 @@
 ﻿---
 title: ConversationId element (ConnectionInfoType complexType) (Schema C)
+description: Describes the Schema C iteration of the ConversationId element (ConnectionInfoType complexType) and provides the element's definition and element information.
 TOCTitle: ConversationId element
 ms:assetid: 431cf980-624b-383b-3f70-0771cc30b322
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404730(v=office.16)

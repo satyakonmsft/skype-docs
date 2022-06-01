@@ -1,5 +1,6 @@
 ﻿---
 title: DegradationAvg element (QualityPropertiesType complexType) (Schema D)
+description: Describes the Schema D iteration of the DegradationAvg element (QualityPropertiesType complexType) and provides the element's definition.
 TOCTitle: DegradationAvg element
 ms:assetid: 8482ec9b-f974-4e46-f401-d24709f3f2d5
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149465(v=office.16)
