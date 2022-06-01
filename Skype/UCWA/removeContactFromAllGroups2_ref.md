@@ -16,7 +16,7 @@ Remove a contact from the buddy list (delete all the group memerbships that a pa
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -39,7 +39,7 @@ None
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
 
-|**Scope**|**Permission**|**Description**|
+|Scope|Permission|Description|
 |:-----|:-----|:-----|
 |Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
 
@@ -61,7 +61,7 @@ Removes all group memberships that a contact belongs to
 
 
 
-|**Name**|**Description**|**Required?**|
+|Name|Description|Required?|
 |:-----|:-----|:-----|
 |contactUri|uri of the contact to be deletedThe maximum length is 250 characters.|Yes|
 
@@ -71,7 +71,7 @@ Removes all group memberships that a contact belongs to
 
 
 
-|**Name**|**Description**|**Required?**|
+|Name|Description|Required?|
 |:-----|:-----|:-----|
 |contactUri|uri of the contact to be deletedThe maximum length is 250 characters. String|Yes|
 
@@ -87,7 +87,7 @@ None
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |ServiceFailure|500|CallbackChannelError|The remote event channel is not reachable|
 |Conflict|409|AlreadyExists|The already exists error.|
