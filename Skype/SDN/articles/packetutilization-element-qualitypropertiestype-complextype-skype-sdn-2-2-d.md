@@ -1,5 +1,6 @@
 ﻿---
 title: PacketUtilization element (QualityPropertiesType complexType) (Schema D)
+description: Describes the Schema D iteration of the PacketUtilization element and provides the element's definition, parent elements, and information.
 TOCTitle: PacketUtilization element
 ms:assetid: e13be3e1-1e9d-8014-494e-047b4730e72e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170932(v=office.16)

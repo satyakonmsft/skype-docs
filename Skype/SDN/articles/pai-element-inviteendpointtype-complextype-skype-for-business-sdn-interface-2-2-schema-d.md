@@ -1,5 +1,6 @@
 ﻿---
 title: PAI element (InviteEndPointType complexType) (Schema D)
+description: Describes the Schema D iteration of the PAI element (InviteEndPointType complexType) and provides the element's definition, parent elements, and information.
 TOCTitle: PAI element (InviteEndPointType complexType)
 ms:assetid: b18ee860-6823-d704-cd38-d2d4de7fbd01
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170940(v=office.16)

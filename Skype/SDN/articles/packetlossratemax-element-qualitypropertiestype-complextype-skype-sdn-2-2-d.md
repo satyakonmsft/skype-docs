@@ -1,5 +1,6 @@
 ﻿---
 title: PacketLossRateMax element (QualityPropertiesType complexType) (Schema D)
+description: Describes the Schema D iteration of the PacketLossRateMax element and provides the element's definition, parent elements, and information.
 TOCTitle: PacketLossRateMax element
 ms:assetid: 02627ac9-06c8-be10-c5a6-f2089f963c76
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170935(v=office.16)
