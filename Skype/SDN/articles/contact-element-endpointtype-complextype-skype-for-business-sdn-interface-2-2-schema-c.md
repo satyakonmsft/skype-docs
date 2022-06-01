@@ -1,5 +1,6 @@
 ﻿---
 title: Contact element (EndPointType complexType) (Schema C)
+description: Describes the Schema C iteration of the Contact element (EndPointType complexType) and provides the element's definition and parent elements.
 TOCTitle: Contact element (EndPointType complexType)
 ms:assetid: fd2b8d77-0b7b-1a34-f966-fdcf4faa16fc
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404728(v=office.16)

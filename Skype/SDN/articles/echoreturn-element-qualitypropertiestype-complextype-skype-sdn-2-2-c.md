@@ -1,5 +1,6 @@
 ﻿---
-title: EchoReturn element (QualityPropertiesType complexType) (Schema C) 
+title: EchoReturn element (QualityPropertiesType complexType) (Schema C)
+description: Describes the Schema C iteration of the EchoReturn element and provides the element's definition, parent elements, and information.
 TOCTitle: EchoReturn element
 ms:assetid: 3fd92d42-2e49-902e-e910-6ed56ba1377f
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404754(v=office.16)

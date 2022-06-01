@@ -1,5 +1,6 @@
 ﻿---
 title: Average element (BandwidthType complexType) Schema D
+description: Describes the Schema D iteration of the average element and provides the element's definition, element information, and parent elements.
 TOCTitle: Average element
 ms:assetid: 15daf053-67d8-973e-1410-27b4fb765405
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149428(v=office.16)

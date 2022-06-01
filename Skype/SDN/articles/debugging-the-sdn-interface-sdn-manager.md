@@ -1,5 +1,6 @@
 ﻿---
 title: Debugging the SDN Interface SDN Manager
+description: Describes how to debug the SDN Interface SDN Manager and outlines how to activate WCF service logging and using the Message Receiver log service.
 TOCTitle: Debugging the SDN Interface SDN Manager
 ms:assetid: 5567fd7c-4567-47c4-8aa2-456564fcd087
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn785215(v=office.16)

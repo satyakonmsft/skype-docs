@@ -1,5 +1,6 @@
 ﻿---
 title: ConversationalMOS element (QualityPropertiesType complexType) (Schema C)
+description: Describes the Schema C iteration of the ConversationalMOS element (QualityPropertiesType complexType) and provide's the element's definition.
 TOCTitle: ConversationalMOS element
 ms:assetid: 256a91f0-d0e7-fe61-5d3e-de8e7d8ec75f
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404729(v=office.16)

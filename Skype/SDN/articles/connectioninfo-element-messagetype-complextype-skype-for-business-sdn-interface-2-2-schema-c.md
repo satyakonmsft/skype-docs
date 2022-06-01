@@ -1,5 +1,6 @@
 ﻿---
 title: Learn about the ConnectionInfo element (MessageType complexType) schema C
+description: Describes the schema C iteration of the Connection Info element (MessageType complexType) and provides the element's definition and attributes.
 TOCTitle: ConnectionInfo element
 ms:assetid: 145a77b2-1939-4d7c-3e12-113646a74947
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404725(v=office.16)

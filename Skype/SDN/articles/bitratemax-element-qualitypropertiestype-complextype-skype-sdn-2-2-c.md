@@ -1,5 +1,6 @@
 ﻿---
 title: BitRateMax element (QualityPropertiesType complexType) Schema C
+description: Describes the Schema C iteration of the BitRateMax element and provides the element's definition, parent elements, child elements, and element information.
 TOCTitle: BitRateMax element
 ms:assetid: 5295682e-f606-eacb-b3db-bab7bfb176d1
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404708(v=office.16)
