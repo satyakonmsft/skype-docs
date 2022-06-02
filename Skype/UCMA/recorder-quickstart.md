@@ -1,5 +1,6 @@
 ﻿---
 title: Recorder (QuickStart)
+description: An overview of Recorder (QuickStart) for Skype for Business 2015.
 TOCTitle: Recorder (QuickStart)
 ms:assetid: e76144e2-b8f4-47bf-8d39-4f079a376a88
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn454822(v=office.16)

@@ -1,5 +1,6 @@
 ﻿---
 title: Impersonating a user
+description: Describes how to impersonate a user as it applies to Skype for Business 2015 and provides a sample code example of impersonating a user.
 TOCTitle: Impersonating a user
 ms:assetid: 5b22dec3-ac5a-4774-95ad-e59c6e66bd50
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465984(v=office.16)

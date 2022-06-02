@@ -1,5 +1,6 @@
 ﻿---
 title: Trusted conference users
+description: Describes the Trusted Conferencing User model, which gives application writers a way to enhance communication as it relates to Skype for Business 2015.
 TOCTitle: Trusted conference users
 ms:assetid: a0dca201-f920-45ca-b2e4-2f0d43b315d7
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465963(v=office.16)

@@ -1,5 +1,6 @@
 ﻿---
 title: Subscribing to presence
+description: An overview of subscribing to presence for Skype for Business 2015.
 TOCTitle: Subscribing to presence
 ms:assetid: 1ce5c2e2-d15c-46b7-8a21-c425223e8aef
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465955(v=office.16)

@@ -1,5 +1,6 @@
 ---
 title: Security considerations in UCMA 5.0
+description: An overview of security considerations in UCMA 5.0.
 TOCTitle: Security considerations in UCMA 5.0
 ms:assetid: 5d87e5b2-9d95-4d37-98c7-c5e58a6247e9
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466093(v=office.16)

@@ -1,5 +1,6 @@
 ﻿---
 title: Get started with UCMA 5.0 development
+description: Describes how to get started with UCMA 5.0 development as it relates to Skype for Business 2015 and links various topics within this section.
 TOCTitle: Get started with development
 ms:assetid: aa9d3dc8-a16a-4c1a-a1a4-c07c79730193
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465959(v=office.16)

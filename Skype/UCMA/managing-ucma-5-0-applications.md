@@ -1,5 +1,6 @@
 ---
 title: Managing UCMA 5.0 applications
+description: Provides details of application management for Microsoft Unified Communications Managed API 5.0 Runtime as it relates to Skype for Business 2015.
 TOCTitle: Managing UCMA 5.0 applications
 ms:assetid: 0666e40f-91b0-4549-aaa4-8180b53288f0
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466088(v=office.16)

@@ -1,5 +1,6 @@
 ﻿---
 title: Registering for conversation events
+description: About registering for conversation events for Skype for Business 2015.
 TOCTitle: Registering for conversation events
 ms:assetid: ec21df6c-1ec7-4a8a-96cd-11daf5fb2ce1
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465983(v=office.16)

@@ -1,5 +1,6 @@
 ﻿---
 title: UCMA 5.0 Runtime (Unified Communications Managed API 5.0)
+description: Describes installation requirements and related components for Microsoft Unified Communications Managed API 5.0 Runtime.
 TOCTitle: UCMA 5.0 Runtime
 ms:assetid: 90679514-7bec-4a91-be50-f1020080a60a
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466090(v=office.16)
@@ -148,5 +149,5 @@ The following WiX code can be used to detect whether UCMA 5.0 Runtime has been i
 
 ## See also
 
-- [Microsoft.Rtc.Collaboration Namespace](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration?view=ucma-api-5.0)
-- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](https://docs.microsoft.com/dotnet/api/Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml?view=ucma-voice)
+- [Microsoft.Rtc.Collaboration Namespace](/dotnet/api/microsoft.rtc.collaboration&preserve-view=true)
+- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](/dotnet/api/Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml&preserve-view=true)

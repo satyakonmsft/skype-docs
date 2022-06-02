@@ -1,5 +1,6 @@
 ﻿---
-title: Trunk element (ByeEndPointType complexType) 
+title: Trunk element (ByeEndPointType complexType)
+description: An overview of the Trunk element (ByeEndPointType complexType).
 TOCTitle: Trunk element (ByeEndPointType complexType)
 ms:assetid: 0453a404-50e3-0637-a034-434f64a350f7
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171014(v=office.16)

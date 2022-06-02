@@ -1,5 +1,6 @@
 ---
 title: UCMA 5.0 overview (Unified Communications Managed API 5.0)
+description: Provides various topics relating to Microsoft Unified Communications Managed API 5.0, including those that outline its architecture and object model.
 TOCTitle: UCMA 5.0 overview
 ms:assetid: 24a4b483-b707-4ba2-adf1-479a38205041
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465942(v=office.16)
@@ -23,5 +24,5 @@ The topics in this section a high-level overview of Microsoft Unified Communicat
 
 ## See also
 
-- [Microsoft.Rtc.Collaboration Namespace](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration?view=ucma-api-5.0)
-- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](/dotnet/api/Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml?view=ucma-voice)
+- [Microsoft.Rtc.Collaboration Namespace](/dotnet/api/microsoft.rtc.collaboration&preserve-view=true)
+- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](/dotnet/api/Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml&preserve-view=true)

@@ -1,5 +1,6 @@
 ---
 title: myContactsAndGroupsSubscription reference
+description: Describes the myContactsAndGroupsSubscription resource and provides the resource's properties, links, events, and operations.
 ---
 # myContactsAndGroupsSubscription
 
