@@ -1,5 +1,6 @@
 ---
 title: derivedMessaging reference
+description: Describes the derivedMessaging resource and provides the resource's links, Azure AD scopes, operations, and code examples.
 ---
 # derivedMessaging reference
 

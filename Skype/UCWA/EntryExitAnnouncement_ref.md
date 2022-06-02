@@ -1,5 +1,6 @@
 ---
 title: EntryExitAnnouncement reference
+description: Describes the EntryExitAnnouncement resource, which represents attendance announcements states, and provides the resource's list of members.
 ---
 # EntryExitAnnouncement reference
 

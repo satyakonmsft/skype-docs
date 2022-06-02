@@ -1,4 +1,7 @@
-
+---
+title: Error Subcodes
+description: Describes error subcodes as they apply to Skype for Business 2015 and provides a list of related members.
+---
 # ErrorSubcode
 
 

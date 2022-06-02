@@ -1,5 +1,6 @@
 ---
 title: conversationExtensionResult reference
+description: Describes the conversationExtensionResult resource and provides the resource's properties, links, and operations.
 ---
 # conversationExtensionResult
 

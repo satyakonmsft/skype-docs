@@ -1,5 +1,6 @@
 ---
 title: ModalityType reference
+description: Describes the ModalityType resource, which represents various types of modalities, and provides the resource's members.
 ---
 # ModalityType
 

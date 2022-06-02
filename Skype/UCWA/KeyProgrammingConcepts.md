@@ -1,5 +1,6 @@
 ---
 title: Microsoft Unified Communications Web API 2.0 key programming concepts
+description: Provides an overview of Microsoft Unified Communications Web API 2.0 key programming concepts and provides links to related documentation.
 ---
 # Microsoft Unified Communications Web API 2.0 key programming concepts
 Learn about key concepts that Microsoft Unified Communications Web API 2.0 developers need to know.

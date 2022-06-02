@@ -1,5 +1,6 @@
 ---
 title: LobbyBypassForPhoneUsers
+description: Describes the LobbyBypassForPhoneUsers resource, which represents types of users who can bypass the lobby, and provides its members.
 ---
 # LobbyBypassForPhoneUsers
 

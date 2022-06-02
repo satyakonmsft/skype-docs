@@ -1,6 +1,6 @@
 ---
 title: mediaPolicies for Skype for Business 2015
-description: Represents a resource that allows clients to fetch all media-related settings that cannot be modeled as capability links or properties of individual resources.
+description: Describes the mediaPolicies resource and provides the resource's properties, links, Azure AD scopes, and operations.
 ---
 
 # mediaPolicies

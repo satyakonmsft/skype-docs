@@ -1,5 +1,6 @@
 ---
 title: Skype for Business 2015 onlineMeetingInvitation
+description: Describes onlineMeetingInvitation and provides its properties, links, events, operations, and examples.
 ---
 # onlineMeetingInvitation
 

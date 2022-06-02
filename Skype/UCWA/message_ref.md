@@ -1,3 +1,7 @@
+---
+title: message reference
+description: Describes the message resource and provides the resource's properties, links, Azure AD scopes, events, and operations.
+---
 # message
 
  _**Applies to:** Skype for Business 2015_

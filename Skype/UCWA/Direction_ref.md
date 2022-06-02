@@ -1,5 +1,6 @@
 ---
 title: Direction reference
+description: Describes the Direction resource, which represents the direction of a call or message, and provides a list of members.
 ---
 # Direction
 
