@@ -1,5 +1,6 @@
 ---
 title: Downloading and running the Skype Web SDK samples
+description: Describes how to download, set up, and run Skype Web SDK samples, and provides links to related resources.
 ---
 # Downloading and running the Skype Web SDK samples
 
@@ -14,7 +15,7 @@ The Microsoft Skype Web SDK includes a set of web application samples that allow
 You can run the Microsoft Skype Web SDK samples against your private Skype for Business Server 2015 installation or [Skype for Business Online](DevelopWebSDKappsForSfBOnline.md).
 
 
-1. Download the samples files. The Microsoft Skype Web SDK samples are available on github in our GitHub [Skype Web SDK Samples](https://github.com/OfficeDev/skype-docs/tree/master/Skype/WebSDK) directory.
+1. Download the samples files. The Microsoft Skype Web SDK samples are available on GitHub in our GitHub [Skype Web SDK Samples](https://github.com/OfficeDev/skype-docs/tree/master/Skype/WebSDK) directory.
     
 2. Copy the samples files to a local folder on your computer such as C:\websites\skype-docs.
 
@@ -55,8 +56,8 @@ The Microsoft Skype Web SDK samples are available on github at [Skype Web SDK Sa
 |Chat|Demonstrates the different operations one can perform on chat conversations. Allows the user to start, accept, or escalate a P2P chat, as well as start a group chat.|
 |Audio|Demonstrates the different operations one can perform on audio conversations. Allows the user to start or accept P2P or PSTN conversations, as well as start group audio conversations or escalate P2P audio. Allows the user to also hold, resume, and mute conversations. Allows the user to perform Phone Audio and Call Transfer as well.|
 |Video|Demonstrates the different operations one can perform on video conversations. Allows the user to start, accept, or escalate a P2P video conversations, as well as start a group video conversation. Allows the user to also add video to an existing audio conversation.|
-|History|Demonstartes the different operations one can perform with the history service. Allows the user to retrieve conversations and chat history for each conversation.|
-|UI Controls|Demonstartes the use of Skype Conversation Control UI. Allows the user to create multiple conversation controls.|
+|History|Demonstrates the different operations one can perform with the history service. Allows the user to retrieve conversations and chat history for each conversation.|
+|UI Controls|Demonstrates the use of Skype Conversation Control UI. Allows the user to create multiple conversation controls.|
 |Devices Manager|Demonstrates the different operations one can perform with the devicesManager API. Allows the user to set selected speaker, microphone and camera.|
 
 ## Additional Resources
