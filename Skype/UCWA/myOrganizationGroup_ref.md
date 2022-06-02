@@ -1,5 +1,6 @@
 ---
 title: myOrganizationGroup reference
+description: Describes the myOrganizationGroup resource and provides the resource's properties, links, Azure AD scopes, and events.
 ---
 # myOrganizationGroup reference
 
@@ -15,7 +16,7 @@ Represents a group of user's organization contacts
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -29,7 +30,7 @@ A organization group is a logical container for user's organization contacts inc
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |id|The group's ID.|
 |name|The group's name.The maximum length is 256 characters.|
@@ -40,7 +41,7 @@ A organization group is a logical container for user's organization contacts inc
 
 This resource can have the following relationships.
 
-|**Link**|**Description**|
+|Link|Description|
 |:-----|:-----|
 |self|The link to the current resource.|
 |groupContacts|A collection of contact resources that belong to a particular group resource.|
@@ -52,7 +53,7 @@ This resource can have the following relationships.
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
 
-| **Scope** | **Permission** | **Description** |
+| Scope | Permission | Description |
 | ----- | ----- | ----- |
 | Contacts.ReadWrite | Read/write Skype user contacts and groups | Allows the app to read and write Skype user contacts and groups |
 
@@ -63,7 +64,7 @@ The user must have at least one of these scopes for operations on the resource t
 
 
 
-| **Resource** | **Priority** | **Sender** | **Reason** |
+| Resource | Priority | Sender | Reason |
 | ----- | ----- | ----- | ----- |
 | delegatorsGroup | High | people | Indicates that the myOrganization group was added. The application can decide to fetchthe updated information.</p><p></p> |
 
@@ -100,7 +101,7 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 
 
-| **Resource** | **Priority** | **Sender** | **Reason** |
+| Resource | Priority | Sender | Reason |
 | ----- | ----- | ----- | ----- |
 | delegatorsGroup | High | people | Indicates that the myOrganization group has been updated. The application can decide to fetch theupdated information.</p><p></p> |
 
@@ -137,7 +138,7 @@ This sample is given only as an illustration of event syntax. The semantic conte
 
 
 
-| **Resource** | **Priority** | **Sender** | **Reason** |
+| Resource | Priority | Sender | Reason |
 | ----- | ----- | ----- | ----- |
 | delegatorsGroup | High | people | Indicates that the myOrganization group was deleted. The application can decide tofetch the updated information.</p><p></p> |
 
@@ -202,7 +203,7 @@ The response from a GET request contains the properties and links shown in the P
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |Forbidden|403|None|The user does not have sufficient privileges to access the contact list.|
 |Forbidden|403|None|The user does not have sufficient privileges to access pending contacts|

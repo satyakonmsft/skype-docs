@@ -1,5 +1,6 @@
 ---
 title: Communication tasks
+description: Describes communication tasks and provides links to topics with code examples that use UCWA 2.0 to perform communication tasks.
 ---
 # Communication tasks
 Look here for examples of tasks that pertain to communicating with others.

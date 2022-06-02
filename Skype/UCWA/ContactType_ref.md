@@ -1,5 +1,6 @@
 ---
 title: ContactType reference
+description: Describes the ContactType resource, which contains enumeration for different contact types, and provides the resource's members.
 ---
 # ContactType
 
@@ -12,7 +13,7 @@ Enumeration of different contact types.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |Bot|Bot.|
 |Phone|Phone.|

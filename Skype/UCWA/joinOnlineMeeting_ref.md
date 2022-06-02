@@ -1,5 +1,6 @@
 ---
 title: Skype for Business 2015 - joinOnlineMeeting
+description: Describes the joinOnlineMeeting resource and provides the resource's Azure AD scopes, operations, query parameters, and examples.
 ---
 # joinOnlineMeeting
 
