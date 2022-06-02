@@ -1,5 +1,6 @@
 ﻿---
 title: Activating applications programmatically
+description: Discusses how to activate applications programmatically and involves setting a trust relationship between the application and Skype for Business Server 2015.
 TOCTitle: Activating applications programmatically
 ms:assetid: d75f69cf-5bdd-4194-9ebb-87a06978b5a0
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466133(v=office.16)

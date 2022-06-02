@@ -1,5 +1,6 @@
 ---
 title: Enabling communication services for the cloud
+description: Discusses enabling communications services for the cloud via the Trusted Application API for Skype for Business Online Cloud.
 ---
 # Enabling communications services for the cloud
 

@@ -1,5 +1,6 @@
 ﻿---
 title: Via element (StartPropertiesType complexType) 
+description: Discusses the elements and attributes for the Via element StartPropertiesType complexType Skype for Business SDN Interface 2.2, Schema "D".
 TOCTitle: Via element
 ms:assetid: 2e38f811-b53b-18a3-1ce5-d74ed889c6d3
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171029(v=office.16)

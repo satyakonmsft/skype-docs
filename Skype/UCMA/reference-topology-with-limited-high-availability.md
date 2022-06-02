@@ -1,5 +1,6 @@
 ---
 title: Reference topology with limited high availability
+description: About reference topology with limited high availability.
 TOCTitle: Reference topology with limited high availability
 ms:assetid: a75b53a5-4951-4a2e-b261-55b1a4bf891b
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465969(v=office.16)

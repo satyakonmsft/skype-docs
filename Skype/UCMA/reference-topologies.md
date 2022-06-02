@@ -1,5 +1,6 @@
 ﻿---
 title: Reference topologies
+description: An overview of reference topologies for Skype for Business 2015.
 TOCTitle: Reference topologies
 ms:assetid: db9cfb90-90dd-4319-b98f-7cc47f2f1d82
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465966(v=office.16)
