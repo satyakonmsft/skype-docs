@@ -1,5 +1,6 @@
 ---
 title: Recorder (Unified Communications Managed API 5.0)
+description: A Recorder is an entity that can receive audio media that comes from an AudioVideoFlow instance and record it to a file.
 TOCTitle: Recorder
 ms:assetid: f1d1be77-652c-4781-b8de-9ab797231774
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466038(v=office.16)

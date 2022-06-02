@@ -1,5 +1,6 @@
 ﻿---
 title: Sending and receiving page-mode messages
+Description: An overview of sending and receiving page-mode messages for Skype for Business 2015.
 TOCTitle: Sending and receiving page-mode messages
 ms:assetid: f6aadb54-8b83-418f-bc82-ed36187ea561
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466063(v=office.16)
