@@ -13,7 +13,7 @@ Represents the direction of the call, message, etc.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |Incoming|Represents the incoming direction.|
 |Outgoing|Represents the outgoing direction.|

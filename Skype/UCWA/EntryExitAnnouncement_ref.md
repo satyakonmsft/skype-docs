@@ -20,7 +20,7 @@ only if the online meeting supports modifying the attendance announcements statu
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |Disabled|Attendance announcements are disabled.|
 |Enabled|Attendance announcements are enabled.|

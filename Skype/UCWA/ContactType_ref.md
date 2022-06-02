@@ -13,7 +13,7 @@ Enumeration of different contact types.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |Bot|Bot.|
 |Phone|Phone.|

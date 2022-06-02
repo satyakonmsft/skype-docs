@@ -29,7 +29,7 @@ The **processMessage** function begins the processing of data into an array of M
 
 
 
-| **Parameter** | **Description** |
+| Parameter | Description |
 | ----- | ----- |
 | data | Data containing MIME messages. |
 

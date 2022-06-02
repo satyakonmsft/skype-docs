@@ -13,7 +13,7 @@ Error Codes
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |BadRequest|Request Error.|
 |Conflict|Conflict.|
