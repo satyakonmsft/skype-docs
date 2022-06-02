@@ -1,5 +1,6 @@
 ﻿---
 title: Route element (QualityType complexType) (Schema D)
+description: An overview of the Route element (QualityType complexType) (Schema D).
 TOCTitle: Route element (QualityType complexType)
 ms:assetid: 8c8b09b2-f976-ac9b-7c94-0daf791d03ee
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170993(v=office.16)

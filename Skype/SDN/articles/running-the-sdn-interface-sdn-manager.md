@@ -1,5 +1,6 @@
 ﻿---
 title: Running the SDN Interface SDN Manager
+description: An overview of running the SDN Interface SDN Manager.
 TOCTitle: Running the SDN Interface SDN Manager
 ms:assetid: 41743ca0-f297-4e11-8bd3-27bab2f4baee
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn785214(v=office.16)
