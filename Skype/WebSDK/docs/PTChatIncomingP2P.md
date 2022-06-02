@@ -1,5 +1,6 @@
 ---
 title: Incoming P2P Chat Conversation
+description: Describes incoming P2P chat conversations and provides a code example that listens for incoming conversation and receives messages.
 ---
 # Incoming P2P Chat Conversation
 
