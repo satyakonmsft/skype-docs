@@ -1,5 +1,6 @@
 ﻿---
 title: Route element (MessageType complexType) (Schema C)
+description: An overview of Route element (MessageType complexType) (Schema C).
 TOCTitle: Route element (MessageType complexType)
 ms:assetid: 3c183e98-7d93-0576-908a-19a75f522225
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404847(v=office.16)

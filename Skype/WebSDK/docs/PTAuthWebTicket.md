@@ -1,5 +1,6 @@
 ---
 title: Skype for Business - Authentication using an access token
+description: Describes authentication using an access token and provides a code example that creates a static example and gets tokens at runtime.
 ---
 # Authentication using an access token
 

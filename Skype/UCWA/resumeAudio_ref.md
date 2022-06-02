@@ -1,5 +1,6 @@
 ---
 title: resumeAudio reference
+description: Describes the resumeAudio operation and provides the operation's properties, links, operations, and examples.
 ---
 # resumeAudio
 

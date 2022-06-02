@@ -1,5 +1,6 @@
 ---
 title: startMessaging reference
+description: Describes the startMessaging operation and provides the operation's properties, links, operations, and synchronous errors.
 ---
 # startMessaging reference
 

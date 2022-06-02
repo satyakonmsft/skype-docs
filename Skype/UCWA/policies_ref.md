@@ -1,5 +1,6 @@
 ---
 title: Policies reference
+description: Describes the policies object and provides its properties, links, updates, operations, and synchronous errors.
 ---
 # policies reference 
 

@@ -1,5 +1,6 @@
 ﻿---
 title: SourcePool element (ConnectionInfoType complexType) (Schema C)
+description: An overview of the SourcePool element (ConnectionInfoType complexType) (Schema C).
 TOCTitle: SourcePool element
 ms:assetid: 0202b8e4-a19d-f2f2-2af3-b4c1c267650a
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404850(v=office.16)

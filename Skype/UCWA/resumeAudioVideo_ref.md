@@ -1,5 +1,6 @@
 ---
 title: Skype for Business 2015 - resumeAudioVideo reference
+description: Describes the resumeAudioVideo operation and provides the operation's properties, links, operations, and examples.
 ---
 # resumeAudioVideo
 

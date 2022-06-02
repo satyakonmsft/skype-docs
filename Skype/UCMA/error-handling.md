@@ -14,11 +14,11 @@ mtps_version: v=office.16
 
 **Applies to**: Skype for Business 2015
 
-A developer who implements a subclass of the [MediaProvider](/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaprovider?view=ucma-api) class must be aware of the exceptions that Microsoft Unified Communications Managed API (UCMA) expects.
+A developer who implements a subclass of the [MediaProvider](/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaprovider&preserve-view=true) class must be aware of the exceptions that Microsoft Unified Communications Managed API (UCMA) expects.
 
 ## OfferAnswerException
 
-A [MediaProvider](/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaprovider?view=ucma-api) subclass implementation can throw [OfferAnswerException](https://msdn.microsoft.com/library/hh382722\(v=office.16\)) in [EndGetOffer](https://msdn.microsoft.com/library/hh382852\(v=office.16\)) and [EndGetAnswer(IAsyncResult)](https://msdn.microsoft.com/library/hh383856\(v=office.16\)). The [FailureReason](https://msdn.microsoft.com/library/hh384728\(v=office.16\)) property on this exception contains information about why the exception was thrown.
+A [MediaProvider](/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaprovider&preserve-view=true) subclass implementation can throw [OfferAnswerException](https://msdn.microsoft.com/library/hh382722\(v=office.16\)) in [EndGetOffer](https://msdn.microsoft.com/library/hh382852\(v=office.16\)) and [EndGetAnswer(IAsyncResult)](https://msdn.microsoft.com/library/hh383856\(v=office.16\)). The [FailureReason](https://msdn.microsoft.com/library/hh384728\(v=office.16\)) property on this exception contains information about why the exception was thrown.
 
 ## Other exceptions
 

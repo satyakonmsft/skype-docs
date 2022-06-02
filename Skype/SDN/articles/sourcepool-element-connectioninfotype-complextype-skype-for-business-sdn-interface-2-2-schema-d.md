@@ -1,5 +1,6 @@
 ﻿---
 title: SourcePool element (ConnectionInfoType complexType) (Schema D)
+description: Ane overview of the SourcePool element (ConnectionInfoType complexType) (Schema D).
 TOCTitle: SourcePool element
 ms:assetid: 07174c84-2101-6879-4bc2-0589e3e3be4a
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170995(v=office.16)

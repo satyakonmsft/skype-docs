@@ -1,5 +1,6 @@
 ---
 title: simultaneousRingToTeam reference
+description: Describes the simultaneousRingToTeam resource and provides the resource's properties, links, operations, and examples.
 ---
 # simultaneousRingToTeam reference
 

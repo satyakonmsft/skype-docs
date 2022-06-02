@@ -1,5 +1,6 @@
 ﻿---
 title: TenantId element (ErrorEndPointType complexType) (Schema D)
+description: An overview of the TenantId element (ErrorEndPointType complexType) (Schema D).
 TOCTitle: TenantId element (ErrorEndPointType complexType)
 ms:assetid: 3e2e6d6d-7854-9828-209a-545bbc8707f2
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171005(v=office.16)
