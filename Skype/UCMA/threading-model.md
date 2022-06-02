@@ -1,5 +1,6 @@
 ﻿---
 title: Threading model (Unified Communications Managed API 5.0)
+description: An overview of the threading model (Unified Communications Managed API 5.0) for Skype for Business 2015.
 TOCTitle: Threading model
 ms:assetid: abdf2e3d-c235-4ff9-b8b0-9b709e7b22f8
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466080(v=office.16)
