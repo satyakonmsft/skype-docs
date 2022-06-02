@@ -1,5 +1,6 @@
 ---
 title: Anonymous Meeting Common Errors
+description: Discusses the AllowedOrigins, MeetingUrl, ApplicationSessionId, Token and Consent of the Anonymous Meeting Common Errors.
 ---
 # Anonymous Meeting Common Errors
 The most common errors that you may encounter in starting an anonymous meeting are the following:

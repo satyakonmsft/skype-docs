@@ -1,5 +1,6 @@
 ---
 title: Anonymous Meeting Scheduling
+description: Describes the process for scheduling an Anonymous Meeting in Skype via Azure Active Directory.
 ---
 # Anonymous Meeting Scheduling
 
@@ -11,7 +12,7 @@ Here we will discuss a few ways to schedule an Anonymous meeting and get meeting
      
     Please read [Authentication using Azure AD](https://msdn.microsoft.com/skype/ucwa/authenticationusingazuread) for detailed Autodiscovery flow. Thereafter [myOnlineMeetings](https://msdn.microsoft.com/skype/ucwa/myonlinemeetings_ref) resource can be used to create a new online meeting as well as to modify and delete existing ones. 
 
-    ![alt text](./images/CallFlowsUcwaMeetingSchedule.png "image")
+    ![Screenshot diagram workflow of the call flow post requests and responses](./images/CallFlowsUcwaMeetingSchedule.png "image")
 
 3.  Schedule meeting with the **Trusted Application API**
     
@@ -59,5 +60,5 @@ Here we will discuss a few ways to schedule an Anonymous meeting and get meeting
         200 OK, "joinURL": "https://meet.resources.lync.com/NOAMmeetings/bI2OrO4meet400/ZW6COBMZ"
         ```
 
-![alt text](./images/CallFlowsUcapMeetingSchedule.jpg "image")
+![Screenshot diagram of the flow of data between the service app and the trusted application API.](./images/CallFlowsUcapMeetingSchedule.jpg "image")
 

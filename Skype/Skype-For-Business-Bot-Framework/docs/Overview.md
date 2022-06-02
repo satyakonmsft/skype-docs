@@ -1,6 +1,6 @@
 ---
 title: Skype for Business Bot Framework
-description: 
+description: Provides an overview of the Skype for Business Bot framework to create bots to interact with your Skype for Business users using text, cards, or speech. 
 ms.date: 03/30/2022
 ---
 

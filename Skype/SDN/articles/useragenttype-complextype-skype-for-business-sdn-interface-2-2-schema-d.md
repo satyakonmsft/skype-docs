@@ -1,5 +1,6 @@
 ﻿---
 title: UserAgentType complexType 
+description: Discusses the syntax and code for the UserAgentType complexType Skype for Business SDN Interface 2.2, Schema "D".
 TOCTitle: UserAgentType complexType
 ms:assetid: a863d70e-aa89-a82b-7d77-7a2e1df35a92
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171077(v=office.16)
