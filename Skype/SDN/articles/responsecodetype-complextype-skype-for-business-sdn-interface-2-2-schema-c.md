@@ -1,5 +1,6 @@
 ﻿---
 title: ResponseCodeType complexType (Schema C)
+description: An overview of the ResponseCodeType complexType, (Schema C).
 TOCTitle: ResponseCodeType complexType
 ms:assetid: 02ab835d-40cd-1b62-f3bf-c588f6ea714b
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429360(v=office.16)

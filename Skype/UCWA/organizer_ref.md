@@ -1,5 +1,6 @@
 ---
 title: organizer reference
+description: Describes the organizer object and defines its web link, resource description, properties, links, and examples.
 ---
 # organizer
 

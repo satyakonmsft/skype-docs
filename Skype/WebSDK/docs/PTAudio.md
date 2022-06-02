@@ -1,5 +1,6 @@
 ---
 title: Skype for Business 2015 Audio
+description: Describes operations that can be applied to audio conversations and provides links to articles for the operations.
 ---
 # Audio
 

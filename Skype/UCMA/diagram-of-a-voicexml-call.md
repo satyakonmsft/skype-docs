@@ -1,5 +1,6 @@
 ﻿---
 title: Diagram of a VoiceXML call
+description: Provides a diagram of a VoiceXML call as it relates to Skype for Business 2015 and provides a numbered list that describes the process shown in the diagram.
 TOCTitle: Diagram of a VoiceXML call
 ms:assetid: 81874951-9055-4c44-9869-fc2028ac957f
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466124(v=office.16)

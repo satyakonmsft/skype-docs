@@ -1,5 +1,6 @@
 ﻿---
 title: Contacts and groups management
+description: Describes Contacts and groups management as it relates to Skype for Business 2015 and provides a link to the ContactGroupServices class.
 TOCTitle: Contacts and groups management
 ms:assetid: 593ff8d7-9cf6-47e9-911a-b767694848c2
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465926(v=office.16)

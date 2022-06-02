@@ -1,5 +1,6 @@
 ﻿---
 title: Port element (QualityEndPointType complexType) (Schema C)
+description: Describes the Schema C iteration of the Port element (QualityEndPointType complexType) and provides the element's definition, parent elements, and information.
 TOCTitle: Port element (QualityEndPointType complexType)
 ms:assetid: f3f50a06-c9a7-37ce-4f97-288b2579faa0
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404812(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Port element (Schema C)
+# Port element (QualityEndPointType complexType) (Schema C)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

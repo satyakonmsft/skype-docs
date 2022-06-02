@@ -1,5 +1,6 @@
 ---
 title: Skype for Business 2015 startPhoneAudio2 reference
+description: Describes the startPhoneAudio2 operation and provides the operation's properties, links, operations, and examples.
 ---
 # startPhoneAudio2
 
