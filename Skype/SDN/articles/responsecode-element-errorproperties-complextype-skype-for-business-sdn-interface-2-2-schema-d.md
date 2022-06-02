@@ -1,5 +1,6 @@
 ﻿---
 title: ResponseCode element (ErrorProperties complexType) (Schema D)
+description: An overview of ResponseCode element (ErrorProperties complexType) (Schema D).
 TOCTitle: ResponseCode element (ErrorProperties complexType)
 ms:assetid: 8fcd18f7-a8cd-932c-1b2f-7a435c86b6d1
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170986(v=office.16)

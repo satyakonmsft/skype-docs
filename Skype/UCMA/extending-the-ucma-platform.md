@@ -1,5 +1,6 @@
 ﻿---
 title: Extending the UCMA platform
+description: Describes how to extend the UCMA 5.0 platform as it relates to Skype for Business 2015 and provides additional references.
 TOCTitle: Extending the UCMA platform
 ms:assetid: b1575336-4ee4-46a0-80ac-62b1731deec9
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466092(v=office.16)

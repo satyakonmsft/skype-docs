@@ -1,5 +1,6 @@
 ﻿---
 title: Conversation context channel
+description: Describes the Conversation context channel class as it relates to Skype for Business 2015 and outlines how to create and terminate the class.
 TOCTitle: Conversation context channel
 ms:assetid: a09a4e37-02f8-4a13-bb29-527dbd5ba086
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466012(v=office.16)

@@ -1,5 +1,6 @@
 ﻿---
 title: RenderDeviceDriver element (QualityPropertiesType complexType) (Schema D)
+description: An overview of RenderDeviceDriver element (QualityPropertiesType complexType) (Schema D).
 TOCTitle: RenderDeviceDriver element
 ms:assetid: 5f8e0e61-6955-4734-f819-f5f45690675a
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170983(v=office.16)

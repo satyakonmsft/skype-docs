@@ -1,5 +1,6 @@
 ﻿---
 title: Extending the MediaProvider class
+description: Describes the MediaProvider subclass and how to extend the MediaProvider class as it applies to Skype for Business 2015.
 TOCTitle: Extending the MediaProvider class
 ms:assetid: c3f53f4e-561d-4b00-bebd-8db4f3f1f0cc
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466099(v=office.16)
