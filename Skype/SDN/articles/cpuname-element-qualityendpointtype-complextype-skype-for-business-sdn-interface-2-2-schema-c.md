@@ -1,5 +1,6 @@
 ﻿---
 title: CPUName element (QualityEndPointType complexType) (Schema C)
+description: Describes the Schema C iteration of the CPUName element (QualityEndPointType complexType) and provides the element's definition and element information.
 TOCTitle: CPUName element
 ms:assetid: 7ad77f85-f8fc-1620-2f11-b35193926311
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404733(v=office.16)

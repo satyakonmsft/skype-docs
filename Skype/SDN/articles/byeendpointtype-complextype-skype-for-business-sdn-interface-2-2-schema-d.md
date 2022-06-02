@@ -1,5 +1,6 @@
 ﻿---
-title: ByeEndPointType complexType 
+title: ByeEndPointType complexType
+description: Describes the ByeEndPointType complexType and provides the type's definition, child elements, and type information.
 TOCTitle: ByeEndPointType complexType
 ms:assetid: 892cbcd0-404e-7f77-aa63-b64437ccbefa
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171055(v=office.16)

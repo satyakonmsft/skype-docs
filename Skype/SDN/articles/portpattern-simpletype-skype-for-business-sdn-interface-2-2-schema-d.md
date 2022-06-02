@@ -1,5 +1,6 @@
 ﻿---
-title: PortPattern simpleType 
+title: PortPattern simpleType
+description: Describes the Schema D iteration of the PortPattern simpleType and provides the type's definition, base type, namespace, and schema file.
 TOCTitle: PortPattern simpleType
 ms:assetid: 48777069-7002-0023-cc09-98381b13305f
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171051(v=office.16)

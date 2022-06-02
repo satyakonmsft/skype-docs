@@ -1,5 +1,6 @@
 ﻿---
 title: DegradationJitterAvg element (QualityPropertiesType complexType) (Schema C)
+description: Describes the Schema C iteration of the DegradationJitterAvg element (QualityPropertiesType complexType) and provides the element's definition.
 TOCTitle: DegradationJitterAvg element
 ms:assetid: d53411a8-54d9-05a4-0417-cb22a9af26be
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404738(v=office.16)

@@ -1,5 +1,6 @@
 ﻿---
 title: MSDiagnosticsPublic element (MessageProperties complexType) Schema D
+description: Describes the Schema D iteration of the MSDiagnosticsPublic (MessageProperties complexType) element and provides the element's definition.
 TOCTitle: MSDiagnosticsPublic element (MessageProperties complexType)
 ms:assetid: 807f4528-0481-ff44-770c-d227b08939e0
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170929(v=office.16)

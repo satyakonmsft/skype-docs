@@ -1,5 +1,6 @@
 ﻿---
 title: Appendix to Skype for Business SDN Interface
+description: Provides an appendix to the Skype for Business SDN interface with various linked example, estimate, and overview articles.
 TOCTitle: Appendix to Skype for Business SDN Interface
 ms:assetid: 96830fcf-2a72-4a2a-8b3b-b523e0e8f4cd
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn785225(v=office.16)

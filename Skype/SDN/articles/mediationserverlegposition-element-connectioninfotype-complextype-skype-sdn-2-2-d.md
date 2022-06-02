@@ -1,5 +1,6 @@
 ﻿---
 title: MediationServerLegPosition element (ConnectionInfoType complexType) (Schema D)
+description: Describes the Schema D iteration of the MediationServerLegPosition element and provides the element's definition, parent elements, and information.
 TOCTitle: MediationServerLegPosition element
 ms:assetid: 340e2dd8-fec7-5728-2688-3a0bae1aef4b
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170917(v=office.16)

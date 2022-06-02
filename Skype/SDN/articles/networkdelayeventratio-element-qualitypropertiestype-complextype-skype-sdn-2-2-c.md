@@ -1,5 +1,6 @@
 ﻿---
 title: NetworkDelayEventRatio element (QualityPropertiesType complexType) Schema C
+description: Describes the Schema C iteration of the NetworkDelayEventRatio element and provides the element's definition, parent elements, and information.
 TOCTitle: NetworkDelayEventRatio element
 ms:assetid: 44017134-b5b2-9615-46f2-060fbdcdaaf3
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404804(v=office.16)

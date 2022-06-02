@@ -1,5 +1,6 @@
 ﻿---
 title: BSSID element (QualityEndPointType complexType) Schema C
+description: Describes the Schema C iteration of the BSSID element and provides the element's definition, parent elements, and element information.
 TOCTitle: BSSID element
 ms:assetid: b95e0903-780f-601a-cd33-07d113693da8
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404707(v=office.16)

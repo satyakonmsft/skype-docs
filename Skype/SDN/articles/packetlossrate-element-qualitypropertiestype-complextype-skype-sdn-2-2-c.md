@@ -1,5 +1,6 @@
 ﻿---
 title: PacketLossRate element (QualityPropertiesType complexType) (Schema C)
+description: Describes the Schema C iteration of the PacketLossRate element and provides the element's definition, parent elements, and information.
 TOCTitle: PacketLossRate element
 ms:assetid: 04e3662c-3ff1-0ddb-22e4-83f51a584faa
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404807(v=office.16)

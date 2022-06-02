@@ -1,5 +1,6 @@
 ﻿---
 title: OverallAvgNetworkMOS element (QualityPropertiesType complexType) (Schema C)
+description: Describes the Schema C iteration of the OverallAvgNetworkMOS element and provides the element's definition, parent elements, and information.
 TOCTitle: OverallAvgNetworkMOS element
 ms:assetid: 4bd89431-d42b-1271-f30d-282c75c154b8
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404805(v=office.16)

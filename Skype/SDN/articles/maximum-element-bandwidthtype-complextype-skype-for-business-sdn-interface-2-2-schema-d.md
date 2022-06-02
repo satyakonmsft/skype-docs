@@ -1,5 +1,6 @@
 ﻿---
 title: Maximum element (BandwidthType complexType) (Schema D)
+description: Describes the Schema D iteration of the Maximum element and provides the element's definition, parent elements, and information.
 TOCTitle: Maximum element
 ms:assetid: a989552a-972f-ab92-daa7-a914b9abf6b0
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170915(v=office.16)

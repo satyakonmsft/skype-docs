@@ -1,5 +1,6 @@
 ﻿---
 title: PAI element (QualityEndPointType complexType) (Schema D)
+description: Describes the Schema D iteration of the PAI element (QualityEndPointType complexType) and provides the element's definition, parent elements, and information.
 TOCTitle: PAI element (QualityEndPointType complexType)
 ms:assetid: 75ec0091-721f-55d2-2cff-70308ccb40a6
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170937(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# PAI element (Schema D)
+# PAI element (QualityEndPointType complexType) (Schema D)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

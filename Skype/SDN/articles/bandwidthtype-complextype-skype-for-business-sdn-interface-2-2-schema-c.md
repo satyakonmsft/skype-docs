@@ -1,5 +1,6 @@
 ﻿---
 title: BandwidthType complexType Schema C
+description: Describes the Schema C iteration of the BandwidthType complexType and provides the type's definitions, child elements, and attributes.
 TOCTitle: BandwidthType complexType
 ms:assetid: 76ff9fdd-8b40-9657-ecc5-7457718d84ed
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429347(v=office.16)

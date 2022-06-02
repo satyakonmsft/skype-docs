@@ -1,5 +1,6 @@
 ﻿---
 title: OS element (QualityEndPointType complexType) (Schema D)
+description: Describes the Schema D iteration of the OS element and provides the element's definition, parent elements, and information.
 TOCTitle: OS element
 ms:assetid: 453ce3a9-05f6-5c8a-59bf-0442f720230f
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170931(v=office.16)

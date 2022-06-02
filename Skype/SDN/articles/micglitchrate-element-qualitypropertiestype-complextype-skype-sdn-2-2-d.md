@@ -1,5 +1,6 @@
 ﻿---
 title: MicGlitchRate element (QualityPropertiesType complexType) Schema D
+description: Describes the Schema D iteration of the MicGlitchRate element and provides the element's definition, parent elements, and information.
 TOCTitle: MicGlitchRate element
 ms:assetid: 8f4bf090-db78-e182-7b55-c7835518fdc2
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170918(v=office.16)

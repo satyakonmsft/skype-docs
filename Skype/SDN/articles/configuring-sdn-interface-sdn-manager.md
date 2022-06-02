@@ -1,5 +1,6 @@
 ﻿---
 title: Configuring SDN Interface SDN Manager
+description: Describes how to configure SDN Interface SDN Manager and outlines operational modes of the SDN manager.
 TOCTitle: Configuring SDN Interface SDN Manager
 ms:assetid: bf193e5f-86cd-4080-8a94-3a47c9d81f08
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt148354(v=office.16)

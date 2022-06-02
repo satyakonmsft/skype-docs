@@ -1,5 +1,6 @@
 ﻿---
 title: Learn about the ConnectionInfo element (MessageType complexType) schema D
+description: Describes the schema D iteration of the Connection Info element (MessageType complexType) and provides the element's definition and attributes.
 TOCTitle: ConnectionInfo element
 ms:assetid: f8d90b19-b999-277a-881b-f50ac080f820
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149453(v=office.16)
