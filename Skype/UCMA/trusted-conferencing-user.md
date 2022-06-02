@@ -1,5 +1,6 @@
 ﻿---
 title: Trusted conferencing user
+description: Describes the trusted conferencing user feature as it relates to Skype for Business 2015 and provides links to various topics included in the section.
 TOCTitle: Trusted conferencing user
 ms:assetid: d3fefefc-1c54-43db-b85b-d02d45d3a9f7
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466005(v=office.16)

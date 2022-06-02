@@ -1,5 +1,6 @@
 ﻿---
 title: Transactions performance counters
+description: Describes Transactions performance counters and provides a table that summarizes and provides a name for various CounterTypes.
 TOCTitle: Transactions performance counters
 ms:assetid: 5bfe2e12-f59a-4e40-93fc-95537b26fbc8
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466116(v=office.16)
