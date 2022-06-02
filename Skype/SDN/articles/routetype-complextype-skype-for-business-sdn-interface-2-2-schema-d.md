@@ -1,5 +1,6 @@
 ﻿---
 title: RouteType complexType (Schema D)
+description: An overview of the RouteType complexType (Schema D).
 TOCTitle: RouteType complexType
 ms:assetid: 64fcf40f-6a51-c719-2f9c-b14f6511d5e4
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171072(v=office.16)

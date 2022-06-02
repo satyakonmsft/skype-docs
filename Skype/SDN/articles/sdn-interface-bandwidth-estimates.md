@@ -1,5 +1,6 @@
 ---
 title: SDN Interface Bandwidth Estimates
+description: An overview of SDN Interface bandwidth estimates, which provide bandwidth estimate data for the Skype for Business SDN Interface.
  
 ms.assetid: 35458e8f-29ee-4bc5-b2bc-51bbe390b8d5
 ---

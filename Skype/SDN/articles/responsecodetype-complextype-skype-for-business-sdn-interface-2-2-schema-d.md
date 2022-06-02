@@ -1,5 +1,6 @@
 ﻿---
 title: ResponseCodeType complexType (Schema D)
+description: An overview of the ResponseCodeType complexType, (Schema D).
 TOCTitle: ResponseCodeType complexType
 ms:assetid: 5e7155e9-7fb2-4e50-e765-e863d1a60596
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171071(v=office.16)

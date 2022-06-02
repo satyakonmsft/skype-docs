@@ -1,5 +1,6 @@
 ﻿---
 title: Relay element (EndPointType complexType) (Schema D)
+description: An overview of Relay element (EndPointType complexType) (Schema D).
 TOCTitle: Relay element (EndPointType complexType)
 ms:assetid: 628c5584-46c2-babb-9d0d-8647152ffa38
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170973(v=office.16)

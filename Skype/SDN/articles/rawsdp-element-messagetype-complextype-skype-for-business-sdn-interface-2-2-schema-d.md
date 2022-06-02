@@ -1,5 +1,6 @@
 ﻿---
 title: RawSDP element (MessageType complexType) (Schema D)
+description: Describes the Schema D iteration of the RawSDP element (MessageType complexType) and provides the element's definition, parent elements, and information.
 TOCTitle: RawSDP element
 ms:assetid: b2fedf2d-7c27-b2fc-534b-bbbb2ffc862c
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170954(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# RawSDP element (Schema D)
+# RawSDP element (MessageType complexType) (Schema D)
 
 (MessageType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
