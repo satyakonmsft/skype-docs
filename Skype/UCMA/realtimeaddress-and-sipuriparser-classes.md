@@ -1,5 +1,6 @@
 ﻿---
 title: RealTimeAddress and SipUriParser classes
+description: An overview of RealTimeAddress and SipUriParser classes.
 TOCTitle: RealTimeAddress and SipUriParser classes
 ms:assetid: bfd16534-406d-4703-b04f-bb0e067f2fdd
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466054(v=office.16)

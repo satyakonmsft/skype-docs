@@ -1,5 +1,6 @@
 ﻿---
 title: PublishPresence (QuickStart)
+description: An overview of PublishPresence (QuickStart) for Skype for Business 2015.
 TOCTitle: PublishPresence (QuickStart)
 ms:assetid: d3ae55a9-9cf6-40aa-9cab-33aeceb2ae37
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn454837(v=office.16)

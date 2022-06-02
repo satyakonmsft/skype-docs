@@ -1,5 +1,6 @@
 ﻿---
 title: Outgoing messages performance counters
+descriiption: An overview of outgoing messages performance counters.
 TOCTitle: Outgoing messages performance counters
 ms:assetid: 430937ae-3128-497b-9ec3-24d4ce04df9c
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466084(v=office.16)
