@@ -1,5 +1,6 @@
 ﻿---
 title: QuickStart sample applications
+description: An overview of QuickStart sample applications for Skype for Business 2015.
 TOCTitle: QuickStart sample applications
 ms:assetid: 3186fd60-eefc-4c62-bf06-413dc1512e0c
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466129(v=office.16)

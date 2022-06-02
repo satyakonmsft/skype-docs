@@ -1,5 +1,6 @@
 ﻿---
 title: 'Pre-meeting: conference scheduling'
+description: An overview of pre-meeting conference scheduling.
 TOCTitle: 'Pre-meeting: conference scheduling'
 ms:assetid: 8a7c5693-48d0-4c22-a4b7-e7c1e1719573
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465923(v=office.16)

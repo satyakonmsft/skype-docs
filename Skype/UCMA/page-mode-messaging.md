@@ -1,5 +1,6 @@
 ﻿---
 title: Page-mode messaging
+description: An overview of page-mode messaging.
 TOCTitle: Page-mode messaging
 ms:assetid: c05a6e23-3fb2-4d4b-a48e-eaeb576fdeff
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466059(v=office.16)
