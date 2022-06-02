@@ -1,5 +1,6 @@
 ﻿---
 title: Publishing presence
+description: An overview of publishing presence.
 TOCTitle: Publishing presence
 ms:assetid: 49504cd7-0dc0-4bee-9a28-1a81e33c69a2
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465950(v=office.16)
@@ -12,7 +13,7 @@ mtps_version: v=office.16
 
 **Applies to**: Skype for Business 2015
 
-Microsoft Unified Communications Managed API 5.0 permits automatic presence publications for UCMA 5.0 endpoints during endpoint establishment. This applies to the [ApplicationEndpoint](/dotnet/api/microsoft.rtc.collaboration.applicationendpoint?view=ucma-api) and [UserEndpoint](/dotnet/api/microsoft.rtc.collaboration.userendpoint?view=ucma-api) types.
+Microsoft Unified Communications Managed API 5.0 permits automatic presence publications for UCMA 5.0 endpoints during endpoint establishment. This applies to the [ApplicationEndpoint](/dotnet/api/microsoft.rtc.collaboration.applicationendpoint?view=ucma-api&preserve-view=true) and [UserEndpoint](/dotnet/api/microsoft.rtc.collaboration.userendpoint?view=ucma-api&preserve-view=true) types.
 
 ## Automatic presence publication
 

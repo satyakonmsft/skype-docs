@@ -1,5 +1,6 @@
 ﻿---
 title: Migration and coexistence details (UCMA 2.0 and UCMA 3.0)
+description: An overview of migration and coexistence details (UCMA 2.0 and UCMA 3.0).
 TOCTitle: Migration and coexistence details (UCMA 2.0 and UCMA 3.0)
 ms:assetid: 969fa41d-6941-4327-9fd3-5879153b7977
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466121(v=office.16)

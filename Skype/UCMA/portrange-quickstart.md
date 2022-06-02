@@ -1,5 +1,6 @@
 ﻿---
 title: PortRange (QuickStart)
+description: An overview of PortRange (QuickStart) for Skype for Business 2015.
 TOCTitle: PortRange (QuickStart)
 ms:assetid: 50620ffb-d04f-474b-bba5-68965ee89026
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn454815(v=office.16)

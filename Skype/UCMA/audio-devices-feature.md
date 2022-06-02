@@ -1,5 +1,6 @@
 ﻿---
 title: Audio devices (feature)
+description: Discusses the Microsoft Unified Communications Managed API 5.0 provides the following integrated audio devices Recorder, Player, Speech recognition.
 TOCTitle: Audio devices
 ms:assetid: ce151696-2fec-49f4-842a-fa5e69f625d7
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465951(v=office.16)

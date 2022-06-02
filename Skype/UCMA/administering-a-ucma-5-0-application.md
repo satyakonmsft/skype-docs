@@ -1,5 +1,6 @@
 ---
 title: Administering a UCMA 5.0 application
+description: Discusses administering a UCMA 5.0 application for Skype for Business 2015 including SIP stack performance counters, media stack performance counters.
 TOCTitle: Administering a UCMA 5.0 application
 ms:assetid: 7f341709-38a6-424d-bae6-262c97c196e0
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466103(v=office.16)

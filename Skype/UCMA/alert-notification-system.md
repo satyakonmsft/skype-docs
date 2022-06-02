@@ -1,5 +1,6 @@
 ---
 title: Alert notification system
+description: Discusses the alert notification system including key components of the alert notification system, typical call flow and related features.
 TOCTitle: Alert notification system
 ms:assetid: e75d50af-2a7e-4558-bb18-7bcf2c66560f
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465952(v=office.16)

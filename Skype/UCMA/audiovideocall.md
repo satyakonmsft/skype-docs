@@ -1,5 +1,6 @@
 ﻿---
 title: AudioVideoCall (Unified Communications Managed API 5.0)
+description: Discusses how the AudioVideoCall class handles the "audio" and "video" media types and the transitions between states.
 TOCTitle: AudioVideoCall
 ms:assetid: bb378db5-96e7-47df-937d-9f912e33d609
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466040(v=office.16)
