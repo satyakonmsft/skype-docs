@@ -1,5 +1,6 @@
 ﻿---
 title: High availability and recovery
+description: Describes high availability and recovery as it applies to Skype for Business 2015 and provides links to various topics.
 TOCTitle: High availability and recovery
 ms:assetid: 9b356d12-2faa-44b6-a95c-0f7a3a5eb84c
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466065(v=office.16)

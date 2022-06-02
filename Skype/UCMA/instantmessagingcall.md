@@ -1,5 +1,6 @@
 ﻿---
 title: InstantMessagingCall
+description: Describes the InstantMessagingCall object and the necessary association with a Conversation object as it relates to Skype for Business 2015.
 TOCTitle: InstantMessagingCall
 ms:assetid: e3b82993-177c-4c66-b801-b69f17e1e022
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466023(v=office.16)
