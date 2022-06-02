@@ -1,5 +1,6 @@
 ﻿---
 title: Trunk element (InviteEndPointType complexType) 
+description: An overview of the Trunk element (InviteEndPointType complexType), Schema D.
 TOCTitle: Trunk element (InviteEndPointType complexType)
 ms:assetid: 28d05249-09b3-fef0-b663-3871eb0ba8ec
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171015(v=office.16)
