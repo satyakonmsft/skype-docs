@@ -1,5 +1,6 @@
 ﻿---
 title: AudioVideoMcuSession
+description: Discusses how the AudioVideoMcuSession class represents the audio/video specific implementation of the media-agnostic McuSession class.
 TOCTitle: AudioVideoMcuSession
 ms:assetid: e22ada5b-ba71-4c0c-92dc-273c1b5ed185
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466029(v=office.16)

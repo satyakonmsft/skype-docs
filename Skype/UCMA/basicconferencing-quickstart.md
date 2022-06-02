@@ -1,5 +1,6 @@
 ﻿---
 title: BasicConferencing (QuickStart)
+description: Discusses the BasicConferencing (QuickStart) including description, features, prerequisites, and running the sample in Skype for Business 2015.
 TOCTitle: BasicConferencing (QuickStart)
 ms:assetid: 87398899-e1a8-48c4-9137-9ea2d741ac1c
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466142(v=office.16)

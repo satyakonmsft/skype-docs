@@ -1,5 +1,6 @@
 ---
 title: Back-to-back user agent architecture
+description: Discusses the Back-to-back user agent architecture based on interactions between the Call and MediaProvider abstract classes.
 TOCTitle: Back-to-back user agent architecture
 ms:assetid: 433baf9b-d4c3-441d-a5fb-9f4010cc0f21
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465993(v=office.16)
