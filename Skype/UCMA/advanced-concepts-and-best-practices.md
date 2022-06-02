@@ -1,5 +1,6 @@
 ﻿---
 title: Advanced concepts and best practices
+description: Describes advanced concepts and best practices to extend the Microsoft Unified Communications Managed API 5.0 platform.
 TOCTitle: Advanced concepts and best practices
 ms:assetid: 19c1416f-fa55-4ccc-a0fb-42519abb16a1
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466079(v=office.16)

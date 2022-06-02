@@ -1,5 +1,6 @@
 ﻿---
 title: Player (QuickStart)
+description: An overview of Player (QuickStart) for Skype for Business 2015.
 TOCTitle: Player (QuickStart)
 ms:assetid: 479967c3-7fc8-4884-83f7-ea92c9893026
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn454813(v=office.16)

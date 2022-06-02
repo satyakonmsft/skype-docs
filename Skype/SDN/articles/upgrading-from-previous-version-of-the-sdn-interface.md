@@ -1,5 +1,6 @@
 ﻿---
 title: Upgrading from previous version of the SDN Interface 
+description: About upgrading from previous version of the SDN Interface.
 TOCTitle: Upgrading from previous version of the SDN Interface
 ms:assetid: 8d3c28fa-dabe-4a52-9882-a6663ced5217
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn912664(v=office.16)

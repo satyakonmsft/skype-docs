@@ -1,5 +1,6 @@
 ﻿---
 title: Wireless element (ErrorEndPointType complexType) 
+description: Discusses the attributes of the Wireless element ErrorEndPointType complexType Skype for Business SDN Interface 2.2, Schema "D".
 TOCTitle: Wireless element (ErrorEndPointType complexType)
 ms:assetid: 66132279-f8e2-e0fa-0593-0550dcdda4c9
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171040(v=office.16)

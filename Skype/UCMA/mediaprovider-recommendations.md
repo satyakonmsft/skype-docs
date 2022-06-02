@@ -1,5 +1,6 @@
 ---
 title: MediaProvider recommendations
+description: Learn about MediaProvider recommendations.
 TOCTitle: MediaProvider recommendations
 ms:assetid: 11d654ce-5c01-4255-be80-1df7db15f9d4
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466113(v=office.16)

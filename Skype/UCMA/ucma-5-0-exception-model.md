@@ -1,5 +1,6 @@
 ---
 title: UCMA 5.0 exception model
+description: Describes how Microsoft Unified Communications Managed API 5.0 follows the standard .NET Framework exception model for reporting exceptions.
 TOCTitle: UCMA 5.0 exception model
 ms:assetid: 4978a9ab-3ef3-456c-b3ac-d12ad06c03d9
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466072(v=office.16)
@@ -48,7 +49,7 @@ The following custom exception classes are implemented in UCMA 5.0:
 
 - **CallOperationFailureException**
 
-  Thrown when failure occurs on a class derived from the [Call](/dotnet/api/microsoft.rtc.collaboration.call?view=ucma-api) class. The **FailureReason** property indicates the cause of failure. The following example shows the preferred way to catch this exception.
+  Thrown when failure occurs on a class derived from the [Call](/dotnet/api/microsoft.rtc.collaboration.call&preserve-view=true) class. The **FailureReason** property indicates the cause of failure. The following example shows the preferred way to catch this exception.
 
   ```powershell  
         try
@@ -148,5 +149,5 @@ The following object model lists the exceptions that are specific to UCMA 5.0.
 
 ## See also
 
-- [Microsoft.Rtc.Collaboration Namespace](/dotnet/api/microsoft.rtc.collaboration?view=ucma-api-5.0)
-- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](https://docs.microsoft.com/dotnet/api/Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml?view=ucma-voice)
+- [Microsoft.Rtc.Collaboration Namespace](/dotnet/api/microsoft.rtc.collaboration&preserve-view=true)
+- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](/dotnet/api/Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml&preserve-view=true)

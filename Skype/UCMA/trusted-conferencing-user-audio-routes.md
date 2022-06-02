@@ -1,5 +1,6 @@
 ﻿---
 title: Trusted conferencing user audio routes
+description: Describes operations that can bew performed after a trusted conferencing user has joined a conference as it relates to Skype for Business 2015.
 TOCTitle: Trusted conferencing user audio routes
 ms:assetid: 380ef3fd-5da8-48ec-8df8-3a453c030914
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466008(v=office.16)

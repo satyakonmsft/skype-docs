@@ -1,5 +1,6 @@
 ---
 title: Azure Active Directory - Service to Service calls using Client Credentials
+description: Discusses additional information for the Azure Active Directory - Service to Service calls using Client Credentials
 ---
 # Azure Active Directory - Service to Service calls using Client Credentials
 

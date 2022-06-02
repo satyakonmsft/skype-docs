@@ -1,5 +1,6 @@
 ---
 title: Trusted Application API reference
+description: Discusses the reference materials for Trusted Application API programmers including a list of resources and links.
 ---
 # **Trusted Application API** reference
 
