@@ -1,5 +1,6 @@
 ---
 title: Activating a manually-provisioned application
+description: Discusses activating a manually-provisioned application using  Skype for Business Server 2015 topology and Active Directory.
 TOCTitle: Activating a manually-provisioned application
 ms:assetid: 26903c64-1b34-4473-9d9e-67070655890c
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466122(v=office.16)
