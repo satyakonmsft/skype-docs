@@ -1,5 +1,6 @@
 ---
 title: Skype for Business 2015 attendees reference
+description: Describes the attendees resource and provides the resource's links, Azure AD scopes, events, operations, and examples.
 ---
 # attendees
 

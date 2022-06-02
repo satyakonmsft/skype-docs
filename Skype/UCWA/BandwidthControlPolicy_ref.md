@@ -1,5 +1,6 @@
 ---
 title: BandwidthControlPolicy reference
+description: Describes the BandwidthControlPolicy resource, which enumerates bandwidth control policy values, and describes the resource's members.
 ---
 # BandwidthControlPolicy
 
@@ -12,7 +13,7 @@ An enumeration of bandwidth control policy values.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |Off|Off|
 |OffReportMode|OffReportMode|

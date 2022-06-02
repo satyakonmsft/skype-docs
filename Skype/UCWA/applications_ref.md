@@ -1,5 +1,6 @@
 ---
 title: applications reference
+description: Describes the applications resource and provides the resource's properties, links, operations, and code examples.
 ---
 # applications
 
@@ -15,7 +16,7 @@ Represents the entry point for registering this application with the server.
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -50,7 +51,7 @@ This very first operation used to create an instance of the application resource
 
 
 
-|**Name**|**Description**|**Required?**|
+|Name|Description|Required?|
 |:-----|:-----|:-----|
 |culture|Gets or sets the Culture of the client. Cannot be null or empty.The maximum length is 100 characters. String|Yes|
 |endpointId|Gets or sets a unique Id for this application. This value is required and cannot be null or empty.This value does not have to necessarily match the device id on which the application is running. But, it should be unique among applications for the same user currently running across all the devices.The maximum length is 100 characters. String|Yes|
@@ -61,7 +62,7 @@ This very first operation used to create an instance of the application resource
 
 
 
-|**Item**|**Description**|
+|Item|Description|
 |:-----|:-----|
 |[application](Application_ref.md)|Represents your real-time communication application.|
 
@@ -71,7 +72,7 @@ This very first operation used to create an instance of the application resource
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |Forbidden|403|None|Forbidden when a federated Office Communications Server 2007 R2 user joins a meeting.|
 |Forbidden|403|None|Indicates that user is not allowed to create mobile application.|
@@ -485,7 +486,7 @@ None
 
 
 
-|**Item**|**Description**|
+|Item|Description|
 |:-----|:-----|
 ||Metadata returned in response to HTTP OPTIONS request.|
 
