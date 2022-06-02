@@ -1,5 +1,6 @@
 ---
 title: AccessLevel reference
+description: Describes the AccessLevel resource, which represents the access levels for an online meeting, and provides the resource's members.
 ---
 # AccessLevel
 

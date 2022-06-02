@@ -1,5 +1,6 @@
 ---
 title: CallTerminationReason
+description: Describes the CallTerminationReason resource, which correlates to why a call is terminated, and provides a list of the resource's members.
 ---
 # CallTerminationReason
 

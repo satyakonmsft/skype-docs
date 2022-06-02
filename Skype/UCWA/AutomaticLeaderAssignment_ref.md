@@ -1,5 +1,6 @@
 ---
 title: AutomaticLeaderAssignment reference
+description: Describes the AutomaticLeaderAssignment resource, which defines which users are promoted in a meeting, and describes the resource's members.
 ---
 # AutomaticLeaderAssignment
 

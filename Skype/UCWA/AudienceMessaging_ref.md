@@ -1,5 +1,6 @@
 ---
 title: AudienceMessaging
+description: Describes the AudienceMessaging resource, which represents messaging modality states for audience members, and provides the resource's members.
 ---
 # AudienceMessaging
 

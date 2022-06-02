@@ -1,5 +1,6 @@
 ---
 title: anonApplications reference
+description: Describes the anonApplications resource and provides its properties, links, operations, and code examples.
 ---
 # anonApplications
 

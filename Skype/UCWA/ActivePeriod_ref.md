@@ -1,5 +1,6 @@
 ---
 title: ActivePeriod reference
+description: Describes the ActivePeriod resource, which represents when call forwarding settings are active, and provides the resource's members.
 ---
 # ActivePeriod
 

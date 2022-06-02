@@ -1,3 +1,7 @@
+---
+title: acceptWithAnswer reference
+description: Describes the acceptWithAnswer resource, which accepts an invitation that requires SDP, and provides the resource's members.
+---
 # acceptWithAnswer
 
  _**Applies to:** Skype for Business 2015_

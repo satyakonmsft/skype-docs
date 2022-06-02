@@ -1,5 +1,6 @@
 ---
 title: Voice companion (sample)
+description: Provides a sample that shows how to create a CollaborationPlatform instance using the ServerPlatformSettings constructor.
 TOCTitle: Voice companion (sample)
 ms:assetid: 4aa901e9-7de1-41cd-8978-49c832f15c07
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn454820(v=office.16)

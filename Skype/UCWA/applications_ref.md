@@ -1,5 +1,6 @@
 ---
 title: applications reference
+description: Describes the applications resource and provides the resource's properties, links, operations, and code examples.
 ---
 # applications
 

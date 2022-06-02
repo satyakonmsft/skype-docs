@@ -1,5 +1,6 @@
 ---
 title: CallForwardingState reference
+description: Describes the CallForwardingState resource, which represents if and how calls are forwarded, and provides a list of the resource's members.
 ---
 # CallForwardingState
 

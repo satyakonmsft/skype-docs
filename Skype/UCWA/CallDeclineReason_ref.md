@@ -1,5 +1,6 @@
 ---
 title: CallDeclineReason
+description: Describes the CallDeclineReason resource, which represents why a call is declined, and provides a list of the resource's members.
 ---
 # CallDeclineReason
 

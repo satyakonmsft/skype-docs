@@ -1,5 +1,6 @@
 ---
 title: AudioTranscriptStatus reference
+description: Describes the AudioTranscriptStatus resource, which represents the audio transcript type, and provides the resource's members.
 ---
 # AudioTranscriptStatus
 

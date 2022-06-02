@@ -1,5 +1,6 @@
 ﻿---
 title: VoiceXML 2.0 support
+description: Provides an overview of VoiceXML 2.0 support and provides links to documentation for further information.
 TOCTitle: VoiceXML 2.0 support
 ms:assetid: 7d7be90b-51f1-41fb-bb25-0184302302e0
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465938(v=office.16)

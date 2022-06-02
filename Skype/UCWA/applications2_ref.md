@@ -1,5 +1,6 @@
 ---
 title: applications2 reference
+description: Describes the applications2 resource and provides the resource's links, operations, and code examples.
 ---
 # applications2
 
