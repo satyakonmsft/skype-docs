@@ -1,6 +1,6 @@
 ---
 title: startVideo
-description: startVideo represents an operation to start AudioVideo. This token indicates the user has ability to start only video.
+description: Describes the startVideo operation and provides the operation's properties, links, operations, and examples.
 ---
 
 # startVideo

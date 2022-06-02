@@ -1,5 +1,6 @@
 ---
 title: reportMediaDiagnostics
+description: Describes the reportMediaDiagnostics operation and provides its properties, links, operations, and examples.
 ---
 # reportMediaDiagnostics
 
