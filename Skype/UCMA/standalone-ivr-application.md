@@ -1,5 +1,6 @@
 ---
 title: Standalone IVR application
+description: An overview of the Standalone IVR application for Skype for Business 2015
 TOCTitle: Standalone IVR application
 ms:assetid: e824ca31-c9fa-4ba6-99de-bdc090e3547c
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465937(v=office.16)
