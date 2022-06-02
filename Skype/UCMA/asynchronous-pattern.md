@@ -1,5 +1,6 @@
 ﻿---
 title: Asynchronous pattern
+description: Discusses the Microsoft Unified Communications Managed API 5.0 for middle-tier applications, for which performance is one of the most important goals.
 TOCTitle: Asynchronous pattern
 ms:assetid: 74da9223-e635-43cf-9e98-d9c7f8a6be38
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466078(v=office.16)
