@@ -1,5 +1,6 @@
 ﻿---
 title: SignalingSession (Unified Communications Managed API 5.0)
+description: An overview of the SignalingSession (Unified Communications Managed API 5.0).
 TOCTitle: SignalingSession
 ms:assetid: 9ecca9a4-af5b-4df8-9e4d-41d20df8f8ec
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466048(v=office.16)

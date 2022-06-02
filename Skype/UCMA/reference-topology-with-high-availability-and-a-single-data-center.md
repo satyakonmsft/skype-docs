@@ -1,5 +1,6 @@
 ﻿---
 title: Reference topology with high availability and a single data center
+description: About reference topology with high availability and a single data center.
 TOCTitle: Reference topology with high availability and a single data center
 ms:assetid: 4fd9ab0c-46e9-4d64-aa87-74e4dca802e4
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465972(v=office.16)
