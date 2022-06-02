@@ -1,5 +1,6 @@
 ﻿---
 title: QualityUpdate element (MessageType complexType) (Schema D)
+description: Describes the Schema D iteration of the QualityUpdate element (MessageType complexType) and provides the element's definition, parent elements, and information.
 TOCTitle: QualityUpdate element
 ms:assetid: 5949a98c-b419-789f-566c-97b56fca0416
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170952(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# QualityUpdate element (Schema D)
+# QualityUpdate element (MessageType complexType) (Schema D)
 
 (MessageType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
