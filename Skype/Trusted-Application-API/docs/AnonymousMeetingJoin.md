@@ -28,7 +28,7 @@ In [Registering your application in Azure AD](RegistrationInAzureActiveDirectory
 - Create on-demand Skype meetings (preview)
 - Send/Receive Instant Messages (preview)
 
-![Screenshot of the required permissions for Guest user join services (preview), Send/Receive Audio and Video (preview), Create on-demand Skype meetings (preview), Send/Receive Instant Messages (preview) and an accept or cancel button choice.](./images/GuestMeetingJoinTenantConsent.png "image") 
+![Screenshot of the required permissions for Guest user join services (preview), Send/Receive Audio and Video (preview), Create on-demand Skype meetings (preview), Send/Receive Instant Messages (preview) and an accept or cancel button choice.](./images/GuestMeetingJoinTenantConsent.png "image")
 
 ![Screenshot of dropdown options with selection boxes for application permissions](./images/RegistrationForGuestMeetingJoin.png "image")
 
