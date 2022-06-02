@@ -1,5 +1,6 @@
 ﻿---
 title: UCMA 5.0 implementation architecture and application behavior
+description: Describes general platform behavior that is expected across various components for Microsoft Unified Communications Managed API 5.0.
 TOCTitle: UCMA 5.0 implementation architecture and application behavior
 ms:assetid: 583aba66-4638-4158-b8fd-e22619d89dad
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466075(v=office.16)
@@ -34,5 +35,5 @@ This section includes the following topics:
 
 ## See also
 
-- [Microsoft.Rtc.Collaboration Namespace](/dotnet/api/microsoft.rtc.collaboration?view=ucma-api-5.0)
-- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](/dotnet/api/Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml?view=ucma-voice)
+- [Microsoft.Rtc.Collaboration Namespace](/dotnet/api/microsoft.rtc.collaboration&preserve-view=true)
+- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](/dotnet/api/Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml&preserve-view=true)
