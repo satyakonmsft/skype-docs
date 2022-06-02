@@ -1,5 +1,6 @@
 ﻿---
 title: AudioVideoCall samples
+description: Provides a list of quick start links that illustrate AudioVideoCall and AudioVideoFlow objects for Skype for Business 2015. 
 TOCTitle: AudioVideoCall samples
 ms:assetid: 1defa47e-cbde-4255-9f67-ae84ca8dc83d
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466130(v=office.16)
