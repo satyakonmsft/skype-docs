@@ -1,5 +1,6 @@
 ﻿---
 title: Relay element (QualityEndPointType complexType) (Schema D)
+description: An overview of Relay element (QualityEndPointType complexType) (Schema D).
 TOCTitle: Relay element (QualityEndPointType complexType)
 ms:assetid: a2a2eaad-4b13-38e4-6d0d-33eba115a549
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170975(v=office.16)
