@@ -1,5 +1,6 @@
 ﻿---
 title: UCMA 5.0 SDK software and hardware requirements
+description: Describes software and hardware requirements for Microsoft Unified Communications Managed API 5.0 SDK.
 TOCTitle: Software and hardware requirements
 ms:assetid: 521f7820-f6ed-4706-905d-9802674ab029
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465960(v=office.16)
@@ -53,5 +54,5 @@ The following are the hardware requirements for successful installation of UCMA 
 
 ## See also
 
-- [Microsoft.Rtc.Collaboration Namespace](/dotnet/api/microsoft.rtc.collaboration?view=ucma-api-5.0)
-- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](/dotnet/api/Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml?view=ucma-voice)
+- [Microsoft.Rtc.Collaboration Namespace](/dotnet/api/microsoft.rtc.collaboration&preserve-view=true)
+- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](/dotnet/api/Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml&preserve-view=true)

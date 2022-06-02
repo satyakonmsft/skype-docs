@@ -1,5 +1,6 @@
 ﻿---
 title: Incoming messages performance counters
+description: Describes incoming message performance counters as it applies to Skype for Business 2015 and provides a table that summarizes various CounterTypes.
 TOCTitle: Incoming messages performance counters
 ms:assetid: 9d261563-dde5-418f-9031-afde9b7e27ec
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466117(v=office.16)

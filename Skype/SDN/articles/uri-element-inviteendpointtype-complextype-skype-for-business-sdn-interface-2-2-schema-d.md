@@ -1,5 +1,6 @@
 ﻿---
 title: URI element (InviteEndPointType complexType) (Schema D)
+description: Discusses the code and syntax for the URI element InviteEndPointType complexType Schema D Skype for Business SDN Interface 2.2.
 TOCTitle: URI element (InviteEndPointType complexType)
 ms:assetid: a991ef73-fda5-90c5-3959-1ab6d1567797
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171020(v=office.16)
