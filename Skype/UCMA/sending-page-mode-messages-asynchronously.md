@@ -1,5 +1,6 @@
 ﻿---
 title: Sending page-mode messages asynchronously
+description: An overview of sending page-mode messages asynchronously for Skype for Business 2015.
 TOCTitle: Sending page-mode messages asynchronously
 ms:assetid: cfbc3cd0-f357-40e7-b6c3-8bc0d78493e1
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466050(v=office.16)

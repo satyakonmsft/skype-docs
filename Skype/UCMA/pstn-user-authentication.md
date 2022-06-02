@@ -1,5 +1,6 @@
 ﻿---
 title: PSTN user authentication
+description: An overview of PSTN user authentication.
 TOCTitle: PSTN user authentication
 ms:assetid: 8e0d8150-57bc-49ab-a190-e7e25d42df05
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465941(v=office.16)
