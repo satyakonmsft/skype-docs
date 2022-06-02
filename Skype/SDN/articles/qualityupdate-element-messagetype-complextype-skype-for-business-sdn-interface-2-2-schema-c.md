@@ -1,5 +1,6 @@
 ﻿---
 title: QualityUpdate element (MessageType complexType) (Schema C)
+description: Describes the Schema C iteration of the QualityUpdate element (MessageType complexType) and provides the element's definition, parent elements, and information.
 TOCTitle: QualityUpdate element
 ms:assetid: 853d90f7-9f35-f2c7-7aa3-64f0121ef4f5
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404819(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# QualityUpdate element (Schema C)
+# QualityUpdate element (MessageType complexType) (Schema C)
 
 (MessageType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

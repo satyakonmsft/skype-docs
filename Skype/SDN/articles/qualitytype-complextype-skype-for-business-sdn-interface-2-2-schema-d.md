@@ -1,5 +1,6 @@
 ﻿---
 title: QualityType complexType (Schema D)
+description: Describes the Schema D iteration of the QualityType complexType and provides the type's definition, child elements, attributes, and information.
 TOCTitle: QualityType complexType
 ms:assetid: 300b4904-2f47-ee80-bc52-0598bbc9dfe7
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171073(v=office.16)

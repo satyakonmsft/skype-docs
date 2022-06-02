@@ -1,5 +1,6 @@
 ---
 title: PowerShell Provisioning
+description: Describes PowerShell provisioning as it applies to Lync Server 2013, Skype for Business 2015, and Skype for Business 2019.
 ms.assetid: 00f474ba-ffbe-4a3d-969f-2993a382df56
 ---
 

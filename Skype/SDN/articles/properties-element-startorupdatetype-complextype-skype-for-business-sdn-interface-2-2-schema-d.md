@@ -1,5 +1,6 @@
 ﻿---
 title: Properties element (StartOrUpdateType complexType) (Schema D)
+description: Describes the Schema D iteration of the Properties element (StartOrUpdateType complexType) and provides the element's definition and parent elements.
 TOCTitle: Properties element (StartOrUpdateType complexType)
 ms:assetid: 022bc8fb-02cc-285d-46b8-b89200878d18
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170946(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Properties element (Schema D)
+# Properties element (StartOrUpdateType complexType) (Schema D)
 
 (StartOrUpdateType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

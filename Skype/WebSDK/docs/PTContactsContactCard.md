@@ -1,5 +1,6 @@
 ---
 title: Display Contact Card
+description: Describes displaying contact cards and provides a code example that reuses logic from the contact search and builds a table containing information.
 ---
 # Display Contact Card
 

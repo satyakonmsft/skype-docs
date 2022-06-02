@@ -1,5 +1,6 @@
 ﻿---
 title: QualityPropertiesType complexType (Schema C)
+description: Describes the Schema C iteration of the QualityPropertiesType complexType and provides the type's definition, child elements, and information.
 TOCTitle: QualityPropertiesType complexType
 ms:assetid: e2794aea-3eb8-573c-ae53-3b4c44faa480
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429361(v=office.16)

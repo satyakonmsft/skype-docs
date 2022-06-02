@@ -1,5 +1,6 @@
 ﻿---
 title: Port element (EndPointType complexType) (Schema C)
+description: Describes the Schema C iteration of the Port element (EndPointType complexType) and provides the element's definition, parent elements, and information.
 TOCTitle: Port element (EndPointType complexType)
 ms:assetid: 400ae4b6-8fc7-3d5b-1f07-b6b4bf279f53
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404811(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Port element (Schema C)
+# Port element (EndPointType complexType) (Schema C)
 
 (EndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

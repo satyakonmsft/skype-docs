@@ -1,5 +1,6 @@
 ---
 title: Skype for Business 2015 Local User
+description: Describes local user operations in the Skype Web SDK and provides links to documentation for each operation.
 ---
 # Local User
 
