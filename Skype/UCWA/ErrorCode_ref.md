@@ -1,5 +1,6 @@
 ---
 title: ErrorCode reference
+description: Describes error codes as they apply to Skype for Business 2015 and provides a list of related members.
 ---
 # ErrorCode
 
@@ -12,7 +13,7 @@ Error Codes
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |BadRequest|Request Error.|
 |Conflict|Conflict.|
