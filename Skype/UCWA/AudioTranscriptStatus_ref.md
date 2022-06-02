@@ -13,7 +13,7 @@ Represents the type of an audio transcript.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |Connected|The connected event for the audio transcript.|
 |Ended|The ended event for the audio transcript.|

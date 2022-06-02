@@ -1,5 +1,6 @@
 ﻿---
 title: Using an AudioVideoFlowTemplate
+description: Describes how to use an AudioVideoFlowTemplate instance as it applies to Skype for Business 2015 and provides code examples.
 TOCTitle: Using an AudioVideoFlowTemplate
 ms:assetid: d73d357f-5fe1-4a7d-b1c6-be1a2dec2882
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466033(v=office.16)

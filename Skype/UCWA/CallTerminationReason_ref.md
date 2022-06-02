@@ -13,7 +13,7 @@ The reason why a call was terminated.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |CallEstablishFailureBothInternal|The call failed to establish due to a media connectivity failure where both endpoints are internal.|
 |CallEstablishFailureOneInternalOneExternal|The call failed to establish due to a media connectivity failure where one endpoint is internal and the otheris remote.|

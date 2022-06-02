@@ -20,7 +20,7 @@ was set to AccessLevel.Locked.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |Everyone|Everyone is admitted into the online meeting.|
 |Invited|Only invited participants from the same company are admitted into the online meeting.All other participants are placed in the online meeting lobby.|

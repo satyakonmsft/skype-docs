@@ -13,7 +13,7 @@ An enumeration of bandwidth control policy values.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |Off|Off|
 |OffReportMode|OffReportMode|

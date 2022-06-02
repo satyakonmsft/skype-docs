@@ -11,7 +11,7 @@ _**Applies to:** Skype for Business 2015_
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |CodecMismatch|The call is declined because of mismatch codecs.|
 |EncryptionMismatch|The call is declined because of SRTP Negotiation issue|

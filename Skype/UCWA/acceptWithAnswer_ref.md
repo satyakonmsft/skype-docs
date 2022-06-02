@@ -15,7 +15,7 @@ Accepts an invitation that requires SDP (audio/video, application sharing).
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -37,7 +37,8 @@ None
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
+
+|Scope|Permission|Description|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
 |Conversations.Receive|Receive conversation invites|Allows the app to receive instant messages, audio, video, and desktop sharing invitations on-behalf of the signed-in user|
@@ -60,7 +61,7 @@ Allows application to accept an incoming invitation that requires a media answer
 
 
 
-|**Name**|**Description**|**Required?**|
+|Name|Description|Required?|
 |:-----|:-----|:-----|
 |processedOfferId|Optional input to specify the SDP multi-part content id when answering a multi-part SDP.When answering an incoming offer that has a multi-part SDP, clients can choose to specify the content id of the offer for which the SDP answer corresponds to.The maximum length is 100 characters.|No|
 |sessionContext|The context of the session.The maximum length is 50 characters.|Yes|
@@ -71,7 +72,7 @@ Allows application to accept an incoming invitation that requires a media answer
 
 
 
-|**Name**|**Description**|**Required?**|
+|Name|Description|Required?|
 |:-----|:-----|:-----|
 |sdp|The body that represents the SDP data.Array of Byte|No|
 
@@ -87,7 +88,7 @@ None
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |ServiceFailure|500|CallbackChannelError|The remote event channel is not reachable|
 |Conflict|409|AlreadyExists|The already exists error.|

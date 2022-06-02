@@ -13,7 +13,7 @@ Represents the states of the [messaging modality](messaging_ref.md) for all memb
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |Disabled|Messaging is disabled for all members of the conversation.|
 |Enabled|Messaging is enabled for all members of the conversation.|

@@ -14,7 +14,7 @@ Skype for Business Server provides to enterprises a suite of platforms and solut
 **The UCWA architecture in a Skype for Business Server 2015 deployment**
 
 
-![UCWA architecture in a Lync Server 2013 deployment](images/UCWA15Con_ArchitectureTopology.png)
+![Diagram of the U C W A 2 point 0 architecture showing a cell phone communicating to the reverse proxy, which communicates with the Skype for Business server.](images/UCWA15Con_ArchitectureTopology.png)
 
 The illustration shows the UCWA 2.0 architecture in Skype for Business Server 2015 deployment at a high level. Some of the components that are involved are:
 
@@ -33,7 +33,7 @@ The following illustration shows how UCWA 2.0 fits into the Skype for Business S
 
 **How a UCWA application interacts with Skype for Business Server 2015**
 
-![How a UCWA application interacts with Lync Server 2013](images/UCWA15Con_HomeServerArch.png)
+![Diagram of a U C W A application interacting with Skype for Business Server 2015 by flowing web traffic through the Web Infra layer.](images/UCWA15Con_HomeServerArch.png)
 
 All web traffic flows through the Web Infra layer that is responsible for authentication as well as throttling. This layer is also responsible for proxying traffic to the next hop server; that is, the user's home server. 
 

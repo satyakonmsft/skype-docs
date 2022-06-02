@@ -13,7 +13,7 @@ Defines which users are automatically promoted to leaders when they join the mee
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |Disabled|No one is automatically promoted to leader.Pre-invited leaders can still join the online meeting as leaders.|
 |Everyone|Everyone is automatically promoted to leader on joining the online meeting.|

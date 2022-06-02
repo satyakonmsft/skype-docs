@@ -13,7 +13,7 @@ Represents the call state.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |Connected|Connected.|
 |Connecting|Connecting.|
