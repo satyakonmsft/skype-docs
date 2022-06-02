@@ -1,5 +1,6 @@
 ---
 title: presenceSubscriptionMemberships reference
+description: Describes the presenceSubscriptionMemberships object and provides its properties, operations, links, and examples.
 ---
 # presenceSubscriptionMemberships reference
 

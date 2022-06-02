@@ -1,5 +1,6 @@
 ﻿---
 title: Replaces element (StartPropertiesType complexType) 
+description: An overview of Replaces element (StartPropertiesType complexType) Schema D.
 TOCTitle: Replaces element
 ms:assetid: 4933dd76-abf7-9b98-1feb-c35184aafdf2
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170984(v=office.16)

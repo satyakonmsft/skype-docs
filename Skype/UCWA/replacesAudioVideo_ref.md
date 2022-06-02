@@ -1,5 +1,6 @@
 ---
 title: replacesAudioVideo reference
+description: Describes the replacesAudioVideo resource and provides its properties, links, operations, and examples.
 ---
 # replacesAudioVideo reference
 

@@ -1,5 +1,6 @@
 ﻿---
 title: ResponseCode element (MessageProperties complexType) (Schema D)
+description: An overview of the ResponseCode element (MessageProperties complexType) (Schema D).
 TOCTitle: ResponseCode element (MessageProperties complexType)
 ms:assetid: cef77f6d-f6c7-f1d3-8e6f-1859e1203576
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170987(v=office.16)

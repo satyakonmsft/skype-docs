@@ -1,5 +1,6 @@
 ---
 title: user reference for Skype for Business 2015
+description: Describes the user reference entry point to the API and provides its properties, links, operations, and examples.
 ---
 # user reference for Skype for Business 2015
 

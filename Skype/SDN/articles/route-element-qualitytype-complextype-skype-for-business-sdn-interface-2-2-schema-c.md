@@ -1,5 +1,6 @@
 ﻿---
 title: Route element (QualityType complexType) (Schema C)
+description: An overview of the Route element (QualityType complexType) (Schema C).
 TOCTitle: Route element (QualityType complexType)
 ms:assetid: 998c92ca-3df6-99c0-d47b-0dd6e04af190
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404846(v=office.16)

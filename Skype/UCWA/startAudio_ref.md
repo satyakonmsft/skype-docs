@@ -1,5 +1,6 @@
 ---
 title: startAudio reference
+description: Describes the startAudio operation and provides the operation's properties, links, operations, and examples.
 ---
 # startAudio reference
 

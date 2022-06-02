@@ -1,5 +1,6 @@
 ﻿---
 title: ResponsePhrase element (ErrorProperties complexType) (Schema C)
+description: An overview of the ResponsePhrase element (ErrorProperties complexType) (Schema C).
 TOCTitle: ResponsePhrase element
 ms:assetid: 2bf26bda-5530-ae73-af72-4fdb89a7ee83
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404843(v=office.16)
