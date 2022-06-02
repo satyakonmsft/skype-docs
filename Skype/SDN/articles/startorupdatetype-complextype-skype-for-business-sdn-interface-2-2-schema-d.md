@@ -1,5 +1,6 @@
 ﻿---
 title: StartOrUpdateType complexType (Schema D)
+description: Overview of the StartOrUpdateType complexType (Schema D).
 TOCTitle: StartOrUpdateType complexType
 ms:assetid: 7023ae43-40d9-c4b8-d8eb-530cb383130e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171075(v=office.16)

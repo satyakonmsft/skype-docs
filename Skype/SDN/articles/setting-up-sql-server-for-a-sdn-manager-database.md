@@ -1,5 +1,6 @@
 ﻿---
 title: Setting up SQL Server for a SDN manager database
+description: An overview of setting up a SQL Server for a SDN manager database.
 TOCTitle: Setting up SQL Server for a SDN manager database
 ms:assetid: 2b38badb-b30d-4003-8d18-c84c150feb91
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn785200(v=office.16)

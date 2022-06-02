@@ -1,5 +1,6 @@
 ---
 title: Skype for Business 2015 Authentication using Username and Password
+description: Describes authentication using a username and password, and provides a code example for this authentication method.
 ---
 # Authentication using Username and Password
 

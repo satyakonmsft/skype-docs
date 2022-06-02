@@ -1,5 +1,6 @@
 ﻿---
 title: RelayPort element (QualityEndPointType complexType) (Schema D)
+description: An overview of RelayPort element (QualityEndPointType complexType) (Schema D).
 TOCTitle: RelayPort element (QualityEndPointType complexType)
 ms:assetid: 7167e863-3ad6-9630-24d9-93f487884555
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170978(v=office.16)

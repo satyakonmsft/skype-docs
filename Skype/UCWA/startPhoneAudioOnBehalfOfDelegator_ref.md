@@ -1,5 +1,6 @@
 ---
 title: startPhoneAudioOnBehalfOfDelegator reference
+description: Describes the startPhoneAudioOnBehalfOfDelegator operation and provides the operation's properties, links, operations, and examples.
 ---
 # startPhoneAudioOnBehalfOfDelegator
 

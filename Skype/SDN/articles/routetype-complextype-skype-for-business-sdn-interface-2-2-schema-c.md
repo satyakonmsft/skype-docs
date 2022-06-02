@@ -1,5 +1,6 @@
 ﻿---
 title: RouteType complexType (Schema C)
+description: An overview of the RouteType complexType (Schema C).
 TOCTitle: RouteType complexType
 ms:assetid: 10df71d4-bf18-bda6-bae6-29a757664fd7
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429362(v=office.16)

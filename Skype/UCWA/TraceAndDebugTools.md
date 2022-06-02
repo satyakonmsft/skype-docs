@@ -1,5 +1,6 @@
 ---
 title: Trace and debug tools reference
+description: Describes the trace and debug tools that are available to web application developers, such as Fiddler.
 ---
 # Trace and debug tools reference
 Learn about the Fiddler debugging proxy, the built-in debugging capabilities of popular web browsers.

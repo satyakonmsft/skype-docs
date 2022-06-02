@@ -1,5 +1,6 @@
 ﻿---
 title: ReflexivePort element (QualityEndPointType complexType) Schema C
+description: Describes the Schema C iteration of the ReflexivePort element (QualityEndPointType complexType) and provides the element's definition and parent elements.
 TOCTitle: ReflexivePort element (QualityEndPointType complexType)
 ms:assetid: 53578acb-255b-77ad-514e-c7653363be52
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404831(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# ReflexivePort element Schema C
+# ReflexivePort element (QualityEndPointType complexType) Schema C
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

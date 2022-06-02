@@ -1,5 +1,6 @@
 ﻿---
 title: DNS load balancing (Unified Communications Managed API 5.0)
+description: Describes DNS load balancing as it relates to Skype for Business 2015 and provides additional references.
 TOCTitle: DNS load balancing
 ms:assetid: c9a63210-ada3-4a93-aa57-4fdbe0a95dc2
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465931(v=office.16)

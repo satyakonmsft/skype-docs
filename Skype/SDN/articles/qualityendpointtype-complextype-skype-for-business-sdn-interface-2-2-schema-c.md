@@ -1,5 +1,6 @@
 ﻿---
 title: QualityEndPointType complexType (Schema C)
+description: Describes the Schema C iteration of the QualityEndPointType complexType and provides the type's definition, child elements, and information.
 TOCTitle: QualityEndPointType complexType
 ms:assetid: a7a18f94-9b7b-8138-f44a-679f7667c57a
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429357(v=office.16)

@@ -1,5 +1,6 @@
 ﻿---
 title: Protocol element (QualityPropertiesType complexType) (Schema D)
+description: Describes the Schema D iteration of the Protocol element (QualityPropertiesType complexType) and provides the element's definition and parent elements.
 TOCTitle: Protocol element (QualityPropertiesType complexType)
 ms:assetid: 62976bf7-2fd1-1974-9a8c-565c3142ac3e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170950(v=office.16)

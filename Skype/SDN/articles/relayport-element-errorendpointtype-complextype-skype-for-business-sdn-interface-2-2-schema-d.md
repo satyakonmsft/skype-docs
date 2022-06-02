@@ -1,5 +1,6 @@
 ﻿---
 title: RelayPort element (ErrorEndPointType complexType) 
+description: An overview of RelayPort element (ErrorEndPointType complexType) (Schema D).
 TOCTitle: RelayPort element (ErrorEndPointType complexType)
 ms:assetid: 78507156-1b8d-e16b-84f8-8950cf58a091
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170982(v=office.16)
