@@ -1,5 +1,6 @@
 ﻿---
 title: StreamQualityType complexType 
+description: Overview of the StreamQualityType complexType.
 TOCTitle: StreamQualityType complexType
 ms:assetid: 236f8a1c-9dad-1d72-8861-26f2837522f3
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171076(v=office.16)

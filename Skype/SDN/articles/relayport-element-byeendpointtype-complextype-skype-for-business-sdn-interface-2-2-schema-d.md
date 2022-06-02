@@ -1,5 +1,6 @@
 ﻿---
 title: RelayPort element (ByeEndPointType complexType) 
+description: An overview of RelayPort element (ByeEndPointType complexType) (Schema D).
 TOCTitle: RelayPort element (ByeEndPointType complexType)
 ms:assetid: 5e91a05a-fba5-30ad-1db1-ab64e284e589
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170979(v=office.16)

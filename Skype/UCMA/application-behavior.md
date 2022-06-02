@@ -1,5 +1,6 @@
 ﻿---
 title: Application behavior
+description: Discusses application behavior to ensure that event handlers and method callbacks do not throw exceptions back to the platform.
 TOCTitle: Application behavior
 ms:assetid: eecd7cfa-21a2-4b86-ae1d-66a6324d3f26
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466077(v=office.16)

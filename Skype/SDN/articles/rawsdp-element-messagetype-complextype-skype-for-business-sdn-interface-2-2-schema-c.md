@@ -1,5 +1,6 @@
 ﻿---
 title: RawSDP element (MessageType complexType) (Schema C)
+description: Describes the Schema C iteration of the RawSDP element (MessageType complexType) and provides the element's definition, parent elements, and information.
 TOCTitle: RawSDP element
 ms:assetid: e26c05ef-e809-02db-70ab-97b552488be0
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404821(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# RawSDP element (Schema C)
+# RawSDP element (MessageType complexType) (Schema C)
 
 (MessageType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

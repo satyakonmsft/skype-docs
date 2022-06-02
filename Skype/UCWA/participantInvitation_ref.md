@@ -1,5 +1,6 @@
 ---
 title: participantInvitation reference
+description: Describes participantInvitation and provides its properties, events, updates, operations, and synchronous errors.
 ---
 # participantInvitation
 

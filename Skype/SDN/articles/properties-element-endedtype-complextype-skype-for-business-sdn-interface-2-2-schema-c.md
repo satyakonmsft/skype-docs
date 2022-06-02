@@ -1,5 +1,6 @@
 ﻿---
 title: Properties element (EndedType complexType) (Schema C)
+description: Describes the Schema C iteration of the Properties element (EndedType complexType) and provides the element's definition, parent elements, and information.
 TOCTitle: Properties element (EndedType complexType)
 ms:assetid: f07e9f41-a11c-b61a-ef95-582df82f3f17
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404814(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Properties element (Schema C)
+# Properties element (EndedType complexType) (Schema C)
 
 (EndedType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

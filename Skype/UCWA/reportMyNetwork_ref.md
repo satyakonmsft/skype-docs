@@ -1,5 +1,6 @@
 ---
 title: reportMyNetwork reference
+description: Describes the reportMyNetwork resource and provides the resource's properties, links, operations, and examples.
 ---
 # reportMyNetwork reference
 

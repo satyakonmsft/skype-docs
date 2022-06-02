@@ -1,5 +1,6 @@
 ﻿---
 title: SpoiledTilePercentAverage element (QualityPropertiesType complexType) (Schema D)
+description: Overview of the SpoiledTilePercentAverage element (QualityPropertiesType complexType) (Schema D).
 TOCTitle: SpoiledTilePercentAverage element
 ms:assetid: caffd8d9-eb35-5659-0c24-b57439e1c41e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170997(v=office.16)

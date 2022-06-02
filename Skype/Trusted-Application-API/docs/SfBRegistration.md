@@ -1,5 +1,6 @@
 ---
 title: Registering a Trusted Application in Skype for Business Online
+description: Discusses registering a Trusted Application in Skype for Business Online via two steps, completed by the ISV or Developer and the Endpoint.
 ---
 # Registering a Trusted Application in Skype for Business Online
 

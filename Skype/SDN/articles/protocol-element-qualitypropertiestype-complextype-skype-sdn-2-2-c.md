@@ -1,5 +1,6 @@
 ﻿---
 title: Protocol element (QualityPropertiesType complexType) (Schema C)
+description: Describes the Schema C iteration of the Protocol element (QualityPropertiesType complexType) and provides the element's definition and parent elements.
 TOCTitle: Protocol element (QualityPropertiesType complexType)
 ms:assetid: 7c2b8c7a-b2f3-8c4e-22bb-cecd6fe1e92d
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404817(v=office.16)

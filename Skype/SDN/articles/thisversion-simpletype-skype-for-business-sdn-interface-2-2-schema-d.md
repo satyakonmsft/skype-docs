@@ -1,5 +1,6 @@
 ﻿---
 title: ThisVersion simpleType 
+description: An overview of the ThisVersion simpleType, Schema D.
 TOCTitle: ThisVersion simpleType
 ms:assetid: 571a287c-8368-f496-6adb-e2d9714d413e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171052(v=office.16)

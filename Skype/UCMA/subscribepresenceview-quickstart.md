@@ -1,5 +1,6 @@
 ﻿---
 title: SubscribePresenceView (QuickStart)
+description: An overview of SubscribePresenceView (QuickStart).
 TOCTitle: SubscribePresenceView (QuickStart)
 ms:assetid: 4a3d3894-80f2-4553-b719-25cc7fce92fc
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn454838(v=office.16)

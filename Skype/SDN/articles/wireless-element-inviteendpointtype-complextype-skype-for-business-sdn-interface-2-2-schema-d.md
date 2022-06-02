@@ -1,5 +1,6 @@
 ﻿---
 title: Wireless element (InviteEndPointType complexType) 
+description: Discusses the attributes of the Wireless element InviteEndPointType complexType Skype for Business SDN Interface 2.2, Schema "D".
 TOCTitle: Wireless element (InviteEndPointType complexType)
 ms:assetid: 11430716-f9db-4376-c51e-518e21cca8e8
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171039(v=office.16)

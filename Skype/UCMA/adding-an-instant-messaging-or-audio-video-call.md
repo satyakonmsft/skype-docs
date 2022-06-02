@@ -1,5 +1,6 @@
 ﻿---
 title: Adding an instant messaging or audio/video call
+description: Discusses the actions that must be taken to add an instant messaging or audio/video call to Skype for Business 2015.
 TOCTitle: Adding an instant messaging or audio/video call
 ms:assetid: d6107a1b-5f2a-40c5-8bbe-df2214acd04d
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466018(v=office.16)

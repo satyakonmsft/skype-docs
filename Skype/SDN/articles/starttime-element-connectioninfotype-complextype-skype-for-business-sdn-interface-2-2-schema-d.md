@@ -1,5 +1,6 @@
 ﻿---
 title: StartTime element (ConnectionInfoType complexType) (Schema D)
+description: Overview of the StartTime element (ConnectionInfoType complexType) (Schema D).
 TOCTitle: StartTime element
 ms:assetid: 034a9539-e001-bec3-2224-433f98824ee3
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171003(v=office.16)

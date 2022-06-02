@@ -1,5 +1,6 @@
 ﻿---
 title: RecvListenMOSMin element (QualityPropertiesType complexType) Schema D
+description: Describes the Schema D iteration of the RecvListenMOSMin element (QualityPropertiesType complexType) and provides the element's definition and parent elements.
 TOCTitle: RecvListenMOSMin element
 ms:assetid: 2314a370-96c9-db30-62cd-1a7552f47e33
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170961(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# RecvListenMOSMin element Schema D
+# RecvListenMOSMin element (QualityPropertiesType complexType) Schema D
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

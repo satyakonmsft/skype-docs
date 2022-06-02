@@ -1,5 +1,6 @@
 ---
 title: Unified Communications Web API 2.0 SDK documentation 
+description: Provides an overview of the Unified Communications Web API 2.0 SDK and provides links to general reference and API reference articles.
 ---
 # Unified Communications Web API 2.0 SDK documentation
 

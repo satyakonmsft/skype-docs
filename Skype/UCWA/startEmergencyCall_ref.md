@@ -1,5 +1,6 @@
 ---
 title: startEmergencyCall reference 
+description: Describes the startEmergencyCall operation and provides the operation's properties, links, operations, and examples.
 ---
 # startEmergencyCall reference
 

@@ -1,5 +1,6 @@
 ﻿---
 title: Receiving page-mode messages
+description: An overview of receiving page-mode messages.
 TOCTitle: Receiving page-mode messages
 ms:assetid: 88a178b6-766c-4f1b-b36b-d8bd945c5faa
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466058(v=office.16)
