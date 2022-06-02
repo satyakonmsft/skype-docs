@@ -1,5 +1,6 @@
 ﻿---
 title: Diagnostics and error reporting
+description: Describes diagnostics and error reporting as they relate to Skype for Business 2015 and provides a table that outlines a description for various ranges.
 TOCTitle: Diagnostics and error reporting
 ms:assetid: 6c2b33a0-a4f3-444f-a5fb-fb905bdd2f37
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466074(v=office.16)
