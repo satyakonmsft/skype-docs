@@ -1,5 +1,6 @@
 ---
 title: Running the SDN Manager
+description: An overview of running the SDN Manager.
  
 ms.assetid: 41743ca0-f297-4e11-8bd3-27bab2f4baee
 ---

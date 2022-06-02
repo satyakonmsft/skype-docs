@@ -1,5 +1,6 @@
 ﻿---
 title: Properties element (ErrorType complexType) (Schema C)
+description: Describes the Schema C iteration of the Properties element (ErrorType complexType) and provides the element's definition, parent elements, and information.
 TOCTitle: Properties element (ErrorType complexType)
 ms:assetid: b8dc6e6d-114d-55db-a16c-0a41628f0757
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404813(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Properties element (Schema C)
+# Properties element (ErrorType complexType) (Schema C)
 
 (ErrorType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

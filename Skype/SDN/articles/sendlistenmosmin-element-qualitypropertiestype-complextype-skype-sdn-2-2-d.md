@@ -1,5 +1,6 @@
 ﻿---
 title: SendListenMOSMin element (QualityPropertiesType complexType) (Schema D)
+description: An overview of the SendListenMOSMin element (QualityPropertiesType complexType) (Schema D).
 TOCTitle: SendListenMOSMin element
 ms:assetid: 65914d29-e009-1d6a-3786-52013829bd4f
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170991(v=office.16)

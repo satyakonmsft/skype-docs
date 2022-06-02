@@ -1,5 +1,6 @@
 ---
 title: Running and debugging SDN Interface
+description: An overview of running and debugging the SDN Interface.
  
 ms.assetid: 42f84254-82de-4ca9-81b2-902ac1addabb
 ---

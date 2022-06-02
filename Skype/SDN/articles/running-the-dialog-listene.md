@@ -1,5 +1,6 @@
 ---
 title: Running the Dialog Listener
+description: An overview of running the Dialog Listener.
  
 ms.assetid: f405de17-b1be-419e-a301-4055a4dfdaad
 ---

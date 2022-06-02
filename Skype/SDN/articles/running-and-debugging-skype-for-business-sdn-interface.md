@@ -1,5 +1,6 @@
 ﻿---
 title: Running and debugging Skype for Business SDN Interface
+description: An overview of running and debugging the Skype for Business SDN Interface.
 TOCTitle: Running and debugging Skype for Business SDN Interface
 ms:assetid: 42f84254-82de-4ca9-81b2-902ac1addabb
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn785213(v=office.16)

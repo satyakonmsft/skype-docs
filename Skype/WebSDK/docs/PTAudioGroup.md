@@ -1,5 +1,6 @@
 ---
 title: Skype for Business 2015 Group Audio Conversation
+description: Describes group audio conversations and provides a code example to start a group audio conversation and track participant events.
 ---
 # Group Audio Conversation
 
@@ -8,7 +9,7 @@ title: Skype for Business 2015 Group Audio Conversation
 
 ## Starting a group audio conversation
 
-The application object exposes a conversationsManager object which we can use to create new group conversation by calling createConvresation().  After creation of the conversation object, it is helpful to setup a few event listeners for when we are connected to audio, added participants, when participants are connected to audio, and when we disconnect from the conversation.
+The application object exposes a conversationsManager object which we can use to create new group conversation by calling createConversation().  After creation of the conversation object, it is helpful to setup a few event listeners for when we are connected to audio, added participants, when participants are connected to audio, and when we disconnect from the conversation.
 
 We can add participants to the conversation by calling add(...) providing a SIP URI on the participants collection of the conversation object.  We can use the audioService on the conversation object and call start() to initiate the call.
 
