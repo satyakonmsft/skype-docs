@@ -1,5 +1,6 @@
 ﻿---
 title: Call state transitions
+description: Discusses and illustrates call state transitions for outbound and incoming calls for Skype for Business 2015.
 TOCTitle: Call state transitions
 ms:assetid: 2f9176a0-b25f-43e0-a000-1fe5b5dfc56d
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465981(v=office.16)

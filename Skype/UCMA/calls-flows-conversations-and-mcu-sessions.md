@@ -1,5 +1,6 @@
 ﻿---
 title: Calls, flows, conversations, and MCU sessions
+description: Discusses calls, flows, conversations, and MCU sessions, as well as two-party communication, and multiparty communication.
 TOCTitle: Calls, flows, conversations, and MCU sessions
 ms:assetid: 8eac0275-344c-4546-a83e-2104ce8f7c6e
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465961(v=office.16)

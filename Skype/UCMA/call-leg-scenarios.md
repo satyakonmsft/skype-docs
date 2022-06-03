@@ -1,5 +1,6 @@
 ﻿---
 title: Call leg scenarios (Unified Communications Managed API 5.0)
+description: Discusses call let scenarios including Incoming-idle scenario,two-party call, conference call, and Click-to-call scenarios.
 TOCTitle: Call leg scenarios
 ms:assetid: f3eced9e-fb4e-4be8-8125-6cb46e164ca9
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466021(v=office.16)

@@ -1,5 +1,6 @@
 ---
 title: Calls (Unified Communications Managed API 5.0)
+description: Discusses a call which is a communication session between two endpoints, a local endpoint and a remote endpoint.
 TOCTitle: Calls
 ms:assetid: 010a8697-bd7a-47db-aeb5-183392f0cb1f
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465990(v=office.16)

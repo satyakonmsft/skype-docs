@@ -1,5 +1,6 @@
 ﻿---
 title: Call recovery usage
+description: Describes the code and syntax for an application that intends to wait for dialog healing, an event handler for the RouteSetStatusChanged event.
 TOCTitle: Call recovery usage
 ms:assetid: 6891b977-0949-411a-8525-52414753d7d5
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466066(v=office.16)
