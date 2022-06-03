@@ -1,5 +1,6 @@
 ---
 title: Conference lobby (Unified Communications Managed API 5.0)
+description: Discusses the conference lobby feature allows leaders to admit, deny, and eject participants from the lobby.
 TOCTitle: Conference lobby
 ms:assetid: a299808b-4228-4934-8fe7-7ec000382ee8
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465989(v=office.16)

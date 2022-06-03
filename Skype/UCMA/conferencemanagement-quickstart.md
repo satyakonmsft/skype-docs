@@ -1,5 +1,6 @@
 ﻿---
 title: ConferenceManagement (QuickStart)
+description: Discusses ConferenceManagement features, prerequisites, and running the sample for Skype for Business 2015.
 TOCTitle: ConferenceManagement (QuickStart)
 ms:assetid: 0e7252c6-1677-4b10-8713-1326830ab9e1
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn454817(v=office.16)

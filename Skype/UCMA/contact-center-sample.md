@@ -1,5 +1,6 @@
 ﻿---
 title: Contact Center (sample)
+description: Provides the sample location to find the contact center sample files for Skype for Business 2015.
 TOCTitle: Contact Center (sample)
 ms:assetid: 18bab0a0-6d24-4168-a75f-e404f7f8a970
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn454818(v=office.16)
