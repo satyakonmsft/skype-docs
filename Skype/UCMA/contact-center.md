@@ -1,5 +1,6 @@
 ﻿---
 title: Contact center (Unified Communications Managed API 5.0)
+description: Discusses front-office interactions, back-office interactions, UCMA system, typical call flow usage, customer care features.
 TOCTitle: Contact center
 ms:assetid: 68d51b20-9fd5-4b24-b3f7-23b81168536e
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465935(v=office.16)

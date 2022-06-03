@@ -1,5 +1,6 @@
 ﻿---
 title: TimeStamp element (ConnectionInfoType complexType) (Schema C)
+description: An overview of the TimeStamp element (ConnectionInfoType complexType) (Schema C).
 TOCTitle: TimeStamp element
 ms:assetid: bb7eaf3d-4b75-e7b9-0ebc-024b7e38a209
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404858(v=office.16)

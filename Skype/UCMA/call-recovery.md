@@ -1,5 +1,6 @@
 ﻿---
 title: Call recovery (Unified Communications Managed API 5.0)
+description: Discusses recovery mechanisms in Microsoft Unified Communications Managed API (UCMA) provide for call recovery in the event of server failure.
 TOCTitle: Call recovery
 ms:assetid: d489a8b4-0dda-41b4-9d45-da89d4af86f7
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466067(v=office.16)

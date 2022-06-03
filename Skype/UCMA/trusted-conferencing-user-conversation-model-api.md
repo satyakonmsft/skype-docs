@@ -1,5 +1,6 @@
 ﻿---
 title: Trusted conferencing user conversation model API
+description: Describes the Trusted Conferencing User model and provides multiple classes including the AudioVideoCallEstablishOptions class.
 TOCTitle: Trusted conferencing user conversation model API
 ms:assetid: eca1ffb3-4c96-4425-ad62-5f28c764600a
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466013(v=office.16)
@@ -150,7 +151,7 @@ The [RouteUpdateOperation](https://msdn.microsoft.com/library/hh366418\(v=office
 
 ### AudioVideoMcuRouting
 
-For UCMA 3.0, a new property was added to the [AudioVideoCall](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) class-the [AudioVideoMcuRouting](https://msdn.microsoft.com/library/hh381149\(v=office.16\)) property. This property returns a reference to the **AudioVideoMcuRouting** instance associated with a given **AudioVideoCall** instance. This property is never null, but if the **AudioVideoMcuRouting** methods are called with invalid arguments (such as empty audio routes), these methods throw exceptions.
+For UCMA 3.0, a new property was added to the [AudioVideoCall](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocalladd &preserve-view=true) class-the [AudioVideoMcuRouting](https://msdn.microsoft.com/library/hh381149\(v=office.16\)) property. This property returns a reference to the **AudioVideoMcuRouting** instance associated with a given **AudioVideoCall** instance. This property is never null, but if the **AudioVideoMcuRouting** methods are called with invalid arguments (such as empty audio routes), these methods throw exceptions.
 
 ### BeginEstablish
 

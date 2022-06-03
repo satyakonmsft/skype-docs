@@ -1,5 +1,6 @@
 ﻿---
 title: Autoprovisioning (QuickStart)
+description: Discusses the Autoprovisioning (QuickStart) including description, features, prerequisites, and running the sample in Skype for Business 2015.
 TOCTitle: Autoprovisioning (QuickStart)
 ms:assetid: 1d165a95-177b-4710-bdd7-ee20292e1f9c
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466139(v=office.16)

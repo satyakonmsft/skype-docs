@@ -1,5 +1,6 @@
 ﻿---
 title: Presence - self and remote
+description: An overview of presence - self and remote.
 TOCTitle: Presence - self and remote
 ms:assetid: 13b41e4f-dff6-46fc-83d9-0ae9ad651a17
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465964(v=office.16)

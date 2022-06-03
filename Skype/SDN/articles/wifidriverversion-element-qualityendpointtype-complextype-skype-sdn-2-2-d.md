@@ -1,5 +1,6 @@
 ﻿---
 title: WifiDriverVersion element (QualityEndPointType complexType) (Schema D)
+description: Discusses the attributes of the WifiDriverVersion element QualityEndPointType complexType Skype for Business SDN Interface 2.2, Schema "D".
 TOCTitle: WifiDriverVersion element
 ms:assetid: 3a1b3c3f-1d06-fa09-6b9f-93aa4935dab4
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171036(v=office.16)

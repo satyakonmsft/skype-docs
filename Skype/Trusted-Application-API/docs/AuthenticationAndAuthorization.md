@@ -1,5 +1,6 @@
 ---
-title: Authentication and Authorization
+title: Authentication and Authorization 
+description: Describes the Authentication and Authorization GET and response on the service:applications link returned by the discover operation.
 ---
 # Authentication and Authorization
 

@@ -1,5 +1,6 @@
 ---
 title: AudioVideoFlow (Unified Communications Managed API 5.0)
+description: Discusses how an AudioVideoFlow instance represents a media connection with a single remote participant.
 TOCTitle: AudioVideoFlow
 ms:assetid: 095bc495-8338-4cd7-8e1f-6964861728df
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466030(v=office.16)

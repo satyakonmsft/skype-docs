@@ -1,5 +1,6 @@
 ﻿---
 title: High availability and failover in UCMA 5.0
+description: Describes high availability and failover in UCMA 5.0 and outlines multiple classes including the SipEndpoint class and enumerations.
 TOCTitle: High availability and failover in UCMA 5.0
 ms:assetid: c8224e1f-0295-424e-9d93-d04f291816c3
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466068(v=office.16)

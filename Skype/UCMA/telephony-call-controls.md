@@ -1,5 +1,6 @@
 ﻿---
 title: Telephony call controls
+description: AN overview of telephony call controls for Skype for Business 2015.
 TOCTitle: Telephony call controls
 ms:assetid: 692373af-0f58-4dc9-8f60-da4557106ae5
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465956(v=office.16)

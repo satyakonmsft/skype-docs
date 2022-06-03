@@ -1,5 +1,6 @@
 ﻿---
 title: Call recovery concepts
+description: Discusses some call recovery concepts including FailureResponseException, RouteSetStatusChanged, and MaximumRetry.
 TOCTitle: Call recovery concepts
 ms:assetid: 119480e2-b2df-4654-8345-37d2b2696aef
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466070(v=office.16)

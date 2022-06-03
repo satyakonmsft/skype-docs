@@ -1,5 +1,6 @@
 ﻿---
 title: Conference invitation state transitions
+description: State transitions for the ConferenceInvitation class are described in this topic, both for inbound invitations as well as outbound invitations.
 TOCTitle: Conference invitation state transitions
 ms:assetid: fbab93a0-9137-41af-9f42-4e84d083eb24
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466001(v=office.16)

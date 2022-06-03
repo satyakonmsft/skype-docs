@@ -1,5 +1,6 @@
 ﻿---
 title: StreamQuality element (QualityPropertiesType complexType) (Schema D)
+description: Overview of the StreamQuality element (QualityPropertiesType complexType) (Schema D).
 TOCTitle: StreamQuality element
 ms:assetid: dc0ff96d-4d78-caed-44a0-3849b2ffa941
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171001(v=office.16)

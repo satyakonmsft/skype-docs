@@ -1,5 +1,6 @@
 ﻿---
 title: Call admission control usage scenarios
+description: Discusses call admission control usage scenarios including success, failure and redirect to PSTN for Skype for Business 2015.
 TOCTitle: Call admission control usage scenarios
 ms:assetid: fa499ce2-b28a-4b66-8e37-f8ce0fd8961e
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466097(v=office.16)

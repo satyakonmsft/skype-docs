@@ -1,5 +1,6 @@
 ﻿---
 title: Session dialog resiliency
+description: An overview of session dialog resiliency for Skype for Business 2015.
 TOCTitle: Session dialog resiliency
 ms:assetid: 20d6e2ea-0d2b-46ef-a35e-7ce77dc282fd
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465939(v=office.16)

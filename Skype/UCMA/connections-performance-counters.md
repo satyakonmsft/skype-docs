@@ -1,5 +1,6 @@
 ﻿---
 title: Connections performance counters
+description: Lists all the DefaultScale connections performance counters as they apply to Skype for Business 2015.
 TOCTitle: Connections performance counters
 ms:assetid: a30c7508-08ff-47bf-9f09-ba48eeffc054
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466112(v=office.16)

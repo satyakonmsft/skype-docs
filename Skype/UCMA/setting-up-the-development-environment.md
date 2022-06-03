@@ -1,5 +1,6 @@
 ﻿---
 title: Setting up the development environment
+description: An overview of setting up the development environment for Skype for Business 2015.
 TOCTitle: Setting up the development environment
 ms:assetid: 469a42a0-08fe-46cc-84a5-4f23ec35dd1a
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn454836(v=office.16)

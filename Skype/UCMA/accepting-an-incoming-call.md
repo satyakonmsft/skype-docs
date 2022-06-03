@@ -1,5 +1,6 @@
 ﻿---
 title: Accepting an incoming call
+description: Describes the code, syntax and process for accepting an incoming call on Skype for Business 2015.
 TOCTitle: Accepting an incoming call
 ms:assetid: 22ccda70-841f-47c7-a6ed-c871dd9e71e0
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466004(v=office.16)

@@ -1,5 +1,6 @@
 ﻿---
 title: Adding a modality to an existing conversation
+description: Adding a modality to an existing conversation is similar to adding audio-video to an instant messaging (IM) call. 
 TOCTitle: Adding a modality to an existing conversation
 ms:assetid: 3e3ba497-c663-461e-9a57-a9ad5cc0521c
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465986(v=office.16)

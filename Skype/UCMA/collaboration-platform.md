@@ -1,5 +1,6 @@
 ﻿---
 title: Collaboration platform
+description: Discusses the collaboration platform connection management for managing connections to and from the platform.
 TOCTitle: Collaboration platform
 ms:assetid: bad16211-f49a-4897-a978-14345082898c
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465954(v=office.16)

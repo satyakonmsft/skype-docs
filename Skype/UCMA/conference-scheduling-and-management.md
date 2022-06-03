@@ -1,5 +1,7 @@
 ﻿---
 title: Conference scheduling and management
+description: Discusses scheduling a conference, PSTN participants, joining a conference, conference commands and events, adding a call, McuSession operations.
+Applies to: Skype for Business 2015
 TOCTitle: Conference scheduling and management
 ms:assetid: 288ecb11-01d8-42af-9de0-24c98bb70216
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465962(v=office.16)

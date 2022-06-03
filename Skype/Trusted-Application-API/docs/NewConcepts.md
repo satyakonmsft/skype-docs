@@ -1,5 +1,6 @@
 ---
 title: Trusted Application API Key programming concepts
+description: Discusses Application API Key programming concepts including capabilities, style, and concepts of the Skype for Business Unified Communications Web API.
 ---
 # Trusted Application API Key programming concepts
 

@@ -1,5 +1,6 @@
 ---
 title: Skype for Business - Trusted Application Key scenarios
+description: Describes the two key scenarios for a Trusted Application, Your Service Application or Skype for Business Online events start the scenario.
 ---
 # Key scenarios
 
