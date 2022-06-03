@@ -1,5 +1,6 @@
 ---
 title: Availability reference
+description: Describes the Availability resource, which represents a contact's availability values, and provides the resource's members.
 ---
 # Availability
 
@@ -12,7 +13,7 @@ Represents a contact's availability values.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |Away|Away.|
 |BeRightBack|Be Right Back.|

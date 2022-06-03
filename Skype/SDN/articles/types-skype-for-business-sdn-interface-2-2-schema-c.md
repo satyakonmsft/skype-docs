@@ -1,5 +1,6 @@
 ﻿---
 title: Types (Skype for Business SDN Interface 2.2, Schema C)
+description: An overview of Types (Skype for Business SDN Interface 2.2, Schema C).
 TOCTitle: Types (Skype for Business SDN Interface 2.2, Schema C)
 ms:assetid: b3f12293-5760-784a-e448-ab7947cd8b9a
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429346(v=office.16)

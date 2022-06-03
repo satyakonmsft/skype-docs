@@ -1,5 +1,6 @@
 ﻿---
 title: RoundTrip element (QualityPropertiesType complexType) (Schema D)
+description: An overview of the RoundTrip element (QualityPropertiesType complexType) (Schema D).
 TOCTitle: RoundTrip element
 ms:assetid: a2a7cca8-5d43-efca-5e54-201a7a968966
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170988(v=office.16)

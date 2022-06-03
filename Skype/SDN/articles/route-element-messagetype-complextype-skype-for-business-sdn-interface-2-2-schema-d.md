@@ -1,5 +1,6 @@
 ﻿---
 title: Route element (MessageType complexType) (Schema D)
+description: An overview of the Route element (MessageType complexType) (Schema D).
 TOCTitle: Route element (MessageType complexType)
 ms:assetid: 031bb522-650f-fe6f-0dfd-a93c228cf5b1
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170989(v=office.16)

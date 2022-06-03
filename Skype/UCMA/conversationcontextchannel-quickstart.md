@@ -1,5 +1,6 @@
 ﻿---
 title: ConversationContextChannel (QuickStart)
+description: Describes the ConversationContextChannel (QuickStart) and provides the application's description, features, prerequisites, and outlines how to run a sample.
 TOCTitle: ConversationContextChannel (QuickStart)
 ms:assetid: 629b6197-eb45-4810-99fe-66bd44881d21
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn454821(v=office.16)
@@ -51,8 +52,8 @@ The application initializes the platform to start listening on behalf of a user,
 
 ## See also
 
-- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml?view=ucma-voice)
-- [Microsoft.Rtc.Collaboration Namespace](/dotnet/api/microsoft.rtc.collaboration?view=ucma-api-5.0)
+- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml?view=ucma-voice&preserve-view=true)
+- [Microsoft.Rtc.Collaboration Namespace](/dotnet/api/microsoft.rtc.collaboration?view=ucma-api-5.0&preserve-view=true)
 - [Contextual communication](contextual-communication.md)
 - [Conversation context channel](conversation-context-channel.md)
 - [Register contextual conversation packages](/lync/desktop/register-contextual-conversation-packages)

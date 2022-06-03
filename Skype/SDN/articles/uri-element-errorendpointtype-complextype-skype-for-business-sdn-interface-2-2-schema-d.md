@@ -1,5 +1,6 @@
 ﻿---
 title: URI element (ErrorEndPointType complexType) (Schema D)
+description: Discusses the code and syntax for the URI element ErrorEndPointType complexType Schema D Skype for Business SDN Interface 2.2.
 TOCTitle: URI element (ErrorEndPointType complexType)
 ms:assetid: ed71518a-4d26-48d7-67eb-fb8905f9fd8d
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171022(v=office.16)

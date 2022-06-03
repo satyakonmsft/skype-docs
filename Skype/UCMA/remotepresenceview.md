@@ -1,5 +1,6 @@
 ﻿---
 title: RemotePresenceView (Unified Communications Managed API 5.0)
+description: An overview of RemotePresenceView (Unified Communications Managed API 5.0).
 TOCTitle: RemotePresenceView
 ms:assetid: ad07c6ae-299d-4823-a1b9-2979ef545132
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466022(v=office.16)

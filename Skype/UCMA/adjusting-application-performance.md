@@ -1,5 +1,6 @@
 ﻿---
 title: Adjusting application performance
+description: Discusses adjusting application performance using the UseHighPerformance property which lets you choose between server performance or audio quality.
 TOCTitle: Adjusting application performance
 ms:assetid: cad3fdf3-04b0-4db0-9ef9-bf5e7929e87f
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466096(v=office.16)

@@ -1,5 +1,6 @@
 ﻿---
 title: Contacts and groups
+description: Describes contacts and group as they apply to Skype for Business 2015 and outlines the role of the ContactGroupServices property.
 TOCTitle: Contacts and groups
 ms:assetid: 7a28afda-a9e1-43aa-b5ec-cc403ecb8df2
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465965(v=office.16)

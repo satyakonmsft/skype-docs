@@ -1,5 +1,6 @@
 ---
 title: CallState reference
+description: Describes the CallState resource, which represents the call state, and provides a list of the resource's members.
 ---
 # CallState
 
@@ -12,7 +13,7 @@ Represents the call state.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |Connected|Connected.|
 |Connecting|Connecting.|

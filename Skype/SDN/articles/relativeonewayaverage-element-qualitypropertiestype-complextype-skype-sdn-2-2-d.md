@@ -1,5 +1,6 @@
 ﻿---
 title: RelativeOneWayAverage element (QualityPropertiesType complexType) Schema D
+description: An overview of the RelativeOneWayAverage element (QualityPropertiesType complexType) Schema D.
 TOCTitle: RelativeOneWayAverage element
 ms:assetid: c2169339-f0d9-8b20-426d-0fabc1b0463c
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170974(v=office.16)

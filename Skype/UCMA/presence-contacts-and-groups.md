@@ -1,5 +1,6 @@
 ﻿---
 title: Presence, contacts, and groups
+description: AN overview of presence, contacts, and groups.
 TOCTitle: Presence, contacts, and groups
 ms:assetid: b2ced5e1-0ab2-4aa9-828b-a138d746ae01
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466017(v=office.16)

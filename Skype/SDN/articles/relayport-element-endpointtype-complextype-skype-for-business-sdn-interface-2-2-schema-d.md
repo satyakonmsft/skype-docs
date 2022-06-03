@@ -1,5 +1,6 @@
 ﻿---
 title: RelayPort element (EndPointType complexType) (Schema D)
+description: An overview of RelayPort element (EndPointType complexType) (Schema D).
 TOCTitle: RelayPort element (EndPointType complexType)
 ms:assetid: 77069b9b-855a-0550-4f3e-24cce1a2a76e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170981(v=office.16)

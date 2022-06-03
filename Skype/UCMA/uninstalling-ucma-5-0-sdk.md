@@ -1,5 +1,6 @@
 ﻿---
 title: Uninstalling UCMA 5.0 SDK
+description: Describes how to uninstall Microsoft Unified Communications Managed API 5.0 SDK and its associated runtime.
 TOCTitle: Uninstalling UCMA 5.0 SDK
 ms:assetid: de5bff2f-0647-4584-9092-6b8e99815362
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465971(v=office.16)

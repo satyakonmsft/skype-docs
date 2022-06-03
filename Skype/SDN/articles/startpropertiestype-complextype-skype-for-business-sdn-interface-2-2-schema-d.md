@@ -1,5 +1,6 @@
 ﻿---
 title: StartPropertiesType complexType (Schema D)
+description: Overview of the StartPropertiesType complexType (Schema D).
 TOCTitle: StartPropertiesType complexType
 ms:assetid: 963421e3-524b-0997-ce67-04875aafa72c
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171074(v=office.16)

@@ -1,5 +1,6 @@
 ﻿---
 title: VGAQualityRatio element (QualityPropertiesType complexType) (Schema C)
+description: Discusses the syntax and code for the QualityPropertiesType complexType for Skype for Business SDN Interface 2.2, Schema "C".
 TOCTitle: VGAQualityRatio element
 ms:assetid: fb7b2289-fefe-d203-e2b7-f6dc2bdc48b2
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429336(v=office.16)

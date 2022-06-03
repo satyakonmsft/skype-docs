@@ -1,5 +1,6 @@
 ﻿---
 title: Properties element (QualityType complexType) (Schema C)
+description: Describes the Schema C iteration of the Properties element (QualityType complexType) and provides the definition, parent elements, and information.
 TOCTitle: Properties element (QualityType complexType)
 ms:assetid: e590f39b-bf81-6bcf-8786-3b390f86e1a9
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404815(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Properties element (Schema C)
+# Properties element (QualityType complexType) (Schema C)
 
 (QualityType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

@@ -1,4 +1,7 @@
-
+---
+title: Error Subcodes
+description: Describes error subcodes as they apply to Skype for Business 2015 and provides a list of related members.
+---
 # ErrorSubcode
 
 
@@ -10,7 +13,7 @@ Error Subcodes
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |AlreadyExists|The resource you're trying to create already exists.|
 |AnonymousNotAllowed|This operation is not allowed for anonymous users|

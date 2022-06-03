@@ -1,5 +1,6 @@
 ﻿---
 title: RealTimeEndpoint, SipEndpoint, SipPeerToPeerEndpoint
+description: an overview of RealTimeEndpoint, SipEndpoint, and SipPeerToPeerEndpoint.
 TOCTitle: RealTimeEndpoint, SipEndpoint, SipPeerToPeerEndpoint
 ms:assetid: 4d8dea46-c93a-4ea9-b800-a578c0eb9fd7
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466055(v=office.16)

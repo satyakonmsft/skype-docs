@@ -1,5 +1,6 @@
 ---
 title: myPrivacyRelationships reference
+description: Describes the myPrivacyRelationships resource and provides the resource's links, Azure AD scopes, operations, examples.
 ---
 # myPrivacyRelationships reference
 
@@ -15,7 +16,7 @@ Represents the various privacy relationships that the user maintains with his or
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -32,7 +33,7 @@ None
 
 This resource can have the following relationships.
 
-|**Link**|**Description**|
+|Link|Description|
 |:-----|:-----|
 |self|The link to the current resource.|
 |myPrivacyRelationship|Represents a set of contacts that have a given privacy relationship with the user.|
@@ -43,7 +44,7 @@ This resource can have the following relationships.
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
 
-| **Scope** | **Permission** | **Description** |
+| Scope | Permission | Description |
 | ----- | ----- | ----- |
 | User.ReadWrite | Read/write Skype user information | Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user |
 | Contacts.ReadWrite | Read/write Skype user contacts and groups | Allows the app to read and write Skype user contacts and groups |
@@ -83,7 +84,7 @@ The response from a GET request contains the properties and links shown in the P
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |Forbidden|403|None|The user does not have sufficient privileges to access the contact list.|
 |Forbidden|403|None|The user does not have sufficient privileges to access pending contacts|

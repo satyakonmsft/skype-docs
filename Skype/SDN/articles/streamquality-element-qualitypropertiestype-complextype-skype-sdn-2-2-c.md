@@ -1,5 +1,6 @@
 ﻿---
 title: StreamQuality element (QualityPropertiesType complexType) (Schema C)
+description: Overview of the StreamQuality element (QualityPropertiesType complexType) (Schema C).
 TOCTitle: StreamQuality element
 ms:assetid: 7fdb2175-c294-5594-37a7-7133500c2318
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404855(v=office.16)

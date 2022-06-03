@@ -1,5 +1,6 @@
 ---
 title: Skype for Business - Webhooks - Events
+description: Discusses how web hooks are used to get events from the Trusted Application API for the Skype for Business Online system.
 ---
 # Webhooks (Events)
 

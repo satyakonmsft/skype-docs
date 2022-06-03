@@ -1,5 +1,6 @@
 ﻿---
 title: Trunk element (EndPointType complexType) 
+description: An overview of the Trunk element (EndPointType complexType), Schema D.
 TOCTitle: Trunk element (EndPointType complexType)
 ms:assetid: 5f13ea82-806b-f290-ac6c-595c29b8c7bb
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171013(v=office.16)

@@ -1,5 +1,6 @@
 ﻿---
 title: Triggering SDP renegotiations
+description: Describes the BeginSdpRenegotiation method on the MediaProvider instance to trigger SDP renegotiations as it relates to Skype for Business 2015.
 TOCTitle: Triggering SDP renegotiations
 ms:assetid: 97940a24-9156-4741-9b7a-7245efc536b0
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466102(v=office.16)

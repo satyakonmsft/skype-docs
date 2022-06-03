@@ -1,5 +1,6 @@
 ﻿---
 title: SpeakerGlitchRate element (QualityPropertiesType complexType) (Schema D)
+description: An overview of the SpeakerGlitchRate element (QualityPropertiesType complexType) (Schema D).
 TOCTitle: SpeakerGlitchRate element
 ms:assetid: 1d8c39b6-d1b0-ba96-8c17-7ec4a385be25
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170994(v=office.16)

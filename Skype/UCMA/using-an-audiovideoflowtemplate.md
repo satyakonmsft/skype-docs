@@ -1,5 +1,6 @@
 ﻿---
 title: Using an AudioVideoFlowTemplate
+description: Describes how to use an AudioVideoFlowTemplate instance as it applies to Skype for Business 2015 and provides code examples.
 TOCTitle: Using an AudioVideoFlowTemplate
 ms:assetid: d73d357f-5fe1-4a7d-b1c6-be1a2dec2882
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466033(v=office.16)
@@ -14,15 +15,15 @@ dev_langs:
 
 **Applies to**: Skype for Business 2015
 
-The [AudioVideoFlow](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow?view=ucma-api) class has no public constructors, but instead relies on settings in an [AudioVideoFlowTemplate](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflowtemplate?view=ucma-api) instance to initialize or modify an **AudioVideoFlow** instance.
+The [AudioVideoFlow](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow) class has no public constructors, but instead relies on settings in an [AudioVideoFlowTemplate](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflowtemplate) instance to initialize or modify an **AudioVideoFlow** instance.
 
-After an **AudioVideoFlowTemplate** instance has been created, its settings can be copied to an **AudioVideoFlow** instance by a call to the [Initialize](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow.initialize?view=ucma-api) method on the **AudioVideoFlow** class. This initialization must occur within the body of a handler for the [AudioVideoFlowConfigurationRequested](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall.audiovideoflowconfigurationrequested?view=ucma-api) event. Alternatively, an **AudioVideoFlowTemplate** instance can be set and then passed in a call to the [BeginApplyChanges](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow.beginapplychanges?view=ucma-api#overloads) method on the **AudioVideoFlow** class.
+After an **AudioVideoFlowTemplate** instance has been created, its settings can be copied to an **AudioVideoFlow** instance by a call to the [Initialize](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow.initialize) method on the **AudioVideoFlow** class. This initialization must occur within the body of a handler for the [AudioVideoFlowConfigurationRequested](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall.audiovideoflowconfigurationrequested) event. Alternatively, an **AudioVideoFlowTemplate** instance can be set and then passed in a call to the [BeginApplyChanges](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow.beginapplychanges#overloads) method on the **AudioVideoFlow** class.
 
 **AudioVideoFlowTemplate** and **AudioVideoFlow** instances are independent of one another. A new **AudioVideoFlowTemplate** instance can be created each time an **AudioVideoFlow** instance is to be set or modified, or a single **AudioVideoFlowTemplate** instance can be used to set or modify multiple **AudioVideoFlow** instances.
 
 ## Initializing an AudioVideoFlow instance
 
-The technique of calling [Initialize](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow.initialize?view=ucma-api) to initialize an **AudioVideoFlow** instance can be used only when the **AudioVideoFlow** is in the **Idle** state, and only within the body of a handler for the [AudioVideoFlowConfigurationRequested](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall.audiovideoflowconfigurationrequested?view=ucma-api) event.
+The technique of calling [Initialize](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow.initialize) to initialize an **AudioVideoFlow** instance can be used only when the **AudioVideoFlow** is in the **Idle** state, and only within the body of a handler for the [AudioVideoFlowConfigurationRequested](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall.audiovideoflowconfigurationrequested) event.
 
 ```csharp
 AudioVideoFlow audioVideoFlow;
@@ -62,7 +63,7 @@ void audioVideoCall_StateChanged(object sender, CallStateChangedEventArgs e)
 
 The settings of an **AudioVideoFlow** instance can also be changed by a call to **BeginApplyChanges**.
 
-In the following code example, which is shown only for purposes of illustration, it is assumed that *AVCall*, an [AudioVideoCall](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) instance, previously has been created, and that the state of *audioVideoFlow* is **Active**.
+In the following code example, which is shown only for purposes of illustration, it is assumed that *AVCall*, an [AudioVideoCall](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall) instance, previously has been created, and that the state of *audioVideoFlow* is **Active**.
 
 ```csharp
 AudioVideoFlow audioVideoFlow;

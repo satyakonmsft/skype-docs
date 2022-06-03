@@ -1,5 +1,6 @@
 ---
 title: onlineMeeting reference
+description: Describes the onlineMeeting resource and provides its properties, links, events, operations, and examples.
 ---
 # onlineMeeting
 

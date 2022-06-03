@@ -1,5 +1,6 @@
 ﻿---
 title: Relay element (ErrorEndPointType complexType) 
+description: An overview of Relay element (ErrorEndPointType complexType) Schema D.
 TOCTitle: Relay element (ErrorEndPointType complexType)
 ms:assetid: 4f79ef2c-3f2b-e34d-6062-5dae1d359905
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170977(v=office.16)

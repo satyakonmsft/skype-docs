@@ -1,5 +1,6 @@
 ---
 title: EntryExitAnnouncement reference
+description: Describes the EntryExitAnnouncement resource, which represents attendance announcements states, and provides the resource's list of members.
 ---
 # EntryExitAnnouncement reference
 
@@ -19,7 +20,7 @@ only if the online meeting supports modifying the attendance announcements statu
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |Disabled|Attendance announcements are disabled.|
 |Enabled|Attendance announcements are enabled.|
