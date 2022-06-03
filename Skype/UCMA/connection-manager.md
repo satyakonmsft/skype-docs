@@ -1,5 +1,6 @@
 ﻿---
 title: Connection manager (Unified Communications Managed API 5.0)
+description: 
 TOCTitle: Connection manager
 ms:assetid: 7d926fff-8d44-49b6-b7da-418948d766e1
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466049(v=office.16)
@@ -70,7 +71,7 @@ When multiple **SipEndpoint** instances are present, Microsoft Communications Se
 
 ### TCP server connection manager
 
-The TCP server connection manager, implemented in the [RealTimeServerTcpConnectionManager](/dotnet/api/microsoft.rtc.signaling.realtimeservertcpconnectionmanager) class, can listen for incoming TCP connections. Otherwise, it inherits all the capabilities of the server connection manager. The application can provide an [IPEndPoint](/dotnet/api/system.net.ipendpoint?view=netframework-4.7.2) object to control how the listening is enabled. For example, setting [Port](/dotnet/api/system.net.ipendpoint.port?view=netframework-4.7.2) to zero (0) indicates listening on any port. Specifying the [Address](/dotnet/api/system.net.ipendpoint.address?view=netframework-4.7.2) as **IPAddress.Any** indicates any IP v4 addresses are permissible. IP v6 addresses are not supported.
+The TCP server connection manager, implemented in the [RealTimeServerTcpConnectionManager](/dotnet/api/microsoft.rtc.signaling.realtimeservertcpconnectionmanager) class, can listen for incoming TCP connections. Otherwise, it inherits all the capabilities of the server connection manager. The application can provide an [IPEndPoint](/dotnet/api/system.net.ipendpoint?&preserve-view=true) object to control how the listening is enabled. For example, setting [Port](/dotnet/api/system.net.ipendpoint.port?&preserve-view=true) to zero (0) indicates listening on any port. Specifying the [Address](/dotnet/api/system.net.ipendpoint.address?&preserve-view=true) as **IPAddress.Any** indicates any IP v4 addresses are permissible. IP v6 addresses are not supported.
 
 It is recommended that you *not* use a TCP connection manager, as the less-trusted relationship with the server is not as secure and is more prone to failure, especially given that the owner of a given IP address can frequently change, or be spoofed.
 
