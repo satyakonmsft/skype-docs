@@ -1,5 +1,6 @@
 ﻿---
 title: RelayPort element (EndPointType complexType) (Schema C)
+description: An overview of RelayPort element (EndPointType complexType) (Schema C).
 TOCTitle: RelayPort element (EndPointType complexType)
 ms:assetid: 9416dd4e-6a40-de7d-ac7b-e96877143c1d
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404838(v=office.16)

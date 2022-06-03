@@ -1,5 +1,6 @@
 ---
 title: OnlineMeetingRel reference
+description: Describes OnlineMeetingRel, which represents the link relationship that identifies the default type of online meeting.
 ---
 # OnlineMeetingRel
 
@@ -12,7 +13,7 @@ Represents the link relationship that should be used to identify the default typ
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |myAssignedOnlineMeeting|The link with the "myAssignedOnlineMeeting" relationship should be used to get the predefined, assigned online meeting.|
 |myOnlineMeetings|The link with the "myOnlineMeetings" relationship should be used to create a new online meeting.|

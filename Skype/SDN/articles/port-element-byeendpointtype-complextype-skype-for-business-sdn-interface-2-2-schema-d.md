@@ -1,5 +1,6 @@
 ﻿---
 title: Port element (ByeEndPointType complexType) (Schema D)
+description: Describes the Schema D iteration of the Port element (ByeEndPointType complexType) and provides the element's definition, parent elements, and information.
 TOCTitle: Port element (ByeEndPointType complexType)
 ms:assetid: 179b2afc-9ddb-4212-5583-774538c301b4
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170943(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Port element (Schema D)
+# Port element (ByeEndPointType complexType) (Schema D)
 
 (ByeEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

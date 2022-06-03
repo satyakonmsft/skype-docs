@@ -1,5 +1,6 @@
 ---
 title: Skype for Business 2015 OperationResource library
+description: Describes the OperationResource.js library and provides instructions on how to create OperationResource objects.
 ---
 # OperationResource library
 OperationResource.js is a JavaScript library that helps start operations whose outcomes appear in the event channel.

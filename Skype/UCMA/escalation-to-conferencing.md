@@ -1,5 +1,6 @@
 ﻿---
 title: Escalation to conferencing
+description: Describes that escalation to conferencing and provides a link to another topic focusing on escalating a two-party conversation to a conference.
 TOCTitle: Escalation to conferencing
 ms:assetid: 41635602-5a14-43fb-ab5b-da3af9420556
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465929(v=office.16)

@@ -1,5 +1,6 @@
 ﻿---
 title: Registering for call events
+description: About registering for call events for Skype for Business 2015.
 TOCTitle: Registering for call events
 ms:assetid: 444e43e5-516e-4043-a9b7-0646d2591995
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466010(v=office.16)

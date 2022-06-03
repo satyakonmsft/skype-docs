@@ -1,5 +1,6 @@
 ---
 title: Developing applications with Skype Web SDK
+description: Describes the Skype Web SDK object model and architecture, and how to develop applications for servers using the Skype Web SDK.
 ---
 # Developing applications with Skype Web SDK
 

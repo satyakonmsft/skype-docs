@@ -1,5 +1,6 @@
 ---
 title: myPrivacyRelationship reference  
+description: Describes the myPrivacyRelationship resource and provides the resource's properties, links, Azure AD scopes, and operations.
 ---
 # myPrivacyRelationship reference 
 
@@ -15,7 +16,7 @@ Represents a set of contacts that have a given privacy relationship with the use
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -29,7 +30,7 @@ The resource gives a view of the contacts that were assigned this privacy relati
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |relationshipLevel|The relationship level ([PrivacyRelationshipLevel](PrivacyRelationshipLevel_ref.md)) between the user and these contacts, such as Colleagues or FriendsAndFamily.|
 
@@ -39,7 +40,7 @@ The resource gives a view of the contacts that were assigned this privacy relati
 
 This resource can have the following relationships.
 
-|**Link**|**Description**|
+|Link|Description|
 |:-----|:-----|
 |self|The link to the current resource.|
 |contact|Represents a person or service that the user can communicate and collaborate with.|
@@ -50,7 +51,7 @@ This resource can have the following relationships.
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
 
-| **Scope** | **Permission** | **Description** |
+| Scope | Permission | Description |
 | ----- | ----- | ----- |
 | User.ReadWrite | Read/write Skype user information | Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user |
 | Contacts.ReadWrite | Read/write Skype user contacts and groups | Allows the app to read and write Skype user contacts and groups |
@@ -90,7 +91,7 @@ The response from a GET request contains the properties and links shown in the P
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |Forbidden|403|None|Indicates that the user does not have privileges to view privacy relationship data for this contact.|
 |Forbidden|403|None|The user does not have sufficient privileges to access the contact list.|

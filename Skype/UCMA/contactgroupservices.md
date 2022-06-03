@@ -1,5 +1,6 @@
 ﻿---
 title: ContactGroupServices
+description: Describes the ContractGroupServices class and outlines how to subscribe, create, delete, manage, and update contacts and groups.
 TOCTitle: ContactGroupServices
 ms:assetid: d52cb22d-c305-4463-b9f9-1ade281c0a53
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466041(v=office.16)

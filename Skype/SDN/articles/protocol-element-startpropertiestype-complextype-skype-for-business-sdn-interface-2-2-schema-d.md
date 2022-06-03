@@ -1,5 +1,6 @@
 ﻿---
 title: Protocol element (StartPropertiesType complexType) (Schema D)
+description: Describes the Schema D iteration of the Protocol element (StartPropertiesType complexType) and provides the element's definition and parent elements.
 TOCTitle: Protocol element (StartPropertiesType complexType)
 ms:assetid: 5331fdc8-20e7-e37d-e816-d21f881b80d2
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170953(v=office.16)

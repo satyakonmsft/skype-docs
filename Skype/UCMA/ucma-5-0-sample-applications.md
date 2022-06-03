@@ -1,5 +1,6 @@
 ﻿---
 title: UCMA 5.0 sample applications
+description: Provides various topics that describe the sample applications that are shipped with the UCMA 5.0 SDK.
 TOCTitle: UCMA 5.0 sample applications
 ms:assetid: be5bd554-f066-488b-a37b-9162b3e0e178
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466128(v=office.16)
@@ -20,5 +21,5 @@ The following topics describe the sample applications that are shipped with the 
 
 ## See also
 
-- [Microsoft.Rtc.Collaboration Namespace](/dotnet/api/microsoft.rtc.collaboration?view=ucma-api-5.0)
-- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](/dotnet/api/Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml?view=ucma-voice)
+- [Microsoft.Rtc.Collaboration Namespace](/dotnet/api/microsoft.rtc.collaboration&preserve-view=true)
+- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](/dotnet/api/Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml&preserve-view=true)

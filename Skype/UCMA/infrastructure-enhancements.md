@@ -1,5 +1,6 @@
 ﻿---
 title: Infrastructure enhancements
+description: Describes infrastructure enhancements to Skype for Business 2015 and provides links to various topics outlining enhancements.
 TOCTitle: Infrastructure enhancements
 ms:assetid: 2b35f0bf-ab8b-4a69-abca-f687cbec6639
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465928(v=office.16)

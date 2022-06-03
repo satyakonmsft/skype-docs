@@ -1,5 +1,6 @@
 ﻿---
 title: RenderDevice element (QualityPropertiesType complexType) (Schema C)
+description: An overview of RenderDevice element (QualityPropertiesType complexType) (Schema C).
 TOCTitle: RenderDevice element
 ms:assetid: 745f4b99-35f7-df15-d178-647fdd77c699
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404841(v=office.16)

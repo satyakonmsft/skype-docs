@@ -1,5 +1,6 @@
 ﻿---
 title: ToneController (Unified Communications Managed API 5.0)
+description: An overview of ToneController (Unified Communications Managed API 5.0).
 TOCTitle: ToneController
 ms:assetid: 10a21ab0-e63c-4c71-8ebc-5b57f6b3d523
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466039(v=office.16)

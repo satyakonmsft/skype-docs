@@ -1,5 +1,6 @@
 ---
 title: LobbyBypassForPhoneUsers
+description: Describes the LobbyBypassForPhoneUsers resource, which represents types of users who can bypass the lobby, and provides its members.
 ---
 # LobbyBypassForPhoneUsers
 
@@ -21,7 +22,7 @@ are placed in the online meeting lobby.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |Disabled|Lobby bypass is disabled for all participants.|
 |Enabled|Lobby bypass is enabled for participants who join from a voice gateway.For example, PSTN users will bypass the lobby.|

@@ -1,5 +1,6 @@
 ﻿---
 title: Types (Skype for Business SDN Interface 2.2, Schema D)
+description: An overview of Types (Skype for Business SDN Interface 2.2, Schema D).
 TOCTitle: Types (Skype for Business SDN Interface 2.2, Schema D)
 ms:assetid: 2901812c-2ffd-a81e-2cf3-854f96bf9b7a
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171041(v=office.16)

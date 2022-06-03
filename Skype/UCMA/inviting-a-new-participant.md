@@ -1,5 +1,6 @@
 ﻿---
 title: Inviting a new participant
+description: Describes how to invite a new participant to a conference via an invitation for the participant as it relates to Skype for Business 2015.
 TOCTitle: Inviting a new participant
 ms:assetid: 3075d768-6784-44ff-aa61-9c7598c7cd6c
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465996(v=office.16)

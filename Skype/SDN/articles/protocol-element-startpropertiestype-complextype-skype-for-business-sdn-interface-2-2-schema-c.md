@@ -1,5 +1,6 @@
 ﻿---
 title: Protocol element (StartPropertiesType complexType) (Schema C)
+description: Describes the Schema C iteration of the Protocol element (StartPropertiesType complexType) and provides the element's definition and parent elements.
 TOCTitle: Protocol element (StartPropertiesType complexType)
 ms:assetid: 9bc50ce2-21d8-06f7-7e5d-af432a632761
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404818(v=office.16)

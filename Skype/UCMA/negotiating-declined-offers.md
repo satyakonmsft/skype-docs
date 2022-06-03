@@ -1,5 +1,6 @@
 ﻿---
 title: Negotiating declined offers
+description: Learn about negotiating declined offers.
 TOCTitle: Negotiating declined offers
 ms:assetid: bbca6041-4d98-4d0f-b81d-8978939fbaef
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466100(v=office.16)
@@ -20,7 +21,7 @@ When an initial outgoing INVITE message contains multipart/mime content with the
 
 - If the original offer consists of only one offer or the remote endpoint supports multipart/alternate, the **Call** instance can exclude the custom optional mime parts (in the [CustomMimeParts](https://msdn.microsoft.com/library/hh348612\(v=office.16\)) property specified in a [CallEstablishOptions](https://msdn.microsoft.com/library/hh381079\(v=office.16\)) instance) and can retry the INVITE with the same offer.
 
-- If the original SDP offer given by the [MediaProvider](/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaprovider?view=ucma-api) subclass instance contains more than one SDP and the remote endpoint does not support multipart/alternate, the **Call** class should call the [SetAnswer(OfferAnswerContext, SdpOffer, SdpAnswer)](https://msdn.microsoft.com/library/hh382509\(v=office.16\)) method on the **MediaProvider** subclass instance with an answer status (the [Status](https://msdn.microsoft.com/library/hh382499\(v=office.16\)) property on the [SdpAnswer](https://msdn.microsoft.com/library/hh349319\(v=office.16\)) instance) of **UnsupportedMediaCanRetry**, a value in the [SdpAnswerStatus](https://msdn.microsoft.com/library/hh383245\(v=office.16\)) enumeration.
+- If the original SDP offer given by the [MediaProvider](/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaprovider?view=ucma-api&preserve-view=true) subclass instance contains more than one SDP and the remote endpoint does not support multipart/alternate, the **Call** class should call the [SetAnswer(OfferAnswerContext, SdpOffer, SdpAnswer)](https://msdn.microsoft.com/library/hh382509\(v=office.16\)) method on the **MediaProvider** subclass instance with an answer status (the [Status](https://msdn.microsoft.com/library/hh382499\(v=office.16\)) property on the [SdpAnswer](https://msdn.microsoft.com/library/hh349319\(v=office.16\)) instance) of **UnsupportedMediaCanRetry**, a value in the [SdpAnswerStatus](https://msdn.microsoft.com/library/hh383245\(v=office.16\)) enumeration.
     
   The **Call** class should then call **BeginGetOffer** to request another offer from the **MediaProvider** instance.
 

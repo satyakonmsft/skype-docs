@@ -1,5 +1,6 @@
 ﻿---
 title: To element (StartOrUpdateType complexType) (Schema D)
+description: An overview of the To element (StartOrUpdateType complexType) (Schema D).
 TOCTitle: To element (StartOrUpdateType complexType)
 ms:assetid: ca1f6a62-3421-9d53-7e1d-aaadb55a37cc
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171011(v=office.16)

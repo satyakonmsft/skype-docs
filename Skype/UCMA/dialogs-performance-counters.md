@@ -1,5 +1,6 @@
 ﻿---
 title: Dialogs performance counters
+description: Describes Dialogs performance counters as they relate to Skype for Business 2015 and provides a table that summarizes various CounterTypes.
 TOCTitle: Dialogs performance counters
 ms:assetid: 0be237dd-ea76-4e03-8426-c6f710ae77fe
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466108(v=office.16)

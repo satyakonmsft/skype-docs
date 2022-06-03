@@ -1,5 +1,6 @@
 ---
 title: Skype for Business - Authentication using Azure Active Directory - AAD
+description: Describes authentication using Azure Active Directory and provides links to detailed setup instructions.
 ---
 # Authentication using Azure Active Directory (AAD)
 

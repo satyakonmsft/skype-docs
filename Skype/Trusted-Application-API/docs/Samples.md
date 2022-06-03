@@ -1,5 +1,6 @@
 ---
 title: Jump Start Development with Trusted Application API samples
+description: Describes jump start development with Trusted Application API samples including code and syntax examples.
 ---
 # Jump Start Development with Trusted Application API samples
 

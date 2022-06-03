@@ -1,5 +1,6 @@
 ﻿---
 title: Terminating a conversation
+description: An overview of terminating a conversation for Skype for Business 2015.
 TOCTitle: Terminating a conversation
 ms:assetid: b39542d7-92a7-413c-9db4-665e63376541
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465982(v=office.16)

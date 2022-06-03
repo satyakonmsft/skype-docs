@@ -1,5 +1,6 @@
 ﻿---
 title: SpoiledTilePercentTotal element (QualityPropertiesType complexType) (Schema D)
+description: Overview of the SpoiledTilePercentTotal element (QualityPropertiesType complexType) (Schema D).
 TOCTitle: SpoiledTilePercentTotal element
 ms:assetid: dd15bf4e-ca27-a9fa-1e4c-9233cc8221b3
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170996(v=office.16)

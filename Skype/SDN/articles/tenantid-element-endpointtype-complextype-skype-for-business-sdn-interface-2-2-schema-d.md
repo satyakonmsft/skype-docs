@@ -1,5 +1,6 @@
 ﻿---
 title: TenantId element (EndPointType complexType) (Schema D)
+description: An overview of the TenantId element (EndPointType complexType) (Schema D).
 TOCTitle: TenantId element (EndPointType complexType)
 ms:assetid: de127ded-f67e-6a89-d2fa-c2068e65c66b
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171002(v=office.16)

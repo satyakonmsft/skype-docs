@@ -1,5 +1,6 @@
 ---
 title: Skype for Business 2015 contactNote
+description: Describes the contactNote resource and provides the resource's properties, links, Azure AD scopes, events, and examples.
 ---
 # contactNote
 

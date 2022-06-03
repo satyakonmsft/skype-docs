@@ -1,5 +1,6 @@
 ---
 title: General application activation
+description: Describes general application activation as it relates to Skype for Business 2015 and outlines how to create Active Directory contract objects.
 TOCTitle: General application activation
 ms:assetid: 029f3c80-dea6-4338-b622-b9f1338d2432
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466115(v=office.16)

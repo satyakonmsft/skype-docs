@@ -1,5 +1,6 @@
 ﻿---
 title: Incoming message dispatching
+description: Describes how to dispatch incoming messages as it relates to Skype for Business 2015 using the OwnerUri and EndpointUri properties.
 TOCTitle: Incoming message dispatching
 ms:assetid: e0f99fce-57b2-4ff5-8ed4-f4c1e6e99968
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466043(v=office.16)

@@ -1,5 +1,6 @@
 ﻿---
 title: RecvSignalLevel element (QualityPropertiesType complexType) Schema D
+description: Describes the Schema D iteration of the RecvSignalLevel element (QualityPropertiesType complexType) and provides the element's definition and parent elements.
 TOCTitle: RecvSignalLevel element
 ms:assetid: faec1495-0a59-9bd3-2ecf-f24e2963d293
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170962(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# RecvSignalLevel element Schema D
+# RecvSignalLevel element (QualityPropertiesType complexType) Schema D
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
