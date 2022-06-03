@@ -1,6 +1,6 @@
 ﻿---
 title: Connection manager (Unified Communications Managed API 5.0)
-description: 
+description: Discusses general features of the connection manager including connection pool, client connection manager, and server connection manager.
 TOCTitle: Connection manager
 ms:assetid: 7d926fff-8d44-49b6-b7da-418948d766e1
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466049(v=office.16)

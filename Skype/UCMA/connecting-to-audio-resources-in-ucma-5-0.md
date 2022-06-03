@@ -1,6 +1,6 @@
 ﻿---
 title: Connecting to audio resources in UCMA 5.0
-description:
+description: Discusses connecting to audio resources in UCMA 5.0 using the SetAudioVideoCall() method to bind an instance of the Browser with an AudioVideoCall object.
 TOCTitle: Connecting to audio resources in UCMA 5.0
 ms:assetid: 8da6dc06-69b0-4e7c-b42e-1011cad4223f
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466126(v=office.16)
