@@ -1,5 +1,6 @@
 ﻿---
 title: Build a Bot (sample)
+description: The Build a Bot framework enables you to create your own conversational agent(s) that can be used in many types of applications.
 TOCTitle: Build a Bot (sample)
 ms:assetid: e04d7016-553d-4780-953a-fa373d2d2400
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn454823(v=office.16)
