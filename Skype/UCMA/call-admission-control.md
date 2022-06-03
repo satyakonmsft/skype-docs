@@ -1,5 +1,6 @@
 ﻿---
 title: Call admission control
+description: Discusses the topics of Call admission control usage scenarios and MediaProvider recommendations for Skype for Business Server 2015.
 TOCTitle: Call admission control
 ms:assetid: 5536dd5c-1e64-4145-8691-94cc2b7be69e
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466095(v=office.16)

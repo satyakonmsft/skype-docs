@@ -1,5 +1,6 @@
 ﻿---
 title: Call park (Unified Communications Managed API 5.0)
+description: Discusses call parking in which a user may place a caller on hold temporarily, and then have a different user or application retrieve the call later.
 TOCTitle: Call park
 ms:assetid: 555e8378-4124-49d8-bada-08dc636bde33
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466006(v=office.16)

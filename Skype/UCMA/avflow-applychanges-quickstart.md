@@ -1,5 +1,6 @@
 ﻿---
 title: AVFlow-ApplyChanges (QuickStart)
+description: Discusses the AVFlow-ApplyChanges (QuickStart) including description, features, prerequisites, and running the sample in Skype for Business 2015.
 TOCTitle: AVFlow-ApplyChanges (QuickStart)
 ms:assetid: 6bf7708b-ca30-4418-b36f-5f4e91141ca6
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466136(v=office.16)

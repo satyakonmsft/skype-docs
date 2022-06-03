@@ -1,5 +1,6 @@
 ﻿---
 title: CallTransferBasic (QuickStart)
+description: Discusses the CallTransferBasic (QuickStart) including description, features, prerequisites, and running the sample in Skype for Business 2015.
 TOCTitle: CallTransferBasic (QuickStart)
 ms:assetid: 5a4b0a5a-4db1-45be-b9a7-c899066faaf0
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn454816(v=office.16)

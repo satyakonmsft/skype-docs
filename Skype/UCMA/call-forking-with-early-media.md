@@ -1,5 +1,6 @@
 ﻿---
 title: Call forking with early media
+description: Discusses call forking with early media to use the SetAnswer(OfferAnswerContext, SdpOffer, SdpAnswer) method.
 TOCTitle: Call forking with early media
 ms:assetid: 1a0386ac-1bd1-4003-9222-d9e14251957b
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466104(v=office.16)

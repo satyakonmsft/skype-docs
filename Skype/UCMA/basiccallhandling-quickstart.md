@@ -1,5 +1,6 @@
 ﻿---
 title: BasicCallHandling (QuickStart)
+description: Discusses the BasicCallHandling (QuickStart) including description, features, prerequisites, and running the sample in Skype for Business 2015.
 TOCTitle: BasicCallHandling (QuickStart)
 ms:assetid: c989d841-a7e8-4896-8dd0-479ac75bd571
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466144(v=office.16)
