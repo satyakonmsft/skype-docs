@@ -18,5 +18,5 @@ mtps_version: v=office.16
 
 **Sample location**: %ProgramFiles%\\Microsoft UCMA 5.0\\SDK\\Core\\Sample Applications\\Reference\\ContactCenter
 
-For more information, see [Microsoft Lync Dev Center](https://docs.microsoft.com/lync/lync-2013).
+For more information, see [Microsoft Lync Dev Center](/lync/lync-2013).
 
