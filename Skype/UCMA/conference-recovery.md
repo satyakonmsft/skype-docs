@@ -1,5 +1,6 @@
 ﻿---
 title: Conference recovery
+description: UCMA 5.0 provides three levels of support for conference recovery to applications. Focus Front-End, MCU, and Intermediate Hop failover.
 TOCTitle: Conference recovery
 ms:assetid: a857410d-7f32-4850-9815-e0be658781b2
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466073(v=office.16)
