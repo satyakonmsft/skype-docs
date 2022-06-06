@@ -1,5 +1,6 @@
 ﻿---
 title: IP element (QualityEndPointType complexType) (Schema D)
+description: Describes the Schema D iteration of the IP element (QualityEndPointType complexType) and provides the element's definition and parent elements.
 TOCTitle: IP element (QualityEndPointType complexType)
 ms:assetid: 23db3fee-3d3b-1c51-f585-6b0ff3bad5d6
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170901(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# IP element (Schema D)
+# IP element (QualityEndPointType complexType) (Schema D)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

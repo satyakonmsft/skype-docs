@@ -1,5 +1,6 @@
 ﻿---
 title: IP element (EndPointType complexType) (Schema C)
+description: Describes the Schema C iteration of the IP element (EndPointType complexType) and provides the element's definition and parent elements.
 TOCTitle: IP element (EndPointType complexType)
 ms:assetid: d4c8caae-c73d-2f5d-f7b9-8c38b0342877
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404780(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# IP element (Schema C)
+# IP element (EndPointType complexType) (Schema C)
 
 (EndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

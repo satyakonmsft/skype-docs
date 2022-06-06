@@ -1,5 +1,6 @@
 ﻿---
 title: EndPointType complexType (Schema C)
+description: Describes the Schema C iteration of the EndPointType complexType and provides the type's schema file, definition, and child elements.
 TOCTitle: EndPointType complexType
 ms:assetid: dadd849f-7969-80b7-9753-5e70029ab597
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429353(v=office.16)

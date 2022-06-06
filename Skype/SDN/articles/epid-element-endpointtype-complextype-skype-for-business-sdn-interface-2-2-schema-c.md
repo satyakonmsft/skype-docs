@@ -1,5 +1,6 @@
 ﻿---
 title: EPId element (EndPointType complexType) (Schema C)
+description: Describes the Schema C iteration of the EPId element (EndPointType complexType) and provides the element's definition and parent elements.
 TOCTitle: EPId element (EndPointType complexType)
 ms:assetid: 31690ba2-3193-6a47-df78-8c976199893b
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404759(v=office.16)

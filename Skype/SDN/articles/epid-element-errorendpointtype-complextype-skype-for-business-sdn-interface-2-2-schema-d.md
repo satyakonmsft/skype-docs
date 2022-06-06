@@ -1,5 +1,6 @@
 ﻿---
 title: EPId element (ErrorEndPointType complexType)  
+description: Describes the Schema D iteration of the EPId element (ErrorEndPointType complexType) and provides the element's definition and parent elements.
 TOCTitle: EPId element (ErrorEndPointType complexType)
 ms:assetid: 2d8bfd01-7b6c-cacc-213f-8d992d801d55
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170862(v=office.16)

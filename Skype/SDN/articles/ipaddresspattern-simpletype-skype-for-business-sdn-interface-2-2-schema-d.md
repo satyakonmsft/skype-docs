@@ -1,5 +1,6 @@
 ﻿---
 title: ipAddressPattern simpleType 
+description: Describes the Schema D iteration of the ipAddressPattern simpleType and provides the type's information base type, schema file, and definition.
 TOCTitle: ipAddressPattern simpleType
 ms:assetid: 29c537a2-c6b0-fb6b-c32c-f77b61138a8d
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171050(v=office.16)

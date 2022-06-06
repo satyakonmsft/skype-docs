@@ -1,5 +1,6 @@
 ﻿---
 title: IP element (InviteEndPointType complexType) (Schema D)
+description: Describes the Schema D iteration of the IP element (InviteEndPointType complexType) and provides the element's definition and parent elements.
 TOCTitle: IP element (InviteEndPointType complexType)
 ms:assetid: cbc13469-acb6-35d1-acb5-39470ab339e2
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170902(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# IP element (Schema D)
+# IP element (InviteEndPointType complexType) (Schema D)
 
 (InviteEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

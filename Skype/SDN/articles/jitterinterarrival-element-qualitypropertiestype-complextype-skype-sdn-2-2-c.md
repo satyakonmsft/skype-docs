@@ -1,5 +1,6 @@
 ﻿---
 title: JitterInterArrival element (QualityPropertiesType complexType) (Schema C)
+description: Describes the Schema C iteration of the JitterInterArrival element (QualityPropertiesType complexType) and provides the element's definition.
 TOCTitle: JitterInterArrival element
 ms:assetid: 2ce581f9-2982-abaa-2295-e33396bdbfa2
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404781(v=office.16)
