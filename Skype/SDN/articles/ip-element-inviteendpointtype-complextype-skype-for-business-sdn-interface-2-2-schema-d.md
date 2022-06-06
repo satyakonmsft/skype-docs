@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# IP element (Schema D)
+# IP element (InviteEndPointType complexType) (Schema D)
 
 (InviteEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 

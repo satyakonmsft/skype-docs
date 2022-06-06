@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# IP element (Schema C)
+# IP element (EndPointType complexType) (Schema C)
 
 (EndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 

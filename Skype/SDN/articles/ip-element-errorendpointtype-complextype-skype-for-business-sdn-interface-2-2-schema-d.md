@@ -11,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# IP element (Schema D)
+# IP element (ErrorEndPointType complexType) (Schema D)
 
 (ErrorEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
