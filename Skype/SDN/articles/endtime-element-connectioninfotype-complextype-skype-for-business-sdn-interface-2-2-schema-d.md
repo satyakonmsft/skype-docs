@@ -1,6 +1,6 @@
 ﻿---
 title: EndTime element (ConnectionInfoType complexType) (Schema D) 
-description: Describes the Schema D iteration of the EndTime element (ConnectionInfoType complexType) and provides the element's definition and elements.
+description: Describes the Schema D iteration of the EndTime element (ConnectionInfoType complexType) and provides the element's definition and parent elements.
 TOCTitle: EndTime element
 ms:assetid: 74b56124-2d3c-a048-a9da-d7248aa5f4b6
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170854(v=office.16)
