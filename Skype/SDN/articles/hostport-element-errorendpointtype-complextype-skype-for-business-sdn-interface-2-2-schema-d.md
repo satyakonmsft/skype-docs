@@ -1,5 +1,6 @@
 ﻿---
 title: HostPort element (ErrorEndPointType complexType) 
+description: Describes the Schema D iteration of the HostPort element (ErrorEndPointType complexType) and provides the element's information and definition.
 TOCTitle: HostPort element (ErrorEndPointType complexType)
 ms:assetid: 61039d85-3d78-5f52-5ef9-f7346face149
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170887(v=office.16)

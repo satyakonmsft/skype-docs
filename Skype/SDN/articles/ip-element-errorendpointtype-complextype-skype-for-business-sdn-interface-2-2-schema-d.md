@@ -1,5 +1,6 @@
 ﻿---
 title: IP element (ErrorEndPointType complexType) (Schema D)
+description: Describes the Schema D iteration of the IP element (ErrorEndPointType complexType) and provides the element's definition and parent elements.
 TOCTitle: IP element (ErrorEndPointType complexType)
 ms:assetid: 762f25c4-4872-14ff-445e-b25efa6a1794
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170905(v=office.16)

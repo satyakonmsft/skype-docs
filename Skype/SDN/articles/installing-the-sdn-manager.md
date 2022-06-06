@@ -1,6 +1,6 @@
 ---
 title: Installing the SDN Manager
- 
+description: Describes the setup wizard process for installing the SDN Manager component and provides the detailed steps and information for installation.
 ms.assetid: 94f85cd3-3ac4-4b61-96cf-5dccb93a4a02
 ---
 

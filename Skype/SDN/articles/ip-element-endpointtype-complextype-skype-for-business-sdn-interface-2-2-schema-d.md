@@ -1,5 +1,6 @@
 ﻿---
 title: IP element (EndPointType complexType) (Schema D)
+description: Describes the Schema D iteration of the IP element (EndPointType complexType) and provides the element's definition and parent elements.
 TOCTitle: IP element (EndPointType complexType)
 ms:assetid: f207252f-2279-c8c0-4754-81c6f8b798ee
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170904(v=office.16)

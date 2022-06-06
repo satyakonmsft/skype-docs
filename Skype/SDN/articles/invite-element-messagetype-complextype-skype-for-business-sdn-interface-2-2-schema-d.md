@@ -1,5 +1,6 @@
 ﻿---
 title: Invite element (MessageType complexType) (Schema D)
+description: Describes the Schema D iteration of the Invite element and provides the element's information, definition, parent elements, and child elements.
 TOCTitle: Invite element
 ms:assetid: 82315508-6a09-f166-b971-a7212826d73c
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170900(v=office.16)

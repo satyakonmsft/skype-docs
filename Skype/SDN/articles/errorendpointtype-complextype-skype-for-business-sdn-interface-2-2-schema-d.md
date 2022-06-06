@@ -1,5 +1,6 @@
 ﻿---
 title: ErrorEndPointType complexType 
+description: Describes the Schema D iteration of the ErrorEndPointType complexType and provides the type's information, definition, and child elements.
 TOCTitle: ErrorEndPointType complexType
 ms:assetid: 63192471-563a-1baa-1a66-a3b41731abda
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171063(v=office.16)

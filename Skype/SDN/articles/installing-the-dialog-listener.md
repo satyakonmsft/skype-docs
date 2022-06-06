@@ -1,6 +1,6 @@
 ---
 title: Installing the Dialog Listener
- 
+description: Describes the setup wizard process for installing the Dialog Listener component and provides the detailed steps and information for installation.
 ms.assetid: d3e65c58-3248-4a7d-a7d9-01526c0dcca8
 ---
 

@@ -1,5 +1,6 @@
 ﻿---
 title: InviteType complexType (Schema C)
+description: This article describes the Schema C iteration of the InviteType complexType and provides the type's schema file, definition, and child elements.
 TOCTitle: InviteType complexType
 ms:assetid: faf3beb9-872f-af5d-09d3-dc7c8b26d35f
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429355(v=office.16)
