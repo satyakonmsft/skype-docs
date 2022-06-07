@@ -18,15 +18,12 @@ Use the Skype network to optimize communications and to build better relationshi
 - [Unified Communications Web API](ucwa/UnifiedCommunicationsWebAPI2_0.md)
 - [Skype for Business SDN Interface](SDN/articles/skype-for-business-sdn-interface.md)
 
-
 ## Related sites
 
 - [Skype](https://www.skype.com/en/)
-- [Skype Developer Platform](https://developer.microsoft.com/skype)
+- [Skype Developer Platform](/skype-sdk/skypedeveloperplatform.md)
 - [Introducing Skype for Business](https://www.skype.com/en/blogs/)
 - [Skype for Business Server 2015](/SkypeForBusiness/skype-for-business-server-2015)
 - [Skype for Business Server 2019](/SkypeForBusiness/skype-for-business-server-2019)
 
 ![Skype developer platform](images/skype.png)
-
-

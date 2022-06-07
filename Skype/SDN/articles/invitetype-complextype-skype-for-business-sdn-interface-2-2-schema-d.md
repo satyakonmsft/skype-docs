@@ -1,5 +1,6 @@
 ﻿---
 title: InviteType complexType (Schema D)
+description: This article describes the Schema D iteration of the InviteType complexType and provides the type's schema file, definition, and child elements.
 TOCTitle: InviteType complexType
 ms:assetid: 170a5ffe-55b1-a31a-1f0f-5111df719bc2
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171067(v=office.16)
