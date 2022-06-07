@@ -1,12 +1,12 @@
 ---
 title: Skype Developer Platform
 description: 'Find in-depth developer resources, how-to documentation, SDKs and references, and code samples for Skype developer platform verticals.'
-ms.date: 03/29/2022
+ms.date: 06/07/2022
 ---
 
 # Skype Developer Platform
 
-**Last modified:** May 19, 2021
+**Last modified:** June 6, 2022
 
 **Applies to:** Skype for Business 2015
 
@@ -30,7 +30,7 @@ The table lists the supported SDKs and APIs for Skype for Business Server and Sk
 |[Lync Server 2013 Persistent Chat SDK](/lync/persistent-chat-sdk/lync-server-2013-persistent-chat-sdk-documentation)|Yes|Yes|No|
 |[Skype for Business Software Defined Networking (SDN) Interface 3.0](/skype-sdk/sdn/articles/skype-for-business-sdn-interface)|Yes|Yes|No|
 
-## Related sites 
+## Related sites
 
-- [Skype Developer portal](https://developer.microsoft.com/skype)
+- [Skype Developer Platform](/skype-sdk/skypedeveloperplatform.md)
 - [Skype for Business Server 2015](/SkypeForBusiness/skype-for-business-server-2015)
