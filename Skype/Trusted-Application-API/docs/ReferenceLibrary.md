@@ -13,5 +13,5 @@ This section contains the list of Platform resources and enumeration types that 
 
 ## In this section
 
-- [Resources](https://ucwa.skype.com/trustedapplicationapi/reference/Resources.html)
-- [Enumerations](https://ucwa.skype.com/trustedapplicationapi/reference/enums.html )
+- [Resources](/skype-sdk/ucwa/resourcesinucwa)
+- [Enumerations](/skype-sdk/ucwa/ucwaenumerations)
