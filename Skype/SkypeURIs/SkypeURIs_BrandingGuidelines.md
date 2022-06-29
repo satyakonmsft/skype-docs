@@ -140,4 +140,3 @@ Do not alter the Skype Brand Elements in any way.
 * [Skype URI tutorial: Webpages](SkypeURItutorial_Webpages.md)
 * [Skype URI tutorial: Android apps](SkypeURITutorial_AndroidApps.md)
 * [Skype URI tutorial: iOS apps](SkypeURITutorial_iOSApps.md)
-* [Skype URI-specific brand elements](https://developer.skype.com/resources/skype-button-assets.zip)

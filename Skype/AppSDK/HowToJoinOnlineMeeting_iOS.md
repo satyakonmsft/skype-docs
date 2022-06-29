@@ -17,11 +17,11 @@ If the anonymous meeting your app joins is hosted in a **Skype for Business Onli
 
 The service application you create will give your mobile app access to the needed anonymous meeting join resources - discovery Url and anonymous meeting token. You'll use the RESTful Trusted Application API endpoint to schedule a meeting, get the discovery Url and token. The rest of this article describes how to enable your iOS app to call into such a service application. You can read more about the [Trusted Appplication API](../Trusted-Application-API/docs/ rusted_Application_API_GeneralReference.md) to learn about all of the features of this Skype for Business service application api.
 
-We've published two service application [examples](https://github.com/OfficeDev/skype-docs/tree/johnau/ucapdocs/Skype/Trusted-Application-API/samples) in GitHub to get you started.
+We've published two service application [examples](https://github.com/OfficeDev/skype-docs/tree/main/Skype/Trusted-Application-API/samples) in GitHub to get you started.
 
 ## Add anonymous online meeting code to your mobile app
 
-Please read [Implementing a Anonymous Client with the Skype App SDK - iOS.](https://github.com/OfficeDev/skype-docs/blob/johnau/ucapdocs/Skype/Trusted-Application-API/docs/ImplementingAnonymousClientWithSkypeAppSDK_iOS.md) for the sample code. The sample code is taken from our GitHub [Banking app sample](https://github.com/OfficeDev/skype-ios-app-sdk-samples). The example code steps include:
+Please read [Implementing a Anonymous Client with the Skype App SDK - iOS.](/skype-sdk/trusted-application-api/docs/implementinganonymousclientwithskypeappsdk_ios) for the sample code. The sample code is taken from our GitHub [Banking app sample](https://github.com/OfficeDev/skype-ios-app-sdk-samples). The example code steps include:
 
 - Call into a service application sample to get a join Url for a new ad-hoc meeting that is created by the service application
 - Use the join url to get an anonymous meeting token and a discovery Uri from the service application
