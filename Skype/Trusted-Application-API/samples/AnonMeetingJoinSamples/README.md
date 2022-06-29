@@ -66,7 +66,7 @@ If you plan on pointing a custom domain or subdomain to your `*.cloudapp.net` se
     ```
 5. Publish the application (right-click `PlatformServicSamplesAzureService` and select *Publish...*) using the *Production* slot
 
-When visiting your base URL (e.g. https://name.cloudapp.net), the expected response is a simple 403.
+When visiting your base URL (e.g. `https://name.cloudapp.net`), the expected response is a simple 403.
 
 ### Client webpage
 You will need to modify the `WebsiteSamples\scripts\index.js` file and replace `https://[name].cloudapp.net` with your trusted agent's base URL.

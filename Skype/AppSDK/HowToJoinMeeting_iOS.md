@@ -6,7 +6,7 @@ ms.date: 03/30/2022
 
 # Use the SDK to join a meeting with an iOS device
 
-This article shows an iOS developer how to join the **Skype for Business meeting** using a [**meeting URL**](/skype-sdk/appsdk/getmeetingurl.md) and enable core **Skype for Business App SDK** features like Text chat, Audio/Video chat in your app.
+This article shows an iOS developer how to join the **Skype for Business meeting** using a [**meeting URL**](/skype-sdk/appsdk/getmeetingurl) and enable core **Skype for Business App SDK** features like Text chat, Audio/Video chat in your app.
 
 Android developers should read [Use the SDK to join a meeting with an Android device](HowToJoinMeeting_Android.md).
 
@@ -72,9 +72,9 @@ No **Skype for Business** credentials are used to join the meeting.
 ```
 
 > [!NOTE]
-> Please refer [SfBApplication](https://ucwa.skype.com/reference/appSDK/IOS/Classes/SfBApplication.html), [SfBConfigurationManager](https://ucwa.skype.com/reference/appSDK/IOS/Classes/SfBConfigurationManager.html), [SfBVideoService](https://ucwa.skype.com/reference/appSDK/IOS/Classes/SfBVideoService.html), [SfBDevicesManager](https://ucwa.skype.com/reference/appSDK/IOS/Classes/SfBDevicesManager.html) and other classes in [SkypeForBusiness](https://ucwa.skype.com/reference/appSDK/IOS/) framework to handle application level Skype configurations.
+> Please refer SfBApplication<!--(https://ucwa.skype.com/reference/appSDK/IOS/Classes/SfBApplication.html)-->, SfBConfigurationManager<!--(https://ucwa.skype.com/reference/appSDK/IOS/Classes/SfBConfigurationManager.html)-->, SfBVideoService<!--(https://ucwa.skype.com/reference/appSDK/IOS/Classes/SfBVideoService.html)-->, SfBDevicesManager<!--(https://ucwa.skype.com/reference/appSDK/IOS/Classes/SfBDevicesManager.html)--> and other classes in SkypeForBusiness<!--(https://ucwa.skype.com/reference/appSDK/IOS/)--> framework to handle application level Skype configurations.
 
-3. Start joining the meeting by calling [_Application.joinMeetingAnonymously(String displayName, URI meetingUri)_](https://ucwa.skype.com/reference/appSDK/IOS/Classes/SfBApplication.html#//api/name/joinMeetingAnonymousWithUri:displayName:error:). This function returns the new conversation instance that represents the meeting.
+3. Start joining the meeting by calling _Application.joinMeetingAnonymously(String displayName, URI meetingUri)_<!--(https://ucwa.skype.com/reference/appSDK/IOS/Classes/SfBApplication.html#//api/name/joinMeetingAnonymousWithUri:displayName:error:)-->. This function returns the new conversation instance that represents the meeting.
 
  **Objective C**
 
@@ -272,7 +272,7 @@ No **Skype for Business** credentials are used to join the meeting.
 
 ## Error handling
 
-[SkypeForBusiness](https://ucwa.skype.com/reference/appSDK/IOS/) SDK API has both [_SfBApplication_](https://ucwa.skype.com/reference/appSDK/IOS/Classes/SfBApplication.html) and [_SfBConversation_](https://ucwa.skype.com/reference/appSDK/IOS/Classes/SfBConversation.html) level delegate method for handling possible errors or exceptions. The _SfBApplication_ alertDelegate handles global level concerns, while the _SfBConversation_ alertDelegate handles alerts specific to the conversation instance.
+SkypeForBusiness<!--(https://ucwa.skype.com/reference/appSDK/IOS/)--> SDK API has both _SfBApplication_<!--(https://ucwa.skype.com/reference/appSDK/IOS/Classes/SfBApplication.html)--> and _SfBConversation_<!--(https://ucwa.skype.com/reference/appSDK/IOS/Classes/SfBConversation.html)--> level delegate method for handling possible errors or exceptions. The _SfBApplication_ alertDelegate handles global level concerns, while the _SfBConversation_ alertDelegate handles alerts specific to the conversation instance.
 
 The delegate method _didReceiveAlert_ is called when new alert appears in the context where alertDelegate is attached.
 
