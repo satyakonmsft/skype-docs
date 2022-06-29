@@ -38,7 +38,7 @@ The DELETE verb is used to delete a resource. To delete a specific online meetin
 
 ## HTTP headers
 
-UCWA 2.0 makes use of several HTTP headers. A brief explanation of relevant headers is provided here. For more information, see the [HTTP RFC](http://www.w3.org/Protocols/rfc2616/rfc2616.mdl).
+UCWA 2.0 makes use of several HTTP headers. A brief explanation of relevant headers is provided here. For more information, see the [HTTP RFC](https://www.w3.org/Protocols/rfc2616/rfc2616.txt).
 
 
 - Accept - Used by clients to state which format is preferred in the response body of an HTTP operation.
