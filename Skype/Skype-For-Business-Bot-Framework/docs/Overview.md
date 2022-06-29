@@ -41,7 +41,7 @@ The Skype for Business bots are created by using the [Microsoft Bot Framework](h
 
 ## Add a bot to Skype for Business
 
-Bots can only be added to Skype for Business by tenant administrators of a Skype for Business Online environment. By selecting **Add to Skype for Business**, you launch the **[Connecting your bot to Skype for Business Online](https://skypeappregistration.azurewebsites.net/bot/29415286-5a43-4a00-9dc5-bcbc2ce1f59e)** page, which has the instructions for registering your bot.
+Bots can only be added to Skype for Business by tenant administrators of a Skype for Business Online environment. By selecting **Add to Skype for Business**, you launch the **[Connecting your bot to Skype for Business Online](/azure/bot-service/bot-service-channel-connect-skype)** page, which has the instructions for registering your bot.
 
 The instructions contain the following information:
 
@@ -49,7 +49,7 @@ To add your bot to Skype for Business, you must be the tenant administrator of a
 
 ### To add a bot
 
-1. [Download and install the Skype for Business Online Connector module](https://go.microsoft.com/fwlink/?LinkId=294688).
+1. [Download and install the Skype for Business Online Connector module](/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector).
 
 2. Open Windows PowerShell as Administrator and run the following:
 
@@ -188,7 +188,7 @@ To delete a bot completely from a Skype for Business tenant, you must be the ten
 
 ### To delete a bot
 
-1. [Download and install the Skype for Business Online Connector module](https://go.microsoft.com/fwlink/?LinkId=294688).
+1. [Download and install the Skype for Business Online Connector module](/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector).
 
 2. Open Windows PowerShell as Administrator and run the following:
 

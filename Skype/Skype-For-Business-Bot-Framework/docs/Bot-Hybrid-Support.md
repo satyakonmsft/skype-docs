@@ -12,9 +12,9 @@ Hybrid connectivity between Skype for Business Server and Skype for Business Onl
 
 ## Getting started
 
-- For more information about how to deploy hybrid connectivity between Skype for Business Server and Skype for Business Online, see [Deploy hybrid connectivity between Skype for Business Server and Skype for Business Online](/skypeforbusiness/skype-for-business-hybrid-solutions/deploy-hybrid-connectivity/deploy-hybrid-connectivity.md).
+- For more information about how to deploy hybrid connectivity between Skype for Business Server and Skype for Business Online, see [Deploy hybrid connectivity between Skype for Business Server and Skype for Business Online](/skypeforbusiness/skype-for-business-hybrid-solutions/deploy-hybrid-connectivity/deploy-hybrid-connectivity).
 
-- Configuring hybrid connectivity requires **Active Directory synchronization** to keep your on-premises and online users synchronized. **[Azure AD Connect](/azure/active-directory/connect/active-directory-aadconnect.md)** is the best way to connect your on-premises directory with Azure Active Directory (Azure AD) and Office 365. For more information about using Azure AD Connect for hybrid environment configuration, see [Integrate your on-premises directories with Azure Active Directory](/azure/active-directory/connect/active-directory-aadconnect.md).
+- Configuring hybrid connectivity requires **Active Directory synchronization** to keep your on-premises and online users synchronized. **[Azure AD Connect](/azure/active-directory/connect/active-directory-aadconnect)** is the best way to connect your on-premises directory with Azure Active Directory (Azure AD) and Office 365. For more information about using Azure AD Connect for hybrid environment configuration, see [Integrate your on-premises directories with Azure Active Directory](/azure/active-directory/connect/active-directory-aadconnect).
 
 - Read [Skype for Business Bot - Common Errors](Bot-Common-Errors.md) to troubleshoot some of the common errors encountered during the Skype for Business Bot setup.
 
@@ -24,7 +24,7 @@ After you have successfully deployed the hybrid environment, follow these steps 
 
 1. Create the bot using the [Microsoft Bot Framework](https://dev.botframework.com/). See [Creating a Skype for Business bot](overview.md) section for details.
 
-2. Launch the [Connecting your bot to Skype for Business Online](https://skypeappregistration.azurewebsites.net/bot/29415286-5a43-4a00-9dc5-bcbc2ce1f59e) page and follow all the instructions to add your bot to Skype for Business Online. You will be required to sign in as a Tenant Administrator of the Skype for Business Online environment and run the **New-CsOnlineApplicationEndpoint** PowerShell cmdlet.
+2. Launch the [Connecting your bot to Skype for Business Online](/azure/bot-service/bot-service-channel-connect-skype) page and follow all the instructions to add your bot to Skype for Business Online. You will be required to sign in as a Tenant Administrator of the Skype for Business Online environment and run the **New-CsOnlineApplicationEndpoint** PowerShell cmdlet.
 
     ```powershell
         New-CsOnlineApplicationEndpoint -ApplicationID <AppID generated from Bot Framework Portal like 41ec7d50-ba91-1207-73ee-136b88859725> -Name <NameOfTheBot> -Uri sip:<bothandle@yourdomain.com>

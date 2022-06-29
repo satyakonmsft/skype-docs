@@ -18,7 +18,7 @@ dev_langs:
 
 Activating a Microsoft Unified Communications Managed API 5.0 application against Skype for Business Server 2015 typically involves setting a trust relationship between the application and Skype for Business Server 2015, and setting up routing-specific configurations. PowerShell-based programmable activation enables application developers to easily integrate the details of UCMA 5.0 activation into their overall application activation.
 
-The cmdlets needed to create and manage Skype for Business Server 2015 trusted application pools, trusted applications, and trusted application endpoints can be invoked from C\# and other CLI-compliant languages, just as other Windows PowerShell cmdlets can be. For information about creating a PowerShell Runspace and executing PowerShell cmdlets, see [Writing a Windows PowerShell Host Application](https://msdn.microsoft.com/library/ee706563\(vs.85\).aspx).
+The cmdlets needed to create and manage Skype for Business Server 2015 trusted application pools, trusted applications, and trusted application endpoints can be invoked from C\# and other CLI-compliant languages, just as other Windows PowerShell cmdlets can be. For information about creating a PowerShell Runspace and executing PowerShell cmdlets.
 
 The following example demonstrates how to invoke a Skype for Business Server 2015 trusted application cmdlet. Note that this code snippet should be compiled as a 64-bit application. Running Skype for Business Server 2015 Manageability cmdlets from 32-bit instances of Powershell is unsupported. If a 32-bit application is required, care must be taken to enable the execution of scripts for 32-bit PowerShell instances.
 
