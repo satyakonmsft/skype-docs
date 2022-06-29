@@ -45,12 +45,12 @@ Note in the code above that we are using **window.location.href** as the value o
 
 1. Sign into **portal.azure.com** with an account that's an administrator on your tenant.
 2. Navigate to **Azure Active Directory** in the left side bar > **App registrations** > **Your app** > **Authentication** > **Redirect URIs**.
-3. Type the domain name where you're hosting your app (eg. **http://localhost** or **http://app.myapp.com**) and click **Save**.
+3. Type the domain name where you're hosting your app (eg. `http://localhost` or `http://app.myapp.com`) and click **Save**.
 
 ![Adding a Reply URL for your app in Azure AD](../../../images/troubleshooting/auth/ConfiguringReplyURLInAzure.PNG)
 
 > [!NOTE]
-> Protocol matters. AAD will treat **http://website.com** and **https://website.com** as different reply URLs. If you are still having an issue after following the steps above, check that the configured reply URL matches the protocol you're actually using.
+> Protocol matters. AAD will treat `http://website.com` and `https://website.com` as different reply URLs. If you are still having an issue after following the steps above, check that the configured reply URL matches the protocol you're actually using.
 
 > [!WARNING]
 > We do not recommend that production apps leave **localhost** configured as a reply URL. You should only use this for local development and testing, and remove it from the list of reply URLs once your app is hosted on a domain you own.
