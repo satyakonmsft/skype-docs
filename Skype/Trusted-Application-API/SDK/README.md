@@ -167,11 +167,11 @@ in an image, right-click the image in your browser and download it to your compu
 
 ## Next steps
 
-If you haven't already done so, [install Git](https://git-scm.com/downloads) (as well as [Git Credential Manager](https://java.visualstudio.com/Downloads/gitcredentialmanager/Index) for Linux or Mac OS)
+If you haven't already done so, [install Git](https://git-scm.com/downloads) (as well as [Git Credential Manager](https://github.com/GitCredentialManager/git-credential-manager) for Linux or Mac OS)
 
 Choose and install one of these supported IDEs:
 * [Visual Studio](https://go.microsoft.com/fwlink/?LinkId=309297&clcid=0x409&slcid=0x409)
-* [Visual Studio Code](https://code.visualstudio.com/Download) (with [Team Services Extension](https://java.visualstudio.com/Downloads/visualstudiocode/Index))
+* [Visual Studio Code](https://code.visualstudio.com/Download)
 
 Then clone this repo to your local machine to get started with your own project.
 
