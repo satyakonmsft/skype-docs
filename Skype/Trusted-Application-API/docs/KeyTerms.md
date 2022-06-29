@@ -31,7 +31,7 @@ The **Trusted Application API** allows developers to build Service Applications 
    
 
 ## Unified Communications Web API
-[The UCWA API](https://ucwa.skype.com/) help documentation has interactive documentation and samples for the UCWA API.
+[The UCWA API](/skype-sdk/ucwa/unifiedcommunicationswebapi2_0) help documentation has interactive documentation and samples for the UCWA API.
  
 ## Unified Communications Managed API
 [UCMA API](https://msdn.microsoft.com/library/office/dn454984.aspx) - MSDN Library Documentation for the sfb on-premise UCMA API.
