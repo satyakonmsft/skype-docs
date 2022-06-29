@@ -16,7 +16,7 @@ These license terms are an agreement between Microsoft Corporation (or based on 
 
 for this software, unless other terms accompany those items. If so, those terms apply.
 
-**BY USING THE SOFTWARE LOCATED HERE: [https://swx.cdn.skype.com](https://swx.cdn.skype.com), YOU ACCEPT THESE TERMS. IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.**
+**[BY USING THE SOFTWARE LOCATED HERE](/skype-sdk/WebSDK/docs/SkypeWebSDK), YOU ACCEPT THESE TERMS. IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.**
 
 ----------
 
@@ -30,7 +30,7 @@ for this software, unless other terms accompany those items. If so, those terms 
 **b.	Third Party Programs.** The software may include third party programs that Microsoft, not the third party, licenses to you under this agreement. Notices, if any, for the third party program are included for your information only.
 
 **2.	SCOPE OF LICENSE.** 
-The software is licensed, not sold. This agreement only gives you some rights to use the software. Microsoft reserves all other rights. Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement. In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways. For more information, see [www.microsoft.com/licensing/userights](https://www.microsoft.com/licensing/userights).  
+The software is licensed, not sold. This agreement only gives you some rights to use the software. Microsoft reserves all other rights. Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement. In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways. For more information, see [Microsoft licensing](https://www.microsoft.com/licensing/docs/view/Licensing-Use-Rights).  
 You may not
 
 - work around any technical limitations in the software;
