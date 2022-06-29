@@ -42,7 +42,7 @@ Events are available that indicate that a new message has arrived or the audio/v
 
 #### Participant
 
-The **Participant**<!--(https://ucwa.skype.com/reference/appSDK/Android/com/microsoft/office/sfb/appsdk/Participant.html)--> object represents a specific participant in the conversation.  (A conversation may have many participants.)   This object provides access to the participant’s attributes (for example, name) and to the chat, audio, and video sub-services that are specific to that participant.
+The **Participant**<!--(https://ucwa.skype.com/reference/appSDK/Android/com/microsoft/office/sfb/appsdk/Participant.html)--> object represents a specific participant in the conversation.  (A conversation may have many participants.) This object provides access to the participant’s attributes (for example, name) and to the chat, audio, and video sub-services that are specific to that participant.
 
 Events are available that indicate when, for example, the participant starts typing or their audio/video state has changed.
 
