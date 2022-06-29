@@ -33,7 +33,7 @@ The **Conversation**]<!--(https://ucwa.skype.com/reference/appSDK/Android/com/mi
 
 Each service object is of a different type, and provides management of a specific aspect of the conversation, for example, management of chat message sending or its activity history: 
  
-* **Chat**<!--(https://ucwa.skype.com/reference/appSDK/Android/com/microsoft/office/sfb/appsdk/ChatService.html)-->  To send an IM, to send message that the participant is typing, and so on.
+* **Chat**<!--(https://ucwa.skype.com/reference/appSDK/Android/com/microsoft/office/sfb/appsdk/ChatService.html)--> To send an IM, to send message that the participant is typing, and so on.
 * **Audio**<!--(https://ucwa.skype.com/reference/appSDK/Android/com/microsoft/office/sfb/appsdk/AudioService.html)--> To start/stop audio in the conversation, to control local audio devices etc.
 * **Video**<!--(https://ucwa.skype.com/reference/appSDK/Android/com/microsoft/office/sfb/appsdk/VideoService.html--> To start/stop video in the conversation, to control local video devices etc.
 * **History**<!--(https://ucwa.skype.com/reference/appSDK/Android/com/microsoft/office/sfb/appsdk/HistoryService.html)--> To view and manage the previous events (for example, sent messages) for the conversation. 
