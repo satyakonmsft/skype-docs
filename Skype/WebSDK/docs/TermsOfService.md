@@ -16,7 +16,7 @@ These license terms are an agreement between Microsoft Corporation (or based on 
 
 for this software, unless other terms accompany those items. If so, those terms apply.
 
-**[BY USING THE SOFTWARE LOCATED HERE](skype-sdk/WebSDK/docs/SkypeWebSDK), YOU ACCEPT THESE TERMS. IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.**
+**[BY USING THE SOFTWARE LOCATED HERE](/skype-sdk/WebSDK/docs/SkypeWebSDK), YOU ACCEPT THESE TERMS. IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.**
 
 ----------
 
