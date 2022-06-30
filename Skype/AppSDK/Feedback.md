@@ -12,6 +12,4 @@ The **Skype for Business** team responds to the developer communitity across sev
 
 * **Sample application bugs**: If you find a bug in one of our samples, open an issue for [Android sample issues](https://github.com/OfficeDev/skype-android-app-sdk-samples/issues) or [iOS sample issues](https://github.com/OfficeDev/skype-ios-app-sdk-samples/issues) on **GitHub**. Be sure to describe the steps to reproduce the bug.
 
-* **Feature requests**: If our API doesn't empower you to do a feature that you really need, please contact us via our channel for [Skype feedback on the developer platform](http://www.skypefeedback.com/forums/299913-generally-available/category/120892-developer-platform).
-
 * **Contributions**: We accept pull requests against our SDK documentation and our samples. If you'd like to contribute to the documentation, go to our [skype-docs GitHub repository](https://github.com/OfficeDev/skype-docs). You'll find a [contributors guide](https://github.com/OfficeDev/skype-docs/blob/master/CONTRIBUTING.md) that tells you how to create pull requests and what to expect from the Skype for Business team.

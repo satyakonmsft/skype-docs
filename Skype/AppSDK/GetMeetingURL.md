@@ -10,7 +10,7 @@ If you have not written a server-side feature to schedule a meeting and return a
 
 >[!NOTE]
 Production apps must use the generally available App SDK binaries. However, if you are prototyping an app or previewing new features of the App SDK, then you
-can enable the preview features of the App SDK by calling the [enablePreviewFeatures](https://ucwa.skype.com/reference/appSDK/Android/com/microsoft/office/sfb/appsdk/ConfigurationManager.html#enablePreviewFeatures()) API method. Doing this allows you
+can enable the preview features of the App SDK by calling the enablePreviewFeatures<!--(https://ucwa.skype.com/reference/appSDK/Android/com/microsoft/office/sfb/appsdk/ConfigurationManager.html#enablePreviewFeatures())--> API method. Doing this allows you
 to use the tasks described in this article to join a meeting hosted in a Skype for Business Online server.
 
 ## While developing your app

@@ -22,7 +22,7 @@ The [SignInManager.SignIn](http://officedev.github.io/skype-docs/Skype/WebSDK/mo
 
 Add a reference to the bootstrapper to your HTML file.
 
-BY USING THE SOFTWARE LOCATED HERE: [https://swx.cdn.skype.com](https://swx.cdn.skype.com), YOU ACCEPT THE _[Microsoft Software License Terms](TermsOfService.md)_ IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.
+[BY USING THE SOFTWARE LOCATED HERE](/skype-sdk/WebSDK/docs/SkypeWebSDK), YOU ACCEPT THE _[Microsoft Software License Terms](TermsOfService.md)_ IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.
 
 > [!NOTE]
 > These license terms apply to the use of the content from the domain swx.cdn.skype.com.

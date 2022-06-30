@@ -15,7 +15,7 @@ ms.date: 03/30/2022
 [Conversations](#sectionSection3)  
 [MePerson object](#sectionSection4)  
 
-The object model is shown in the following figure (Figure 1). Use the [Application](http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.application.html) constructor and the **new** keyword to create an **Application** object of the [Skype.Web.Model](https://msdn.microsoft.com/library/office/dn962123(v=office.16).aspx)**.Application** type. **Application** is the only object with a constructor. All other objects are obtained according to figure below.
+The object model is shown in the following figure (Figure 1). Use the [Application](http://officedev.github.io/skype-docs/Skype/WebSDK/model/api/interfaces/jcafe.application.html) constructor and the **new** keyword to create an **Application** object of the Skype.Web.Model**.Application** type. **Application** is the only object with a constructor. All other objects are obtained according to figure below.
 
 **Figure 1. Object Model**
 

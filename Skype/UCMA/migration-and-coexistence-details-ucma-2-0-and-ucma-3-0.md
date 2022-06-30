@@ -143,7 +143,7 @@ You will need to run **Set-CsTrustedApplicationPool** with the needed values for
 
 ## Get OCSCore.MSI from the Office Communications Server 2007 R2 installer
 
-The most important thing about this scenario is that the UCMA 2.0 application is expected to be installed in a pure Lync Server 2010 environment using WMI tools, which require the version of OCSCore. The application also needs OCSCore.msi at run time if it uses WMI-based auto-provisioning. The OCSCore Components runtime package can be downloaded from [Office Communications Server 2007 R2, Core Components Runtime Package](https://www.microsoft.com/download/details.aspx?id=2310).
+The most important thing about this scenario is that the UCMA 2.0 application is expected to be installed in a pure Lync Server 2010 environment using WMI tools, which require the version of OCSCore. The application also needs OCSCore.msi at run time if it uses WMI-based auto-provisioning.
 
 ## Install the UCMA 2.0 application
 
