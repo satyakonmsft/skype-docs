@@ -1,5 +1,6 @@
 ﻿---
-title: Connection element (QualityEndPointType complexType) 
+title: Learn about the connection element (QualityEndPointType complexType) schema C
+description: Describes the schema C iteration of the QualityEndPointType complexType connection element and provides the element's definition and parent elements.
 TOCTitle: Connection element
 ms:assetid: 468436d2-f6ec-74b5-04d1-ddc7b54cee3a
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404723(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Connection element 
+# Learn about the (QualityEndPointType complexType) connection element schema C 
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -19,10 +20,7 @@ Connection type such as "wired" or "wireless".
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -55,11 +53,7 @@ Connection type such as "wired" or "wireless".
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

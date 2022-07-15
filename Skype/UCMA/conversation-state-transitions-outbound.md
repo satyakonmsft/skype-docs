@@ -1,5 +1,6 @@
 ﻿---
 title: Conversation state transitions - outbound
+description: Describes outbound conversation state transitions as they relate to Skype for Business 2015 and provides a diagram to illustrate conversation state transitions.
 TOCTitle: Conversation state transitions - outbound
 ms:assetid: 10020cc8-7fba-4de3-8f23-624908ad7720
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465998(v=office.16)

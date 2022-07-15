@@ -1,5 +1,6 @@
 ﻿---
-title: LowResolutionCallPercent element (QualityPropertiesType complexType) 
+title: LowResolutionCallPercent element (QualityPropertiesType complexType) (Schema D)
+description: Describes the Schema D iteration of the LowResolutionCallPercent element and provides the element's definition, parent elements, and information.
 TOCTitle: LowResolutionCallPercent element
 ms:assetid: 649c2109-f9d0-501f-5e91-ffb063cff3c3
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170911(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# LowResolutionCallPercent element 
+# LowResolutionCallPercent element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,7 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +62,7 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+
 </colgroup>
 <thead>
 <tr class="header">

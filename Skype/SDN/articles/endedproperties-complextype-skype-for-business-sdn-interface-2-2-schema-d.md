@@ -1,5 +1,6 @@
 ﻿---
-title: EndedProperties complexType 
+title: EndedProperties complexType (Schema D)
+description: Describes the Schema D iteration of the Ended Properties complexType and provides the type's definition, child elements, and information.
 TOCTitle: EndedProperties complexType
 ms:assetid: 599553a1-17be-d1cb-ed99-4c614acddb87
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171058(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# EndedProperties complexType 
+# EndedProperties complexType (Schema D)
 
 (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -24,8 +25,6 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -58,9 +57,6 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
 </colgroup>
 <thead>
 <tr class="header">

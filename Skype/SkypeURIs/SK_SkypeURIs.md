@@ -1,6 +1,9 @@
-
+---
+title: Table of Contents for Skype URI
+description: Details a list of Skype SDK for Android articles for developing tools that will work with Skype for Android.
+---
 <!--This is the start of the TOC-->
-# Table of contents
+# Skype SDK for Android Table of contents
 
 - [Skype Development](SkypeDevelopment.md)
   - [Skype SDK  for Android](SkypeSDKforAndroid.md)

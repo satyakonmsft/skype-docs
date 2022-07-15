@@ -1,5 +1,6 @@
 ﻿---
 title: CallModalityAddition (QuickStart)
+description: Discusses the CallModalityAddition (QuickStart) including description, features, prerequisites, and running the sample in Skype for Business 2015.
 TOCTitle: CallModalityAddition (QuickStart)
 ms:assetid: 741ef143-e2d2-468d-8af1-0ec530ee933e
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn454814(v=office.16)

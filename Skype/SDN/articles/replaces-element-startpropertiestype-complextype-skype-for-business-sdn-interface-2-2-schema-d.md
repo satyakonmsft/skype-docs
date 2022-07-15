@@ -1,5 +1,6 @@
 ﻿---
 title: Replaces element (StartPropertiesType complexType) 
+description: An overview of Replaces element (StartPropertiesType complexType) Schema D.
 TOCTitle: Replaces element
 ms:assetid: 4933dd76-abf7-9b98-1feb-c35184aafdf2
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170984(v=office.16)
@@ -25,10 +26,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +58,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

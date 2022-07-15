@@ -1,5 +1,6 @@
 ﻿---
-title: EPId element (ErrorEndPointType complexType) 
+title: EPId element (ErrorEndPointType complexType)  
+description: Describes the Schema D iteration of the EPId element (ErrorEndPointType complexType) and provides the element's definition and parent elements.
 TOCTitle: EPId element (ErrorEndPointType complexType)
 ms:assetid: 2d8bfd01-7b6c-cacc-213f-8d992d801d55
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170862(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# EPId element 
+# EPId element (ErrorEndPointType complexType) (Schema D)
 
 (ErrorEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

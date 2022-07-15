@@ -1,5 +1,6 @@
 ---
 title: Skype for Business SDN Interface 2.2, Schema C
+description: An overview of Skype for Business SDN Interface 2.2, Schema C.
 ms.assetid: f35cf6b0-1ca8-fdfd-23b0-d5d2a4c21778
 ---
 

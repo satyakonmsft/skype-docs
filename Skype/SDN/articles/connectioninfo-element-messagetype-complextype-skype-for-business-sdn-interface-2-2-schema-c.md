@@ -1,5 +1,6 @@
 ﻿---
-title: ConnectionInfo element (MessageType complexType) 
+title: Learn about the ConnectionInfo element (MessageType complexType) schema C
+description: Describes the schema C iteration of the Connection Info element (MessageType complexType) and provides the element's definition and attributes.
 TOCTitle: ConnectionInfo element
 ms:assetid: 145a77b2-1939-4d7c-3e12-113646a74947
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404725(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# ConnectionInfo element 
+# Learn about the ConnectionInfo element (MessageType complexType) schema C
 
 (MessageType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -19,10 +20,7 @@ Connection-related properties regardless of the media stream and end points.
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -55,11 +53,7 @@ Connection-related properties regardless of the media stream and end points.
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -80,11 +74,7 @@ Connection-related properties regardless of the media stream and end points.
 ### Child elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -165,13 +155,7 @@ Connection-related properties regardless of the media stream and end points.
 ### Attributes
 
 <table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Attribute</p></th>

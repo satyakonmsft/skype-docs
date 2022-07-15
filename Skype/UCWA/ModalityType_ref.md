@@ -1,4 +1,7 @@
-
+---
+title: ModalityType reference
+description: Describes the ModalityType resource, which represents various types of modalities, and provides the resource's members.
+---
 # ModalityType
 
 
@@ -10,7 +13,7 @@ Represents the various types of modalities.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |Audio|Audio.|
 |Messaging|Instant messaging.|

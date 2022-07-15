@@ -1,5 +1,6 @@
 ﻿---
 title: Contextual communication
+description: Describes the Contextual Communication feature in Microsoft Unified Communications Managed API 5.0 as it relates to Skype for Business 2015.
 TOCTitle: Contextual communication
 ms:assetid: 6fe0e2a4-5546-41bb-87ae-2201aa32ae73
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465927(v=office.16)

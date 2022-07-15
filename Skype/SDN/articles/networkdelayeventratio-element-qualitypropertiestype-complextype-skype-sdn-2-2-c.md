@@ -1,5 +1,6 @@
 ﻿---
-title: NetworkDelayEventRatio element (QualityPropertiesType complexType) 
+title: NetworkDelayEventRatio element (QualityPropertiesType complexType) Schema C
+description: Describes the Schema C iteration of the NetworkDelayEventRatio element and provides the element's definition, parent elements, and information.
 TOCTitle: NetworkDelayEventRatio element
 ms:assetid: 44017134-b5b2-9615-46f2-060fbdcdaaf3
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404804(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# NetworkDelayEventRatio element 
+# NetworkDelayEventRatio element Schema C
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

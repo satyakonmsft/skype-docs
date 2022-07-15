@@ -1,4 +1,7 @@
-
+---
+title: GeneralHelper library
+description: GeneralHelper.js is a JavaScript library of generally useful functions.
+---
 # GeneralHelper library
 GeneralHelper.js is a JavaScript library of generally useful functions.
 
@@ -27,10 +30,11 @@ The **extractDataFromDataUri** function extracts textual data from a Data URI.
 
 
 
-|**Parameter**|**Description**|
-|:-----|:-----|
-|uri|The Data URI to be decoded.|
-|options|The only option currently available is `options.unescape`. If set, replaces each escape sequence in the URI.|
+| **Parameter** | **Description** |
+| ----- | ----- |
+| uri | The Data URI to be decoded. |
+| options | The only option currently available is `options.unescape`. If set, replaces each escape sequence in the URI. |
+
  **Returns**: The string contained in the Data URI.
 
  **Syntax**
@@ -67,9 +71,10 @@ The **extractOriginFromAbsoluteUrl** function extracts the origin from an absolu
 
 
 
-|**Parameter**|**Description**|
-|:-----|:-----|
-|url|The URL from which to extract the origin.|
+| **Parameter** | **Description** |
+| ----- | ----- |
+| url | The URL from which to extract the origin. |
+
  **Returns**: The origin as a string or an empty string.
 
  **Syntax**
@@ -145,9 +150,10 @@ The **isDefined** function verifies that the supplied object is defined; specifi
 
 
 
-|**Parameter**|**Description**|
-|:-----|:-----|
-|object|Object to check.|
+| **Parameter** | **Description** |
+| ----- | ----- |
+| object | Object to check. |
+
  **Returns**: Boolean indicating whether the object is defined.
 
  **Syntax**
@@ -183,9 +189,10 @@ The **isEmpty** function determines whether the specified object is empty.
 
 
 
-|**Parameter**|**Description**|
-|:-----|:-----|
-|object|Object to check.|
+| **Parameter** | **Description** |
+| ----- | ----- |
+| object | Object to check. |
+
  **Returns**: Boolean indicating whether the object is empty.
 
  **Syntax**
@@ -221,9 +228,10 @@ The **namespace** function generates an object placed in a namespace, based on t
 
 
 
-|**Parameter**|**Description**|
-|:-----|:-----|
-|namespaceString|Namespace to generate.|
+| **Parameter** | **Description** |
+| ----- | ----- |
+| namespaceString | Namespace to generate. |
+
  **Returns**: JSON object representing the namespace.
 
  **Syntax**

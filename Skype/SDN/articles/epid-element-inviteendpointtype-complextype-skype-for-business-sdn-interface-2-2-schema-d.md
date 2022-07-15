@@ -1,5 +1,6 @@
 ﻿---
 title: EPId element (InviteEndPointType complexType) 
+description: Describes the Schema D iteration of the EPId element (InviteEndPointType complexType) and provides the element's definition and parent elements.
 TOCTitle: EPId element (InviteEndPointType complexType)
 ms:assetid: 27e86971-495f-ea42-672a-bd7345c8f254
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170861(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# EPId element 
+# EPId element (InviteEndPointType complexType) (Schema D)
 
 (InviteEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,7 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +62,7 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+
 </colgroup>
 <thead>
 <tr class="header">

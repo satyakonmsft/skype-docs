@@ -1,4 +1,7 @@
-
+---
+title: Join a meeting with video and display the video streams
+description: Describes how video can be added or removed with an existing conversation instance and provides code examples.
+---
 # Join a meeting with video and display the video streams
 
 

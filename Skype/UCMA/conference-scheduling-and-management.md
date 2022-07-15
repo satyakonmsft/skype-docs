@@ -1,5 +1,7 @@
 ﻿---
 title: Conference scheduling and management
+description: Discusses scheduling a conference, PSTN participants, joining a conference, conference commands and events, adding a call, McuSession operations.
+Applies to: Skype for Business 2015
 TOCTitle: Conference scheduling and management
 ms:assetid: 288ecb11-01d8-42af-9de0-24c98bb70216
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465962(v=office.16)
@@ -17,7 +19,7 @@ dev_langs:
 
 
 
-An application can use the members of the [ConferenceServices](https://msdn.microsoft.com/library/hh348907\(v=office.16\)) class to schedule, modify, or cancel a conference. The **ConferenceServices** property on an endpoint (either [UserEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.userendpoint?view=ucma-api) or [ApplicationEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.applicationendpoint?view=ucma-api)) is a reference to a **ConferenceServices** object.
+An application can use the members of the [ConferenceServices](https://msdn.microsoft.com/library/hh348907\(v=office.16\)) class to schedule, modify, or cancel a conference. The **ConferenceServices** property on an endpoint (either [UserEndpoint](/dotnet/api/microsoft.rtc.collaboration.userendpoint) or [ApplicationEndpoint](/dotnet/api/microsoft.rtc.collaboration.applicationendpoint)) is a reference to a **ConferenceServices** object.
 
 ## Scheduling a conference
 

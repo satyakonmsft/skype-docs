@@ -1,5 +1,6 @@
 ﻿---
 title: Auto-provisioning and PowerShell activation
+description: Discusses Auto-provisioning and PowerShell in which data is written to the Central Management Store database, Active Directory forest, and local computer.
 TOCTitle: Auto-provisioning and PowerShell activation
 ms:assetid: 95c3c4ca-18d8-4759-8b06-94ac3ceb8c85
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465932(v=office.16)

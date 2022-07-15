@@ -1,10 +1,10 @@
 # README
 
-Thank you for your interest in [Skype for Business developer documentation](https://docs.microsoft.com/skype-sdk/)!
+Thank you for your interest in [Skype for Business developer documentation](/skype-sdk/)!
 
 ## Ways to contribute
 
-You can contribute to [Skype Web SDK developer documentation](https://docs.microsoft.com/skype-sdk/WebSDK/docs/SkypeWebSDK) and [Skype for Business App SDK developer documentation](https://docs.microsoft.com/skype-sdk/appsdk/skypeappsdk) in a few different ways:
+You can contribute to [Skype Web SDK developer documentation](/skype-sdk/WebSDK/docs/SkypeWebSDK) and [Skype for Business App SDK developer documentation](/skype-sdk/appsdk/skypeappsdk) in a few different ways:
 
 - Contribute to articles via the [public Skype Web SDK developer docs repo](https://github.com/OfficeDev/skype-docs/tree/master/Skype/WebSDK) and [Skype App SDK developer docs repo](https://github.com/OfficeDev/skype-docs/tree/master/Skype/AppSDK).
 - Report documentation bugs via [GitHub issues](https://github.com/OfficeDev/skype-docs/issues).

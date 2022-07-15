@@ -1,5 +1,6 @@
 ﻿---
-title: PAI element (InviteEndPointType complexType) 
+title: PAI element (InviteEndPointType complexType) (Schema D)
+description: Describes the Schema D iteration of the PAI element (InviteEndPointType complexType) and provides the element's definition, parent elements, and information.
 TOCTitle: PAI element (InviteEndPointType complexType)
 ms:assetid: b18ee860-6823-d704-cd38-d2d4de7fbd01
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170940(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# PAI element 
+# PAI element (InviteEndPointType complexType) (Schema D)
 
 (InviteEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

@@ -1,16 +1,17 @@
 ﻿---
-title: CPUInsufficientEventRatio element (QualityPropertiesType complexType) 
+title: CPUInsufficientEventRatio element (QualityPropertiesType complexType) (Schema D)
+description: Describes the Schema D iteration of the CPUInsufficientEventRatio element (QualityPropertiesType complexType) and provides the element's definition.
 TOCTitle: CPUInsufficientEventRatio element
 ms:assetid: cb4521ca-6f1e-ea8a-1437-90f45ca0eac1
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149462(v=office.16)
 ms:contentKeyID: 65855409
 ms.date: 08/24/2015
 mtps_version: v=office.16
-dev_langs:
+dev_langs: 
 - xml
 ---
 
-# CPUInsufficientEventRatio element 
+# CPUInsufficientEventRatio element (QualityPropertiesType complexType) (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -19,10 +20,7 @@ Percentage of sessions where the insufficient CPU event was fired when CPU cycle
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -55,11 +53,7 @@ Percentage of sessions where the insufficient CPU event was fired when CPU cycle
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

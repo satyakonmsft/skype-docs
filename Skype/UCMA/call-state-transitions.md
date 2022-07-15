@@ -1,5 +1,6 @@
 ﻿---
 title: Call state transitions
+description: Discusses and illustrates call state transitions for outbound and incoming calls for Skype for Business 2015.
 TOCTitle: Call state transitions
 ms:assetid: 2f9176a0-b25f-43e0-a000-1fe5b5dfc56d
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465981(v=office.16)
@@ -15,7 +16,7 @@ mtps_version: v=office.16
 
 ## Call transitions—outbound calls
 
-The [Call](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.call?view=ucma-api) state transitions for an outbound call are shown in the following illustration.
+The [Call](/dotnet/api/microsoft.rtc.collaboration.call) state transitions for an outbound call are shown in the following illustration.
 
 ![Call state transitions for an outbound call](images/Dn465981.StateMach_Call_Out(Office.16).jpg "Call state transitions for an outbound call")
 

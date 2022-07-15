@@ -1,4 +1,7 @@
-
+---
+title: PT Local User Note
+description: Describes local user notes in the Skype Web SDK and provides a code example that provides a message and changes user notes.
+---
 # Note
 
 

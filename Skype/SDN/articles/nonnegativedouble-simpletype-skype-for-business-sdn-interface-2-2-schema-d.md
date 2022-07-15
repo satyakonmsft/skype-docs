@@ -1,5 +1,6 @@
 ﻿---
-title: NonNegativeDouble simpleType 
+title: NonNegativeDouble simpleType
+description: Describes the NonNegativeDouble simpleType and provides the type's definition, base type, namespace, and schema file.
 TOCTitle: NonNegativeDouble simpleType
 ms:assetid: 2064bd04-273e-df5d-c7b7-9f55c1c62a41
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171049(v=office.16)
@@ -19,8 +20,8 @@ dev_langs:
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">

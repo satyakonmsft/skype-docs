@@ -1,4 +1,8 @@
-# Trusted Application API samples
+---
+title: Jump Start Development with Trusted Application API samples
+description: Describes jump start development with Trusted Application API samples including code and syntax examples.
+---
+# Jump Start Development with Trusted Application API samples
 
 > [!NOTE] 
 > The Trusted Application API is in Developer Preview and not licensed for production usage.  As part of Microsoft’s [intelligent communications vision](https://aka.ms/intelligentcommunicationsblog), we’re building extensible communications capabilities into Teams.  For more Teams Developer information, see [https://aka.ms/TeamsDeveloper](https://aka.ms/TeamsDeveloper).

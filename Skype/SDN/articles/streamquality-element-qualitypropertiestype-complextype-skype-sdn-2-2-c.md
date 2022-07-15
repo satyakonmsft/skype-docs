@@ -1,5 +1,6 @@
 ﻿---
-title: StreamQuality element (QualityPropertiesType complexType) 
+title: StreamQuality element (QualityPropertiesType complexType) (Schema C)
+description: Overview of the StreamQuality element (QualityPropertiesType complexType) (Schema C).
 TOCTitle: StreamQuality element
 ms:assetid: 7fdb2175-c294-5594-37a7-7133500c2318
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404855(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# StreamQuality element 
+# StreamQuality element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +25,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +58,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

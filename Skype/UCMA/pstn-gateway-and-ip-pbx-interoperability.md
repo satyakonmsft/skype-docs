@@ -1,5 +1,6 @@
 ﻿---
 title: PSTN gateway and IP-PBX interoperability
+description: An overview of the PSTN gateway and IP-PBX interoperability.
 TOCTitle: PSTN gateway and IP-PBX interoperability
 ms:assetid: 393b1403-3f11-4574-9d1b-0ed38764333d
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465944(v=office.16)
@@ -34,7 +35,7 @@ In addition, SIP peers:
 
 - Must provide media/audio transport using RTP/RTCP over UDP.
 
-- Must meet the Supported IP Gateways requirements listed in [Telephony Advisor for Exchange 2010](https://docs.microsoft.com/exchange/voice-mail-unified-messaging/telephone-system-integration-with-um/telephony-advisor-for-exchange-2013).
+- Must meet the Supported IP Gateways requirements listed in [Telephony Advisor for Exchange 2010](/exchange/voice-mail-unified-messaging/telephone-system-integration-with-um/telephony-advisor-for-exchange-2013).
 
 The following illustration shows a typical setup.
 

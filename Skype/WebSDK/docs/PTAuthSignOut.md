@@ -1,4 +1,7 @@
-
+---
+title: Skype for Business 2015 Sign Out
+description: Describes signing out in the Skype Web SDK and provides a code example for the sign out functionality.
+---
 # Sign Out
 
  _**Applies to:** Skype for Business 2015_

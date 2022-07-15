@@ -1,5 +1,6 @@
 ﻿---
 title: Elements (Skype for Business SDN Interface 2.2, Schema D)
+description: Describes the Schema D iteration of the Skype for Business SDN Interface 2.2 elements and provides elements in the SDNInterface.Schema.D.xsd XML schema.
 TOCTitle: Elements (Skype for Business SDN Interface 2.2, Schema D)
 ms:assetid: 0913a704-f887-4ec9-00fe-fa0be4ea917f
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149426(v=office.16)

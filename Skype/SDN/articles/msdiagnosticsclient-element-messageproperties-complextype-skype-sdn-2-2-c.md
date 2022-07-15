@@ -1,5 +1,6 @@
 ﻿---
-title: MSDiagnosticsClient element (MessageProperties complexType) 
+title: MSDiagnosticsClient element (MessageProperties complexType) Schema C
+description: Describes the Schema C iteration of the MSDiagnosticsClient element (MessageProperties complexType) and provides the element's definition and parent elements.
 TOCTitle: MSDiagnosticsClient element (MessageProperties complexType)
 ms:assetid: e3872f31-5cba-b61b-2646-71ba197bfa35
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404799(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# MSDiagnosticsClient element 
+# MSDiagnosticsClient element (MessageProperties complexType) Schema C
 
 (MessageProperties complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

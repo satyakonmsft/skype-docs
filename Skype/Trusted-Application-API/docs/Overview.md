@@ -1,3 +1,7 @@
+---
+title: Trusted Application API - Public Preview
+description: Discusses the Trusted Application API which is a Rest API that enables developers to build Skype for Business Online back-end communications services for the cloud.
+---
 # **Trusted Application API (Public Preview)**
 
 > [!NOTE] 

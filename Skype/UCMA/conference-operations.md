@@ -1,5 +1,6 @@
 ﻿---
 title: Conference operations
+description: Describes the conference operations mute-all mode, conference termination countdown,  entry and exit announcements, conference recording, and scheduling templates.
 TOCTitle: Conference operations
 ms:assetid: 4c48fb22-4f9a-4784-894a-cdd7c12ff50e
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465991(v=office.16)

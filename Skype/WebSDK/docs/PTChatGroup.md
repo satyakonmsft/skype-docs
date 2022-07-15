@@ -1,4 +1,7 @@
-
+---
+title: Skype for Business 2015 Group Conversation
+description: Describes group conversations and provides a code example that starts a group conversation, sends messages, and ends the conversation.
+---
 # Group Conversation
 
 

@@ -1,6 +1,7 @@
 ---
 title: 'UCMA 2.0 Core applications: Coexistence, migration, and upgrade scenarios'
 TOCTitle: 'UCMA 2.0 Core applications: Coexistence, migration, and upgrade scenarios'
+description: 'The sections in this document present the steps needed for UCMA 2.0 application coexistence, migration, and upgrade scenarios.'
 ms:assetid: 2049823f-eb02-4c15-88f5-722ff95d14de
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466131(v=office.16)
 ms:contentKeyID: 65240064
@@ -138,8 +139,8 @@ The following illustration shows this topology after the UCMA 2.0 application ha
     
    **Each time you add a new contact object, perform steps 3 and 4.**
     
-    > [!NOTE]
-    > This point is emphasized to remind you to perform the verifications in these steps when a new contact object is added using PowerShell. PowerShell might not be available locally on the computer from which you are running the WMI tool for activating new contact objects.
+   > [!NOTE]
+   > This point is emphasized to remind you to perform the verifications in these steps when a new contact object is added using PowerShell. PowerShell might not be available locally on the computer from which you are running the WMI tool for activating new contact objects.
 
 ## Scenario 4—Direct deployment of UCMA 2.0 application against pure Lync Server 2010
 

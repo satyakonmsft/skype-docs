@@ -1,11 +1,12 @@
 ---
-title: Understanding Skype for Business SDN Interface
+title: Understanding Skype for Business SDN Interface (Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019)
+description: An overview of understanding Skype for Business SDN Interface (Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019).
  
 ms.assetid: 4c97bce1-4b8b-4c13-8ec6-99eed59d88fc
 ---
 
 
-# Understanding Skype for Business SDN Interface
+# Understanding Skype for Business SDN Interface (Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019)
 
 
   

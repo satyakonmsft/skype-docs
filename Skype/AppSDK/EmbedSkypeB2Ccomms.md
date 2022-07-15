@@ -1,3 +1,7 @@
+---
+title: Embed Skype business-to-consumer communications in your mobile app
+description: Describes how to embed Skype business-to-consumer communications in the mobile app and provides on-premise and Online Meeting steps.
+---
 # Embed Skype business-to-consumer communications in your mobile app
 
 ![Guest meeting join scenario diagram](images/Fig2_anonymous_meeting_join.png "Figure 1. Guest meeting join")

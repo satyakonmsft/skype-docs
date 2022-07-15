@@ -1,5 +1,6 @@
 ﻿---
 title: Modifying ApplicationProvisioner.exe sample code
+description: An overview of modifying ApplicationProvisioner.exe sample code.
 TOCTitle: Modifying ApplicationProvisioner.exe sample code
 ms:assetid: 3e9e49ba-651e-4a09-939f-37b863e4a415
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466118(v=office.16)

@@ -1,5 +1,6 @@
 ﻿---
-title: ConnectivityModalities simpleType 
+title: ConnectivityModalities simpleType
+description: Describes the ConnectivityModalities simpleType and provides the type's definition and a table that outlines the type's base type, namespace, and schema file.
 TOCTitle: ConnectivityModalities simpleType
 ms:assetid: 67b3a37a-d9a7-aa6a-536e-446a937f9457
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171046(v=office.16)
@@ -18,10 +19,7 @@ dev_langs:
 ## Type information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Base type</strong></p></td>

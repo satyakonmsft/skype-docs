@@ -1,5 +1,6 @@
 ﻿---
-title: ConnectionPlatforms simpleType 
+title: ConnectionPlatforms simpleType
+description: Describes the ConnectionPlatforms simpleType and provides the type's definition, and a table that outlines the type's base type, namespace, and schema file.
 TOCTitle: ConnectionPlatforms simpleType
 ms:assetid: 3ce2b946-41fb-8db7-c4c9-1b4b72799319
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171045(v=office.16)
@@ -19,8 +20,8 @@ dev_langs:
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">

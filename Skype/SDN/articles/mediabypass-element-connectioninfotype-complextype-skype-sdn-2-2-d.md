@@ -1,5 +1,6 @@
 ﻿---
-title: MediaBypass element (ConnectionInfoType complexType) 
+title: MediaBypass element (ConnectionInfoType complexType) (Schema D)
+description: Describes the Schema D iteration of the MediaBypass element and provides the element's definition, parent elements, and information.
 TOCTitle: MediaBypass element
 ms:assetid: 7c1d44fa-8a19-d2b9-a8b0-d0fecd74e4fa
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170916(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# MediaBypass element 
+# MediaBypass element (Schema D)
 
 (ConnectionInfoType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

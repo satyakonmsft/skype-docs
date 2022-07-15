@@ -1,4 +1,7 @@
-
+---
+title: Join a meeting anonymously
+description: Describes how to join a meeting anonymously as it applies to Skype for Business and provides a code example.
+---
 # Join a meeting anonymously
 
 

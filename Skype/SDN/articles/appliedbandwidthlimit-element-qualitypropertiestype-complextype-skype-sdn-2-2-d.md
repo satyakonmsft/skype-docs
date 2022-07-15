@@ -1,5 +1,6 @@
 ﻿---
-title: AppliedBandwidthLimit element (QualityPropertiesType complexType) 
+title: AppliedBandwidthLimit element (QualityPropertiesType complexType) Schema D
+description: Describes the Schema D iteration of the AppliedBandwidthLimit element and provides the element's definition, element information, and parent elements.
 TOCTitle: AppliedBandwidthLimit element
 ms:assetid: 2fc1ead2-c75f-0572-ee7a-2599a189a5ae
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149424(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# AppliedBandwidthLimit element 
+# AppliedBandwidthLimit element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -22,8 +23,8 @@ This is the actual bandwidth applied to the given send side stream given various
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -58,9 +59,9 @@ This is the actual bandwidth applied to the given send side stream given various
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

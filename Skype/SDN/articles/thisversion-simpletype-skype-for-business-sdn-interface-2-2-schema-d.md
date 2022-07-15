@@ -1,5 +1,6 @@
 ﻿---
 title: ThisVersion simpleType 
+description: An overview of the ThisVersion simpleType, Schema D.
 TOCTitle: ThisVersion simpleType
 ms:assetid: 571a287c-8368-f496-6adb-e2d9714d413e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171052(v=office.16)
@@ -19,8 +20,8 @@ dev_langs:
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">

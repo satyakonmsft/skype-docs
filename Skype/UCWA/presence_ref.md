@@ -1,4 +1,8 @@
-# presence
+---
+title: Presence reference 
+description: Describes the presence object, which represents a user's availability, and provides the object's properties, links, events, and operations.
+---
+# presence reference
 
  _**Applies to:** Skype for Business 2015_
 

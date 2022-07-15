@@ -1,3 +1,7 @@
+---
+title: Terms of service App SDK
+description: Describes and provides the software license terms of service before downloading the App SDK for Android and iOS.
+---
 # Terms of service
 
 You must read and accept the following software license terms before downloading the App SDK for Android or iOS.

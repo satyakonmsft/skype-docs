@@ -1,5 +1,6 @@
 ﻿---
 title: RelayPort element (ByeEndPointType complexType) 
+description: An overview of RelayPort element (ByeEndPointType complexType) (Schema D).
 TOCTitle: RelayPort element (ByeEndPointType complexType)
 ms:assetid: 5e91a05a-fba5-30ad-1db1-ab64e284e589
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170979(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# RelayPort element 
+# RelayPort element (ByeEndPointType complexType) (Schema D)
 
 (ByeEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +26,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +58,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

@@ -1,5 +1,6 @@
 ﻿---
 title: Error handling and diagnostics
+description: Describes error handling and diagnostics as it relates to Skype for Business 2015 and provides links to additional topics.
 TOCTitle: Error handling and diagnostics
 ms:assetid: 8326a462-1d0d-4f71-af5e-d8d24b579a8a
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466062(v=office.16)

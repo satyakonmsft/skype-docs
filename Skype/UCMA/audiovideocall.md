@@ -1,5 +1,6 @@
 ﻿---
 title: AudioVideoCall (Unified Communications Managed API 5.0)
+description: Discusses how the AudioVideoCall class handles the "audio" and "video" media types and the transitions between states.
 TOCTitle: AudioVideoCall
 ms:assetid: bb378db5-96e7-47df-937d-9f912e33d609
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466040(v=office.16)
@@ -13,7 +14,7 @@ mtps_version: v=office.16
 
 **Applies to**: Skype for Business 2015
 
-An [AudioVideoCall](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) object represents an SDP-based audio/video session between a local participant and a remote participant. An **AudioVideoCall** object cannot exist on its own and must be associated with a [Conversation](https://msdn.microsoft.com/library/hh349224\(v=office.16\)) object.
+An [AudioVideoCall](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall) object represents an SDP-based audio/video session between a local participant and a remote participant. An **AudioVideoCall** object cannot exist on its own and must be associated with a [Conversation](https://msdn.microsoft.com/library/hh349224\(v=office.16\)) object.
 
 The **AudioVideoCall** class handles the "audio" and "video" media types.
 

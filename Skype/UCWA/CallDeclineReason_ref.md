@@ -1,4 +1,7 @@
-
+---
+title: CallDeclineReason
+description: Describes the CallDeclineReason resource, which represents why a call is declined, and provides a list of the resource's members.
+---
 # CallDeclineReason
 
 
@@ -8,7 +11,7 @@ _**Applies to:** Skype for Business 2015_
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |CodecMismatch|The call is declined because of mismatch codecs.|
 |EncryptionMismatch|The call is declined because of SRTP Negotiation issue|

@@ -1,3 +1,7 @@
+---
+title: Gathering Web Traffic Traces from the Skype Web SDK or Conversation Control
+description: Describes web traffic traces from the Skype Web SDK or Conversation Control and provides steps to capture web traffic.
+---
 # Gathering Web Traffic Traces from the Skype Web SDK or Conversation Control
 
 **In this article:**

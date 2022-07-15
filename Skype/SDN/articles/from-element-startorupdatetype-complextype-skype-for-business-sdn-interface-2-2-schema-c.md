@@ -1,16 +1,17 @@
 ﻿---
-title: From element (StartOrUpdateType complexType) 
+title: From element (StartOrUpdateType complexType) (Schema C)
 TOCTitle: From element (StartOrUpdateType complexType)
 ms:assetid: 75f762ae-fe25-fc78-7b61-57d4a6464f20
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404765(v=office.16)
 ms:contentKeyID: 68250711
+description: Source of the media stream.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# From element 
+# From element ((Schema C))
 
 (StartOrUpdateType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +25,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +58,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -90,11 +84,7 @@ Elements and attributes
 ### Child elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

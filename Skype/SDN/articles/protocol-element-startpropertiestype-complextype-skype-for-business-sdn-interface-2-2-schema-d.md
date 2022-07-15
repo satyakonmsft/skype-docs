@@ -1,5 +1,6 @@
 ﻿---
-title: Protocol element (StartPropertiesType complexType) 
+title: Protocol element (StartPropertiesType complexType) (Schema D)
+description: Describes the Schema D iteration of the Protocol element (StartPropertiesType complexType) and provides the element's definition and parent elements.
 TOCTitle: Protocol element (StartPropertiesType complexType)
 ms:assetid: 5331fdc8-20e7-e37d-e816-d21f881b80d2
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170953(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Protocol element 
+# Protocol element (StartPropertiesType complexType) (Schema D)
 
 (StartPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

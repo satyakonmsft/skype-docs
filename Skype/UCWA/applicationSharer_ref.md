@@ -1,3 +1,8 @@
+---
+title: applicationSharer
+description: applicationSharer represents the participant in a conversation who is currently sharing a program or her screen.
+---
+
 # applicationSharer
 
  _**Applies to:** Skype for Business 2015_
@@ -43,6 +48,7 @@ This resource can have the following relationships.
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
@@ -58,8 +64,10 @@ The user must have at least one of these scopes for operations on the resource t
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |applicationSharer|High|conversation|Indicates that a [participant](participant_ref.md) has started sharing a program or her screen for the first time in this [conversation](conversation_ref.md). The application can decide to fetch the updated information.</p><p></p>|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+```
 {
   "_links" : {
     "self" : {
@@ -89,7 +97,7 @@ This sample is given only as an illustration of event syntax. The semantic conte
     }
   ]
 }
-
+```
 
 ### Updated
 
@@ -98,8 +106,10 @@ This sample is given only as an illustration of event syntax. The semantic conte
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |applicationSharer|High|conversation|Indicates that the [participant](participant_ref.md) who is sharing a program or her screen has changed. The application can decide to fetch the updated information.</p><p></p>|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+```
 {
   "_links" : {
     "self" : {
@@ -129,7 +139,7 @@ This sample is given only as an illustration of event syntax. The semantic conte
     }
   ]
 }
-
+```
 
 ### Deleted
 
@@ -138,8 +148,10 @@ This sample is given only as an illustration of event syntax. The semantic conte
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
 |applicationSharer|High|conversation|Indicates that no one is sharing a program or screen anymore. The application can decide to fetch the updated information.</p><p></p>|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+```
 {
   "_links" : {
     "self" : {
@@ -169,7 +181,7 @@ This sample is given only as an illustration of event syntax. The semantic conte
     }
   ]
 }
-
+```
 
 ## Operations
 

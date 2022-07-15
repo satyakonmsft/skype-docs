@@ -1,5 +1,6 @@
 ﻿---
 title: Relay element (ByeEndPointType complexType) 
+description: An overview of Relay element (ByeEndPointType complexType) Schema D.
 TOCTitle: Relay element (ByeEndPointType complexType)
 ms:assetid: 2aa217f7-eff3-d4d5-efcd-24ebc0c06459
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170976(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Relay element 
+# Relay element Schema D
 
 (ByeEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +26,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -62,10 +59,6 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

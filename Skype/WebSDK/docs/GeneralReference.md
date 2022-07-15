@@ -1,4 +1,7 @@
-
+---
+title: Skype Web SDK general reference
+description: The general reference contains information you need to program with the Microsoft Skype Web SDK.
+---
 # Skype Web SDK general reference
 The general reference contains information you need to program with the Microsoft Skype Web SDK.
 

@@ -1,4 +1,7 @@
-
+---
+title: PT Groups Add Groups
+description: Describes adding groups and provides a code example that adds a new group object into the all collection.
+---
 # Add Group
 
 

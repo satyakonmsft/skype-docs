@@ -1,5 +1,6 @@
 ﻿---
 title: ToneController (QuickStart)
+description: Describes the QuickStart for the ToneController field and provides the field's description, features, prerequisites, and outlines how to run a sample.
 TOCTitle: ToneController (QuickStart)
 ms:assetid: 2497ed23-a5b4-43dd-96ab-9287beabd3bd
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466135(v=office.16)

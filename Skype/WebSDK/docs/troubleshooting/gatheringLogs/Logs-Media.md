@@ -1,3 +1,7 @@
+---
+title: Gathering Media Logs from the Skype Web SDK or Conversation Control
+description: Describes gathering media logs from the Skype Web SDK or Conversation Control and how to enable Microsoft Edge ORTC media logging.
+---
 # Gathering Media Logs from the Skype Web SDK or Conversation Control
 
 **In this article:**

@@ -1,3 +1,7 @@
+---
+title: The ConversationHelper class
+description: Describes the ConversationHelper class and provides the ConversationHelper class code list and syntax.
+---
 # The ConversationHelper class
 
 The Skype for Business App SDK for Android ships with the ConversationHelper.java source file, found in

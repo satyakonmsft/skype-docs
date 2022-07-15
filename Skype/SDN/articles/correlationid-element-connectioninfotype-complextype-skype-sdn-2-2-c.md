@@ -1,5 +1,6 @@
 ﻿---
-title: CorrelationId element (ConnectionInfoType complexType) 
+title: CorrelationId element (ConnectionInfoType complexType) (Schema C)
+description: Describes the Schema C iteration of the CorrelationId element (ConnectionInfoType complexType) and provides the element's definition and element information.
 TOCTitle: CorrelationId element
 ms:assetid: 5726de4b-5551-06e2-c9ce-c87e2cd91ee8
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404732(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# CorrelationId element 
+# CorrelationId element (ConnectionInfoType complexType) (Schema C)
 
 (ConnectionInfoType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -20,8 +21,8 @@ Identifier to correlate two SIP calls where mediation server is involved. Both S
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +57,9 @@ Identifier to correlate two SIP calls where mediation server is involved. Both S
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

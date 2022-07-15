@@ -1,5 +1,6 @@
 ﻿---
 title: SIP URIs (Unified Communications Managed API 5.0)
+description: An overview of SIP URIs (Unified Communications Managed API 5.0).
 TOCTitle: SIP URIs
 ms:assetid: 44dc0702-5b75-4e67-a7ad-078d8e590903
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466057(v=office.16)
@@ -31,9 +32,9 @@ The table that follows describes the components of a SIP URI.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -89,8 +90,8 @@ The following table describes members of the parameters collection of a SIP URI.
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

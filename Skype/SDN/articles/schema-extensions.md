@@ -1,5 +1,6 @@
 ---
 title: Schema Extensions
+description: Learn about schema D for Skype for Business SDN Interface.
 ms.assetid: d4fda314-3096-4a7a-a5aa-9ee10271efe5
 ---
 

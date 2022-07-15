@@ -1,5 +1,6 @@
 ﻿---
-title: OS element (QualityEndPointType complexType) 
+title: OS element (QualityEndPointType complexType) (Schema C)
+description: Describes the Schema C iteration of the OS element and provides the element's definition, parent elements, and information.
 TOCTitle: OS element
 ms:assetid: 7223101f-d594-7076-3308-f9d35885c909
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404802(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# OS element 
+# OS element (Schema C)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

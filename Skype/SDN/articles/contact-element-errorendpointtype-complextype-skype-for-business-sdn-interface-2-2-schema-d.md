@@ -1,5 +1,6 @@
 ﻿---
-title: Contact element (ErrorEndPointType complexType) 
+title: Contact element (ErrorEndPointType complexType) (Schema D)
+description: Describes the Contact element (ErrorEndPointType complexType) and provides the element's definition, parent elements, and element information.
 TOCTitle: Contact element (ErrorEndPointType complexType)
 ms:assetid: f139b9a1-997d-78bc-56eb-5cddacf0d710
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149452(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Contact element 
+# Contact element (ErrorEndPointType complexType) (Schema D)
 
 (ErrorEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -20,8 +21,8 @@ SIP URI of the user as extracted from the Contact header of the underlying SIP m
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +57,9 @@ SIP URI of the user as extracted from the Contact header of the underlying SIP m
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

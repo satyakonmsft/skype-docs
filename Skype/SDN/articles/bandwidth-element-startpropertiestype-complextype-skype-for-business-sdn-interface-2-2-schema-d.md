@@ -1,5 +1,6 @@
 ﻿---
-title: Bandwidth element (StartPropertiesType complexType) 
+title: Bandwidth element (StartPropertiesType complexType) Schema D
+description: Describes the Schema D iteration of the Bandwidth element and provides the element's definition, parent elements, child elements, and attributes.
 TOCTitle: Bandwidth element (StartPropertiesType complexType)
 ms:assetid: 58a54ad9-047f-139f-0609-d42c27d00f76
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149430(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Bandwidth element 
+# Bandwidth element (Schema D)
 
 (StartPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -20,10 +21,7 @@ Describes the maximum and average amount of bandwidth needed by this stream. It 
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -56,11 +54,7 @@ Describes the maximum and average amount of bandwidth needed by this stream. It 
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -81,11 +75,7 @@ Describes the maximum and average amount of bandwidth needed by this stream. It 
 ### Child elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -111,13 +101,7 @@ Describes the maximum and average amount of bandwidth needed by this stream. It 
 ### Attributes
 
 <table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Attribute</p></th>

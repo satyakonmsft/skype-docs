@@ -1,4 +1,7 @@
-
+---
+title: applications2 reference
+description: Describes the applications2 resource and provides the resource's links, operations, and code examples.
+---
 # applications2
 
 
@@ -13,7 +16,7 @@ For more on web links, see [Web links](WebLinks.md).
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -35,7 +38,7 @@ This resource can have the following relationships.
 
 
 
-|**Link**|**Description**|
+|Link|Description|
 |:-----|:-----|
 |self|The link to the current resource.|
 |application|Represents your real-time communication application.|
@@ -48,7 +51,7 @@ This resource can have the following relationships.
 
 ### GET
 
-Returns a representation of apllications resource.
+Returns a representation of application's resource.
 
 
 #### Request body
@@ -67,7 +70,7 @@ The errors below (if any) are specific to this resource. Generic errors that can
 
 
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |ServiceFailure|500|InvalidExchangeServerVersion|Invalid exchange server version.The exchange mailbox of the server might have moved to an unsupported version for the required feature.|
 |Conflict|409|AlreadyExists|The already exists error.|
@@ -402,7 +405,7 @@ None
 
 
 
-|**Item**|**Description**|
+|Item|Description|
 |:-----|:-----|
 | [application](application_ref.md)|Represents your real-time communication application.|
 
@@ -412,7 +415,7 @@ The errors below (if any) are specific to this resource. Generic errors that can
 
 
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |Forbidden|403|None|Forbidden when a federated Office Communications Server 2007 R2 user joins a meeting.|
 |Forbidden|403|None|Indicates that user is not allowed to create mobile application.|

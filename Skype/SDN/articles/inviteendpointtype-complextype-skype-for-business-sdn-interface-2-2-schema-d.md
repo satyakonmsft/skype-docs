@@ -1,5 +1,6 @@
 ﻿---
 title: InviteEndPointType complexType 
+description: Describes the Schema D iteration for the InviteEndPointType complexType and provides the type's information, definition, and child elements.
 TOCTitle: InviteEndPointType complexType
 ms:assetid: 2de85f59-1413-c6eb-04af-8e6620953ec3
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171065(v=office.16)
@@ -24,8 +25,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -58,9 +59,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

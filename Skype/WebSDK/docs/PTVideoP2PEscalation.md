@@ -1,4 +1,7 @@
-
+---
+title: Skype for Business 2015 P2P Video Escalation
+description: Describes P2P video escalation and provides code examples for use with the Skype for Business 2015 Web SDK.
+---
 # P2P Video Escalation
 
 
@@ -8,9 +11,9 @@
 
 ## Escalating a P2P video conversation
 
-The application object exposes a conversationsManager object which we can use to create new conversations by calling getConversation(...) and providing a SIP URI.  After creation of the conversation object it is helpful to setup a few event listeners for when we are connected to video, added participants, when participants are connected to video, and when we disconnect from the conversation.  We can use the videoService on the conversation object and call start() to initate the call and send an invitation.
+The application object exposes a conversationsManager object which we can use to create new conversations by calling getConversation(...) and providing a SIP URI.  After creation of the conversation object it is helpful to setup a few event listeners for when we are connected to video, added participants, when participants are connected to video, and when we disconnect from the conversation.  We can use the videoService on the conversation object and call start() to initiate the call and send an invitation.
 
-When either the selfParticipant or other persons are conencted to video we also need to setup the DOM element where the video should be displayed.  This configuration can be handled by getting access to the sink object by walking from the person object to the video modality to the channels collection choosing the first, or channels(0), which gives us access to the stream object which has a source object which finally points us to the sink object.  The sink object has a format property that can accept video formatting options such as Stretch, Fit, and Crop.  The sink object also exposes a container property where we can provide a DOM element where the video will be inserted.
+When either the selfParticipant or other persons are connected to video we also need to setup the DOM element where the video should be displayed.  This configuration can be handled by getting access to the sink object by walking from the person object to the video modality to the channels collection choosing the first, or channels(0), which gives us access to the stream object which has a source object which finally points us to the sink object.  The sink object has a format property that can accept video formatting options such as Stretch, Fit, and Crop.  The sink object also exposes a container property where we can provide a DOM element where the video will be inserted.
 
 We can use the participants collection of the conversation and call add(...) providing a SIP URI to invite additional persons.  They will receive an invitation and if they accept will be added to the conversation.  In the case of a peer-to-peer, P2P, conversation the server will escalate it to a conference.
 

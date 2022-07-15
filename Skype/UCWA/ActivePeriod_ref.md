@@ -1,4 +1,7 @@
-
+---
+title: ActivePeriod reference
+description: Describes the ActivePeriod resource, which represents when call forwarding settings are active, and provides the resource's members.
+---
 # ActivePeriod
 
 
@@ -10,7 +13,7 @@ Represents when call forwarding settings are active.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |Always|Call forwarding settings are always active.|
 |Workhours|Call forwarding settings are active only during workhours.|

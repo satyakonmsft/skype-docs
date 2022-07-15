@@ -1,16 +1,17 @@
 ﻿---
-title: ErrorProperties complexType 
+title: ErrorProperties complexType (Schema C)
 TOCTitle: ErrorProperties complexType
 ms:assetid: 8c50d36b-2f48-3c80-669b-f58c6e405ec7
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429352(v=office.16)
 ms:contentKeyID: 68250794
+description: Provides Type information and Elements. 
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# ErrorProperties complexType 
+# ErrorProperties complexType Schema C
 
 (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -22,10 +23,6 @@ Elements and attributes
 ## Type information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Namespace</strong></p></td>
@@ -56,11 +53,6 @@ Elements and attributes
 ### Child elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

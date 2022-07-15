@@ -1,5 +1,6 @@
 ﻿---
-title: RelativeOneWayBurstDensity element (QualityPropertiesType complexType) 
+title: RelativeOneWayBurstDensity element (QualityPropertiesType complexType) Schema D
+description: An overview of the RelativeOneWayBurstDensity element (QualityPropertiesType complexType) Schema D.
 TOCTitle: RelativeOneWayBurstDensity element
 ms:assetid: 7db47b8b-16d9-1ad4-f46c-70873b43822d
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170972(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# RelativeOneWayBurstDensity element 
+# RelativeOneWayBurstDensity element Schema D
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +26,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +58,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

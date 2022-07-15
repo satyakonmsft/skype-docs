@@ -1,5 +1,6 @@
 ﻿---
-title: BSSID element (QualityEndPointType complexType) 
+title: BSSID element (QualityEndPointType complexType) Schema D
+description: Describes the Schema D iteration of the BSSID element and provides the element's definition, parent elements, and element information.
 TOCTitle: BSSID element
 ms:assetid: 98718345-3dd5-7344-4de0-dd5b49cad0f5
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149433(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# BSSID element 
+# BSSID element (Schema D)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -20,8 +21,8 @@ Id of an access point for a WiFi/wireless connection.
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +57,9 @@ Id of an access point for a WiFi/wireless connection.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

@@ -1,5 +1,6 @@
 ﻿---
 title: Collaboration layer
+description: Discusses the Microsoft Unified Communications Managed API 5.0 that are associated with text and audio communications, presence, and audio devices.
 TOCTitle: Collaboration layer
 ms:assetid: 9f55d1e5-c644-415e-b806-92f8441d453b
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465997(v=office.16)
