@@ -53,7 +53,7 @@ Be sure to read [Getting started with Skype App SDK development](GettingStarted.
    > [!NOTE]
    > All of the SDK’s interfaces must be used only from the application main thread (main run loop). Notifications are delivered in the same thread as well. As a result, no synchronization around the SDK’s interfaces is required. The SDK, however, may create threads for internal purposes.
 
-1. Get the [**Conversation**](https://ucwa.skype.com/reference/appSDK/Android/com/microsoft/office/sfb/appsdk/Conversation.html) object that encapsulates the meeting from the [**AnonymousSession**](https://ucwa.skype.com/reference/appSDK/Android/com/microsoft/office/sfb/appsdk/AnonymousSession.html) object by calling _getConversation()_ on the anonymous session.  
+1. Get the **Conversation**<!--(https://ucwa.skype.com/reference/appSDK/Android/com/microsoft/office/sfb/appsdk/Conversation.html)--> object that encapsulates the meeting from the **AnonymousSession**<!--(https://ucwa.skype.com/reference/appSDK/Android/com/microsoft/office/sfb/appsdk/AnonymousSession.html)--> object by calling _getConversation()_ on the anonymous session.  
 
    ```java
      mConversation = mAnonymousSession.getConversation();
@@ -69,7 +69,7 @@ Be sure to read [Getting started with Skype App SDK development](GettingStarted.
     Once the api has been called, the user is considered in acceptance of the third party video codec license that we use to support video.  Subsequent meetings do not require the license acceptance.  
 
     [!code-java [sample](VideoLicense_Android.md)]  
-1. Connect the conversation property callback to the [**Conversation**](https://ucwa.skype.com/reference/appSDK/Android/com/microsoft/office/sfb/appsdk/Conversation.html) object returned in the previous step.
+1. Connect the conversation property callback to the **Conversation**<!--(https://ucwa.skype.com/reference/appSDK/Android/com/microsoft/office/sfb/appsdk/Conversation.html)--> object returned in the previous step.
 
    ```java
        mConversation.addOnPropertyChangedCallback(
@@ -126,8 +126,8 @@ Be sure to read [Getting started with Skype App SDK development](GettingStarted.
    ```
 
 1. When the state of the conversation changes to Conversation.State.ESTABLISHED, construct a ConversationHelper object. Pass the following objects:
-   - The [**Conversation**](https://ucwa.skype.com/reference/appSDK/Android/com/microsoft/office/sfb/appsdk/Conversation.html) object returned in a prior step
-   - the [**Application.DevicesManager**](https://ucwa.skype.com/reference/appSDK/Android/com/microsoft/office/sfb/appsdk/DevicesManager.html)
+   - The **Conversation**<!--(https://ucwa.skype.com/reference/appSDK/Android/com/microsoft/office/sfb/appsdk/Conversation.html)--> object returned in a prior step
+   - the **Application.DevicesManager**<!--(https://ucwa.skype.com/reference/appSDK/Android/com/microsoft/office/sfb/appsdk/DevicesManager.html)-->
    - A **TextureView** control to show a preview of outgoing video
    - A view such as a **RelativeLayout** to contain the **MMVRSurfaceview** that will show incoming video.
 

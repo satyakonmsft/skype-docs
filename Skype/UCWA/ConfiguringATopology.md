@@ -24,13 +24,13 @@ Browser-based UCWA 2.0 applications require server-side configuration before the
 According to the definition, all three of the following are different:
 
 
-- http://contoso.com
+- `http://contoso.com`
  
-- http://contoso.com:8080
+- `http://contoso.com:8080`
  
-- https://contoso.com
+- `https://contoso.com`
  
-- https://app.contoso.com
+- `https://app.contoso.com`
  
 Given these nuances, an admin must be careful when editing the allowed list.
 
