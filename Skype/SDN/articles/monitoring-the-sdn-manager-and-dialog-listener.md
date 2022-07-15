@@ -1,6 +1,6 @@
 ---
 title: Monitoring the SDN Manager and Dialog Listener
- 
+description: Describes the process of monitoring the SDN Manager and Dialog Listener for Lync Server 2013, Skype for Business 2015, and Skype for Business 2019.
 ms.assetid: 80c3b67f-aa1c-4c06-a175-cdd0208db0a3
 ---
 

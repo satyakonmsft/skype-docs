@@ -1,5 +1,6 @@
 ﻿---
-title: PAI element (ErrorEndPointType complexType) 
+title: PAI element (ErrorEndPointType complexType) (Schema D)
+description: Describes the Schema D iteration of the PAI elemetn (ErrorEndPointType complexType) and provides the element's definition, parent elements, and information.
 TOCTitle: PAI element (ErrorEndPointType complexType)
 ms:assetid: c6d816c1-e79a-37ae-29e2-75ea82ad0eab
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170938(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# PAI element 
+# PAI element (ErrorEndPointType complexType) (Schema D)
 
 (ErrorEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

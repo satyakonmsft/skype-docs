@@ -1,5 +1,6 @@
 ﻿---
 title: Extending the MediaFlow class
+description: Describes the MediaFlow abstract class and how to extend the MediaFlow class as it relates to Skype for Business 2015.
 TOCTitle: Extending the MediaFlow class
 ms:assetid: e6f88071-233c-43b2-b718-59a323bd039c
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466106(v=office.16)
@@ -12,7 +13,7 @@ mtps_version: v=office.16
 
 **Applies to**: Skype for Business 2015
 
-The [MediaFlow](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaflow?view=ucma-api) abstract class represents a generic flow concept for objects that send or receive media. A nonabstract subclass represents the flow of a specific media type. Microsoft Unified Communications Managed API 5.0 provides two **MediaFlow** subclasses: [AudioVideoFlow](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow?view=ucma-api) and [InstantMessagingFlow](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.instantmessagingflow?view=ucma-api). These classes represent flows whose media type is, respectively, audio/video and message.
+The [MediaFlow](/dotnet/api/microsoft.rtc.collaboration.componentmodel.mediaflow&preserve-view=true) abstract class represents a generic flow concept for objects that send or receive media. A nonabstract subclass represents the flow of a specific media type. Microsoft Unified Communications Managed API 5.0 provides two **MediaFlow** subclasses: [AudioVideoFlow](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideoflow&preserve-view=true) and [InstantMessagingFlow](/dotnet/api/microsoft.rtc.collaboration.instantmessagingflow&preserve-view=true). These classes represent flows whose media type is, respectively, audio/video and message.
 
 A developer who intends to support a different media type must implement a **MediaFlow** subclass that represents that media type.
 

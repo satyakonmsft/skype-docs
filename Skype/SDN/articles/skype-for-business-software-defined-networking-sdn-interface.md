@@ -1,5 +1,6 @@
 ﻿---
 title: Skype for Business Software Defined Networking (SDN) Interface
+description: The Skype for Business Software Defined Networking (SDN) Interface.
 TOCTitle: '@NoTitle'
 ms:assetid: 2cc9aa1a-a180-4887-8e87-93450ab57106
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn785131(v=office.16)

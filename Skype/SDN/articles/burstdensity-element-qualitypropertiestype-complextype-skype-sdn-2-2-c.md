@@ -1,5 +1,6 @@
 ﻿---
-title: BurstDensity element (QualityPropertiesType complexType) 
+title: BurstDensity element (QualityPropertiesType complexType) Schema C
+description: Describes the Schema C iteration of the BurstDensity element and provides the element's definition, parent elements, and element information.
 TOCTitle: BurstDensity element
 ms:assetid: 2724a5e5-0a34-07e9-9dc1-bfb99af0e4b5
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404710(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# BurstDensity element 
+# BurstDensity element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -20,8 +21,8 @@ Average burst density, as specified in \[RFC3611\] section 4.7.2, is computed wi
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +57,9 @@ Average burst density, as specified in \[RFC3611\] section 4.7.2, is computed wi
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

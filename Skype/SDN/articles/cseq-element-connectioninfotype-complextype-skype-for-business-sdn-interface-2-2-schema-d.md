@@ -1,16 +1,17 @@
 ﻿---
-title: CSEQ element (ConnectionInfoType complexType) 
+title: CSEQ element (ConnectionInfoType complexType) (Schema D)
+description: Describes the Schema D iteration of the CSEQ element (ConnectionInfoTypo complexType) and provides the element's definition and element information.
 TOCTitle: CSEQ element
 ms:assetid: 1f77eda5-0bee-f83b-9576-a6ea8187bafe
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149464(v=office.16)
 ms:contentKeyID: 65855411
 ms.date: 08/24/2015
 mtps_version: v=office.16
-dev_langs:
+dev_langs: 
 - xml
 ---
 
-# CSEQ element 
+# CSEQ element (ConnectionInfoType complexType) (Schema D)
 
 (ConnectionInfoType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -20,8 +21,8 @@ Call sequence number as part of SIP standard that needs to be used to filter for
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +57,9 @@ Call sequence number as part of SIP standard that needs to be used to filter for
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

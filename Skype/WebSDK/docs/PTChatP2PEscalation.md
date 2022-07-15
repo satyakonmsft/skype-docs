@@ -1,4 +1,7 @@
-
+---
+title: P2P Chat Conversation Escalation
+description: Describes P2P chat conversation escalation and provides a code example that initiates a conversation, adds participants, and sends messages.
+---
 # P2P Chat Conversation Escalation
 
 

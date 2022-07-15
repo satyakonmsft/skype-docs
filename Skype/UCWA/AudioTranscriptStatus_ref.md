@@ -1,4 +1,7 @@
-
+---
+title: AudioTranscriptStatus reference
+description: Describes the AudioTranscriptStatus resource, which represents the audio transcript type, and provides the resource's members.
+---
 # AudioTranscriptStatus
 
 
@@ -10,7 +13,7 @@ Represents the type of an audio transcript.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |Connected|The connected event for the audio transcript.|
 |Ended|The ended event for the audio transcript.|

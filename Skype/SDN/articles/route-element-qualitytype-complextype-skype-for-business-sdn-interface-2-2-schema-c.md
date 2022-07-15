@@ -1,5 +1,6 @@
 ﻿---
-title: Route element (QualityType complexType) 
+title: Route element (QualityType complexType) (Schema C)
+description: An overview of the Route element (QualityType complexType) (Schema C).
 TOCTitle: Route element (QualityType complexType)
 ms:assetid: 998c92ca-3df6-99c0-d47b-0dd6e04af190
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404846(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Route element 
+# Route element (QualityType complexType) (Schema C)
 
 (QualityType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -91,9 +92,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

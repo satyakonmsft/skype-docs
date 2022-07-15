@@ -1,4 +1,7 @@
-
+---
+title: Skype for Business 2015 Devices
+description: Describes the DevicesManager object, which handles audio and video devices, and details how it handles cameras, microphones, and speakers.
+---
 # Devices
 
 

@@ -1,3 +1,7 @@
+---
+title: Loading a .md file to a .md-html file after changing the markdown file attribute
+description: Describes how Markdown is loaded from an external file via AJAX and its content is re-rendered into a child container element.
+---
 # `<zero-md>`
 
 ### Markdown loaded from external file "demo.md"

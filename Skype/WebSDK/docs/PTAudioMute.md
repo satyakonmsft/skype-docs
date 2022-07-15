@@ -1,4 +1,7 @@
-
+---
+title: Skype for Business 2015 - Mute or Unmute Call
+description: Describes muting and unmuting calls, and provides a code example that can start an audio call, mute and unmute the call, and end a conversation.
+---
 # Mute/Unmute Call
 
  _**Applies to:** Skype for Business 2015_

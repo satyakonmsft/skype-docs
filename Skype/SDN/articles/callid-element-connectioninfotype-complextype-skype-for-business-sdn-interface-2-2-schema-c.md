@@ -1,16 +1,17 @@
 ﻿---
-title: CallId element (ConnectionInfoType complexType) 
+title: CallId element (ConnectionInfoType complexType) (Schema C)
 TOCTitle: CallId element
 ms:assetid: 92558a4d-2a23-4e5e-6c4a-56e65bdf994f
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404717(v=office.16)
 ms:contentKeyID: 68250630
+description: Unique identifier for the SIP call. This field should be used to correlate messages referring to the same call.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# CallId element 
+# CallId element (Schema C)
 
 (ConnectionInfoType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -19,10 +20,7 @@ Unique identifier for the SIP call. This field should be used to correlate messa
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -55,11 +53,7 @@ Unique identifier for the SIP call. This field should be used to correlate messa
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

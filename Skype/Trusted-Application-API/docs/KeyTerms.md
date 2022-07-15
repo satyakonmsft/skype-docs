@@ -1,3 +1,7 @@
+---
+title: Skype for Business - Definition of key terms
+description: Discusses the definition of several key terms such as Platform Service, Trusted Application API Library Reference Documentation and more.
+---
 # Definition of key terms
 
 ## Platform Service

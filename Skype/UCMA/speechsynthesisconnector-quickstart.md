@@ -1,5 +1,6 @@
 ﻿---
 title: SpeechSynthesisConnector (QuickStart)
+description: An overview of SpeechSynthesisConnector (QuickStart).
 TOCTitle: SpeechSynthesisConnector (QuickStart)
 ms:assetid: e1d13515-e5e7-4a1a-8a0b-845419d2a708
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466132(v=office.16)

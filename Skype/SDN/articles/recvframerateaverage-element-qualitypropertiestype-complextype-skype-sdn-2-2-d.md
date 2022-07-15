@@ -1,5 +1,6 @@
 ﻿---
-title: RecvFrameRateAverage element (QualityPropertiesType complexType) 
+title: RecvFrameRateAverage element (QualityPropertiesType complexType) Schema D
+description: Describes the Schema D iteration of the RecvFrameRateAverage element (QualityPropertiesType complexType) and provides the element's definition.
 TOCTitle: RecvFrameRateAverage element
 ms:assetid: 4bff8537-61cb-f50e-46eb-34d2549bdd90
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170958(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# RecvFrameRateAverage element 
+# RecvFrameRateAverage element (QualityPropertiesType complexType) Schema D
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

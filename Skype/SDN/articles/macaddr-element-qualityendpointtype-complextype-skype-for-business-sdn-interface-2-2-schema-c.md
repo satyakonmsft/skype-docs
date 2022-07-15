@@ -1,5 +1,6 @@
 ﻿---
-title: MACAddr element (QualityEndPointType complexType) 
+title: MACAddr element (QualityEndPointType complexType) (Schema C)
+description: Describes the Schema C iteration of the MACAddr element and provides the element's definition, parent elements, element type, namespace, and schema file.
 TOCTitle: MACAddr element
 ms:assetid: 9c3736b4-8284-14bb-eb64-06c385190d3b
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404788(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# MACAddr element 
+# MACAddr element (Schema C)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +25,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +58,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

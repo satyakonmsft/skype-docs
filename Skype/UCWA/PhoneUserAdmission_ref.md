@@ -1,4 +1,7 @@
-
+---
+title: PhoneUserAdmission reference
+description: Describes PhoneUserAdmission, which determines if participants are allowed to join an online meeting by dialing in with phone.
+---
 # PhoneUserAdmission
 
 

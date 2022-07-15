@@ -1,5 +1,6 @@
 ﻿---
 title: AVFlow-Mute (QuickStart)
+description: Discusses the AVFlow-Mute (QuickStart) including description, features, prerequisites, and running the sample in Skype for Business 2015.
 TOCTitle: AVFlow-Mute (QuickStart)
 ms:assetid: 1d213bf7-9044-44cb-90dd-a54cd10a0f69
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466146(v=office.16)

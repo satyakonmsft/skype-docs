@@ -1,3 +1,7 @@
+---
+title: myOnlineMeeting reference
+description: Describes the myOnlineMeeting resource and provides the resource's properties, links, Azure AD scopes, and examples.
+---
 # myOnlineMeeting
 
 **Applies to**: Skype for Business 2015

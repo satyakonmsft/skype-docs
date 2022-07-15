@@ -1,5 +1,6 @@
 ﻿---
-title: TenantId element (InviteEndPointType complexType) 
+title: TenantId element (InviteEndPointType complexType) (Schema D)
+description: An overview of the TenantId element (InviteEndPointType complexType) (Schema D).
 TOCTitle: TenantId element (InviteEndPointType complexType)
 ms:assetid: 36162894-c773-d0a0-b66c-59a34515099d
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171006(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# TenantId element 
+# TenantId element (InviteEndPointType complexType) (Schema D)
 
 (InviteEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

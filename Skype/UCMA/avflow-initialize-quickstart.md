@@ -1,5 +1,6 @@
 ﻿---
 title: AVFlow-Initialize (QuickStart)
+description: Discusses the AVFlow-Initialize (QuickStart) including description, features, prerequisites, and running the sample in Skype for Business 2015.
 TOCTitle: AVFlow-Initialize (QuickStart)
 ms:assetid: 2e489f3a-14ab-4632-99c2-94da0b12827e
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466140(v=office.16)

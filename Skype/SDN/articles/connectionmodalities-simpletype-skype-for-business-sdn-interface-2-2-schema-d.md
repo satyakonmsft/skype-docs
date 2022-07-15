@@ -1,5 +1,6 @@
 ﻿---
-title: ConnectionModalities simpleType 
+title: ConnectionModalities simpleType
+description: Describes the ConnectionModalities simpleType and provides the type's definition and a table that outlines the type's base type, namespace, and schema file.
 TOCTitle: ConnectionModalities simpleType
 ms:assetid: ae0503ec-337a-b6d0-795f-274d4ddb8dc0
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171044(v=office.16)
@@ -19,8 +20,8 @@ dev_langs:
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">

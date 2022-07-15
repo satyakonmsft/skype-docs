@@ -1,5 +1,6 @@
 ﻿---
-title: EchoReturn element (QualityPropertiesType complexType) 
+title: EchoReturn element (QualityPropertiesType complexType) (Schema C)
+description: Describes the Schema C iteration of the EchoReturn element and provides the element's definition, parent elements, and information.
 TOCTitle: EchoReturn element
 ms:assetid: 3fd92d42-2e49-902e-e910-6ed56ba1377f
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404754(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# EchoReturn element 
+# EchoReturn element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +25,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +58,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

@@ -1,5 +1,6 @@
 ﻿---
-title: DegradationJitterAvg element (QualityPropertiesType complexType) 
+title: DegradationJitterAvg element (QualityPropertiesType complexType) (Schema D)
+description: Describes the Schema D iteration of the DegradationJitterAvg element (QualityPropertiesType complexType) and provides the element's definition.
 TOCTitle: DegradationJitterAvg element
 ms:assetid: 2e23efe4-6bb6-737f-ec21-ab2dffdff04f
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149469(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# DegradationJitterAvg element 
+# DegradationJitterAvg element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -20,8 +21,8 @@ Average fraction of the degradation jitter average applies to inter-arrival pack
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +57,9 @@ Average fraction of the degradation jitter average applies to inter-arrival pack
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

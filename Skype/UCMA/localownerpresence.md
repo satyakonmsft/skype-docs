@@ -1,5 +1,6 @@
 ﻿---
 title: LocalOwnerPresence (Unified Communications Managed API 5.0)
+description: Describes the LocalOwnerPresence class that allows members to publish their presence information to a Skype for Business 2015 server.
 TOCTitle: LocalOwnerPresence
 ms:assetid: d30af895-3675-4c7c-b3d5-136ff621683a
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466019(v=office.16)
@@ -67,8 +68,8 @@ To delete the published categories, use the [BeginDeletePresence(ICollection\<Pr
     
     <table>
     <colgroup>
-    <col style="width: 50%" />
-    <col style="width: 50%" />
+    <col />
+    <col />
     </colgroup>
     <thead>
     <tr class="header">
@@ -128,8 +129,8 @@ The following table shows the events on the **LocalOwnerPresence** class and the
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -160,7 +161,7 @@ The following table shows the events on the **LocalOwnerPresence** class and the
 
 ### Category notification parsing
 
-For [UserEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.userendpoint?view=ucma-api) instances, key publishing APIs cannot be used unless the object referred to by the [LocalOwnerPresence](https://msdn.microsoft.com/library/hh348476\(v=office.16\)) property is in the **Subscribed** state. For [ApplicationEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.applicationendpoint?view=ucma-api) instances, it is recommended, but not required, that **LocalOwnerPresence** be in the **Subscribed** state.
+For [UserEndpoint](/dotnet/api/microsoft.rtc.collaboration.userendpoint&preserve-view=true) instances, key publishing APIs cannot be used unless the object referred to by the [LocalOwnerPresence](https://msdn.microsoft.com/library/hh348476\(v=office.16\)) property is in the **Subscribed** state. For [ApplicationEndpoint](/dotnet/api/microsoft.rtc.collaboration.applicationendpoint&preserve-view=true) instances, it is recommended, but not required, that **LocalOwnerPresence** be in the **Subscribed** state.
 
 The list of presence categories returned by the [AllCategories](https://msdn.microsoft.com/library/hh384873\(v=office.16\)) property on the [LocalPresentityNotificationEventArgs](https://msdn.microsoft.com/library/hh350176\(v=office.16\)) object can be extensive. For this reason, Skype for Business Server 2015 filters this list to a smaller representative list that highlights categories published to the local owner’s self container. For user objects this is a different container for different categories representing the container that is most representative of that category. For contact objects, the list includes all categories in the container 0.
 
@@ -216,9 +217,9 @@ A relationship level between a presentity and a watcher is defined as the highes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

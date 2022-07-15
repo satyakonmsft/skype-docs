@@ -1,5 +1,6 @@
 ﻿---
-title: Invite element (MessageType complexType) 
+title: Invite element (MessageType complexType) (Schema D)
+description: Describes the Schema D iteration of the Invite element (MessageType complexType) and provides the element's type, definition, and parent/child elements.
 TOCTitle: Invite element
 ms:assetid: 82315508-6a09-f166-b971-a7212826d73c
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170900(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Invite element 
+# Invite element (Schema D)
 
 (MessageType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -87,9 +88,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

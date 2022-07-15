@@ -1,5 +1,6 @@
 ﻿---
 title: CallTransferSupervised (QuickStart)
+description: Discusses the CallTransferSupervised (QuickStart) including description, features, prerequisites, and running the sample in Skype for Business 2015.
 TOCTitle: CallTransferSupervised (QuickStart)
 ms:assetid: 9c755cf5-c4ff-467c-bc6c-6b704755ba2e
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn454819(v=office.16)

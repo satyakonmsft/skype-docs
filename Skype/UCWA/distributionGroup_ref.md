@@ -1,3 +1,7 @@
+---
+title: distributionGroup
+description: Represents a persistent, pre-existing group of contacts.
+---
 # distributionGroup
 
  _**Applies to:** Skype for Business 2015_
@@ -53,9 +57,10 @@ This resource can have the following relationships.
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
-|:-----|:-----|:-----|
-|Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
+
+| **Scope** | **Permission** | **Description** |
+| ----- | ----- | ----- |
+| Contacts.ReadWrite | Read/write Skype user contacts and groups | Allows the app to read and write Skype user contacts and groups |
 
 ## Events
 <a name="sectionSection2"></a>
@@ -64,9 +69,10 @@ The user must have at least one of these scopes for operations on the resource t
 
 
 
-|**Resource**|**Priority**|**Sender**|**Reason**|
-|:-----|:-----|:-----|:-----|
-|distributionGroup|High|people|Indicates that the distribution group has been updated. The application can decide to fetch theupdated information.</p><p></p>|
+| **Resource** | **Priority** | **Sender** | **Reason** |
+| ----- | ----- | ----- | ----- |
+| distributionGroup | High | people | Indicates that the distribution group has been updated. The application can decide to fetch theupdated information.</p><p></p> |
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
 {

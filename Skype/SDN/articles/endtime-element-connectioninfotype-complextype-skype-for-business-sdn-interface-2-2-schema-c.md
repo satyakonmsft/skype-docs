@@ -1,5 +1,6 @@
 ﻿---
-title: EndTime element (ConnectionInfoType complexType) 
+title: EndTime element(ConnectionInfoType complexType) (Schema C)
+description: Describes the Schema C iteration of the EndTime element (ConnectionInfoType complexType) and provides the element's definition and parent elements.
 TOCTitle: EndTime element
 ms:assetid: 06ba3c4a-f7e4-a9fb-eeda-42c53575d17c
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404757(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# EndTime element 
+# EndTime element (Schema C)
 
 (ConnectionInfoType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

@@ -1,5 +1,6 @@
 ﻿---
-title: ByeEndPointType complexType 
+title: ByeEndPointType complexType
+description: Describes the ByeEndPointType complexType and provides the type's definition, child elements, and type information.
 TOCTitle: ByeEndPointType complexType
 ms:assetid: 892cbcd0-404e-7f77-aa63-b64437ccbefa
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171055(v=office.16)
@@ -18,8 +19,8 @@ dev_langs:
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -52,9 +53,9 @@ dev_langs:
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

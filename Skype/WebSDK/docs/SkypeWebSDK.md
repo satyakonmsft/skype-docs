@@ -17,7 +17,7 @@ The Skype Web SDK documentation consists of the following sections:
 
 ## Skype for Business Online Retirement
 
-[Skype for Business (SfB) Online will be retired in July 2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/skype-for-business-online-to-be-retired-in-2021/ba-p/777833). The retirement of SfB Online is reducing the market of Skype tenants for the SfB Web SDK, and many SfB organizations are migrating to Teams.
+[Skype for Business (SfB) Online retired in July 2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/skype-for-business-online-to-be-retired-in-2021/ba-p/777833). The retirement of SfB Online reduced the market of Skype tenants for the SfB Web SDK, and many SfB organizations are migrating to Teams.
 
 Azure Communication Services (ACS) is a cloud-based communications service that lets you add voice, video, chat, and telephony to your apps. ACS applications today can interoperate with Teams on behalf of an anonymous user. The ability to interact with [Teams on behalf of M365 users is in preview](/azure/communication-services/concepts/teams-endpoint.md), and we encourage implementers of the SfB Web SDK to transition to Azure Communication Services and Microsoft Graph APIs. Microsoft Graph APIs control behavior specifically in the M365 ecosystems, such as presence. It also provides chat support.
 

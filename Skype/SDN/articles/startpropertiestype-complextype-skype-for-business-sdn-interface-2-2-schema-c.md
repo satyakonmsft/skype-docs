@@ -1,5 +1,6 @@
 ﻿---
-title: StartPropertiesType complexType 
+title: StartPropertiesType complexType (Schema C)
+description: Overview of the StartPropertiesType complexType (Schema C).
 TOCTitle: StartPropertiesType complexType
 ms:assetid: 940a26b6-b0d5-28bf-416b-ff5109f1027d
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429363(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# StartPropertiesType complexType 
+# StartPropertiesType complexType (Schema C)
 
 (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -22,10 +23,7 @@ Elements and attributes
 ## Type information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Namespace</strong></p></td>
@@ -56,11 +54,7 @@ Elements and attributes
 ### Child elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

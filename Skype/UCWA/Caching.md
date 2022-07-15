@@ -1,4 +1,7 @@
-
+---
+title: Caching
+description: Describes caching as it applies to Skype for Business 2015 and provides guidance on how to implement caching.
+---
 # Caching
 To improve efficiency, web applications should cache important or often-used resources.
 

@@ -1,5 +1,6 @@
 ﻿---
 title: Configuring Skype for Business SDN Interface
+description: Describes how to configure the Skype for Business SDN interface and provides multiple resources for configuring the SDN interface.
 TOCTitle: Configuring Skype for Business SDN Interface
 ms:assetid: cf0ca8f3-bcaf-4dba-814f-4b8a5163fa7d
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn785204(v=office.16)

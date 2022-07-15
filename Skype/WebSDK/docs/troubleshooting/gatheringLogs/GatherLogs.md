@@ -1,3 +1,8 @@
+---
+title: Gathering logs to troubleshoot issues and submit error reports
+description: Learn how to gather logs to troubleshoot issues and submit error reports.
+---
+
 # Gathering logs to troubleshoot issues and submit error reports 
 
  _**Applies to:** Skype for Business 2015_

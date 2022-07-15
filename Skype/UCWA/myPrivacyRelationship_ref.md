@@ -1,4 +1,8 @@
-# myPrivacyRelationship
+---
+title: myPrivacyRelationship reference  
+description: Describes the myPrivacyRelationship resource and provides the resource's properties, links, Azure AD scopes, and operations.
+---
+# myPrivacyRelationship reference 
 
  _**Applies to:** Skype for Business 2015_
 
@@ -12,7 +16,7 @@ Represents a set of contacts that have a given privacy relationship with the use
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -26,7 +30,7 @@ The resource gives a view of the contacts that were assigned this privacy relati
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |relationshipLevel|The relationship level ([PrivacyRelationshipLevel](PrivacyRelationshipLevel_ref.md)) between the user and these contacts, such as Colleagues or FriendsAndFamily.|
 
@@ -36,7 +40,7 @@ The resource gives a view of the contacts that were assigned this privacy relati
 
 This resource can have the following relationships.
 
-|**Link**|**Description**|
+|Link|Description|
 |:-----|:-----|
 |self|The link to the current resource.|
 |contact|Represents a person or service that the user can communicate and collaborate with.|
@@ -46,13 +50,14 @@ This resource can have the following relationships.
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
-|:-----|:-----|:-----|
-|User.ReadWrite|Read/write Skype user information|Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user|
-|Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
-|Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
-|Conversations.Receive|Receive conversation invites|Allows the app to receive instant messages, audio, video, and desktop sharing invitations on-behalf of the signed-in user|
-|Meetings.ReadWrite|Create Skype Meetings|Allows the app to create Skype meetings on-behalf of the signed-in user|
+
+| Scope | Permission | Description |
+| ----- | ----- | ----- |
+| User.ReadWrite | Read/write Skype user information | Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user |
+| Contacts.ReadWrite | Read/write Skype user contacts and groups | Allows the app to read and write Skype user contacts and groups |
+| Conversations.Initiate | Initiate conversations and join meetings | Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user |
+| Conversations.Receive | Receive conversation invites | Allows the app to receive instant messages, audio, video, and desktop sharing invitations on-behalf of the signed-in user |
+| Meetings.ReadWrite | Create Skype Meetings | Allows the app to create Skype meetings on-behalf of the signed-in user |
 
 ## Operations
 
@@ -86,7 +91,7 @@ The response from a GET request contains the properties and links shown in the P
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |Forbidden|403|None|Indicates that the user does not have privileges to view privacy relationship data for this contact.|
 |Forbidden|403|None|The user does not have sufficient privileges to access the contact list.|

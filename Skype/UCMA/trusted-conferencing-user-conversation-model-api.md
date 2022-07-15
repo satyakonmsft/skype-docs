@@ -1,5 +1,6 @@
 ﻿---
 title: Trusted conferencing user conversation model API
+description: Describes the Trusted Conferencing User model and provides multiple classes including the AudioVideoCallEstablishOptions class.
 TOCTitle: Trusted conferencing user conversation model API
 ms:assetid: eca1ffb3-4c96-4425-ad62-5f28c764600a
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466013(v=office.16)
@@ -21,8 +22,8 @@ For UCMA 3.0, the [AudioVideoCallEstablishOptions](https://msdn.microsoft.com/li
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -62,8 +63,8 @@ The following table lists the public methods on the **AudioVideoMcuRouting** cla
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -94,8 +95,8 @@ The following table lists the members of the **IncomingAudioRoute** class.
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -122,8 +123,8 @@ The following table lists the members of the **OutgoingAudioRoute** class.
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -150,7 +151,7 @@ The [RouteUpdateOperation](https://msdn.microsoft.com/library/hh366418\(v=office
 
 ### AudioVideoMcuRouting
 
-For UCMA 3.0, a new property was added to the [AudioVideoCall](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall?view=ucma-api) class-the [AudioVideoMcuRouting](https://msdn.microsoft.com/library/hh381149\(v=office.16\)) property. This property returns a reference to the **AudioVideoMcuRouting** instance associated with a given **AudioVideoCall** instance. This property is never null, but if the **AudioVideoMcuRouting** methods are called with invalid arguments (such as empty audio routes), these methods throw exceptions.
+For UCMA 3.0, a new property was added to the [AudioVideoCall](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocalladd &preserve-view=true) class-the [AudioVideoMcuRouting](https://msdn.microsoft.com/library/hh381149\(v=office.16\)) property. This property returns a reference to the **AudioVideoMcuRouting** instance associated with a given **AudioVideoCall** instance. This property is never null, but if the **AudioVideoMcuRouting** methods are called with invalid arguments (such as empty audio routes), these methods throw exceptions.
 
 ### BeginEstablish
 
@@ -162,8 +163,8 @@ The [ConferenceCommandOptions](https://msdn.microsoft.com/library/hh382976\(v=of
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -195,8 +196,8 @@ The classes derived from the **ConferenceCommandOptions** class can be used for 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -263,8 +264,8 @@ The methods shown in the following table use the classes listed in the previous 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

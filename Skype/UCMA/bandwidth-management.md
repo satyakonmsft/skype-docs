@@ -1,5 +1,6 @@
 ﻿---
 title: Bandwidth management
+description: Microsoft Unified Communications Managed API 5.0 and Skype for Business Server 2015 offers bandwidth-management. 
 TOCTitle: Bandwidth management
 ms:assetid: 38ebe3a5-afab-4877-9fdc-ce36e915d19f
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465930(v=office.16)

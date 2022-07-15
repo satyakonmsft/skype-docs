@@ -1,5 +1,6 @@
 ﻿---
-title: PacketLossRate element (QualityPropertiesType complexType) 
+title: PacketLossRate element (QualityPropertiesType complexType) (Schema C)
+description: Describes the Schema C iteration of the PacketLossRate element and provides the element's definition, parent elements, and information.
 TOCTitle: PacketLossRate element
 ms:assetid: 04e3662c-3ff1-0ddb-22e4-83f51a584faa
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404807(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# PacketLossRate element 
+# PacketLossRate element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +25,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +57,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

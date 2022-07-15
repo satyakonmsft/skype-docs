@@ -1,5 +1,6 @@
 ﻿---
-title: ProtocolTypes simpleType 
+title: ProtocolTypes simpleType
+description: Describes the ProtocolTypes simpleType and provides the type's definition, base type, namespace, and schema file.
 TOCTitle: ProtocolTypes simpleType
 ms:assetid: 45c7a603-1559-14bb-32f5-17a93e5e9b49
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171053(v=office.16)
@@ -19,8 +20,8 @@ dev_langs:
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">

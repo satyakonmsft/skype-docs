@@ -1,5 +1,6 @@
 ﻿---
-title: StartOrUpdateType complexType 
+title: StartOrUpdateType complexType (Schema C)
+description: Overview of the StartOrUpdateType complexType (Schema C).
 TOCTitle: StartOrUpdateType complexType
 ms:assetid: 143b7028-f15a-7428-e01d-e814ab0a1cfd
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429364(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# StartOrUpdateType complexType 
+# StartOrUpdateType complexType (Schema C)
 
 (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -23,8 +24,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -59,9 +60,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -94,11 +95,11 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

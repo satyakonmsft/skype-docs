@@ -1,5 +1,6 @@
 ﻿---
 title: RemotePresenceView (Unified Communications Managed API 5.0)
+description: An overview of RemotePresenceView (Unified Communications Managed API 5.0).
 TOCTitle: RemotePresenceView
 ms:assetid: ad07c6ae-299d-4823-a1b9-2979ef545132
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466022(v=office.16)
@@ -24,10 +25,6 @@ An application can create one or more **RemotePresenceView** instances, each wit
 The **SubscriptionMode** property on a **RemotePresenceViewSettings** instance can have one of the following values.
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Value</p></th>

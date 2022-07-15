@@ -1,3 +1,7 @@
+---
+title: AAD Auth Failures - Incorrectly configured reply URLs for application
+description: Describes the incorrectly configured reply URL error and provides the appropriate solution guidance.
+---
 # AAD Auth Failures - Incorrectly configured reply URLs for application
 
 _"The reply address 'https://...' does not match the reply addresses configured for the application <...>"_
@@ -57,5 +61,5 @@ Note in the code above that we are using **window.location.href** as the value o
 ## Related Topics
 
 - [Troubleshooting AAD Auth Failures for Skype Web SDK](./AADAuthFailures.md)
-- [Integrating Applications with Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-integrating-applications)
+- [Integrating Applications with Azure Active Directory](/azure/active-directory/active-directory-integrating-applications)
 

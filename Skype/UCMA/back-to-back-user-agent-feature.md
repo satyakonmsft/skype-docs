@@ -1,5 +1,6 @@
 ﻿---
 title: Back-to-back user agent (feature)
+description: Discusses the Back-to-back user agent (feature) based on interactions and is essential for call center/helpdesk applications.
 TOCTitle: Back-to-back user agent
 ms:assetid: 5e870c56-92ab-4610-9588-4c46561fad22
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465924(v=office.16)

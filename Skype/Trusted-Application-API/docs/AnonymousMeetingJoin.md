@@ -1,3 +1,8 @@
+---
+title: Anonymous Meeting Join
+description: Anonymous meeting join is a powerful feature of the Skype Developer Platform that enables you to join guest users into Skype Meetings to deliver "remote advisor" and other Business-to-Consumer solutions.
+---
+
 # Anonymous Meeting Join
 
 Anonymous meeting join is a powerful feature of the Skype Developer Platform that enables you to join guest users into Skype Meetings to deliver "remote advisor" and other Business-to-Consumer solutions.  For Skype for Business Online, anonymous meeting join is supported through the **Trusted Application API**.  The guest join meeting flow for anonymous meetings can use the **Trusted Application API** plus the client-side features of either the Skype Web SDK, App SDK, or UCWA.
@@ -23,9 +28,9 @@ In [Registering your application in Azure AD](RegistrationInAzureActiveDirectory
 - Create on-demand Skype meetings (preview)
 - Send/Receive Instant Messages (preview)
 
-![alt text](./images/GuestMeetingJoinTenantConsent.png "image") 
+![Screenshot of the required permissions for Guest user join services (preview), Send/Receive Audio and Video (preview), Create on-demand Skype meetings (preview), Send/Receive Instant Messages (preview) and an accept or cancel button choice.](./images/GuestMeetingJoinTenantConsent.png "image")
 
-![alt text](./images/RegistrationForGuestMeetingJoin.png "image")
+![Screenshot of dropdown options with selection boxes for application permissions](./images/RegistrationForGuestMeetingJoin.png "image")
 
 ## Call Flow
 
@@ -116,7 +121,7 @@ In [Registering your application in Azure AD](RegistrationInAzureActiveDirectory
         conferenceId=sip:testuser@contoso.onmicrosoft.com;gruu;opaque=app:conf:focus:id:1SD8D0WZ
       ```
 
-6. The client does a POST on the anonApplications endpoint, with the token sent to it by the Service Applacation, in the Authorization header, creating the UCWA application endpoint.
+6. The client does a POST on the anonApplications endpoint, with the token sent to it by the Service Application, in the Authorization header, creating the UCWA application endpoint.
     
     - Create Ucwa application at "anonApplications"  link using token returned earlier
         
@@ -142,7 +147,7 @@ In [Registering your application in Azure AD](RegistrationInAzureActiveDirectory
 > [!NOTE] 
 > Multiple such clients can join the meeting anonymously. In case a client drops out and needs to rejoin for any reason, you can pass in the same applicationSessionId parameter to get a new token and discover url. The client can use the new values, to rejoin the meeting.
 
-![alt text](images/CallFlowAnonMeetingJoin.jpg "image")
+![Screenshot diagram showing the flow of the get requests and responses of the meeting flow including the Oauth path.](images/CallFlowAnonMeetingJoin.jpg "image")
 
 ## See also
 

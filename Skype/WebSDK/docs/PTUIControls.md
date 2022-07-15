@@ -1,4 +1,7 @@
-
+---
+title: UI Controls
+description: This section describes the different UI controls available.
+---
 # UI Controls
 
 

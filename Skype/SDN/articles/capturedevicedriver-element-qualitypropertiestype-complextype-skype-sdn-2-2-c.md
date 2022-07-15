@@ -1,28 +1,26 @@
 ﻿---
-title: CaptureDeviceDriver element (QualityPropertiesType complexType) 
+title: CaptureDeviceDriver element (QualityPropertiesType complexType) (Schema C)
 TOCTitle: CaptureDeviceDriver element
 ms:assetid: 65df120d-eba2-b8c6-e606-7a378d96f486
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404720(v=office.16)
 ms:contentKeyID: 68250633
+description: Device driver name and version of the capture device can be used to produce the media of this stream.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# CaptureDeviceDriver element 
+# CaptureDeviceDriver element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
-Device driver name and version of the capture device used to produce the media of this stream 
+Device driver name and version of the capture device will be used to produce the media of this stream.
 
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -55,11 +53,7 @@ Device driver name and version of the capture device used to produce the media o
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

@@ -1,3 +1,8 @@
+---
+title: sendMessage
+description: Sends an instant message to the participants in a conversation.
+---
+
 # sendMessage
 
  _**Applies to:** Skype for Business 2015_
@@ -39,6 +44,7 @@ None
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|

@@ -1,5 +1,6 @@
 ﻿---
-title: RatioConcealedSamplesAvg element (QualityPropertiesType complexType) 
+title: RatioConcealedSamplesAvg element (QualityPropertiesType complexType) (Schema D)
+description: Describes the Schema D iteration of the RatioConcealedSamplesAvg element (QualityPropertiesType complexType) and provides the element's definition.
 TOCTitle: RatioConcealedSamplesAvg element
 ms:assetid: 3d73efac-8aea-65a1-2d32-83a45958cd44
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170955(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# RatioConcealedSamplesAvg element 
+# RatioConcealedSamplesAvg element (QualityPropertiesType complexType) (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +26,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +58,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

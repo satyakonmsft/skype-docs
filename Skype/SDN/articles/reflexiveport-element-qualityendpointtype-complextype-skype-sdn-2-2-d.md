@@ -1,5 +1,6 @@
 ﻿---
-title: ReflexivePort element (QualityEndPointType complexType) 
+title: ReflexivePort element (QualityEndPointType complexType) Schema D
+description: Describes the Schema D iteration of the ReflexivePort element (QualityEndPointType complexType) and provides the element's definition and parent elements.
 TOCTitle: ReflexivePort element (QualityEndPointType complexType)
 ms:assetid: d58878e7-e121-0de8-f947-d43c7f14e16c
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170968(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# ReflexivePort element 
+# ReflexivePort element (QualityEndPointType complexType) Schema D
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +26,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +58,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

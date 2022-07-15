@@ -1,5 +1,6 @@
 ﻿---
-title: Contact element (InviteEndPointType complexType) 
+title: Contact element (InviteEndPointType complexType) (Schema D)
+description: Describes the Contact element (InviteEndPointType complexType) and provides the element's definition, parent elements, and element information.
 TOCTitle: Contact element (InviteEndPointType complexType)
 ms:assetid: a4ab18bd-b57f-2249-9d86-b389661cfa1f
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149458(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Contact element 
+# Contact element (InviteEndPointType complexType) (Schema D)
 
 (InviteEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -19,10 +20,7 @@ SIP URI of the user as extracted from the Contact header of the underlying SIP m
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -55,11 +53,7 @@ SIP URI of the user as extracted from the Contact header of the underlying SIP m
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

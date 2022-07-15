@@ -1,4 +1,7 @@
-
+---
+title: Skype for Business 2015 - Presence
+description: Describes presence information, which is a collection of information about the user's availability, their current activity, and their personal note.
+---
 # Presence
 
 

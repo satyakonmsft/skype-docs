@@ -1,5 +1,6 @@
 ﻿---
-title: EndPoint element (EndedType complexType) 
+title: EndPoint element (EndedType complexType) (Schema D)
+description: Describes the Schema D iteration of the EndPoint element (EndedType complexType) and provides the element's definition and information.
 TOCTitle: EndPoint element (EndedType complexType)
 ms:assetid: 249bfd8e-46af-5993-57b4-a82fdb9c4d14
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170855(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# EndPoint element 
+# EndPoint element (EndedType, ComplexType, Skype for Business SDN Interface 2.2) (Schema D) 
 
 (EndedType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +26,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +59,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -86,11 +80,7 @@ Elements and attributes
 ### Child elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

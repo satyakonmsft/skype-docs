@@ -1,5 +1,8 @@
-
-# Registering your application in Azure AD
+---
+title: Registering your application in Azure AD with the Azure Management Portal 
+description: Describes how to register a client application in Azure AD with the Azure Management Portal in order to run it.
+---
+# Registering your application in Azure AD with the Azure Management Portal
 Learn how to register your application with Azure AD.
 
 

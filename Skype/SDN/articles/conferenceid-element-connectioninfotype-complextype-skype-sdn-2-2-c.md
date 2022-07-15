@@ -1,5 +1,6 @@
 ﻿---
-title: ConferenceId element (ConnectionInfoType complexType) 
+title: ConferenceId element (ConnectionInfoType complexType) Schema C
+description: Describes the Schema C iteration of the ConferenceId element and provides the element's definition, parent elements, and element information.
 TOCTitle: ConferenceId element
 ms:assetid: e921e563-7184-8669-c9aa-bd532845b797
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404722(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# ConferenceId element 
+# ConferenceId element Schema C
 
 (ConnectionInfoType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -19,10 +20,7 @@ Identifier to correlate call legs that belong to the same conference.
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -55,11 +53,7 @@ Identifier to correlate call legs that belong to the same conference.
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

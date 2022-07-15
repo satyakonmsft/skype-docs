@@ -1,5 +1,6 @@
 ﻿---
-title: EndpointIdPattern simpleType 
+title: EndpointIdPattern simpleType
+description: Describes the EndpointIDPattern simpleType and provides the type's definition, base type, namespace, and schema file.
 TOCTitle: EndpointIdPattern simpleType
 ms:assetid: 20c01d5f-044c-24bf-f9f0-a4600db1b6ce
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171047(v=office.16)
@@ -18,10 +19,7 @@ dev_langs:
 ## Type information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Base type</strong></p></td>

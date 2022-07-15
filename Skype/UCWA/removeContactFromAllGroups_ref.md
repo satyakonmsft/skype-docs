@@ -1,4 +1,7 @@
-
+---
+title: removeContactFromAllGroups
+description: Removes all group memberships that a contact belongs to.
+---
 # removeContactFromAllGroups
 
 

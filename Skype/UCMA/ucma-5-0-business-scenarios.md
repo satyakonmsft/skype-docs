@@ -1,5 +1,6 @@
 ---
 title: UCMA 5.0 business scenarios
+description: Describes business scenarios and types of application for Microsoft Unified Communications Managed API 5.0 as they relate to Skype for Business 2015.
 TOCTitle: UCMA 5.0 business scenarios
 ms:assetid: 31d51c95-b05e-4b90-ade4-7036af4d8241
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465936(v=office.16)
@@ -76,5 +77,5 @@ Besides the scenarios already listed, developers can use UCMA 5.0 to create appl
 
 ## See also
 
-- [Microsoft.Rtc.Collaboration Namespace](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration?view=ucma-api-5.0)
-- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](https://docs.microsoft.com/dotnet/api/Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml?view=ucma-voice)
+- [Microsoft.Rtc.Collaboration Namespace](/dotnet/api/microsoft.rtc.collaboration&preserve-view=true)
+- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](/dotnet/api/Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml&preserve-view=true)

@@ -1,5 +1,6 @@
 ﻿---
-title: RecvListenMOS element (QualityPropertiesType complexType) 
+title: RecvListenMOS element (QualityPropertiesType complexType) Schema C
+description: Describes the Schema C iteration of the RecvListenMOS element (QualityPropertiesType complexType) and provides the element's definition and parent elements.
 TOCTitle: RecvListenMOS element
 ms:assetid: ba34d158-59ed-d664-54e4-08ecae69d6eb
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404825(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# RecvListenMOS element 
+# RecvListenMOS element (QualityPropertiesType complexType) Schema C
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

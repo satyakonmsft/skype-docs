@@ -1,16 +1,17 @@
 ﻿---
-title: Id element (EndPointType complexType) 
+title: Id element (EndPointType complexType) (Schema D)
 TOCTitle: Id element (EndPointType complexType)
 ms:assetid: e46e1f1f-441f-9b61-ad6c-bb320c66cd6b
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404773(v=office.16)
 ms:contentKeyID: 68250684
+description: Identifier of the endpoint. (EndPointType complexType)
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# Id element 
+# Id element (EndPointType complexType) Schema D
 
 (EndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

@@ -1,5 +1,6 @@
 ﻿---
-title: Properties element (MessageType complexType) 
+title: Properties element (MessageType complexType) (Schema C)
+description: Describes the Schema C iteration of the Properties element (MessageType complexType) and provides the element's definition, parent elements, and information.
 TOCTitle: Properties element (MessageType complexType)
 ms:assetid: 64e8b8be-9078-487d-1470-449b609feb5e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404816(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Properties element 
+# Properties element (MessageType complexType) (Schema C)
 
 (MessageType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col  />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -86,9 +87,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

@@ -1,5 +1,6 @@
 ---
 title: In-call QoE algorithm and throttling
+description: Describes the In-call QoE algorithm and throttling and provides information about the management and triggering of InCallQoE messages.
 ms.assetid: 4f5c2ee2-2184-486b-bc63-5a30589cca8a
 ---
 

@@ -1,3 +1,7 @@
+---
+title: Transferring audio calls in the SDK
+description: Describes transferring audio calls in the SDK and provides code examples for a simple call transfer.
+---
 # Transferring audio calls in the SDK
 
  _**Applies to:** Skype for Business 2015_

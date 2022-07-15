@@ -1,5 +1,6 @@
 ﻿---
-title: PacketUtilization element (QualityPropertiesType complexType) 
+title: PacketUtilization element (QualityPropertiesType complexType) (Schema C)
+description: Describes the Schema C iteration of the PacketUtilization element and provides the element's definition, parent elements, and information.
 TOCTitle: PacketUtilization element
 ms:assetid: 89d76513-d3bf-ba22-e97d-25d9a1d01978
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404809(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# PacketUtilization element 
+# PacketUtilization element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

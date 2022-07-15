@@ -1,3 +1,7 @@
+---
+title: anonApplications reference
+description: Describes the anonApplications resource and provides its properties, links, operations, and code examples.
+---
 # anonApplications
 
  _**Applies to:** Skype for Business 2015_
@@ -12,7 +16,7 @@ Represents the entry point for registering this anonymous application with the s
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -47,7 +51,7 @@ This very first operation used to create an instance of the anonymous applicatio
 
 
 
-|**Name**|**Description**|**Required?**|
+|Name|Description|Required?|
 |:-----|:-----|:-----|
 |culture|Gets or sets the Culture of the client. Cannot be null or empty.The maximum length is 100 characters. String|Yes|
 |userAgent|Gets or sets the user agent string to be used for identifying messages sent on behalf of this application. This value is required and cannot be null or empty.The maximum length is 100 characters. String|Yes|
@@ -56,7 +60,7 @@ This very first operation used to create an instance of the anonymous applicatio
 
 
 
-|**Item**|**Description**|
+|Item|Description|
 |:-----|:-----|
 |[application](Application_ref.md)|Represents your real-time communication application.|
 
@@ -66,7 +70,7 @@ This very first operation used to create an instance of the anonymous applicatio
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |ServiceFailure|500|CallbackChannelError|The remote event channel is not reachable|
 |Conflict|409|AlreadyExists|The already exists error.|
@@ -473,7 +477,7 @@ None
 
 
 
-|**Item**|**Description**|
+|Item|Description|
 |:-----|:-----|
 ||Metadata returned in response to HTTP OPTIONS request.|
 

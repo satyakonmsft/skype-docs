@@ -1,5 +1,6 @@
 ﻿---
-title: EchoPercentSend element (QualityPropertiesType complexType) 
+title: EchoPercentSend element (QualityPropertiesType complexType) (Schema D)
+description: Describes the Schema D iteration of the EchoPercentSend element and provides the element's definition, parent elements, and information.
 TOCTitle: EchoPercentSend element
 ms:assetid: b1b24796-6e50-aed0-e45a-2e3dfbf98478
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170847(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# EchoPercentSend element 
+# EchoPercentSend element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

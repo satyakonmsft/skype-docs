@@ -1,4 +1,8 @@
-# Third Party Notices
+---
+title: Third Party Notices Trusted Application API
+description: This article discuses the Third Party Notices Trusted Application API for Third Party IP.
+---
+# Third Party Notices Trusted Application API
 
 THIRD PARTY NOTICES FILE
 

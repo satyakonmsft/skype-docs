@@ -1,5 +1,6 @@
 ﻿---
-title: CodecType complexType 
+title: Learn about the CodecType complexType schema D
+description: Describes the Schema D iteration of the CodecType complexType and provides the type's definition, child elements, attributes, and type information.
 TOCTitle: CodecType complexType
 ms:assetid: 890c900f-33ef-f8ad-f909-73824c8126e5
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171057(v=office.16)
@@ -10,17 +11,14 @@ dev_langs:
 - xml
 ---
 
-# CodecType complexType
+# Learn about the CodecType complexType schema D
 
 (Skype for Business SDN Interface 2.2, Schema "D") 
 
 ## Type information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Namespace</strong></p></td>
@@ -55,11 +53,7 @@ dev_langs:
 ### Child elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -85,13 +79,7 @@ dev_langs:
 ### Attributes
 
 <table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Attribute</p></th>

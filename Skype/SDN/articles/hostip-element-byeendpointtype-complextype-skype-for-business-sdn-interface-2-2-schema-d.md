@@ -1,16 +1,17 @@
 ﻿---
-title: HostIP element (ByeEndPointType complexType) 
+title: HostIP element (ByeEndPointType complexType) (Schema D)
 TOCTitle: HostIP element (ByeEndPointType complexType)
 ms:assetid: 6e4a481a-9960-5cf1-afdb-00bbba051c02
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170880(v=office.16)
 ms:contentKeyID: 65855454
+description: IP address of the endpoint's host in the local network.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# HostIP element 
+# HostIP element Schema D
 
 (ByeEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +26,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +59,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

@@ -1,5 +1,6 @@
 ﻿---
-title: MSDiagnosticsPublic element (MessageProperties complexType) 
+title: MSDiagnosticsPublic element (MessageProperties complexType) Schema D
+description: Describes the Schema D iteration of the MSDiagnosticsPublic (MessageProperties complexType) element and provides the element's definition.
 TOCTitle: MSDiagnosticsPublic element (MessageProperties complexType)
 ms:assetid: 807f4528-0481-ff44-770c-d227b08939e0
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170929(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# MSDiagnosticsPublic element 
+# MSDiagnosticsPublic element Schema D
 
 (MessageProperties complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

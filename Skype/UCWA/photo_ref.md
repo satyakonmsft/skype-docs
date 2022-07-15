@@ -1,3 +1,8 @@
+---
+title: photo
+description: Represents the user's photo.
+---
+
 # photo
 
  _**Applies to:** Skype for Business 2015_
@@ -38,6 +43,7 @@ This resource can have the following relationships.
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |User.ReadWrite|Read/write Skype user information|Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user|
@@ -62,7 +68,7 @@ Returns a representation of the user's photo.
 
 |**Name**|**Description**|**Required?**|
 |:-----|:-----|:-----|
-|size|The desired size of the photo.The string should be in a format similar to "HR{length}X{width}" e.g. "HR64X64".If no size is provided, the default is HR48X48.For more information about photo sizes, see http://msdn.microsoft.com/library/exchange/jj190905(v=exchg.150).aspx.|No|
+|size|The desired size of the photo.The string should be in a format similar to "HR{length}X{width}" e.g. "HR64X64".If no size is provided, the default is HR48X48.For more information about photo sizes, see https://msdn.microsoft.com/library/exchange/jj190905(v=exchg.150).aspx.|No|
 
 
 #### Request body

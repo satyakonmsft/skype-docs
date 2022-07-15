@@ -1,16 +1,17 @@
 ﻿---
-title: HostIP element (QualityEndPointType complexType) 
+title: HostIP element (QualityEndPointType complexType) (Schema D)
 TOCTitle: HostIP element (QualityEndPointType complexType)
 ms:assetid: 96c8959c-df01-9e05-c485-8b4c63d0745b
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170878(v=office.16)
 ms:contentKeyID: 65855452
+description: IP address for the media stream source or destination.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# HostIP element 
+# HostIP element (QualityEndPointType complexType) Schema D
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

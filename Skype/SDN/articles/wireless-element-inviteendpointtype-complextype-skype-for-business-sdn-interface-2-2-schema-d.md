@@ -1,5 +1,6 @@
 ﻿---
 title: Wireless element (InviteEndPointType complexType) 
+description: Discusses the attributes of the Wireless element InviteEndPointType complexType Skype for Business SDN Interface 2.2, Schema "D".
 TOCTitle: Wireless element (InviteEndPointType complexType)
 ms:assetid: 11430716-f9db-4376-c51e-518e21cca8e8
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171039(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Wireless element 
+# Wireless element (InviteEndPointType complexType)
 
 (InviteEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

@@ -1,5 +1,6 @@
 ﻿---
 title: Trusted service discovery
+description: Describes the trusted service discovery feature, an important aspect of Microsoft Unified Communications Managed API 5.0.
 TOCTitle: Trusted service discovery
 ms:assetid: e9d21856-ce1b-4dfa-8817-fc5e604e974b
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465967(v=office.16)

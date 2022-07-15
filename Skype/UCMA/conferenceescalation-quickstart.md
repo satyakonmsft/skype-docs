@@ -1,5 +1,6 @@
 ﻿---
 title: ConferenceEscalation (QuickStart)
+description: Discusses ConferenceEscalation features, prerequisites, and running the sample for Skype for Business 2015.
 TOCTitle: ConferenceEscalation (QuickStart)
 ms:assetid: f9865881-2532-4e22-83dc-e4db22a294ed
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn454824(v=office.16)

@@ -1,5 +1,6 @@
 ﻿---
-title: InviteType complexType 
+title: InviteType complexType (Schema D)
+description: This article describes the Schema D iteration of the InviteType complexType and provides the type's schema file, definition, and child elements.
 TOCTitle: InviteType complexType
 ms:assetid: 170a5ffe-55b1-a31a-1f0f-5111df719bc2
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171067(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# InviteType complexType 
+# InviteType complexType (Schema D)
 
 (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -24,8 +25,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -58,9 +59,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

@@ -1,16 +1,17 @@
 ﻿---
-title: InCallQuality element (MessageType complexType) 
+title: InCallQuality element (MessageType complexType) (Schema C)
 TOCTitle: InCallQuality element
 ms:assetid: a993878c-bd86-461e-4f91-7a326b45d250
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404775(v=office.16)
 ms:contentKeyID: 68250686
+description: Indicates that a significant quality related event occurred in the client. Either the quality dropped into another level or improved.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# InCallQuality element 
+# InCallQuality element (MessageType complexType) Schema C
 
 (MessageType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -86,9 +87,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -126,11 +127,11 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

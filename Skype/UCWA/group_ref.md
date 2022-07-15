@@ -1,16 +1,18 @@
+---
+title: group
+description: group represents a user's persistent, personal group.
+---
+
 # group
 
  _**Applies to:** Skype for Business 2015_
 
-
-Represents a user's persistent, personal group.
-            
+Represents a user's persistent, personal group.        
 
 ## Web Link
 <a name = "sectionSection0"> </a>
 
 For more on web links, see [Web links](WebLinks.md).
-
 
 |**Name**|**Description**|
 |:-----|:-----|
@@ -24,16 +26,12 @@ An application can subscribe to updates from members of this group. Updates incl
 
 ### Properties
 
-
-
 |**Name**|**Description**|
 |:-----|:-----|
 |id|The group's ID.|
 |name|The group's name.The maximum length is 256 characters.|
 
 ### Links
-
-
 
 This resource can have the following relationships.
 
@@ -45,9 +43,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|
@@ -57,13 +54,14 @@ The user must have at least one of these scopes for operations on the resource t
 
 ### Added
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
-|contact|High|people|Indicates that a specific contact was added to this group. The application can decide to fetchthe updated information.</p><p></p>|
-Sample of returned event data.
-This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+|contact|High|people|Indicates that a specific contact was added to this group. The application can decide to fetchthe updated information.|
+
+Sample of returned event data. This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+
+```
+
 {
   "_links" : {
     "self" : {
@@ -94,16 +92,17 @@ This sample is given only as an illustration of event syntax. The semantic conte
   ]
 }
 
+```
 
 ### Updated
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
-|group|High|people|Indicates that the group has been updated. The application can decide to fetch the updatedinformation.</p><p></p>|
-Sample of returned event data.
-This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+|group|High|people|Indicates that the group has been updated. The application can decide to fetch the updatedinformation.|
+
+Sample of returned event data. This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+
+```
 {
   "_links" : {
     "self" : {
@@ -130,16 +129,18 @@ This sample is given only as an illustration of event syntax. The semantic conte
   ]
 }
 
+```
 
 ### Deleted
 
-
-
 |**Resource**|**Priority**|**Sender**|**Reason**|
 |:-----|:-----|:-----|:-----|
-|contact|High|people|Indicates that a specific contact was deleted from this group. The application can decide tofetch the updated information.</p><p></p>|
-Sample of returned event data.
-This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+|contact|High|people|Indicates that a specific contact was deleted from this group. The application can decide tofetch the updated information.|
+
+Sample of returned event data. This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+
+```
+
 {
   "_links" : {
     "self" : {
@@ -170,36 +171,25 @@ This sample is given only as an illustration of event syntax. The semantic conte
   ]
 }
 
+```
 
 ## Operations
-
-
 
 <a name="sectionSection2"></a>
 
 ### GET
 
-
-
-
 Returns a representation of a user's persistent, personal group.
 
 #### Request body
 
-
-
 None
 
-
 #### Response body
-
-
 
 The response from a GET request contains the properties and links shown in the Properties and Links sections at the top of this page.
 
 #### Synchronous errors
-
-
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
@@ -213,17 +203,10 @@ The errors below (if any) are specific to this resource. Generic errors that can
 |Conflict|409|None|Un-supported Service/Resource/API error.|
 |Gone|410|CannotRedirect|Cannot redirect since there is no back up pool configured.|
 
-#### Examples
-
-
-
-
 #### JSON Request
 
+```json
 
-
-
-```
 Get https://fe1.contoso.com:443/ucwa/v1/applications/192/groups/group HTTP/1.1
 Authorization: Bearer cwt=PHNhbWw6QXNzZXJ0aW9uIHhtbG5...uZm8
 Host: fe1.contoso.com
@@ -231,13 +214,12 @@ Accept: application/json
 
 ```
 
-
 #### JSON Response
 
-
-
 This sample is given only as an illustration of response syntax. The semantic content is not guaranteed to correspond to a valid scenario.
-```
+
+```json
+
 HTTP/1.1 200 OK
 Content-Type: application/json
 Content-Length: 281
@@ -257,15 +239,13 @@ Content-Length: 281
     }
   }
 }
-```
 
+```
 
 #### XML Request
 
+```xml
 
-
-
-```
 Get https://fe1.contoso.com:443/ucwa/v1/applications/192/groups/group HTTP/1.1
 Authorization: Bearer cwt=PHNhbWw6QXNzZXJ0aW9uIHhtbG5...uZm8
 Host: fe1.contoso.com
@@ -273,13 +253,12 @@ Accept: application/xml
 
 ```
 
-
 #### XML Response
 
-
-
 This sample is given only as an illustration of response syntax. The semantic content is not guaranteed to correspond to a valid scenario.
-```
+
+```xml
+
 HTTP/1.1 200 OK
 Content-Type: application/xml
 Content-Length: 468
@@ -291,6 +270,5 @@ Content-Length: 468
   <property name="id">7</property>
   <property name="name">MyPersonalGroup</property>
 </resource>
+
 ```
-
-

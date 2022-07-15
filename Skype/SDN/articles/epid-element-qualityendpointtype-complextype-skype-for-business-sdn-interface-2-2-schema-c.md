@@ -1,5 +1,6 @@
 ﻿---
-title: EPId element (QualityEndPointType complexType) 
+title: EPId element (QualityEndPointType complexType) (Schema C)
+description: Describes the Schema C iteration of the EPId element (QualityEndPointType complexType) and provides the element's definition and parent elements.
 TOCTitle: EPId element (QualityEndPointType complexType)
 ms:assetid: e69b92cc-6e77-4f90-73e9-bcada2331907
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404760(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# EPId element 
+# EPId element (QualityEndPointType complexType) (Schema C)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

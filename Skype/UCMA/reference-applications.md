@@ -1,5 +1,6 @@
 ﻿---
 title: Reference applications
+description: An overview of reference applications for Skype for Business 2015.
 TOCTitle: Reference applications
 ms:assetid: 922da85a-5750-4679-b6ef-13d05a8e5ce2
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn454834(v=office.16)

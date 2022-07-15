@@ -1,5 +1,6 @@
 ﻿---
 title: Platform and endpoints
+description: An overview of the platform and endpoints.
 TOCTitle: Platform and endpoints
 ms:assetid: de5868bc-9ac7-4f88-b700-a2efce8d531e
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466045(v=office.16)
@@ -12,7 +13,7 @@ mtps_version: v=office.16
 
 **Applies to**: Skype for Business 2015
 
-The [CollaborationPlatform](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.collaborationplatform?view=ucma-api) class provides connection management, message dispatching, and other services to endpoints. An application creates an instance of the **CollaborationPlatform** class to take advantage of the Microsoft Unified Communications Managed API 5.0 infrastructure. An application developer can use one of the constructors in this class to create a server platform, from which an application server can be created. Another constructor can be used to create an auto-provisioned application server platform, and a third constructor in this class can be used to create a client platform, on which a number of user endpoints can be created.
+The [CollaborationPlatform](/dotnet/api/microsoft.rtc.collaboration.collaborationplatform?view=ucma-api&preserve-view=true) class provides connection management, message dispatching, and other services to endpoints. An application creates an instance of the **CollaborationPlatform** class to take advantage of the Microsoft Unified Communications Managed API 5.0 infrastructure. An application developer can use one of the constructors in this class to create a server platform, from which an application server can be created. Another constructor can be used to create an auto-provisioned application server platform, and a third constructor in this class can be used to create a client platform, on which a number of user endpoints can be created.
 
 The following illustration shows the principal classes that represent the two platform types and the three endpoint types.
 

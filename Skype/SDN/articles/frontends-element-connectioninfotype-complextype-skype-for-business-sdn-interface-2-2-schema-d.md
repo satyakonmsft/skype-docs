@@ -1,5 +1,6 @@
 ﻿---
 title: FrontEnds element (ConnectionInfoType complexType) 
+description: Describes the Schema D iteration of the FrontEnds element (ConnectionInfoType complexType) and provides the element's information and definition.
 TOCTitle: FrontEnds element
 ms:assetid: 2163e364-79c3-154e-cc06-e057ed0682c7
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170873(v=office.16)
@@ -25,10 +26,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +59,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

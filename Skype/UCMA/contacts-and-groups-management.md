@@ -1,5 +1,6 @@
 ﻿---
 title: Contacts and groups management
+description: Describes Contacts and groups management as it relates to Skype for Business 2015 and provides a link to the ContactGroupServices class.
 TOCTitle: Contacts and groups management
 ms:assetid: 593ff8d7-9cf6-47e9-911a-b767694848c2
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465926(v=office.16)
@@ -13,7 +14,7 @@ mtps_version: v=office.16
 
 **Applies to**: Skype for Business 2015
 
-A contact is a unified communication entity that is identified by a SIP URI. One or more contacts can be assembled into logical collections called groups. When a group is created, it is assigned a group ID, which is a server-assigned integer. The Contacts and Groups API in Microsoft Unified Communications Managed API 5.0 is available only for [UserEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.userendpoint?view=ucma-api) objects.
+A contact is a unified communication entity that is identified by a SIP URI. One or more contacts can be assembled into logical collections called groups. When a group is created, it is assigned a group ID, which is a server-assigned integer. The Contacts and Groups API in Microsoft Unified Communications Managed API 5.0 is available only for [UserEndpoint](/dotnet/api/microsoft.rtc.collaboration.userendpoint) objects.
 
 For more information, see [ContactGroupServices](contactgroupservices.md).
 

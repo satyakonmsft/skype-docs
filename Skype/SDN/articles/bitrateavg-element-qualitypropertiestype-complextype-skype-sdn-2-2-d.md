@@ -1,5 +1,6 @@
 ﻿---
-title: BitRateAvg element (QualityPropertiesType complexType) 
+title: BitRateAvg element (QualityPropertiesType complexType) Schema D
+description: Describes the Schema D iteration of the BitRateAvg element and provides the element's definition, parent elements, and element information.
 TOCTitle: BitRateAvg element
 ms:assetid: 3a632c93-613c-f9ee-c30c-9ddf1e2b6711
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149431(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# BitRateAvg element 
+# BitRateAvg element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -20,8 +21,6 @@ Average bit rate, in bits per second, sent or received for a video stream and co
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +55,6 @@ Average bit rate, in bits per second, sent or received for a video stream and co
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
 </colgroup>
 <thead>
 <tr class="header">

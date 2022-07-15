@@ -1,6 +1,7 @@
 ﻿---
 title: Using Skype for Business Server 2015 Logging Tool
 TOCTitle: Using Skype for Business Server 2015 Logging Tool
+description: How to use Skype for the Business Server 2015 Logging Tool
 ms:assetid: 19906004-90ca-4287-bbe1-4c63983556f6
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466134(v=office.16)
 ms:contentKeyID: 65240058
@@ -50,8 +51,8 @@ The Skype for Business Server 2015 Logging Tool menu bar consists of the followi
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -103,8 +104,8 @@ The **Flags** pane enables you to set the types of messages that are logged. Any
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -168,8 +169,8 @@ The variables used in log file formatting are shown in the following table.
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

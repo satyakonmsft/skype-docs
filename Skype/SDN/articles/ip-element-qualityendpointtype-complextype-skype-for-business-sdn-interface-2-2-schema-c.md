@@ -1,5 +1,6 @@
 ﻿---
-title: IP element (QualityEndPointType complexType) 
+title: IP element (QualityEndPointType complexType) (Schema C)
+description: Describes the Schema C iteration of the IP element (QualityEndPointType complexType) and provides the element's definition and parent elements.
 TOCTitle: IP element (QualityEndPointType complexType)
 ms:assetid: d9950c42-43a3-1847-d97b-4e061addf302
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404779(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# IP element 
+# IP element (QualityEndPointType complexType) (Schema C)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +25,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +58,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

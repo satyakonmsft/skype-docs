@@ -1,5 +1,6 @@
 ﻿---
 title: InstantMessagingMcuSession
+description: Describes the InstantMessagingMcuSession class as it applies to Skype for Business 2015 and outlines the class's state transitions.
 TOCTitle: InstantMessagingMcuSession
 ms:assetid: 3d37a168-8520-4724-818c-b6995673ae24
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466026(v=office.16)

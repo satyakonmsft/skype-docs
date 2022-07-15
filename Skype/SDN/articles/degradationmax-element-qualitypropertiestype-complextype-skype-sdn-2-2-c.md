@@ -1,5 +1,6 @@
 ﻿---
-title: DegradationMax element (QualityPropertiesType complexType) 
+title: DegradationMax element (QualityPropertiesType complexType) (Schema C)
+description: Describes the Schema C iteration of the DegradationMax element and provides the element's definition, parent elements, and element information.
 TOCTitle: DegradationMax element
 ms:assetid: d125cc87-0dad-f252-89c2-b576b5debbca
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404739(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# DegradationMax element 
+# DegradationMax element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -20,8 +21,8 @@ Maximum degradation as the difference between the OverallMin and the maximum pos
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +57,9 @@ Maximum degradation as the difference between the OverallMin and the maximum pos
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

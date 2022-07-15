@@ -1,5 +1,6 @@
 ﻿---
-title: DSCPOutbound element (QualityEndPointType complexType) 
+title: DSCPOutbound element (QualityEndPointType complexType) Schema C
+description: Describes the Schema C iteration of the DSCPOutbound element and provides the element's definition, parent elements, and information.
 TOCTitle: DSCPOutbound element
 ms:assetid: bf1cc06d-83fd-d09e-2322-032fbdf21a21
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404747(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# DSCPOutbound element 
+# DSCPOutbound element Schema C
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
