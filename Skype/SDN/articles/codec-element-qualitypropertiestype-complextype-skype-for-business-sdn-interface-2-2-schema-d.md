@@ -1,16 +1,17 @@
 ﻿---
-title: Codec element (QualityPropertiesType complexType) 
+title: Codec element (QualityPropertiesType complexType) (Schema D)
 TOCTitle: Codec element (QualityPropertiesType complexType)
 ms:assetid: 80291521-b022-7aee-8e35-88d370287c31
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149445(v=office.16)
 ms:contentKeyID: 65855392
+description: Describes the last codec that was used for the media. (Schema D)
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# Codec element 
+# Codec element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -19,10 +20,7 @@ Describes the last codec used for the media.
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -55,11 +53,7 @@ Describes the last codec used for the media.
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -80,11 +74,7 @@ Describes the last codec used for the media.
 ### Child elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -110,13 +100,7 @@ Describes the last codec used for the media.
 ### Attributes
 
 <table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Attribute</p></th>

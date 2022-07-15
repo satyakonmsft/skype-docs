@@ -1,5 +1,6 @@
 ﻿---
-title: CPUProcessorSpeed element (QualityEndPointType complexType) 
+title: CPUProcessorSpeed element (QualityEndPointType complexType) (Schema D)
+description: Describes the Schema D iteration of the CPUProcessorSpeed element (QualityEndPointType complexType) and provides the element's definition.
 TOCTitle: CPUProcessorSpeed element
 ms:assetid: 69a5d16b-8de1-5c04-bf63-5a990c14bac9
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149461(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# CPUProcessorSpeed element 
+# CPUProcessorSpeed element (QualityEndPointType complexType) (Schema D)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -20,8 +21,7 @@ Processor speed rating.
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +56,9 @@ Processor speed rating.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

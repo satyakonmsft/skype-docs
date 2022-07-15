@@ -1,5 +1,6 @@
 ﻿---
-title: IP element (ByeEndPointType complexType) 
+title: IP element (ByeEndPointType complexType) (Schema D)
+description: Describes the Schema D iteration of the IP element (ByeEndPointType complexType) and provides the element's definition and parent elements.
 TOCTitle: IP element (ByeEndPointType complexType)
 ms:assetid: 08c9c41e-583b-fcdf-ce5c-be99b23c3540
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170903(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# IP element 
+# IP element (ByeEndPointType complexType) (Schema D)
 
 (ByeEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +26,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +59,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

@@ -1,5 +1,6 @@
 ﻿---
-title: SendListenMOS element (QualityPropertiesType complexType) 
+title: SendListenMOS element (QualityPropertiesType complexType) (Schema C)
+description: An overview of the SendListenMOS element (QualityPropertiesType complexType) (Schema C).
 TOCTitle: SendListenMOS element
 ms:assetid: f705f60b-efa3-3367-2e83-2e01b80aebc4
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404848(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# SendListenMOS element 
+# SendListenMOS element (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

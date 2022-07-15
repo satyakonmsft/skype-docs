@@ -1,5 +1,6 @@
 ﻿---
-title: IP element (EndPointType complexType) 
+title: IP element (EndPointType complexType) (Schema D)
+description: Describes the Schema D iteration of the IP element (EndPointType complexType) and provides the element's definition and parent elements.
 TOCTitle: IP element (EndPointType complexType)
 ms:assetid: f207252f-2279-c8c0-4754-81c6f8b798ee
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170904(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# IP element 
+# IP element (EndPointType complexType) (Schema D)
 
 (EndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +26,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +59,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

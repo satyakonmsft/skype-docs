@@ -1,5 +1,6 @@
 ---
 title: Activating a UCMA 5.0 trusted application
+description: Activating a UCMA trusted application is based on Microsoft Unified Communications Managed API 5.0 that is trusted by Skype for Business Server 2015.  
 TOCTitle: Activating a UCMA 5.0 trusted application
 ms:assetid: f75a02e0-6bc2-4e18-81fd-17907b06fb7d
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466114(v=office.16)
@@ -45,8 +46,8 @@ Activation is needed not only for deploying a ready-to-ship application, but als
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -84,10 +85,10 @@ The following table summarizes the tasks that can be performed by the three diff
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

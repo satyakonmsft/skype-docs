@@ -1,5 +1,6 @@
 ﻿---
 title: 'In-meeting: during the conference'
+description: Describes the perspective of an end-user in scheduled conferences and ad hoc conferences and outlines how to join and manage conference lobbies.
 TOCTitle: 'In-meeting: during the conference'
 ms:assetid: 73aa07e8-0188-4b32-bc08-e28d028a5f59
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465925(v=office.16)

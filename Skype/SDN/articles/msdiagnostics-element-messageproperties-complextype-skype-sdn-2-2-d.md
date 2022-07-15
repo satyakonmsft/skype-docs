@@ -1,5 +1,6 @@
 ﻿---
-title: MSDiagnostics element (MessageProperties complexType) 
+title: MSDiagnostics element (MessageProperties complexType) Schema D
+description: Describes the Schema D iteration of the MSDiagnostics element and provides the element's definition, parent elements, element type, and schema file.
 TOCTitle: MSDiagnostics element (MessageProperties complexType)
 ms:assetid: 9fbe92f1-b655-9291-163b-2014623c44f4
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170921(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# MSDiagnostics element 
+# MSDiagnostics element Schema D
 
 (MessageProperties complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

@@ -1,5 +1,6 @@
 ﻿---
 title: Parsing and constructing SDP documents
+description: An overview of parsing and constructing SDP documents.
 TOCTitle: Parsing and constructing SDP documents
 ms:assetid: 3294209a-0e26-4257-827a-868d6332311f
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466060(v=office.16)

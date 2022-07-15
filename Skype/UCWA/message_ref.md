@@ -1,3 +1,7 @@
+---
+title: message reference
+description: Describes the message resource and provides the resource's properties, links, Azure AD scopes, events, and operations.
+---
 # message
 
  _**Applies to:** Skype for Business 2015_
@@ -12,7 +16,7 @@ Represents an instant message sent or received by the local participant.
 For more on web links, see [Web links](WebLinks.md).
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |rel|The resource that this link points to. In JSON, this is the outer container.|
 |href|The location of this resource on the server, and the target of an HTTP operation.|
@@ -26,7 +30,7 @@ Message is started in the event channel for both incoming and outgoing scenarios
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |direction|The [Direction](Direction_ref.md) of this message, either incoming or outgoing.|
 |htmlMessage|If populated, indicates an HTML message body.|
@@ -41,7 +45,7 @@ Message is started in the event channel for both incoming and outgoing scenarios
 
 This resource can have the following relationships.
 
-|**Link**|**Description**|
+|Link|Description|
 |:-----|:-----|
 |self|The link to the current resource.|
 |contact|Represents a person or service that the user can communicate and collaborate with.|
@@ -54,7 +58,8 @@ This resource can have the following relationships.
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
-|**Scope**|**Permission**|**Description**|
+
+|Scope|Permission|Description|
 |:-----|:-----|:-----|
 |Conversations.Initiate|Initiate conversations and join meetings|Allows the app to initiate instant messages, audio, video, and desktop sharing conversations; and join meetings on-behalf of the signed-in user|
 |Conversations.Receive|Receive conversation invites|Allows the app to receive instant messages, audio, video, and desktop sharing invitations on-behalf of the signed-in user|
@@ -66,11 +71,13 @@ The user must have at least one of these scopes for operations on the resource t
 
 
 
-|**Resource**|**Priority**|**Sender**|**Reason**|
+|Resource|Priority|Sender|Reason|
 |:-----|:-----|:-----|:-----|
 |message|High|conversation|Delivered when a message is started for an incoming instant message.|
+
 Sample of returned event data.
 This sample is given only as an illustration of event syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+```
 {
   "_links" : {
     "self" : {
@@ -96,7 +103,7 @@ This sample is given only as an illustration of event syntax. The semantic conte
     }
   ]
 }
-
+```
 
 ## Operations
 
@@ -130,7 +137,7 @@ The response from a GET request contains the properties and links shown in the P
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
-|**Error**|**Code**|**Subcode**|**Description**|
+|Error|Code|Subcode|Description|
 |:-----|:-----|:-----|:-----|
 |ServiceFailure|500|InvalidExchangeServerVersion|Invalid exchange server version.The exchange mailbox of the server might have moved to an unsupported version for the required feature.|
 |Conflict|409|AlreadyExists|The already exists error.|

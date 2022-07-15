@@ -1,4 +1,7 @@
-
+---
+title: PT Authentication
+description: Describes the different modes of authentication for Skype Web SDK and provides links to authentication articles.
+---
 # Authentication
 
 

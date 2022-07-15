@@ -1,5 +1,6 @@
 ﻿---
-title: MSDiagnosticsClient element (ErrorProperties complexType) 
+title: MSDiagnosticsClient element (ErrorProperties complexType)
+description: Describes the MSDiagnosticsClient element and provides the element's definition, parent elements, and information.
 TOCTitle: MSDiagnosticsClient element (ErrorProperties complexType)
 ms:assetid: 2ffa72e2-4fbd-da4a-5a16-3d43b60737bb
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404797(v=office.16)
@@ -25,8 +26,6 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +60,6 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
 </colgroup>
 <thead>
 <tr class="header">

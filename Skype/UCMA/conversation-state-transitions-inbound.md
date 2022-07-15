@@ -1,5 +1,6 @@
 ﻿---
 title: Conversation state transitions - inbound
+description: Describes inbound conversation state transitions as they relate to Skype for Business 2015 and provides a diagram to illustrate conversation state transitions.
 TOCTitle: Conversation state transitions - inbound
 ms:assetid: 27a12921-9948-4b5d-a433-2dd5ac801fa1
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465978(v=office.16)

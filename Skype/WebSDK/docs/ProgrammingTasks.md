@@ -1,4 +1,7 @@
-
+---
+title: Skype Web SDK programming tasks
+description: This section describes the key programming tasks for the Skype Web SDK.
+---
 # Skype Web SDK programming tasks
 
 

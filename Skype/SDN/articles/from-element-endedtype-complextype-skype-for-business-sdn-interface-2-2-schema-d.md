@@ -1,16 +1,17 @@
 ﻿---
-title: From element (EndedType complexType) 
+title: From element (EndedType complexType) (Schema D)
 TOCTitle: From element (EndedType complexType)
 ms:assetid: 9582f59a-c4f3-3f49-de55-09ec9c7e5fe0
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170872(v=office.16)
 ms:contentKeyID: 65855447
+description: Endpoint that is involved in the ended SIP call.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# From element 
+# From element Schema D
 
 (EndedType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +26,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +58,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -86,11 +78,6 @@ Elements and attributes
 ### Child elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

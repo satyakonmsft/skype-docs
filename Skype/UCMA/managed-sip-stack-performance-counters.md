@@ -1,5 +1,6 @@
 ﻿---
 title: Managed SIP stack performance counters
+description: Summarizes the managed SIP stack performance counters that are available with UcmaRedist.msi as it relates to Skype for Business 2015.
 TOCTitle: Managed SIP stack performance counters
 ms:assetid: 2e8ab47c-2c76-4eeb-b0fd-c48a384cc601
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466105(v=office.16)

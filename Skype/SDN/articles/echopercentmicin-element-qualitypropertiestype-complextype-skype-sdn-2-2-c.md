@@ -1,5 +1,6 @@
 ﻿---
-title: EchoPercentMicIn element (QualityPropertiesType complexType) 
+title: EchoPercentMicIn element (QualityPropertiesType complexType) Schema C
+description: Describes the Schema C iteration of the EchoPercentMicIn element and provides the element's definition, parent elements, and information.
 TOCTitle: EchoPercentMicIn element
 ms:assetid: 16e4ae8e-31ed-f754-8805-3adc7a68dd25
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404751(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# EchoPercentMicIn element 
+# EchoPercentMicIn element Schema C
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

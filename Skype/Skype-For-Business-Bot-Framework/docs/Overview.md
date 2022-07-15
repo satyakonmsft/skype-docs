@@ -1,6 +1,6 @@
 ---
 title: Skype for Business Bot Framework
-description: 
+description: Provides an overview of the Skype for Business Bot framework to create bots to interact with your Skype for Business users using text, cards, or speech. 
 ms.date: 03/30/2022
 ---
 
@@ -31,7 +31,7 @@ The Skype for Business bots are created by using the [Microsoft Bot Framework](h
 
 6. Copy and paste the following code snippet to embed the **Add to Skype for Business** button to your website:
 
-   <a href='https://skypeappregistration.azurewebsites.net/bot/561bae84-ea1c-4f75-a512-b84566779c2c'><img src='https://dev.botframework.com/ChannelConfigs/Images/skypeforbusiness/Add-To-SkypeForBusiness-Buttons.png'></a>
+   <a href='https://skypeappregistration.azurewebsites.net/bot/561bae84-ea1c-4f75-a512-b84566779c2c'><img alt="Button reading 'Add to Skype for Business'." src='https://dev.botframework.com/ChannelConfigs/Images/skypeforbusiness/Add-To-SkypeForBusiness-Buttons.png'></a>
 
    ```html
     <a href='https://skypeappregistration.azurewebsites.net/bot/561bae84-ea1c-4f75-a512-b84566779c2c'><img src='https://dev.botframework.com/ChannelConfigs/Images/skypeforbusiness/Add-To-SkypeForBusiness-Buttons.png'></a>
@@ -45,7 +45,7 @@ Bots can only be added to Skype for Business by tenant administrators of a Skype
 
 The instructions contain the following information:
 
-To add your bot to Skype for Business, you must be the tenant administrator of a Skype for Business Online environment. A tenant administrator can easily add your bot by using the **[Skype for Business Admin PowerShell cmdlets](https://docs.microsoft.com/SkypeForBusiness/set-up-your-computer-for-windows-powershell/set-up-your-computer-for-windows-powershell)**.
+To add your bot to Skype for Business, you must be the tenant administrator of a Skype for Business Online environment. A tenant administrator can easily add your bot by using the **[Skype for Business Admin PowerShell cmdlets](/SkypeForBusiness/set-up-your-computer-for-windows-powershell/set-up-your-computer-for-windows-powershell)**.
 
 ### To add a bot
 
@@ -58,7 +58,7 @@ To add your bot to Skype for Business, you must be the tenant administrator of a
    ```
 
    > [!NOTE]
-   > To learn more about PowerShell usage, see [Connecting to Skype for Business Online by using Windows PowerShell](https://docs.microsoft.com/SkypeForBusiness/set-up-your-computer-for-windows-powershell/set-up-your-computer-for-windows-powershell).
+   > To learn more about PowerShell usage, see [Connecting to Skype for Business Online by using Windows PowerShell](/SkypeForBusiness/set-up-your-computer-for-windows-powershell/set-up-your-computer-for-windows-powershell).
 
 3. You will be prompted with the Windows PowerShell credential dialog box. Sign in by using the tenant admin credentials.
 
@@ -76,7 +76,7 @@ To add your bot to Skype for Business, you must be the tenant administrator of a
    This cmdlet registers an instance of your bot with a Skype for Business Online tenant. A Skype for Business Admin can replace the **_Name_** parameter with their desired bot display name, and replace the **_Uri_** parameter with a unique user account from their domain (for example, mybot@contoso.com).
 
    > [!NOTE]
-   > A newly registered bot can take up to 8 hours to be discoverable by all users in the Skype for Business tenant. For more information about using PowerShell to manage bots and apps for Skype for Business, see [Set up a Trusted Application Endpoint](https://docs.microsoft.com/skype-sdk/trusted-application-api/docs/trustedapplicationendpoint).
+   > A newly registered bot can take up to 8 hours to be discoverable by all users in the Skype for Business tenant. For more information about using PowerShell to manage bots and apps for Skype for Business, see [Set up a Trusted Application Endpoint](/skype-sdk/trusted-application-api/docs/trustedapplicationendpoint).
 
 <a name="feature-support"></a>
 
@@ -184,7 +184,7 @@ To delete your bot completely, go to your bot dashboard, select edit the Skype f
 
 ## Remove a bot – Skype for Business tenant administrator
 
-To delete a bot completely from a Skype for Business tenant, you must be the tenant administrator of a Skype for Business Online environment. A tenant administrator can easily delete your bot by using the Skype for Business Admin **[PowerShell cmdlets](https://docs.microsoft.com/SkypeForBusiness/set-up-your-computer-for-windows-powershell/set-up-your-computer-for-windows-powershell)**.
+To delete a bot completely from a Skype for Business tenant, you must be the tenant administrator of a Skype for Business Online environment. A tenant administrator can easily delete your bot by using the Skype for Business Admin **[PowerShell cmdlets](/SkypeForBusiness/set-up-your-computer-for-windows-powershell/set-up-your-computer-for-windows-powershell)**.
 
 ### To delete a bot
 

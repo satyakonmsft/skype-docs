@@ -1,5 +1,6 @@
 ﻿---
-title: URI element (QualityEndPointType complexType) 
+title: URI element (QualityEndPointType complexType) (Schema C)
+description: Discusses the syntax for the URI element QualityEndPointType complexType Schema C Skype for Business SDN Interface 2.2.
 TOCTitle: URI element (QualityEndPointType complexType)
 ms:assetid: d7883d40-b740-81a2-9c5e-de1fc66709e1
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429332(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# URI element 
+# URI element (QualityEndPointType complexType) (Schema C)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

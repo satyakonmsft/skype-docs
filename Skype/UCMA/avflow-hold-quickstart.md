@@ -1,5 +1,6 @@
 ﻿---
 title: AVFlow-Hold (QuickStart)
+description: Discusses the AVFlow-Hold (QuickStart) including description, features, prerequisites, and running the sample in Skype for Business 2015.
 TOCTitle: AVFlow-Hold (QuickStart)
 ms:assetid: b2cb3951-b424-4678-ae0d-518a152c0c50
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466138(v=office.16)

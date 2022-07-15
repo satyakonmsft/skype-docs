@@ -1,5 +1,6 @@
 ﻿---
 title: Trunk element (ErrorEndPointType complexType) 
+description: An overview of the Trunk element (ErrorEndPointType complexType), Schema D.
 TOCTitle: Trunk element (ErrorEndPointType complexType)
 ms:assetid: 21d9fb9f-0f0e-3dd6-7c4a-b620d3d769ae
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171016(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Trunk element 
+# Trunk element (ErrorEndPointType complexType) (Schema D)
 
 (ErrorEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

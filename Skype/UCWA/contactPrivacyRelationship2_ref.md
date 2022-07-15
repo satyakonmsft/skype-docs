@@ -1,3 +1,8 @@
+---
+title: contactPrivacyRelationship2
+description: contactPrivacyRelationship2 represents the privacy relationship between the user and a contact.
+---
+
 # contactPrivacyRelationship2
 
  _**Applies to:** Skype for Business 2015_
@@ -46,6 +51,7 @@ This resource can have the following relationships.
 
 
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |Contacts.ReadWrite|Read/write Skype user contacts and groups|Allows the app to read and write Skype user contacts and groups|

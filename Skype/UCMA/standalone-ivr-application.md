@@ -1,5 +1,6 @@
 ---
 title: Standalone IVR application
+description: An overview of the Standalone IVR application for Skype for Business 2015
 TOCTitle: Standalone IVR application
 ms:assetid: e824ca31-c9fa-4ba6-99de-bdc090e3547c
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465937(v=office.16)
@@ -37,11 +38,11 @@ The general call flow typical of a standalone interactive voice response (IVR) a
 
 UCMA-based IVR applications include the full power of Microsoft.Speech-based speech recognition, text-to-speech, and DTMF handling. A user can call a UCMA application, be connected to a custom IVR (which can be VoiceXML-based), provide his or her information to the IVR, and then be connected to streaming music-on-hold. Meanwhile, the information that the user provides is passed to the application, allowing the application to intelligently route the call, fetch information from external sources, and play customized messages to the user.
 
-- The [Player](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.player?view=ucma-api), [Recorder](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.recorder?view=ucma-api), and [ToneController](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.tonecontroller?view=ucma-api) classes can be used to implement an IVR workflow that involves playing prerecorded prompts, handling DTMF tones, and recording audio.
+- The [Player](/dotnet/api/microsoft.rtc.collaboration.audiovideo.player), [Recorder](/dotnet/api/microsoft.rtc.collaboration.audiovideo.recorder), and [ToneController](/dotnet/api/microsoft.rtc.collaboration.audiovideo.tonecontroller) classes can be used to implement an IVR workflow that involves playing prerecorded prompts, handling DTMF tones, and recording audio.
 
-- The [Browser](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml.browser?view=ucma-voice) class can interpret VoiceXML code to implement workflow logic that involves TTS or speech recognition.
+- The [Browser](/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml.browser) class can interpret VoiceXML code to implement workflow logic that involves TTS or speech recognition.
 
-- Connector objects (the [SpeechRecognitionConnector](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.speechrecognitionconnector?view=ucma-api) and [SpeechSynthesisConnector](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.audiovideo.speechsynthesisconnector?view=ucma-api) classes) can be used to implement an application that involves TTS or speech recognition.
+- Connector objects (the [SpeechRecognitionConnector](/dotnet/api/microsoft.rtc.collaboration.audiovideo.speechrecognitionconnector) and [SpeechSynthesisConnector](/dotnet/api/microsoft.rtc.collaboration.audiovideo.speechsynthesisconnector) classes) can be used to implement an application that involves TTS or speech recognition.
 
 - Recording and Music on Hold: UCMA applications can play audio content to the caller on demand, record the audio portion of a call, and play music-on-hold to users while waiting for the IVR to perform background tasks.
 

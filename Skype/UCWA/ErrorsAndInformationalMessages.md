@@ -1,4 +1,7 @@
-
+---
+title: Errors and informational messages
+description: Describes errors and informational messages as they apply to Skype for Business 2015 and provides code examples.
+---
 # Errors and informational messages
 
 **Applies to**: Skype for Business 2015

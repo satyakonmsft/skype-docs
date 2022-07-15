@@ -1,4 +1,7 @@
-
+---
+title: Communication dashboard
+description: Describes the communication resource and provides the resource's property bag, links, conversations, and resource representation.
+---
 # Communication dashboard
 The **communication** resource acts as a dashboard for the various abilities of the user to communication with others.
 

@@ -1,5 +1,6 @@
 ﻿---
 title: Trunk element (QualityEndPointType complexType) 
+description: An overview of the Trunk element (QualityEndPointType complexType), Schema D.
 TOCTitle: Trunk element (QualityEndPointType complexType)
 ms:assetid: 748b3e24-cbaf-18d6-ad8e-5ece4e69caea
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171010(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Trunk element 
+# Trunk element (QualityEndPointType complexType) (Schema D)
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

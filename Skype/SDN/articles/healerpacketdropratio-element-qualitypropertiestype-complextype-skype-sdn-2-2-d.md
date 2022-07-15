@@ -1,16 +1,17 @@
 ﻿---
-title: HealerPacketDropRatio element (QualityPropertiesType complexType) 
+title: HealerPacketDropRatio element (QualityPropertiesType complexType) (Schema D) 
 TOCTitle: HealerPacketDropRatio element
 ms:assetid: 8664eb21-7ec7-a6af-a64c-90a048d9b679
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170875(v=office.16)
 ms:contentKeyID: 65855456
+description: Ratio of audio packets dropped by a healer over total number of audio packets received by the healer. This metric is reported for all modalities/media types when available.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# HealerPacketDropRatio element 
+# HealerPacketDropRatio element Schema D
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +26,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +59,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

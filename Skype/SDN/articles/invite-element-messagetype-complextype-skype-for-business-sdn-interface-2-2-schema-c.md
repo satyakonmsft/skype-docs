@@ -1,9 +1,10 @@
 ﻿---
-title: Invite element (MessageType complexType) 
+title: Invite element (MessageType complexType) (Schema C)
 TOCTitle: Invite element
 ms:assetid: 4b51e14c-e36f-7ac5-8223-b94c5a54d80e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404776(v=office.16)
 ms:contentKeyID: 68250687
+description: Event that an endpoint attempts to establish a call. DialogListener will include this element in its output if the sendcallinvites entry is set to True.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
@@ -25,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -86,9 +87,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

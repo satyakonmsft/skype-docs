@@ -1,16 +1,19 @@
+---
+title: myGroupMemberships2
+description: Represents the version two of MyGroupMembershipsResource, a collection of groupMembership resources.
+---
+
 # myGroupMemberships2
 
  _**Applies to:** Skype for Business 2015_
 
-
-Represents the version two of MyGroupMembershipsResource (a collection of groupMembership resources)
+Represents the version two of MyGroupMembershipsResource (a collection of groupMembership resources).
             
 
 ## Web Link
 <a name = "sectionSection0"> </a>
 
 For more on web links, see [Web links](WebLinks.md).
-
 
 |**Name**|**Description**|
 |:-----|:-----|
@@ -24,13 +27,9 @@ The version two supports adding single contact to a particular group and removin
 
 ### Properties
 
-
-
 None
 
 ### Links
-
-
 
 This resource can have the following relationships.
 
@@ -41,9 +40,8 @@ This resource can have the following relationships.
 
 ### Azure Active Directory scopes for online applications
 
-
-
 The user must have at least one of these scopes for operations on the resource to be allowed.
+
 |**Scope**|**Permission**|**Description**|
 |:-----|:-----|:-----|
 |User.ReadWrite|Read/write Skype user information|Allows the app to read and update presence, photo, location, note, call forwarding settings of the signed-in user|
@@ -54,43 +52,27 @@ The user must have at least one of these scopes for operations on the resource t
 
 ## Operations
 
-
-
 <a name="sectionSection2"></a>
 
 ### GET
-
-
-
 
 Get group memberships
 
 #### Query parameters
 
-
-
-
 |**Name**|**Description**|**Required?**|
 |:-----|:-----|:-----|
 |groupId|The group id of the group for which memberships are requested.The maximum length is 256 characters.|No|
 
-
 #### Request body
-
-
 
 None
 
-
 #### Response body
-
-
 
 The response from a GET request contains the properties and links shown in the Properties and Links sections at the top of this page.
 
 #### Synchronous errors
-
-
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
@@ -108,14 +90,9 @@ The errors below (if any) are specific to this resource. Generic errors that can
 
 #### Examples
 
-
-
 Only server-supplied query parameters, if any, are shown in the request sample.
 
 #### JSON Request
-
-
-
 
 ```
 Get https://fe1.contoso.com:443/ucwa/v1/applications/192/myGroupMemberships HTTP/1.1
@@ -125,12 +102,11 @@ Accept: application/json
 
 ```
 
-
 #### JSON Response
 
 
-
 This sample is given only as an illustration of response syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+
 ```
 HTTP/1.1 200 OK
 Content-Type: application/json
@@ -172,11 +148,7 @@ Content-Length: 592
 }
 ```
 
-
 #### XML Request
-
-
-
 
 ```
 Get https://fe1.contoso.com:443/ucwa/v1/applications/192/myGroupMemberships HTTP/1.1
@@ -186,12 +158,10 @@ Accept: application/xml
 
 ```
 
-
 #### XML Response
 
-
-
 This sample is given only as an illustration of response syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+
 ```
 HTTP/1.1 200 OK
 Content-Type: application/xml
@@ -210,30 +180,18 @@ Content-Length: 778
 </resource>
 ```
 
-
-
 ### POST
-
-
-
 
 Adds a contactUri to a particular group.
 
 #### Query parameters
-
-
-
 
 |**Name**|**Description**|**Required?**|
 |:-----|:-----|:-----|
 |contactUri|Gets or sets the group membership pair's contactUri.The maximum length is 250 characters.|Yes|
 |groupId|Gets or sets the group membership pair's groupId.The maximum length is 256 characters.|No|
 
-
 #### Request body
-
-
-
 
 |**Name**|**Description**|**Required?**|
 |:-----|:-----|:-----|
@@ -242,15 +200,11 @@ Adds a contactUri to a particular group.
 
 #### Response body
 
-
-
 |**Item**|**Description**|
 |:-----|:-----|
 |[myGroupMembership](myGroupMembership2_ref.md)|Represents the version two of MyGroupMembershipResource (a [group](group_ref.md) membership of a single [contact](contact_ref.md))|
 
 #### Synchronous errors
-
-
 
 The errors below (if any) are specific to this resource. Generic errors that can apply to any resource are covered in [Generic synchronous errors](GenericSynchronousErrors.md).
 
@@ -275,16 +229,12 @@ The errors below (if any) are specific to this resource. Generic errors that can
 
 #### Examples
 
-
-
 Only server-supplied query parameters, if any, are shown in the request sample.
 
 #### JSON Request
 
-
-
-
 ```
+
 Post https://fe1.contoso.com:443/ucwa/v1/applications/192/myGroupMemberships HTTP/1.1
 Authorization: Bearer cwt=PHNhbWw6QXNzZXJ0aW9uIHhtbG5...uZm8
 Host: fe1.contoso.com
@@ -292,12 +242,10 @@ Accept: application/json
 
 ```
 
-
 #### JSON Response
 
-
-
 This sample is given only as an illustration of response syntax. The semantic content is not guaranteed to correspond to a valid scenario.
+
 ```
 HTTP/1.1 201 Created
 Content-Type: application/json
@@ -327,13 +275,10 @@ Content-Length: 453
 }
 ```
 
-
 #### XML Request
 
+```xml
 
-
-
-```
 Post https://fe1.contoso.com:443/ucwa/v1/applications/192/myGroupMemberships HTTP/1.1
 Authorization: Bearer cwt=PHNhbWw6QXNzZXJ0aW9uIHhtbG5...uZm8
 Host: fe1.contoso.com
@@ -344,10 +289,10 @@ Accept: application/xml
 
 #### XML Response
 
-
-
 This sample is given only as an illustration of response syntax. The semantic content is not guaranteed to correspond to a valid scenario.
-```
+
+```xml
+
 HTTP/1.1 201 Created
 Content-Type: application/xml
 Content-Length: 630
@@ -360,6 +305,5 @@ Content-Length: 630
   <link rel="pinnedGroup" href="/ucwa/v1/applications/192/groups/pinnedGroup" />
   <property name="rel">myGroupMembership</property>
 </resource>
+
 ```
-
-

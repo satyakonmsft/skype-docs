@@ -1,5 +1,6 @@
 ﻿---
 title: RelayPort element (ErrorEndPointType complexType) 
+description: An overview of RelayPort element (ErrorEndPointType complexType) (Schema D).
 TOCTitle: RelayPort element (ErrorEndPointType complexType)
 ms:assetid: 78507156-1b8d-e16b-84f8-8950cf58a091
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170982(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# RelayPort element 
+# RelayPort element (ErrorEndPointType complexType) (Schema D)
 
 (ErrorEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +26,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +58,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

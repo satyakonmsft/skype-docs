@@ -1,5 +1,6 @@
 ﻿---
 title: Conversations (Unified Communications Managed API 5.0)
+description: Describes the conversations (unified communications managed API 5.0) concept and outlines MCU-type conversations.
 TOCTitle: Conversations
 ms:assetid: cf285a40-d78a-4280-8760-4329e4ef7c86
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465985(v=office.16)
@@ -8,7 +9,7 @@ ms.date: 07/27/2015
 mtps_version: v=office.16
 ---
 
-# Conversations
+# Conversations (unified communications managed API 5.0)
 
 **Applies to**: Skype for Business 2015
 

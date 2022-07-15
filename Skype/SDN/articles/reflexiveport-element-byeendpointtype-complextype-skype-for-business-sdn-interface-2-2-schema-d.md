@@ -1,5 +1,6 @@
 ﻿---
-title: ReflexivePort element (ByeEndPointType complexType) 
+title: ReflexivePort element (ByeEndPointType complexType)
+description: Describes the ReflexivePort element (ByeEndPointType complexType) and provides the element's definition, parent element, and information.
 TOCTitle: ReflexivePort element (ByeEndPointType complexType)
 ms:assetid: 161e66a6-96fb-69b5-8d70-5a9667bb000d
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170970(v=office.16)
@@ -25,10 +26,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +59,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

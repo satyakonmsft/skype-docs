@@ -1,5 +1,6 @@
 ﻿---
 title: Additional scenarios
+description: Discusses additional scenarios for enterprise-wide instant messaging automation and interactive voice response systems, conferencing and web applications.
 TOCTitle: Additional scenarios
 ms:assetid: a688141b-fdaa-41cd-9362-9f5afd854ed8
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465957(v=office.16)

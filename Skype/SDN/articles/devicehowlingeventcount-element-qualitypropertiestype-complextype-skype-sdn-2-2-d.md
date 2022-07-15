@@ -1,5 +1,6 @@
 ﻿---
-title: DeviceHowlingEventCount element (QualityPropertiesType complexType) 
+title: DeviceHowlingEventCount element (QualityPropertiesType complexType) Schema D
+description: Describes the Schema D iteration of the DeviceHowlingEventCount element and provides the element's definition, parent elements, and element information.
 TOCTitle: DeviceHowlingEventCount element
 ms:assetid: 09ee9cad-554d-56de-0498-1bc8b1d63f53
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149472(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# DeviceHowlingEventCount element 
+# DeviceHowlingEventCount element Schema D
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -20,8 +21,8 @@ Number of times during a session the DeviceHowlingEvent event was fired when aud
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +57,9 @@ Number of times during a session the DeviceHowlingEvent event was fired when aud
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

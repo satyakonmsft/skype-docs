@@ -1,16 +1,17 @@
 ﻿---
-title: From element (QualityType complexType) 
+title: From element (QualityType complexType) (Schema D)
 TOCTitle: From element (QualityType complexType)
 ms:assetid: 7fffb598-6e04-3c17-c15d-3961400aded8
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170870(v=office.16)
 ms:contentKeyID: 65855448
+description: Source of the reported media stream.
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# From element 
+# From element (Schema D)
 
 (QualityType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +26,7 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +59,7 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>
@@ -91,11 +85,7 @@ Elements and attributes
 ### Child elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

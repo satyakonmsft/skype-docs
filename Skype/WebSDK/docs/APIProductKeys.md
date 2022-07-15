@@ -1,3 +1,7 @@
+---
+title: Skype Web SDK Production Use Capabilities
+description: Describes Skype Web SDK production use capabilities and provides lists of product keys, features, and supported browsers and server versions.
+---
 # Skype Web SDK Production Use Capabilities
 
 

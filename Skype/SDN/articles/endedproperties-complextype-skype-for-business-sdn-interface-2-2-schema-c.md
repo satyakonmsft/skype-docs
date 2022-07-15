@@ -1,5 +1,6 @@
 ﻿---
-title: EndedProperties complexType 
+title: EndedProperties complexType (Schema C)
+description: Describes the Schema C iteration of the Ended Properties complexType and provides the type's definition, child elements, and information.
 TOCTitle: EndedProperties complexType
 ms:assetid: 1a4ba994-1635-f7a6-dce5-6c2328b07aed
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt429349(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# EndedProperties complexType 
+# EndedProperties complexType (Schema C)
 
 (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -22,10 +23,7 @@ Elements and attributes
 ## Type information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Namespace</strong></p></td>
@@ -56,11 +54,7 @@ Elements and attributes
 ### Child elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

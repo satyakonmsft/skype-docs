@@ -1,5 +1,6 @@
 ﻿---
-title: EndPoint element (ByeType complexType) 
+title: EndPoint element (ByeType complexType) (Schema C)
+description: Describes the Schema C iteration of the EndPoint element (ByeType complexType) and provides the element's definition and information.
 TOCTitle: EndPoint element (ByeType complexType)
 ms:assetid: 1aa67b69-6508-8f44-945e-3f6adb739a13
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404756(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# EndPoint element 
+# EndPoint element (ByeType complexType) (Schema C)
 
 (ByeType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -86,9 +87,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

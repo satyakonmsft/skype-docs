@@ -1,5 +1,6 @@
 ﻿---
 title: Incoming messages performance counters
+description: Describes incoming message performance counters as it applies to Skype for Business 2015 and provides a table that summarizes various CounterTypes.
 TOCTitle: Incoming messages performance counters
 ms:assetid: 9d261563-dde5-418f-9031-afde9b7e27ec
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466117(v=office.16)
@@ -17,9 +18,9 @@ DefaultScale for all Incoming Messages performance counters is 0, which means th
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

@@ -1,5 +1,6 @@
 ﻿---
 title: Outgoing messages performance counters
+description: An overview of outgoing messages performance counters.
 TOCTitle: Outgoing messages performance counters
 ms:assetid: 430937ae-3128-497b-9ec3-24d4ce04df9c
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466084(v=office.16)
@@ -16,11 +17,6 @@ mtps_version: v=office.16
 DefaultScale for all Outgoing Messages performance counters is 0, which means that the scaling factor is 1. The Windows Performance tool refers to this object as LC:SipEps - 04 - SipEps Outgoing Messages.
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Name</p></th>

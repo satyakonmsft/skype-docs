@@ -1,5 +1,6 @@
 ﻿---
 title: Configuring SDN Interface logging options
+description: Describes how to configure SDN Interface logging options and provides logging configuration options for Dialog Listener and the SDN Manager.
 TOCTitle: Configuring SDN Interface logging options
 ms:assetid: 0f604c7d-87a3-4526-b67c-25648c8427e7
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn785206(v=office.16)
@@ -73,10 +74,7 @@ The examples illustrated updates to the logging configuration files. The first e
 The Dialog Listener default configuration supports the following types of logging:
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Logging type</p></th>
@@ -109,10 +107,7 @@ The Dialog Listener default configuration supports the following types of loggin
 The SDN Manager default configuration supports the following types of logging:
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Logging type</p></th>

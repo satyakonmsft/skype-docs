@@ -1,5 +1,6 @@
 ﻿---
-title: ReflexiveIP element (ErrorEndPointType complexType) 
+title: ReflexiveIP element (ErrorEndPointType complexType)
+description: Describes the ReflexiveIP element (ErrorEndPointType complexType) and provides the element's definition, parent element, element type, and schema file.
 TOCTitle: ReflexiveIP element (ErrorEndPointType complexType)
 ms:assetid: ad668abe-8550-8a6a-3f88-e55d735a0019
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170964(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# ReflexiveIP element 
+# ReflexiveIP element (ErrorEndPointType complexType)
 
 (ErrorEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -25,10 +26,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -61,11 +58,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

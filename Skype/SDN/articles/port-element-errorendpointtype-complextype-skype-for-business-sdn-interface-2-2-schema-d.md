@@ -1,5 +1,6 @@
 ﻿---
-title: Port element (ErrorEndPointType complexType) 
+title: Port element (ErrorEndPointType complexType) (Schema D)
+description: Describes the Schema D iteration of the Port element (ErrorEndPointType complexType) and provides the element's definition, parent elements, and information.
 TOCTitle: Port element (ErrorEndPointType complexType)
 ms:assetid: 9cd05d40-c56c-1d70-0e1c-47d24a58ae5e
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170945(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Port element 
+# Port element (ErrorEndPointType complexType) (Schema D)
 
 (ErrorEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

@@ -1,5 +1,6 @@
 ---
 title: Creating a generic bot
+description: Describes process of creating a generic bot and outlines how to create message handlers, and how to set up and configure your message handler project and class.
 TOCTitle: Creating a generic bot
 ms:assetid: 70eea19d-91ad-45ae-95b7-301919eb9633
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn454839(v=office.16)
@@ -82,8 +83,8 @@ public TimeMessageHandler()
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

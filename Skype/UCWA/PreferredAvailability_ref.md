@@ -1,5 +1,8 @@
-
-# PreferredAvailability
+---
+title:  PreferredAvailability reference 
+description: Describes the PreferredAvailability object, which represents a user's availability values, and provides its properties.
+---
+# PreferredAvailability reference
 
 
 _** Applies to: **Skype for Business 2015_

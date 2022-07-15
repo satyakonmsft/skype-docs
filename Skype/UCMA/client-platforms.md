@@ -1,5 +1,6 @@
 ﻿---
 title: Client platforms (Unified Communications Managed API 5.0)
+description: Discusses when a CollaborationPlatform instance is created, it can be created as a client platform, or a server platform.
 TOCTitle: Client platforms
 ms:assetid: 10b3cb99-b1ab-4a21-97e4-b6106781b25b
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466052(v=office.16)
@@ -14,7 +15,7 @@ dev_langs:
 
 **Applies to**: Skype for Business 2015
 
-When a [CollaborationPlatform](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.collaborationplatform?view=ucma-api) instance is created, it can be created as a client platform, a server platform, or as a provisioned application server platform. Each of the three **CollaborationPlatform** constructors can be used to create one type of platform.
+When a [CollaborationPlatform](/dotnet/api/microsoft.rtc.collaboration.collaborationplatform) instance is created, it can be created as a client platform, a server platform, or as a provisioned application server platform. Each of the three **CollaborationPlatform** constructors can be used to create one type of platform.
 
 A client platform typically is used to support the creation of a large number of clients that can be used to simulate users connected to an application, for the purpose of carrying out stress and scalability testing on an implementation of an application server.
 

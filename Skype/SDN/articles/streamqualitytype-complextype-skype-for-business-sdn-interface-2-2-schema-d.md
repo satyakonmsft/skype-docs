@@ -1,5 +1,6 @@
 ﻿---
 title: StreamQualityType complexType 
+description: Overview of the StreamQualityType complexType.
 TOCTitle: StreamQualityType complexType
 ms:assetid: 236f8a1c-9dad-1d72-8861-26f2837522f3
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171076(v=office.16)
@@ -24,8 +25,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -72,11 +73,11 @@ None.
 
 <table>
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

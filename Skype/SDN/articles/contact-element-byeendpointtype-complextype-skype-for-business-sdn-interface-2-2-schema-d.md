@@ -1,5 +1,6 @@
 ﻿---
-title: Contact element (ByeEndPointType complexType) 
+title: Contact element (ByeEndPointType complexType) (Schema D)
+description: Describes the Schema D iteration of the Contact element (ByeEndPointType complexType) and provides the element's definition and parent elements.
 TOCTitle: Contact element (ByeEndPointType complexType)
 ms:assetid: 9a724a72-cf75-d6a3-0ebf-65ef1eaead83
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149451(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Contact element 
+# Contact element (ByeEndPointType complexType) (Schema D)
 
 (ByeEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -20,8 +21,8 @@ SIP URI of the user as extracted from the Contact header of the underlying SIP m
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +57,9 @@ SIP URI of the user as extracted from the Contact header of the underlying SIP m
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

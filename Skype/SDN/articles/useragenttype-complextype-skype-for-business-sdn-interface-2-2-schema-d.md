@@ -1,5 +1,6 @@
 ﻿---
 title: UserAgentType complexType 
+description: Discusses the syntax and code for the UserAgentType complexType Skype for Business SDN Interface 2.2, Schema "D".
 TOCTitle: UserAgentType complexType
 ms:assetid: a863d70e-aa89-a82b-7d77-7a2e1df35a92
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171077(v=office.16)
@@ -24,8 +25,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -72,11 +73,11 @@ None.
 
 <table>
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

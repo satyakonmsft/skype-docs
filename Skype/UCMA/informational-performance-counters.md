@@ -1,5 +1,6 @@
 ﻿---
 title: Informational performance counters
+description: Describes information performance counters as they relate to Skype for Business 2015 and provides multiple tables that outline number of audio channels started.
 TOCTitle: Informational performance counters
 ms:assetid: 400065fd-045a-4438-8558-ed02ee6c68e5
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466091(v=office.16)
@@ -19,8 +20,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -51,8 +52,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -83,8 +84,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -115,8 +116,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -147,8 +148,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -179,8 +180,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -211,8 +212,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -243,8 +244,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -275,8 +276,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -307,8 +308,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -339,8 +340,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -371,8 +372,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -403,8 +404,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -435,8 +436,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -467,8 +468,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -499,8 +500,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -531,8 +532,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -563,8 +564,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -595,8 +596,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -627,8 +628,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -659,8 +660,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -691,8 +692,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -723,8 +724,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -755,8 +756,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -787,8 +788,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -819,8 +820,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -851,8 +852,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -883,8 +884,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -915,8 +916,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -947,8 +948,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -979,8 +980,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1011,8 +1012,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1043,8 +1044,7 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1075,8 +1075,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1107,8 +1107,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1139,8 +1139,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1171,8 +1171,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1203,8 +1203,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1235,8 +1235,7 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1267,8 +1266,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1299,8 +1298,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1331,8 +1330,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1363,8 +1362,8 @@ The counters listed in this topic are for informational purposes only. They are 
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">

@@ -1,5 +1,6 @@
 ﻿---
 title: MCU call establishment and handling
+description: Describes how the audio-video MCU does not support multiple points of conference but does does allow endpoints to have more than one identity.
 TOCTitle: MCU call establishment and handling
 ms:assetid: 7a149cda-3032-4cf7-9082-87454d7b6981
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466015(v=office.16)

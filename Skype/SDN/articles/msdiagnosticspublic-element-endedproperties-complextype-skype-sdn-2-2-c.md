@@ -1,5 +1,6 @@
 ﻿---
-title: MSDiagnosticsPublic element (EndedProperties complexType) 
+title: MSDiagnosticsPublic element (EndedProperties complexType) Schema C
+description: Describes the Schema C iteration of the MSDiagnosticsPublic (EndedProperties complexType) element and provides the element's definition and parent elements.
 TOCTitle: MSDiagnosticsPublic element (EndedProperties complexType)
 ms:assetid: 767ed824-92f1-20fd-6931-0915d2eb3f3c
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404801(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# MSDiagnosticsPublic element 
+# MSDiagnosticsPublic element Schema C
 
 (EndedProperties complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -24,10 +25,6 @@ Elements and attributes
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -60,11 +57,6 @@ Elements and attributes
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

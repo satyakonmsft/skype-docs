@@ -1,5 +1,6 @@
 ---
 title: Conference features
+description: Describes and summarizes the most important new or changed conferencing features in Microsoft Unified Communications Managed API 5.0.
 TOCTitle: Conference features
 ms:assetid: 73465dfc-ab21-4659-bb4f-f806079e3309
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465958(v=office.16)

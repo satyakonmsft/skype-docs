@@ -1,5 +1,6 @@
 ﻿---
 title: ErrorEndPointType complexType 
+description: Describes the Schema D iteration of the ErrorEndPointType complexType and provides the type's information, definition, and child elements.
 TOCTitle: ErrorEndPointType complexType
 ms:assetid: 63192471-563a-1baa-1a66-a3b41731abda
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171063(v=office.16)
@@ -23,10 +24,6 @@ Elements and attributes
 ## Type information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Namespace</strong></p></td>
@@ -57,11 +54,6 @@ Elements and attributes
 ### Child elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

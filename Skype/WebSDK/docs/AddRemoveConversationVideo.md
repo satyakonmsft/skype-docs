@@ -1,4 +1,7 @@
-
+---
+title: Add or remove video in a conversation
+description: Describes how to add or remove video in a conversation using the Skype Web SDK and provides a code example.
+---
 # Add or remove video in a conversation
 
 

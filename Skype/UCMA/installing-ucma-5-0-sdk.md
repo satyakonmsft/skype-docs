@@ -1,5 +1,6 @@
 ﻿---
 title: Installing UCMA 5.0 SDK
+description: Describes how to install Microsoft Unified Communications Managed API 5.0 SDK as it relates to Lync 2013, Lync Server 2013, and Skype for Business 2015.
 TOCTitle: Installing UCMA 5.0 SDK
 ms:assetid: 717f597d-2845-4310-af5b-bdd158d55ab7
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465970(v=office.16)

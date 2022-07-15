@@ -1,3 +1,7 @@
+---
+title: Authentication and Authorization 
+description: Describes the Authentication and Authorization GET and response on the service:applications link returned by the discover operation.
+---
 # Authentication and Authorization
 
  The application does a `GET` on the **service:applications** link returned by the [discover](DiscoveryForServiceApplications.md) operation, after appending an application endpoint id to the value in the link.

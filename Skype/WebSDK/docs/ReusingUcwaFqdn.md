@@ -1,3 +1,7 @@
+---
+title: Reusing UCWA FQDN across sign-ins
+description: Describes how to reuse UCWA FQDN across sign-ins and add it to the origins list to make the auto-d faster.
+---
 # Reusing UCWA FQDN across signins
 
 The caller can get the rel=applications FQDN

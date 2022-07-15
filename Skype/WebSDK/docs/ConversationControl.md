@@ -1,4 +1,7 @@
-
+---
+title: Conversation Control
+description: Describes the Conversation Control object, and provides its properties, methods, and code examples. 
+---
 # Conversation Control
 
  _**Applies to:** Skype for Business_

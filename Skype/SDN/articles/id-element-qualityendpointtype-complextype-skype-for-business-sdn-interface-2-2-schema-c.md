@@ -1,16 +1,17 @@
 ﻿---
-title: Id element (QualityEndPointType complexType) 
+title: Id element (QualityEndPointType complexType) (Schema C)
 TOCTitle: Id element (QualityEndPointType complexType)
 ms:assetid: f929f15c-dd0b-e568-f457-6117837fa3b1
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404772(v=office.16)
 ms:contentKeyID: 68250683
+description: Identifier of the endpoint. (QualityEndPointType complexType)
 ms.date: 08/24/2015
 mtps_version: v=office.16
 dev_langs:
 - xml
 ---
 
-# Id element 
+# Id element (QualityEndPointType complexType) Schema C
 
 (QualityEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

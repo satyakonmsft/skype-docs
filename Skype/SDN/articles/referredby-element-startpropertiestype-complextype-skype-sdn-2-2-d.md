@@ -1,5 +1,6 @@
 ﻿---
-title: ReferredBy element (StartPropertiesType complexType) 
+title: ReferredBy element (StartPropertiesType complexType)
+description: Describes the ReferredBy element and provides the element's definition, parent elements, element type, namespace, and schema file. 
 TOCTitle: ReferredBy element
 ms:assetid: fc760704-b9fd-7fb8-df94-ae9699585359
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170965(v=office.16)
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

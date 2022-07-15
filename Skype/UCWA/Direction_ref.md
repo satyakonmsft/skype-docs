@@ -1,4 +1,7 @@
-
+---
+title: Direction reference
+description: Describes the Direction resource, which represents the direction of a call or message, and provides a list of members.
+---
 # Direction
 
 
@@ -10,7 +13,7 @@ Represents the direction of the call, message, etc.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |Incoming|Represents the incoming direction.|
 |Outgoing|Represents the outgoing direction.|

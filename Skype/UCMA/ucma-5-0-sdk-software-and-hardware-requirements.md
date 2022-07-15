@@ -1,5 +1,6 @@
 ﻿---
 title: UCMA 5.0 SDK software and hardware requirements
+description: Describes software and hardware requirements for Microsoft Unified Communications Managed API 5.0 SDK.
 TOCTitle: Software and hardware requirements
 ms:assetid: 521f7820-f6ed-4706-905d-9802674ab029
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465960(v=office.16)
@@ -29,7 +30,7 @@ The following are the software requirements for a successful installation of UCM
   > - UCMA 5.0 SDK is available only in a 64-bit version.
   > - Windows XP and Windows Server 2008 are not supported.
   > - Development is supported only in 64-bit environments.
-  > - The Desktop Experience feature must be enabled on Windows Server 2008 R2 SP1. For more information, see [Desktop Experience Overview](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc772567(v=ws.11)).
+  > - The Desktop Experience feature must be enabled on Windows Server 2008 R2 SP1. For more information, see [Desktop Experience Overview](/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc772567(v=ws.11)).
   > - Media Foundation is required on Windows Server 2012.
 
 - Microsoft Windows PowerShell 3.0 RTM
@@ -53,5 +54,5 @@ The following are the hardware requirements for successful installation of UCMA 
 
 ## See also
 
-- [Microsoft.Rtc.Collaboration Namespace](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration?view=ucma-api-5.0)
-- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](https://docs.microsoft.com/dotnet/api/Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml?view=ucma-voice)
+- [Microsoft.Rtc.Collaboration Namespace](/dotnet/api/microsoft.rtc.collaboration&preserve-view=true)
+- [Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml Namespace](/dotnet/api/Microsoft.Rtc.Collaboration.AudioVideo.VoiceXml&preserve-view=true)

@@ -1,5 +1,6 @@
 ﻿---
 title: Failover concepts (Unified Communications Managed API 5.0)
+description: Describes Failover concepts as they relate to Skype for Business 2015 and provides the call recovery usage topic for additional information.
 TOCTitle: Failover concepts
 ms:assetid: 7c25908d-e278-4204-9590-3fa44ecf4469
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466069(v=office.16)

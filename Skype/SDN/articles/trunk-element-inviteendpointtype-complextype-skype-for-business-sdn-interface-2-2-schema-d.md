@@ -1,5 +1,6 @@
 ﻿---
 title: Trunk element (InviteEndPointType complexType) 
+description: An overview of the Trunk element (InviteEndPointType complexType), Schema D.
 TOCTitle: Trunk element (InviteEndPointType complexType)
 ms:assetid: 28d05249-09b3-fef0-b663-3871eb0ba8ec
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171015(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Trunk element 
+# Trunk element (InviteEndPointType complexType) (Schema D)
 
 (InviteEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,7 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +62,7 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+
 </colgroup>
 <thead>
 <tr class="header">

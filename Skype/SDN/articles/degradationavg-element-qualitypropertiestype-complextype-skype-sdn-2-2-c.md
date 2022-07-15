@@ -1,5 +1,6 @@
 ﻿---
-title: DegradationAvg element (QualityPropertiesType complexType) 
+title: DegradationAvg element (QualityPropertiesType complexType) (Schema C)
+description: Describes the Schema C iteration of the DegradationAvg element (QualityPropertiesType complexType) and provides the element's definition.
 TOCTitle: DegradationAvg element
 ms:assetid: 1f13a842-4d92-4ed3-ba12-53bf4e48438f
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404737(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# DegradationAvg element 
+# DegradationAvg element (QualityPropertiesType complexType) (Schema C)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -20,8 +21,8 @@ Difference between the OverallAvg value and the maximum possible MOS-LQO for the
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +57,9 @@ Difference between the OverallAvg value and the maximum possible MOS-LQO for the
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

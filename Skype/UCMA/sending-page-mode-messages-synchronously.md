@@ -1,5 +1,6 @@
 ﻿---
 title: Sending page-mode messages synchronously
+description: An overview of sending page-mode messages synchronously for Skype for Business 2015.
 TOCTitle: Sending page-mode messages synchronously
 ms:assetid: 3d111eb4-69d6-4061-ae12-3d32baf6b67d
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466061(v=office.16)

@@ -1,5 +1,6 @@
 ﻿---
 title: Wireless element (ByeEndPointType complexType) 
+description: Discusses the attributes of the Wireless element ByeEndPointType complexType Skype for Business SDN Interface 2.2, Schema "D".
 TOCTitle: Wireless element (ByeEndPointType complexType)
 ms:assetid: 64d9d8c9-e0a0-b20f-eb07-816bab463363
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt171038(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# Wireless element 
+# Wireless element (ByeEndPointType complexType)
 
 (ByeEndPointType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

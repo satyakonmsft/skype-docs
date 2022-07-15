@@ -1,5 +1,6 @@
 ﻿---
 title: ConferenceSession state transitions
+description: Discusses an illustration showing the possible state transitions on a ConferenceSession instance.
 TOCTitle: ConferenceSession state transitions
 ms:assetid: 3b9b7ac4-5876-4381-aaee-42f32d3db265
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466014(v=office.16)

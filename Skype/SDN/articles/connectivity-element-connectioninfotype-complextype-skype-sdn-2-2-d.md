@@ -1,5 +1,6 @@
 ﻿---
-title: Connectivity element (ConnectionInfoType complexType) 
+title: Learn about the connectivity element (ConnectionInfoType complexType) schema D
+description: Describes the Schema D iteration of the connectivity element and provides the element's definition and parent elements.
 TOCTitle: Connectivity element
 ms:assetid: 62e7e0ed-a340-b8d9-b42d-4f94f016f513
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt149449(v=office.16)
@@ -19,10 +20,7 @@ dev_langs:
 ## Element information
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
+
 <tbody>
 <tr class="odd">
 <td><p><strong>Element type</strong></p></td>
@@ -55,11 +53,7 @@ dev_langs:
 ### Parent elements
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th><p>Element</p></th>

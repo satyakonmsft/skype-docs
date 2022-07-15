@@ -1,5 +1,6 @@
 ﻿---
 title: Creating a Skype for Business bot
+description: Describes how to create a Skype for Business bot and outlines and how to create a trusted application endpoint for the UC bot.
 TOCTitle: Creating a Skype for Business bot
 ms:assetid: bede739a-ec48-4e6d-b52c-acbf04b245bb
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn454840(v=office.16)
@@ -38,7 +39,7 @@ Some steps of this procedure are described in [Creating a generic bot](creating-
 
 ## Create a trusted application and a trusted application endpoint for the UC bot
 
-In typical production scenarios, your bot will run on an [ApplicationEndpoint](https://docs.microsoft.com/dotnet/api/microsoft.rtc.collaboration.applicationendpoint?view=ucma-api) instance. You will need to create a trusted application and a trusted application endpoint in the Skype for Business environment.
+In typical production scenarios, your bot will run on an [ApplicationEndpoint](/dotnet/api/microsoft.rtc.collaboration.applicationendpoint&preserve-view=true) instance. You will need to create a trusted application and a trusted application endpoint in the Skype for Business environment.
 
 If your Skype for Business Server is not set up for provisioning UCMA 5.0 applications, see [Activating a UCMA 5.0 trusted application](activating-a-ucma-5-0-trusted-application.md).
 

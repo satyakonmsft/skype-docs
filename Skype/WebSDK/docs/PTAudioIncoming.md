@@ -1,4 +1,7 @@
-
+---
+title: Incoming P2P PSTN Call
+description: Describes incoming P2P/PSTN calls and provides code examples for incoming call notifications, conversation states, and ending audio calls.
+---
 # Incoming P2P/PSTN Call
 
  _**Applies to:** Skype for Business 2015_

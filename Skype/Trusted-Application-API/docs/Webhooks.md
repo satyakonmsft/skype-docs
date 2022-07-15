@@ -1,3 +1,7 @@
+---
+title: Skype for Business - Webhooks - Events
+description: Discusses how web hooks are used to get events from the Trusted Application API for the Skype for Business Online system.
+---
 # Webhooks (Events)
 
 In UCWA, a client had a pending GET parked on the server. The pending GET let a client receive any events from the UCWA server.

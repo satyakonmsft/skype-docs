@@ -1,3 +1,8 @@
+---
+title: Joining meetings anonymously in online toplogies
+description: Learn how to join meetings anonymously in online toplogies.
+---
+
 # Joining meetings anonymously in online toplogies
 
 The caller needs to get two things from a UCAP service:

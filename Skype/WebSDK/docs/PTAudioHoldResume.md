@@ -1,3 +1,7 @@
+---
+title: Hold or Resume a P2P Audio Conversation
+description: Describes holding and resuming P2P audio conversations and provides code examples for starting, holding, and resuming audio conversations.
+---
 # Hold/Resume a P2P Audio Conversation
 
 _**Applies to:** Skype for Business 2015_

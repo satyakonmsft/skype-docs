@@ -1,5 +1,6 @@
 ﻿---
-title: MediationServerLegPosition element (ConnectionInfoType complexType) 
+title: MediationServerLegPosition element (ConnectionInfoType complexType) (Schema C)
+description: Describes the Schema C iteration of the MediationServerLegPosition element and provides the element's definition, parent elements, and information.
 TOCTitle: MediationServerLegPosition element
 ms:assetid: 060f8b38-14cc-40df-5beb-b8d32f788d72
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404792(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# MediationServerLegPosition element 
+# MediationServerLegPosition element (Schema C)
 
 (ConnectionInfoType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -25,8 +26,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,9 +62,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

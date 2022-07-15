@@ -1,4 +1,7 @@
-
+---
+title: Skype for Business 2015 Contacts
+description: Describes contacts in the Skype Web SDK and provides a list of the operations that apply to contacts.
+---
 # Contacts
 
 

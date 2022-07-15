@@ -1,5 +1,6 @@
 ﻿---
-title: DeviceRenderNotFunctioningEventRatio element (QualityPropertiesType complexType) 
+title: DeviceRenderNotFunctioningEventRatio element (QualityPropertiesType complexType) Schema C
+description: Describes the Schema C iteration of the DeviceRenderNotFunctioningEventRatio element and provides the element's definition and information.
 TOCTitle: DeviceRenderNotFunctioningEventRatio element
 ms:assetid: a9e03e46-7197-bbe6-ad84-6a5fea1cfce5
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt404748(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# DeviceRenderNotFunctioningEventRatio element 
+# DeviceRenderNotFunctioningEventRatio element Schema C
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "C")
 
@@ -20,8 +21,8 @@ Percentage of sessions the DeviceRenderNotFunctioning event was fired when the r
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -56,9 +57,9 @@ Percentage of sessions the DeviceRenderNotFunctioning event was fired when the r
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">

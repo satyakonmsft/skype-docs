@@ -1,3 +1,7 @@
+---
+title: Skype Web SDK property model
+description: Describes the Skype Web SDK property model and provides its model objects, observable properties, observable collections, and event objects.
+---
 # Skype Web SDK property model
 
 

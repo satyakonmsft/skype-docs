@@ -1,5 +1,6 @@
 ﻿---
 title: Migration and coexistence details (UCMA 2.0 and UCMA 3.0)
+description: An overview of migration and coexistence details (UCMA 2.0 and UCMA 3.0).
 TOCTitle: Migration and coexistence details (UCMA 2.0 and UCMA 3.0)
 ms:assetid: 969fa41d-6941-4327-9fd3-5879153b7977
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466121(v=office.16)
@@ -25,11 +26,6 @@ WMI tools such as ApplicationProvisioner.exe, a tool that shipped with the SDK, 
 - The **Move-CsApplicationEndpoint** cmdlet, which can be used to retarget the contact object to a new application pool or populate the missing attributes of a UCMA 2.0 application contact object, when the contact object must be routed through the Lync Server 2010 Registrar.
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><p>Scenario</p></th>
@@ -151,7 +147,7 @@ The most important thing about this scenario is that the UCMA 2.0 application is
 
 ## Install the UCMA 2.0 application
 
-Install the UCMA 2.0 application just as you would have installed it against . This includes but is not limited to installing UCMARedist(Runtime), SpeechRedist, and OCSCore, creating trusted service entries, and optionally creating Active Directory contact objects. For more information, see [Deploying a UCMA 2.0 Core Application](https://docs.microsoft.com/previous-versions/office/developer/communication-server-2007-R2/dd280155(v=office.13)).
+Install the UCMA 2.0 application just as you would have installed it against . This includes but is not limited to installing UCMARedist(Runtime), SpeechRedist, and OCSCore, creating trusted service entries, and optionally creating Active Directory contact objects. For more information, see [Deploying a UCMA 2.0 Core Application](/previous-versions/office/developer/communication-server-2007-R2/dd280155(v=office.13)).
 
 ## Add AllowedDomains using WBemTest
 

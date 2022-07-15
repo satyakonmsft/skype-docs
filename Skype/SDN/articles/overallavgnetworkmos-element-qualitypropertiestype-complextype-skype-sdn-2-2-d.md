@@ -1,5 +1,6 @@
 ﻿---
-title: OverallAvgNetworkMOS element (QualityPropertiesType complexType) 
+title: OverallAvgNetworkMOS element (QualityPropertiesType complexType) (Schema D)
+description: Describes the Schema D iteration of the OverallAvgNetworkMOS element and provides the element's definition, parent elements, and information.
 TOCTitle: OverallAvgNetworkMOS element
 ms:assetid: 45ba3a59-5205-afc9-f4ea-69fded1c1c30
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt170928(v=office.16)
@@ -10,7 +11,7 @@ dev_langs:
 - xml
 ---
 
-# OverallAvgNetworkMOS element 
+# OverallAvgNetworkMOS element (Schema D)
 
 (QualityPropertiesType complexType) (Skype for Business SDN Interface 2.2, Schema "D")
 
@@ -26,8 +27,8 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -62,9 +63,9 @@ Elements and attributes
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
