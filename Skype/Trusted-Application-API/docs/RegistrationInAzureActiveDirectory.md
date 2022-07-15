@@ -51,4 +51,6 @@ If the permissions for Skype for Business do not show in the Azure Management Po
 ## Additional information
 
 - [Application and service principal objects in Azure Active Directory](https://azure.microsoft.com/documentation/articles/active-directory-application-objects/)
-- [Associate an Office 365 tenant with an Azure subscription](/azure/billing-add-office-365-tenant-to-azure-subscription) 
+
+- [Associate an Office 365 tenant with an Azure subscription](/azure/billing-add-office-365-tenant-to-azure-subscription.md) 
+
