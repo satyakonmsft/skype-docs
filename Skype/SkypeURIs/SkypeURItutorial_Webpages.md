@@ -47,7 +47,7 @@ The Skype.ui JavaScript function enables you to dynamically embed Skype URIs tha
 
 The basic design pattern for adding Skype URIs to your web pages involves:
 
-* Importing the [skype-uri.js](<http://www.skypeassets.com/i/scom/js/>skype-uri.js) file from **http://www.skypeassets.com/i/scom/js/** into your web page.
+* Importing the [skype-uri.js]`http://www.skypeassets.com/i/scom/js/>skype-uri.js` file from `http://www.skypeassets.com/i/scom/js/` into your web page.
 * Using a **div** tag to mark where you want place the Skype URI on your web page.
 * Invoking the generator function, Skype.ui, to create and append an anchor element, based on a JSON representation of the Skype object, and append it to your web page.
 

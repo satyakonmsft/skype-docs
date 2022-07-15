@@ -59,7 +59,7 @@ To show the power of the **Trusted Application API**, it may also be used for th
 
 Learning how to use the **Trusted Application API** is simpler if you are familiar with RESTful programming concepts and real-time communications with Skype for Business.  The following topics give you the information you need to get familiar with these API concepts.
 
-- [The Unified Communications Web API (UCWA)](https://ucwa.skype.com)
-- [Key programming concepts - UCWA](https://ucwa.skype.com/documentation/key-programming-concepts)
+- [The Unified Communications Web API (UCWA)](/skype-sdk/ucwa/unifiedcommunicationswebapi2_0)
+- [Key programming concepts - UCWA](/skype-sdk/ucwa/keyprogrammingconcepts)
 - [UCWA API Reference](https://msdn.microsoft.com/skype/ucwa/ucwa2_0apireference)
 - [The Unified Communications Managed API (UCMA)](https://msdn.microsoft.com/library/office/dn454984.aspx)

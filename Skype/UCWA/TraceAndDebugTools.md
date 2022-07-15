@@ -29,7 +29,7 @@ For information about the debugging capabilities in Internet Explorer, see [F12 
 
 For information of interest to Google Chrome users, see [Chrome Developer Tools](https://developers.google.com/chrome-developer-tools/).
 
-For information about Firebug or for some Firefox options, see [Debugging JavaScript](https://developer.mozilla.org/docs/Debugging_JavaScript) and [Firebug](http://getfirebug.com/).
+For information about Firebug or for some Firefox options, see [Firebug](http://getfirebug.com/).
 
-For information about Safari tools, see [Safari Web Development Tools](https://developer.apple.com/technologies/safari/developer-tools.mdl).
+For information about Safari tools, see [Safari Web Development Tools](https://developer.apple.com/safari/tools/).
 

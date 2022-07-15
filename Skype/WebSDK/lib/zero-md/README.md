@@ -188,8 +188,7 @@ and [`<prism-element>`](https://github.com/PolymerElements/prism-element)
 breaks under native **shadow** DOM behaviour. The irony is not lost on me.
 
 `<zero-md>` implements proper Polymer styling patterns (which works under both
-**shady** and **shadow** DOM) using [*style modules*](https://www.polymer-project.org/1.0/docs/devguide/styling.html#style-modules)
-according to [Google's latest recommendations.](https://blog.polymer-project.org/announcements/2015/08/13/1.1-release/)
+**shady** and **shadow** DOM) using [*style modules*](https://www.polymer-project.org/1.0/docs/devguide/styling.html#style-modules).
 
 **UPDATE 2015-10-23:** So it seems that Google has [fixed](https://github.com/PolymerElements/marked-element/commit/ef6c97fa3d9bf308870d04f1ff3b20c2134f084b)
 the above-mentioned styling issues, which I have left included for posterity.
@@ -275,7 +274,7 @@ you would normally.
 
 [This page](https://zerodevx.github.io/zero-md), actually. Or for a more
 comprehensive example demonstrating the various markdown input methods,
-[try this](https://zerodevx.github.io/zero-md/demo.html).
+[try this](https://zerodevx.github.io/zero-md/v1/demo/).
 
 
 ### Published properties
