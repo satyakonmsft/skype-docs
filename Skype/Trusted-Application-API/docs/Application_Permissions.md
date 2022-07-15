@@ -6,7 +6,7 @@ description: Describes the Application permissions or roles that can be granted 
 
 This article is a reference of permissions or roles that can be granted to an application to access specific set of capabilities.
 
-Application Permissions or Roles limit the access of your application to Skype for Business Online to a specific set of capabilities.  To configure your app for Skype for Business Online, you first need to specify which permissions your app requires. You specify these permissions in [Azure Active Directory registration](./RegistrationInAzureActiveDirectory.md) for your app using the [Azure management portal](https://manage.windowsazure.com) for **Microsoft Azure Active Directory** (Azure AD). Select the application permissions type, as these are directly assigned to the application.
+Application Permissions or Roles limit the access of your application to Skype for Business Online to a specific set of capabilities.  To configure your app for Skype for Business Online, you first need to specify which permissions your app requires. You specify these permissions in [Azure Active Directory registration](./RegistrationInAzureActiveDirectory.md) for your app using the [Azure management portal](https://portal.azure.com) for **Microsoft Azure Active Directory** (Azure AD). Select the application permissions type, as these are directly assigned to the application.
 
  
 The following application permissions are available to Skype for Business Online service applications:

@@ -38,7 +38,7 @@ compile 'com.skype.android.skype-android-sdk:MobileSdk:1.0.0.0'
 
 ### Call the API
 
-Details of the API and how to call it are described in the [API documentation](https://skypeonramps.github.io/SkypeAndroidMobileSDK/javadoc/index.mdl). The embeddable button will initiate a Skype call to a specific Skype user. To create the button, you need to know the Skype user's **Skype Name**. In most cases this will be one that you already manage. If you don't know your **Skype Name**, this [guide](https://support.skype.com/en/faq/FA10858/what-s-my-skype-name) will help you find it.
+The embeddable button will initiate a Skype call to a specific Skype user. To create the button, you need to know the Skype user's **Skype Name**. In most cases this will be one that you already manage. If you don't know your **Skype Name**, this [guide](https://support.skype.com/en/faq/FA10858/what-s-my-skype-name) will help you find it.
 
 If you want to initiate a call or chat with a bot built with the Microsoft Bot Framework rather than a human **Skype** user. To do this, get the Microsoft _App ID_ for your bot from your bot page. Once you have this, prefix the Microsoft App ID with '28:'. Pass the modified App ID to the API as the _accountId_. The _accountId_ will be of the format: '28: b4914413-f8dd-4cb3-b2db-9b715ecfe26e'
 

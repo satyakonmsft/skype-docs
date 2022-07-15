@@ -73,11 +73,11 @@ For illustration purposes, the **Trusted Application API** may also be used for 
  
 Prior knowledge and understanding of the following APIs from the Skype Developer Platform greatly simplifies understanding of the **Trusted Application API**.
  
-- [The Unified Communications Web API (UCWA)](https://ucwa.skype.com)
+- [The Unified Communications Web API (UCWA)](/skype-sdk/ucwa/unifiedcommunicationswebapi2_0)
  
   The **Trusted Application API** and Unified Communications Web API (UCWA) are a part of a single code base and RESTful programming model.  Although separate namespaces, the APIs together form the Skype for Business Platform Service layer, providing user endpoint and application endpoint functionality to Skype for Business Online.  Concepts from UCWA that also apply to the **Trusted Application API**:
  
-  HTTP, Hypermedia, Resources, Payload Format, Query Parameters, Operation Resource, Caching, Batch, and Errors. - [Key programming concepts](https://ucwa.skype.com/documentation/key-programming-concepts)
+  HTTP, Hypermedia, Resources, Payload Format, Query Parameters, Operation Resource, Caching, Batch, and Errors. - [Key programming concepts](/skype-sdk/ucwa/keyprogrammingconcepts)
  
   The general principles, capabilities, API style, API concepts in the **Trusted Application API** are modelled to follow those in the UCWA.  Please see this link for detailed UCWA info - [UCWA API reference](https://msdn.microsoft.com/skype/ucwa/ucwa2_0apireference)
  

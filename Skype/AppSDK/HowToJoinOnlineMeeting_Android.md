@@ -20,11 +20,11 @@ The service application you create will give your mobile app access to the neede
 the discovery Url and token. The rest of this article describes how to enable your Android app to call into such a service application. You can read more about the [Trusted Application API](../Trusted-Application-API/docs/Trusted_Application_API_GeneralReference.md) to learn
 about all of the features of this Skype for Business service application api.
 
-We've published two service application [examples](https://github.com/OfficeDev/skype-docs/tree/johnau/ucapdocs/Skype/Trusted-Application-API/samples) in GitHub to get you started.
+We've published two service application [examples](https://github.com/OfficeDev/skype-docs/tree/main/Skype/Trusted-Application-API/samples) in GitHub to get you started.
 
 ## Add anonymous online meeting code to your mobile app
 
-Please read [Implementing a Anonymous Client with the Skype App SDK - Android](https://github.com/OfficeDev/skype-docs/blob/johnau/ucapdocs/Skype/Trusted-Application-API/docs/ImplementingAnonymousClientWithSkypeAppSDK.md) for the sample code.
+Please read [Implementing a Anonymous Client with the Skype App SDK - Android](/skype-sdk/trusted-application-api/docs/implementinganonymousclientwithskypeappsdk) for the sample code.
 The sample code is taken from our GitHub [Healthcare app sample](https://github.com/OfficeDev/skype-android-app-sdk-samples/tree/master/HealthcareApp). The example code steps include:
 
 - Call into a service application sample to get a join Url for a new ad-hoc meeting that is created by the service application

@@ -20,7 +20,7 @@ In a pool configuration, Skype for Business SDN Interface needs a data store to 
 
 > [!NOTE]
 > Redis must be set up and running when SDN Manager is installed in Redis mode to prevent errors during service startup. The setup will not verify this. 
-> It is recommended setting up the connection to the Redis datastore using a TLS connection as well as using a Redis password for encrypting the database. This Redis Password and other connection parameters can be specified during the setup and in the SDNManager.exe.config file. Further info can be found at [Configuration](https://github.com/StackExchange/StackExchange.Redis/blob/master/Docs/Configuration.md). 
+> It is recommended setting up the connection to the Redis datastore using a TLS connection as well as using a Redis password for encrypting the database. This Redis Password and other connection parameters can be specified during the setup and in the SDNManager.exe.config file. Further info can be found at [Configuration](https://github.com/StackExchange/StackExchange.Redis/blob/main/docs/Configuration.md). 
 >  In enterprise deployments, we recommend using the Azure Redis Service or a dedicated cluster of a primary and a secondary Redis server using Redis Sentinels for managing fail-over behavior. Alternatively, depending on the load pattern, Redis may also be co-located on SDN Manager servers.
 
 ## See also
