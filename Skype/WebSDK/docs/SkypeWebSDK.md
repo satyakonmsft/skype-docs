@@ -28,7 +28,7 @@ The table below maps SfB Web SDK sub-systems to Graph and ACS capabilities.
 | [Presence](./presence.md) | Use presence information to help users decide whether and how they should person other users. | [Graph Presence APIs](/graph/api/resources/presence)  |
 | [Local user](./localuser.md) | Use the **mePerson** object to represent the currently signed-in user. | [Graph User APIs](/graph/api/user-get)  |
 | [Conversations](./conversations.md) | Use conversation services to determine the ways for communication between persons. | [ACS Calling SDK for voice/video](/azure/communication-services/concepts/sdk-options) and [Graph for chat](/graph/api/resources/chat) |
-| [Listening for and generating presence events](./presenceevents) | Use events to get a person's current presence. | [Graph Presence APIs](/graph/api/resources/presence.md)  |
+| [Listening for and generating presence events](./presenceevents.md) | Use events to get a person's current presence. | [Graph Presence APIs](/graph/api/resources/presence.md)  |
 | [Persons](./persons.md) | Use person objects to represent individual users. | [Graph User APIs](/graph/api/user-get)  |
 | [Devices](./devices.md) | Select Cameras, Microphones, and Speakers to use for audio and video conversations. | [ACS Calling SDK](/azure/communication-services/how-tos/calling-sdk/manage-video#device-management.md)  |
 
