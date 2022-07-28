@@ -28,28 +28,28 @@ Please carefully read the license terms that are included in the SDK download.  
 
 [Skype for Business (SfB) Online retired in July 2021](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/skype-for-business-online-to-be-retired-in-2021/ba-p/777833). The Skype for Business App SDK will continue to function for on-premise Skype for Business Server 2019 deployments, but the retirement of SfB Online  reduced the market of addressable communication deployments for the SfB App SDK, and many SfB organizations are migrating to Teams. Teams Meetings cannot be joined by the SfB Mobile SDK.
 
-Azure Communication Services is a cloud-based communications service that lets you add voice, video, chat, and telephony to your apps. ACS applications have the ability to join Teams meetings (as a guest), and we encourage implementers of the SfB App SDK to transition to Azure Communication Services. The ability to [join Teams meetings using ACS](/azure/communication-services/concepts/join-teams-meeting.md) is now generally available.
+Azure Communication Services is a cloud-based communications service that lets you add voice, video, chat, and telephony to your apps. ACS applications have the ability to join Teams meetings (as a guest), and we encourage implementers of the SfB App SDK to transition to Azure Communication Services. The ability to [join Teams meetings as a guest using ACS](/azure/communication-services/concepts/join-teams-meeting) is now available.
 
 ### Azure SDKs that join Teams meetings
 
 Azure Communication Services has multiple SDKs that can join Teams meetings listed below.
 
-|SDK| Implementation Complexity| Customization Ability| Calling| Chat| [Join Teams Meetings](/azure/communication-services/concepts/voice-video-calling/teams-interop)
-|---|---|---|---|---|---|
-|[Core SDKs](/azure/communication-services/concepts/sdk-options.md)|High|High|✔|✔ |✔|
-|[Base Components](/azure/communication-services/concepts/ui-framework/ui-sdk-overview.md)|Medium|Medium|✔|✔|✔|
-|[Open-Source Composite](/azure/communication-services/concepts/ui-framework/ui-sdk-overview.md)|Low|Low|✔|✔|✔|
+|SDK| Implementation Complexity| Customization Ability| Calling| Chat|
+|---|---|---|---|---|
+|[Core SDKs](/azure/communication-services/concepts/sdk-options)|High|High|✔|✔ |
+|[Base Components](/azure/communication-services/concepts/ui-framework/ui-sdk-overview)|Medium|Medium|✔|✔|
+|[Open-Source Composite](/azure/communication-services/concepts/ui-framework/ui-sdk-overview)|Low|Low|✔|✔|
 
 More specific guidance for transitioning a SfB Mobile SDK implementation to ACS Meetings:
 
 1. Explore key ACS concepts:
 
-- [Overview](/azure/communication-services/overview.md)
-- [Identity](/azure/communication-services/concepts/identity-model.md)
-- [Client/server architecture](/azure/communication-services/concepts/client-and-server-architecture.md)
-- [Authentication](/azure/communication-services/concepts/authentication?tabs=csharp).md
-- [UI Library](https://azure.github.io/communication-ui-library/.md)
+- [Overview](/azure/communication-services/overview)
+- [Identity](/azure/communication-services/concepts/identity-model)
+- [Client/server architecture](/azure/communication-services/concepts/client-and-server-architecture)
+- [Authentication](/azure/communication-services/concepts/authentication?tabs=csharp)
+- [UI Library](/azure/communication-services/concepts/ui-library/ui-library-overview)
 
-2. Create an Azure Communication Services resource in the Azure portal[[quickstart](/azure/communication-services/quickstarts/create-communication-resource?tabs=windows&pivots=platform-azp.md)]
-3. Allocate user access tokens [[quickstart](/azure/communication-services/quickstarts/access-tokens?pivots=programming-language-csharp.md)]
-4. Use the Calling SDK to implement your app. [Samples](/azure/communication-services/samples/calling-hero-sample?pivots=platform-ios.md) are available to help get started.
+2. [Create an Azure Communication Services resource](/azure/communication-services/quickstarts/create-communication-resource) in the Azure portal
+3. [Allocate user access tokens](/azure/communication-services/quickstarts/access-tokens)
+4. Use the Calling SDK to implement chat and calling communication in your app. [Samples](/azure/communication-services/samples/calling-hero-sample) are available to help get started.
