@@ -7,7 +7,7 @@ ms.date: 05/11/2021
 
 Thank you for your interest in **Skype for Business Bot Framework** documentation!
 
-This documentation is hosted on the [Skype Developer platform documentation on Microsoft Docs](./docs/overview.md). Please read it there.
+This documentation is published at [Skype Developer platform documentation](./docs/overview.md). Please read it there.
 
 If you're interested in contributing to this documentation, then please read on.
 
