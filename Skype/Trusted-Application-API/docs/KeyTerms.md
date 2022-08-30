@@ -39,11 +39,11 @@ The **Trusted Application API** allows developers to build Service Applications 
 ##  Skype Web SDK
  
 Built on top of the User API, the Skype Developer Platform for Web ("Skype Web SDK") is a set of JavaScript Web APIs and HTML controls that enable you to build web experiences that seamlessly integrate a wide variety of real-time collaboration models leveraging Skype for Business services. Please follow [Skype Web SDK](https://msdn.microsoft.com/skype/websdk/skypewebsdk) for more details.
-   
+
 ##  Azure Active Directory (Azure AD)
- 
-Azure Active Directory is a comprehensive identity and access management cloud solution that provides a robust set of capabilities to manage users, groups, and applications. It helps secure access to on-premises and cloud applications, including Microsoft online services like Office 365 and many non-Microsoft Service Applications.  Skype for Business Online uses Azure AD (AAD) for 3rd party application registration, management, authentication, and authorization. Learn more at [Azure Active Directory documentation](https://azure.microsoft.com/documentation/services/active-directory/).
- 
+
+Azure Active Directory is a comprehensive identity and access management cloud solution that provides a robust set of capabilities to manage users, groups, and applications. It helps secure access to on-premises and cloud applications, including Microsoft online services like Office 365 and many non-Microsoft Service Applications.  Skype for Business Online uses Azure AD (AAD) for 3rd party application registration, management, authentication, and authorization. Learn more at [Azure Active Directory documentation](/azure/active-directory/).
+
 ##  Service Application (SA)
  
 Also referred to as a Trusted Application or SaaS Application, this is a third-party cloud application developed using the **Trusted Application API**.  It is recommended to host and manage Service Applications in Microsoft Azure for the best development experience with Skype for Business Online.
