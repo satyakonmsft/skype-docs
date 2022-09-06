@@ -10,7 +10,7 @@ The Trusted Application API is a REST API that enables developers to build Skype
 The Trusted Application sample deploys to an Azure Cloud Service and:
 
 - Permits anonymous sign-in
-- Creation of an adhoc meeting URL
+- Creates an adhoc meeting URL
 
 The sample Web SDK application interacts with the Trusted Application sample and contains two demos:
 
