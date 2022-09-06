@@ -49,7 +49,7 @@ If you plan on pointing a custom domain or subdomain to your `*.cloudapp.net` se
 ### Trusted Application Agent
 
 1. Clone code from the samples repo.
-2. Build the solution (NuGet packages will be restored)
+2. Build the solution (NuGet packages will be restored).
 3. Edit the `ServiceConfiguration.Prod.cscfg` file, substituting `[parameters]` as follows:
 
     ```xml
