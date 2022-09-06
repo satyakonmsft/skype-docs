@@ -5,7 +5,7 @@ description: The Trusted Application API is a Rest API that enables developers t
 
 # About these samples
 
-The Trusted Application API is a Rest API that enables developers to build Skype for Business Online back-end communications services for the cloud.  The Trusted Application API Samples contain samples for the backend Trusted Application and samples for how to interact with the trusted application from a client-side browser using the Skype Web SDK.
+The Trusted Application API is a REST API that enables developers to build Skype for Business Online back-end communications services for the cloud.  The Trusted Application API Samples contain samples for the backend Trusted Application and samples for how to interact with the trusted application from a client-side browser using the Skype Web SDK.
 
 The Trusted Application sample deploys to an Azure Cloud Service and:
 
