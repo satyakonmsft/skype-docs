@@ -42,7 +42,7 @@ The sample Web SDK application interacts with the Trusted Application sample and
 
 ## Deployment
 
-Once you have satisfied the prerequisites, it is time to configure the Trusted Application source code and deploy it to the Azure Cloud Service created in step 2.
+Once you've satisfied the prerequisites, it's time to configure the Trusted Application source code and deploy it to the Azure Cloud Service created in Step 2.
 
 If you plan on pointing a custom domain or subdomain to your `*.cloudapp.net` server, use that FQDN as your base URL. Otherwise, use `resourcename.cloudapp.net` as your base URL, as created in step 2.
 
