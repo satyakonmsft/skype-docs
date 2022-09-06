@@ -55,7 +55,7 @@ If you plan on pointing a custom domain or subdomain to your `*.cloudapp.net` se
     ```xml
     <ConfigurationSettings>
       <!-- Replace base.url with your app's url; as registered on Azure -->
-      <!--This is optional. only needed if you want to leverage the AzureDiagnosticLogger which log all traces in azure diagnostic storage table
+      <!--Optional. Only needed if you want to leverage the AzureDiagnosticLogger which log all traces in azure diagnostic storage table.
       if you have other storage to store your trace, this is not needed. -->
       <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString"
                value="[Application Client ID from Prerequisite Step 7]" />
