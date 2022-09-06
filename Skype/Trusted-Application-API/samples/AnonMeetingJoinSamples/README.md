@@ -16,7 +16,7 @@ The sample Web SDK application interacts with the Trusted Application sample and
 
 - Get an anon application token from the Trusted Application
 - Get an adhoc meeting URL from the Trusted Application
-- Using the anon application token to join Anonymously into a Skype for Business Online meeting
+- Use the anon application token to join Anonymously into a Skype for Business Online meeting
 - Enabling audio/video in an anonymously-joined Skype for Business Online meeting
 
 
