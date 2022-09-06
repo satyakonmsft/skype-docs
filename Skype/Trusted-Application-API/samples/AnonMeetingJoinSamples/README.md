@@ -86,7 +86,7 @@ When visiting your base URL (e.g. `https://name.cloudapp.net`), the expected res
 
 ### Client webpage
 
-You will need to modify the `WebsiteSamples\scripts\index.js` file and replace `https://[name].cloudapp.net` with your trusted agent's base URL. You will need to modify the `WebsiteSamples\Samples\scripts\sign-in.js' file and replace InviteTargetUri 'toshm@metio.onmicrsoft.com' with your valid user in your own tenant.
+You'll need to modify the `WebsiteSamples\scripts\index.js` file and replace `https://[name].cloudapp.net` with your trusted agent's base URL. You'll also need to modify the `WebsiteSamples\Samples\scripts\sign-in.js' file and replace InviteTargetUri 'toshm@metio.onmicrsoft.com' with your valid user in your own tenant.
 
 ## Questions & troubleshooting
 
