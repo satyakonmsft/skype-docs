@@ -22,7 +22,7 @@ The sample Web SDK application interacts with the Trusted Application sample and
 
 ## Prerequisites
 
-1. Download [Azure SDK v2.9](https://go.microsoft.com/fwlink/?LinkId=746481) or above.
+1. Download [Azure SDK v2.9](https://go.microsoft.com/fwlink/?LinkId=746481).
 
 2. Create a Cloud Service from Azure and give it a name to reserve a `*.cloudapp.net` URL. Refer to [Azure Cloud Services documentation](/azure/cloud-services/) for details.
 
