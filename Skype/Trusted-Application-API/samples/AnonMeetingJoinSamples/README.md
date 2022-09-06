@@ -26,7 +26,7 @@ The sample Web SDK application interacts with the Trusted Application sample and
 
 2. Create a Cloud Service from Azure and give it a name to reserve a `*.cloudapp.net` URL. For more details, see [Azure Cloud Services documentation](/azure/cloud-services/).
 
-   > The Trusted Application API requires the use of SSL and https for your cloud service.  You will need to create a DNS CName that points to your `*.cloudapp.net` cloud service to give it a custom domain. Refer to [Configuring a custom domain name for an Azure cloud service](/azure/cloud-services/cloud-services-custom-domain-name-portal) for details.
+   The Trusted Application API requires the use of SSL and https for your cloud service.  You'll need to create a DNS CName that points to your `*.cloudapp.net` cloud service to give it a custom domain. For details, see [Configuring a custom domain name for an Azure cloud service](/azure/cloud-services/cloud-services-custom-domain-name-portal).
 
 3. Use the [quick registration tool](https://aka.ms/skypeappregistration) for registering Skype for Business Trusted Applications in Azure and Skype for Business Online, that eliminates the need to register an Application manually in Azure portal. Optionally, you can manually register your application in Azure Portal, where you will get a Client ID and set an App ID URI. Refer to [Registration in Azure Active Directory](https://github.com/OfficeDev/skype-docs/tree/master/Skype/Trusted-Application-API/docs/RegistrationInAzureActiveDirectory.md) for details.
 
