@@ -36,7 +36,7 @@ The sample Web SDK application interacts with the Trusted Application sample and
 
 6. Deploy the the client (anonymous webpage) code contained in the `WebsiteSamples` folder to a web server (e.g. IIS on localhost, or Azure App Service to deploy to `*.azurewebsites.net`).
 
-7. Create Azure storage used to save event messages from Platform Service, where you will get an account name and account key. Refer to [this link](https://azure.microsoft.com/documentation/articles/storage-create-storage-account/) for details.
+7. Create Azure storage used to save event messages from Platform Service, where you will get an account name and account key. For details, see [Create a storage account](/azure/storage/common/storage-account-create).
 
 8. Create Azure service bus for the process of saving the event messages to storage, from where you will get connection string. Refer to [this link](https://azure.microsoft.com/documentation/articles/service-bus-dotnet-get-started-with-queues/) for details.
 
