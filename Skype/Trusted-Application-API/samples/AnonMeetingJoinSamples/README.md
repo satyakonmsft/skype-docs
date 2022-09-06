@@ -38,7 +38,7 @@ The sample Web SDK application interacts with the Trusted Application sample and
 
 7. Create Azure storage used to save event messages from Platform Service, where you will get an account name and account key. For details, see [Create a storage account](/azure/storage/common/storage-account-create).
 
-8. Create Azure service bus for the process of saving the event messages to storage, from where you will get connection string. Refer to [this link](https://azure.microsoft.com/documentation/articles/service-bus-dotnet-get-started-with-queues/) for details.
+8. Create Azure Service Bus for the process of saving the event messages to storage, and getting the connection string. For details, see [Get started with Azure Service Bus queues (.NET)](/azure/service-bus-messaging/service-bus-dotnet-get-started-with-queues).
 
 ## Deployment
 
