@@ -32,7 +32,7 @@ The sample Web SDK application interacts with the Trusted Application sample and
 
 4. Register Trusted Endpoints in a Skype for Business Online tenant using PowerShell. Refer to [Setting up a Trusted Application Endpoint](https://github.com/OfficeDev/skype-docs/tree/master/Skype/Trusted-Application-API/docs/TrustedApplicationEndpoint.md) for details.
 
-5. Provide consent: When the application is registered in AAD, it is registered in the context of a tenant.  For a tenant to use the Service Application, for example, when the application is developed as a multi-tenant application, it must be consented to by that tenant's admin. Refer to [Tenant Admin Consent](https://github.com/OfficeDev/skype-docs/tree/master/Skype/Trusted-Application-API/docs/TenantAdminConsent.md) for more details.
+5. When the application is registered in AAD, it's registered in the context of a tenant. For a tenant to use the Service Application, for example, when the application is developed as a multi-tenant application, that tenant's admin must provide consent. For details, see [Tenant admin consent](https://github.com/OfficeDev/skype-docs/tree/master/Skype/Trusted-Application-API/docs/TenantAdminConsent.md).
 
 6. Deploy the the client (anonymous webpage) code contained in the `WebsiteSamples` folder to a web server (e.g. IIS on localhost, or Azure App Service to deploy to `*.azurewebsites.net`).
 
