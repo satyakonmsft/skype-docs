@@ -1,6 +1,6 @@
 ﻿---
-title: Adding a modality to an existing conversation
-description: Adding a modality to an existing conversation is similar to adding audio-video to an instant messaging (IM) call. 
+title: Add a modality to an existing conversation
+description: Add a modality to an existing conversation is similar to adding audio-video to an instant messaging (IM) call. 
 TOCTitle: Adding a modality to an existing conversation
 ms:assetid: 3e3ba497-c663-461e-9a57-a9ad5cc0521c
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn465986(v=office.16)
@@ -9,8 +9,7 @@ ms.date: 07/27/2015
 mtps_version: v=office.16
 ---
 
-# Adding a modality to an existing conversation
-
+# Add a modality to an existing conversation
 
 **Applies to**: Skype for Business 2015
 
@@ -19,4 +18,3 @@ Adding an audio-video call is similar to adding an instant messaging (IM) call. 
 ## Conversation remote participants
 
 If the conversation is in two-party mode, the remote participant information represents the identity of the remote side. In two-party mode, there is only one remote participant. If the conversation is in conference mode, the remote participant information represents the identities of all of the conference participants. This does not include participants who are in the conference lobby.
-

@@ -1,5 +1,5 @@
 ﻿---
-title: Adding an instant messaging or audio/video call
+title: Addg an instant messaging or audio/video call
 description: Discusses the actions that must be taken to add an instant messaging or audio/video call to Skype for Business 2015.
 TOCTitle: Adding an instant messaging or audio/video call
 ms:assetid: d6107a1b-5f2a-40c5-8bbe-df2214acd04d
@@ -11,15 +11,14 @@ dev_langs:
 - csharp
 ---
 
-# Adding an instant messaging or audio/video call
-
+# Add an instant messaging or audio/video call
 
 **Applies to**: Skype for Business 2015
 
 The steps required for adding an instant message call or audio-video call are similar, but the Skype for Business Server 2015 and components that are involved are different. This topic describes the actions that must be taken for each type of call, and describes the differences at the component level of each call type.
 
 
-### Adding an instant messaging call
+## Add an instant messaging call
 
 After a conversation is created, you can add instant messaging (IM) to the conversation by using [InstantMessagingCall(Conversation)](https://msdn.microsoft.com/library/hh348307\(v=office.16\)) to create an IM call, passing the conversation in the constructor.
 
@@ -33,7 +32,7 @@ The following code demonstrates how to add an IM call to a conversation.
 InstantMessagingCall imCall = new InstantMessagingCall(conversation);
 ```
 
-### Adding an audio/video call
+## Add an audio/video call
 
 After a conversation is created, you can add audio to the conversation by creating an audio/video call.
 
@@ -44,4 +43,3 @@ The following code demonstrates how to add audio to a conversation.
 ```csharp
 AudioVideoCall avCall = new AudioVideoCall(conversation);
 ```
-
