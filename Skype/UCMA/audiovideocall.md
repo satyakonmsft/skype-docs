@@ -11,7 +11,6 @@ mtps_version: v=office.16
 
 # AudioVideoCall
 
-
 **Applies to**: Skype for Business 2015
 
 An [AudioVideoCall](/dotnet/api/microsoft.rtc.collaboration.audiovideo.audiovideocall) object represents an SDP-based audio/video session between a local participant and a remote participant. An **AudioVideoCall** object cannot exist on its own and must be associated with a [Conversation](https://msdn.microsoft.com/library/hh349224\(v=office.16\)) object.

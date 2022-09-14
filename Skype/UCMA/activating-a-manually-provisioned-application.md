@@ -1,5 +1,5 @@
 ---
-title: Activating a manually-provisioned application
+title: Activate a manually-provisioned application
 description: Discusses activating a manually-provisioned application using Skype for Business Server 2015 topology and Active Directory.
 TOCTitle: Activating a manually-provisioned application
 ms:assetid: 26903c64-1b34-4473-9d9e-67070655890c
@@ -9,7 +9,7 @@ ms.date: 07/27/2015
 mtps_version: v=office.16
 ---
 
-# Activating a manually-provisioned application
+# Activate a manually-provisioned application
 
 **Applies to**: Skype for Business 2015
 
@@ -20,14 +20,14 @@ The following procedure shows the steps required to manually provision an applic
 ## Provision an application using manual provisioning
 
 1. Launch Skype for Business Server Management Shell.
-    
+
 2. On the **Start** menu, select **All Programs**, **Skype for Business Server 2015**, and then click **Skype for Business Server Management Shell**.
 
 3. In Skype for Business Server Management Shell, run the following PowerShell cmdlet. It is assumed that you have already run the **New-CsTrustedApplication** cmdlet.
 
-   ```powershell    
+   ```powershell
       $a = Get-CsTrustedApplication -identity "client.contoso.com/urn:application:ucmasampleapplication"
-   ``` 
+   ```
 
    > [!NOTE]
    > Use the identity of your application.
@@ -40,16 +40,13 @@ The following procedure shows the steps required to manually provision an applic
 
    The output from the preceding cmdlet should be similar to the following.
 
-   ```powershell 
+   ```powershell
         Fqdn                 Gruu 
         ----                 -----
         client.contoso.com   sip:client.contoso.com@contoso.com; gruu Opaque=srvr:ucmasampleapplication:yDUhQWqi81WfJXFUvMAwtwAA
    ```
 
 5. Copy the GRUU string for the computer FQDN, taking care to remove any line breaks. You will need to provide this value and additional information when the [ServerPlatformSettings](https://msdn.microsoft.com/library/hh382156\(v=office.16\)) instance is constructed.
-    
+
    > [!NOTE]
    > A service GRUU can be used in a single-computer pool (a pool in which the computer FQDN is the same as the pool FQDN). However, if additional computers are added to that pool, the use of the service GRUU should be discontinued and the computer GRUU used instead.
-
-
-
