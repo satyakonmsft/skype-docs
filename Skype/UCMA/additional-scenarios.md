@@ -36,4 +36,3 @@ In addition to the other scenarios listed in this section, you can use Microsoft
 - Create a Web client or emulate similar Microsoft Skype for Business 2015 functionalities for Web conferencing, Presence, and contacts and group management.
 
 - Create a Web service, such as a Web conference scheduling service or third-party call controller application.
-

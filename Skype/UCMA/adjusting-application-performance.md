@@ -1,5 +1,5 @@
 ﻿---
-title: Adjusting application performance
+title: Adjust application performance
 description: Discusses adjusting application performance using the UseHighPerformance property which lets you choose between server performance or audio quality.
 TOCTitle: Adjusting application performance
 ms:assetid: cad3fdf3-04b0-4db0-9ef9-bf5e7929e87f
@@ -11,8 +11,7 @@ dev_langs:
 - csharp
 ---
 
-# Adjusting application performance
-
+# Adjust application performance
 
 **Applies to**: Skype for Business 2015
 
@@ -39,4 +38,3 @@ private void UserAvCall_AudioVideoFlowConfigurationRequested(object sender, Audi
   call.Flow.Initialize(template);
 }
 ```
-
