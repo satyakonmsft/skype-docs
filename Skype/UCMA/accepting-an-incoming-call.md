@@ -1,5 +1,5 @@
 ﻿---
-title: Accepting an incoming call
+title: Accept an incoming call
 description: Describes the code, syntax and process for accepting an incoming call on Skype for Business 2015.
 TOCTitle: Accepting an incoming call
 ms:assetid: 22ccda70-841f-47c7-a6ed-c871dd9e71e0
@@ -11,8 +11,7 @@ dev_langs:
 - csharp
 ---
 
-# Accepting an incoming call
-
+# Accept an incoming call
 
 **Applies to**: Skype for Business 2015
 
@@ -48,4 +47,3 @@ private void CallStateChanged(object o, CallStateChangedEventArgs eArg)
 ```
 
 An incoming invitation with any MIME part that specifies "handling=required" for a content type will be rejected if the application does not specify the associated content type as a type that is supported by the endpoint. If the parts are in a mime/alternate section, then the application must support at least one of the parts.
-

@@ -1,6 +1,6 @@
 ---
-title: Activating a UCMA 5.0 trusted application
-description: Activating a UCMA trusted application is based on Microsoft Unified Communications Managed API 5.0 that is trusted by Skype for Business Server 2015.  
+title: Activate a UCMA 5.0 trusted application
+description: Activatea UCMA trusted application is based on Microsoft Unified Communications Managed API 5.0 that is trusted by Skype for Business Server 2015.  
 TOCTitle: Activating a UCMA 5.0 trusted application
 ms:assetid: f75a02e0-6bc2-4e18-81fd-17907b06fb7d
 ms:mtpsurl: https://msdn.microsoft.com/library/Dn466114(v=office.16)
@@ -9,7 +9,7 @@ ms.date: 07/27/2015
 mtps_version: v=office.16
 ---
 
-# Activating a UCMA 5.0 trusted application
+# Activate a UCMA 5.0 trusted application
 
 **Applies to**: Skype for Business 2015
 
@@ -27,21 +27,19 @@ Activating an application is the process by which UCMA 5.0 applications are conf
 
 Activation is needed not only for deploying a ready-to-ship application, but also must be performed in order to test an application during the application development phase.
 
-
 > [!NOTE]
 > It is recommended that the computer running the trusted application be joined to the domain in which Skype for Business Server 2015 is running. However, if there is no intent to run Skype for Business Server 2015 PowerShell cmdlets from the application server or to make use of UCMA auto-provisioning capabilities, then the application can be run on a computer that is not joined to the domain.
-
 
 ## Prerequisites for activation
 
 - UCMA 5.0 SDK or UCMA 5.0 Runtime has been installed with Skype for Business Server 2015, Core Components.
-    
+
   Skype for Business Server 2015 Core Components provide access to PowerShell cmdlets needed for activating the application, and include the binaries that are needed to enable a local replica, or copy, of the Central Management Store.
 
 - A valid server topology with Skype for Business Server 2015 and an Active Directory domain controller exist for the application to run against.
 
 - Appropriate permissions and memberships are set.
-    
+
   An application that runs as a trusted application must be a member of the appropriate groups. These groups are created during Skype for Business Server 2015 setup so that group members can carry out their intended tasks. The following table provides more information.
 
 <table>
@@ -71,7 +69,6 @@ Activation is needed not only for deploying a ready-to-ship application, but als
 </tr>
 </tbody>
 </table>
-
 
 > [!NOTE]
 > After Skype for Business Server 2015 has been installed, administrators must manually create users with the previously listed permissions to act in the Trusted Application Administrator and Trusted Application Service Account roles.
@@ -144,7 +141,6 @@ The following table summarizes the tasks that can be performed by the three diff
 </tbody>
 </table>
 
-
 The remaining topics in this section discuss how activation, provisioning, and deployment are different in UCMA 5.0, and list the activation steps that are required for all trusted applications, as well as the activation steps required by either auto-provisioned or manually-provisioned applications:
 
 - [General application activation](general-application-activation.md). Activation steps needed by all trusted applications.
@@ -156,5 +152,3 @@ The remaining topics in this section discuss how activation, provisioning, and d
 - [Activating applications programmatically](activating-applications-programmatically.md). Steps required to run Skype for Business Server 2015 PowerShell cmdlets programmatically.
 
 - [Deactivation best practices](deactivation-best-practices.md)
-
-

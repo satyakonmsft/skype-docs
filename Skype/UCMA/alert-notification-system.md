@@ -28,7 +28,7 @@ Following are descriptions of the key components of the alert notification syste
 ### Senders
 
 - Anywhere access: Notification senders can choose the entry-point to use:
-    
+
   - Skype for Business 2015
   - Federated users and Skype
   - PSTN/cell phone (traditional) or SIP phones through an IP-PBX or gateway (add link to supported gateways)
@@ -36,7 +36,7 @@ Following are descriptions of the key components of the alert notification syste
 ### Recipients
 
 - Hunt until found/simul-ring.
-    
+
   - Applications can ring/IM a target periodically until it replies positively.
   - Applications can ring a user at many endpoints, based on presence information or the Unified Contact Store.
 
@@ -56,37 +56,36 @@ Following are descriptions of the key components of the alert notification syste
 
 The general call flow typical of an alert notification system application is as follows:
 
-1.  An alert (new outbound notification) is sent to the UCMA application, coming as either voice or instant message from a user or from an automated data source.
+1. An alert (new outbound notification) is sent to the UCMA application, coming as either voice or instant message from a user or from an automated data source.
 
-2.  The UCMA application sends the notification to all targets, including those on phones, outside the corporation, and on the Skype network.
+2. The UCMA application sends the notification to all targets, including those on phones, outside the corporation, and on the Skype network.
 
-3.  The UCMA application can log an entry to indicate that a message is successfully delivered, with the option to failover to other contacts or contact means (for example, ringing a cellphone after ringing the desk phone). The contact information can be from the Contact Store, or given as part of the initiating alert.
+3. The UCMA application can log an entry to indicate that a message is successfully delivered, with the option to failover to other contacts or contact means (for example, ringing a cellphone after ringing the desk phone). The contact information can be from the Contact Store, or given as part of the initiating alert.
 
 ## Related features
 
 - UCMA-based IVR applications include the full power of Microsoft.Speech-based speech recognition, text-to-speech, and DTMF handling. A user can call a UCMA application, be connected to a custom IVR (which can be VoiceXML-based), provide his or her information to the IVR, and then be connected to streaming music-on-hold. Meanwhile, the information that the user provides is passed to the application, allowing the application to intelligently route the call, fetch information from external sources, and play customized messages to the user.
-    
+
   - The [Player](/dotnet/api/microsoft.rtc.collaboration.audiovideo.player), [Recorder](/dotnet/api/microsoft.rtc.collaboration.audiovideo.recorder), and [ToneController](/dotnet/api/microsoft.rtc.collaboration.audiovideo.tonecontroller) classes can be used to implement an IVR workflow that involves playing prerecorded prompts, handling DTMF tones, and recording audio.
-    
+
   - The [Browser](/dotnet/api/microsoft.rtc.collaboration.audiovideo.voicexml.browser) class can interpret VoiceXML code to implement workflow logic that involves TTS or speech recognition.
-    
+
   - The Connector objects (the [SpeechRecognitionConnector](/dotnet/api/microsoft.rtc.collaboration.audiovideo.speechrecognitionconnector) and [SpeechSynthesisConnector](/dotnet/api/microsoft.rtc.collaboration.audiovideo.speechsynthesisconnector) classes) can be used to implement an application that involves TTS or speech recognition.
   
   - Recording and Music on Hold: UCMA applications can play audio content to the caller on demand, record the audio portion of a call, and play music-on-hold to users while waiting for the IVR to perform background tasks.
 
 - IM and page-mode instant messaging
-    
+
   UCMA applications can notify a user of an alert by page-mode messages, which are best-effort, or by full IM conversation if confirmation of user receipt is required.
 
 - PIC
-    
+
   Using Microsoft SIP Processing Language (MSPL) and UCMA, an application can reach out to public internet cloud (PIC) contacts, and be contacted by PIC users for receiving or sending notifications.
 
 - Recording and playback
-    
+
   UCMA applications can record the audio portion of a call for later review, play audio content to the target on demand, and play prerecorded prompts as part of an IVR/voice UI.
 
 - Simul-ring
-    
-  A UCMA application can contact all members of a group simultaneously, and then communicate only with the first one who replies.
 
+  A UCMA application can contact all members of a group simultaneously, and then communicate only with the first one who replies.
